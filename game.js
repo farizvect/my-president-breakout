@@ -1,4 +1,5 @@
-// mY President — IDX Breakout. Vanilla canvas, no deps.
+// Pidato Presiden — Simulator IHSG. Vanilla canvas, no deps.
+// Bola = pernyataan. Paddle = podium. Brick = emiten. Indeks cuma bisa turun.
 'use strict';
 
 const TICKERS = [
@@ -9,17 +10,35 @@ const TICKERS = [
   'BUKA','GOTO','EMTK','SCMA','MNCN','PWON','CTRA','BSDE','SMRA','WIKA',
 ];
 
+// Kalimat yang muncul tiap satu emiten kena. Rakyat tenang, indeks tidak.
+const QUOTES = [
+  'Fundamental kita kuat.',
+  'Ini hanya koreksi teknikal.',
+  'Investor tidak perlu khawatir.',
+  'Pertumbuhan kita di atas rata-rata dunia.',
+  'Ekonomi kita resilient.',
+  'Semua sudah sesuai kajian.',
+  'Angka-angka ini bersifat sementara.',
+  'Kami sedang mengkaji.',
+  'Ini bagian dari transformasi.',
+  'Dunia sedang tidak baik-baik saja.',
+  'Tidak ada yang perlu dipanikkan.',
+  'Justru ini momentum yang tepat.',
+];
+
 const W = 880, H = 620;
 const COLS = 10, ROWS = 5;
-const PAD_X = 24, TOP = 70, CELL_W = (W - PAD_X * 2) / COLS, CELL_H = 52;
+const PAD_X = 24, TOP = 78, CELL_W = (W - PAD_X * 2) / COLS, CELL_H = 52;
 const BRICK_W = CELL_W - 8, BRICK_H = CELL_H - 10;
-const PADDLE_W = 132, PADDLE_H = 20, PADDLE_Y = H - 46;
+const PADDLE_W = 168, PADDLE_H = 22, PADDLE_Y = H - 46;
 const BALL_R = 6, BASE_SPEED = 6.2, MAX_SPEED = 12;
+const IHSG_OPEN = 7000;
 
 const cv = document.getElementById('c');
 const ctx = cv.getContext('2d');
 const el = {
   score: document.getElementById('score'),
+  delta: document.getElementById('delta'),
   lives: document.getElementById('lives'),
   cleared: document.getElementById('cleared'),
   overlay: document.getElementById('overlay'),
@@ -35,7 +54,7 @@ const images = TICKERS.map((t) => {
   return img;
 });
 
-let bricks, paddleX, ball, score, lives, running, launched, paused, over;
+let bricks, paddleX, ball, ihsg, lives, running, launched, paused, quote, quoteAt;
 const keys = { left: false, right: false };
 
 function reset(full) {
@@ -46,7 +65,7 @@ function reset(full) {
     y: TOP + Math.floor(i / COLS) * CELL_H,
     alive: true,
   }));
-  if (full) { score = 0; lives = 3; over = false; }
+  if (full) { ihsg = IHSG_OPEN; lives = 3; quote = ''; quoteAt = 0; }
   resetBall();
 }
 
@@ -65,7 +84,10 @@ function launch() {
 }
 
 function hud() {
-  el.score.textContent = String(score).padStart(5, '0');
+  const pct = ((ihsg - IHSG_OPEN) / IHSG_OPEN) * 100;
+  el.score.textContent = ihsg.toFixed(2);
+  el.delta.textContent = `${pct <= 0 ? '' : '+'}${pct.toFixed(2)}%`;
+  el.delta.className = pct < 0 ? 'down' : '';
   el.lives.textContent = '●'.repeat(Math.max(lives, 0)).padEnd(3, '○');
   el.cleared.textContent = `${bricks.filter((b) => !b.alive).length}/${bricks.length}`;
 }
@@ -95,7 +117,7 @@ function step() {
   if (ball.x > W - BALL_R) { ball.x = W - BALL_R; ball.vx = -Math.abs(ball.vx); }
   if (ball.y < BALL_R) { ball.y = BALL_R; ball.vy = Math.abs(ball.vy); }
 
-  // paddle
+  // podium
   if (ball.vy > 0 && ball.y + BALL_R >= PADDLE_Y && ball.y - BALL_R <= PADDLE_Y + PADDLE_H
       && ball.x >= paddleX - BALL_R && ball.x <= paddleX + PADDLE_W + BALL_R) {
     const hit = (ball.x - (paddleX + PADDLE_W / 2)) / (PADDLE_W / 2); // -1..1
@@ -106,7 +128,7 @@ function step() {
     ball.y = PADDLE_Y - BALL_R - 1;
   }
 
-  // bricks — resolve on the shallower overlap axis
+  // emiten — resolve on the shallower overlap axis
   for (const b of bricks) {
     if (!b.alive) continue;
     if (ball.x + BALL_R < b.x || ball.x - BALL_R > b.x + BRICK_W
@@ -116,15 +138,17 @@ function step() {
     if (ox < oy) ball.vx = ball.x < b.x + BRICK_W / 2 ? -Math.abs(ball.vx) : Math.abs(ball.vx);
     else ball.vy = ball.y < b.y + BRICK_H / 2 ? -Math.abs(ball.vy) : Math.abs(ball.vy);
     b.alive = false;
-    score += 100 + (ROWS - 1 - Math.floor((b.y - TOP) / CELL_H)) * 20;
+    // blue chip di baris bawah bobotnya lebih berat
+    ihsg -= 12 + (ROWS - 1 - Math.floor((b.y - TOP) / CELL_H)) * 6;
+    quote = QUOTES[Math.floor(Math.random() * QUOTES.length)];
+    quoteAt = performance.now();
     hud();
     break;
   }
 
   if (bricks.every((b) => !b.alive)) {
     running = false;
-    overlay('IHSG bersih', `ARA. Semua 50 emiten kelar. Skor ${score}.`, 'MAIN LAGI');
-    over = true;
+    overlay('Pidato selesai', `Semua 50 emiten kena ARB. IHSG ditutup di ${ihsg.toFixed(2)}. Terima kasih atas arahannya.`, 'PIDATO LAGI');
     return;
   }
 
@@ -132,8 +156,9 @@ function step() {
     lives -= 1;
     hud();
     if (lives <= 0) {
-      running = false; over = true;
-      overlay('ARB', `Auto reject bawah. Skor akhir ${score}.`, 'ULANGI');
+      running = false;
+      const saved = bricks.filter((b) => b.alive).length;
+      overlay('Mikrofon mati', `${saved} emiten selamat karena pidatonya keburu habis. IHSG ${ihsg.toFixed(2)}.`, 'ULANGI');
     } else {
       resetBall();
     }
@@ -142,6 +167,15 @@ function step() {
 
 function draw() {
   ctx.clearRect(0, 0, W, H);
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+
+  // kutipan terakhir
+  if (quote && performance.now() - quoteAt < 2200) {
+    ctx.fillStyle = '#4a4a4a';
+    ctx.font = 'italic 13px ui-monospace, monospace';
+    ctx.fillText(`" ${quote} "`, W / 2, 34);
+  }
 
   for (const b of bricks) {
     if (!b.alive) continue;
@@ -157,20 +191,16 @@ function draw() {
     } else {
       ctx.fillStyle = '#888';
       ctx.font = '600 12px ui-monospace, monospace';
-      ctx.textAlign = 'center';
-      ctx.textBaseline = 'middle';
       ctx.fillText(b.t, b.x + BRICK_W / 2, b.y + BRICK_H / 2);
     }
   }
 
-  // paddle = wordmark
+  // podium = wordmark
   ctx.fillStyle = '#e8e8e8';
   ctx.fillRect(paddleX, PADDLE_Y, PADDLE_W, PADDLE_H);
   ctx.fillStyle = '#000';
   ctx.font = '700 13px ui-monospace, SFMono-Regular, Menlo, monospace';
-  ctx.textAlign = 'center';
-  ctx.textBaseline = 'middle';
-  ctx.fillText('mY President', paddleX + PADDLE_W / 2, PADDLE_Y + PADDLE_H / 2 + 1);
+  ctx.fillText('Pidato Presiden', paddleX + PADDLE_W / 2, PADDLE_Y + PADDLE_H / 2 + 1);
 
   ctx.beginPath();
   ctx.arc(ball.x, ball.y, BALL_R, 0, Math.PI * 2);
@@ -180,14 +210,14 @@ function draw() {
   if (running && !launched && !paused) {
     ctx.fillStyle = '#666';
     ctx.font = '12px ui-monospace, monospace';
-    ctx.fillText('SPACE / tap untuk launch', W / 2, PADDLE_Y - 34);
+    ctx.fillText('SPACE / tap untuk mulai bicara', W / 2, PADDLE_Y - 34);
   }
   if (paused) {
     ctx.fillStyle = 'rgba(0,0,0,.7)';
     ctx.fillRect(0, 0, W, H);
     ctx.fillStyle = '#e8e8e8';
     ctx.font = '600 16px ui-monospace, monospace';
-    ctx.fillText('PAUSED', W / 2, H / 2);
+    ctx.fillText('JEDA — bursa menarik napas', W / 2, H / 2);
   }
 }
 
@@ -231,5 +261,5 @@ cv.addEventListener('pointerdown', (e) => {
 
 reset(true);
 hud();
-overlay('mY President', 'Pantulkan bola, hancurkan semua emiten.', 'START');
+overlay('Pidato Presiden', 'Pantulkan setiap kalimat ke arah emiten. Tenang, indeksnya yang menyesuaikan.', 'MULAI PIDATO');
 loop();
