@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>mY President — IDX Breakout</title>
+<meta name="description" content="Breakout dengan brick logo saham Indonesia. Paddle: mY President.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🧱</text></svg>">
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: #000; color: #e8e8e8;
+    font: 13px/1.5 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  body { display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 14px 12px 24px; }
+  a { color: #e8e8e8; }
+  header { width: 100%; max-width: 880px; }
+  h1 { font-size: 13px; font-weight: 600; margin: 0; letter-spacing: .06em; text-transform: uppercase; }
+  .sub { color: #777; margin-top: 2px; }
+  hr { width: 100%; max-width: 880px; border: 0; border-top: 1px solid #262626; margin: 0; }
+  #hud { width: 100%; max-width: 880px; display: flex; gap: 22px; flex-wrap: wrap; color: #777; }
+  #hud b { color: #e8e8e8; font-weight: 600; }
+  #stage { position: relative; width: 100%; max-width: 880px; }
+  canvas { display: block; width: 100%; height: auto; background: #060606; border: 1px solid #262626; touch-action: none; }
+  #overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center;
+    justify-content: center; gap: 12px; background: rgba(0,0,0,.82); text-align: center; padding: 20px; }
+  #overlay[hidden] { display: none; }
+  #otitle { font-size: 18px; letter-spacing: .08em; text-transform: uppercase; }
+  #omsg { color: #999; max-width: 46ch; }
+  button { font: inherit; color: #000; background: #e8e8e8; border: 0; padding: 8px 18px; cursor: pointer; letter-spacing: .06em; }
+  button:hover { background: #fff; }
+  footer { width: 100%; max-width: 880px; color: #555; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  kbd { border: 1px solid #333; padding: 0 5px; color: #aaa; }
+</style>
+</head>
+<body>
+<header>
+  <h1>mY President — IDX Breakout</h1>
+  <div class="sub">50 brick logo emiten Bursa Efek Indonesia. Paddle-nya presiden.</div>
+</header>
+<hr>
+<div id="hud">
+  <span>SCORE <b id="score">00000</b></span>
+  <span>LIVES <b id="lives">●●●</b></span>
+  <span>CLEARED <b id="cleared">0/50</b></span>
+</div>
+<div id="stage">
+  <canvas id="c" width="880" height="620"></canvas>
+  <div id="overlay">
+    <div id="otitle">mY President</div>
+    <div id="omsg">Pantulkan bola, hancurkan semua emiten.</div>
+    <button id="start">START</button>
+  </div>
+</div>
+<hr>
+<footer>
+  <span><kbd>←</kbd> <kbd>→</kbd> gerak &middot; <kbd>Space</kbd> launch &middot; <kbd>P</kbd> pause &middot; mouse/touch juga bisa</span>
+  <span>Logo milik masing-masing emiten.</span>
+</footer>
+<script src="game.js"></script>
+</body>
+</html>
