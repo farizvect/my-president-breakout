@@ -1,60 +1,62 @@
-# Pidato Presiden — Simulator IHSG
+# Presidential Speech — IHSG Simulator
 
-> Beliau naik podium. Bursa mulai berkeringat.
+> He takes the podium. The market starts sweating.
 
-Breakout satir. **Paddle-nya podium bertuliskan `Pidato Presiden`**, bricknya
-**50 emiten Bursa Efek Indonesia**, dan bolanya adalah pernyataan.
+A browser-based Breakout satire built with 50 Indonesian Stock Exchange logos.
+The paddle reads **Presidential Speech**; every brick hit pushes the simulated
+IHSG lower.
 
-Setiap kalimat yang mendarat bikin satu emiten kena ARB dan IHSG turun.
-Tidak ada mekanik untuk menaikkan indeks. Memang tidak disediakan — itu
-premisnya, dan `check.mjs` menegakkannya sebagai invariant.
+Inspired by [Open Weights Breakout](https://huggingface.co/spaces/burtenshaw/open-weights-breakout)
+by burtenshaw.
 
-Terinspirasi [Open Weights Breakout](https://huggingface.co/spaces/burtenshaw/open-weights-breakout)
-oleh burtenshaw.
+## Run
 
-## Main
-
-```
-python3 -m http.server 8080   # atau server statis apa pun
-# buka http://localhost:8080
+```sh
+python3 -m http.server 8080
+# open http://localhost:8080
 ```
 
-Kontrol: `←` `→` geser podium · `Space` mulai bicara · `P` jeda · mouse/touch jalan.
+Controls: `←` `→` move · `Space` launch · `P` pause · mouse/touch supported.
 
-## Aturan
+## Power-ups
 
-| elemen | artinya |
-|--------|---------|
-| bola | pernyataan |
-| paddle | podium |
-| brick | emiten IDX |
-| brick pecah | ARB, IHSG turun |
-| baris bawah | blue chip, bobot turunnya lebih berat |
-| bola jatuh | mikrofon mati, bursa dapat napas |
-| nyawa habis | sisa emiten selamat karena pidatonya keburu habis |
+Destroyed bricks have a chance to drop a stock-logo power-up:
 
-IHSG buka di 7000.00. Clear sheet = 5200.00. Tidak ada jalan lain.
+| Logo | Effect |
+|------|--------|
+| BNBR | Wide paddle |
+| BUMI | Slow ball |
+| BRMS | Wide paddle |
+| PTPP | Slow ball |
+| WSKT | Wide paddle |
 
-## Emiten
+The wider paddle lasts ten seconds. Slow-ball drops reduce velocity immediately
+without allowing the game to stall below its minimum playable speed.
 
-BBCA BBRI BMRI BBNI TLKM ASII UNVR ICBP INDF HMSP GGRM KLBF ANTM ADRO PTBA
-INCO MDKA AMRT UNTR SMGR INTP CPIN JPFA MYOR SIDO TOWR EXCL ISAT MEDC PGAS
-AKRA BRPT TPIA ESSA MAPI ACES ERAA BRIS BTPS ARTO BUKA GOTO EMTK SCMA MNCN
-PWON CTRA BSDE SMRA WIKA
+## Physics
+
+- Fixed 120 Hz simulation independent of display frame rate
+- Circle-vs-rectangle collision detection
+- Previous-position collision resolution to reduce tunneling and sticky bricks
+- Paddle angle based on impact point
+- Gradual speed increase with enforced minimum and maximum velocity
+- Ball trail, impact particles and restrained screen shake
+
+## Test
+
+```sh
+node --test tests/*.test.mjs
+node check.mjs
+```
+
+`game-core.mjs` is DOM-free and unit-tested. `check.mjs` verifies the 50-brick
+grid, five power-up logos, layout bounds, quote pool, and the invariant that
+the simulated IHSG never rises.
 
 ## Stack
 
-Vanilla HTML + canvas + satu file JS. Tanpa dependensi, tanpa build step.
+Vanilla HTML, Canvas and JavaScript modules. No dependencies and no build step.
 
-- `index.html` — shell, HUD indeks, catatan kaki
-- `game.js` — game loop, fisika, render, kutipan
-- `check.mjs` — self-check (`node check.mjs`): logo lengkap, grid tidak menabrak
-  podium, dan IHSG tidak pernah naik
-- `logos/` — 50 PNG
-
-## Catatan
-
-Satir, bukan saran investasi. Korelasi pidato dan indeks di sini dilebih-lebihkan
-untuk keperluan komedi. Logo dan merek dagang milik masing-masing emiten;
-kemunculannya di sini bukan endorsement dan bukan pernyataan tentang kinerja
-perusahaan mana pun.
+Satire, not investment advice. Correlation between speeches and index movements
+is exaggerated for comedy. Logos and trademarks belong to their respective
+owners; inclusion is not an endorsement or a statement about any company.

@@ -1,6 +1,10 @@
-// Pidato Presiden — Simulator IHSG. Vanilla canvas, no deps.
-// Bola = pernyataan. Paddle = podium. Brick = emiten. Indeks cuma bisa turun.
-'use strict';
+import {
+  circleHitsRect,
+  reflectFromPaddle,
+  clampBallSpeed,
+  applyPowerUp,
+  advancePowerUps,
+} from './game-core.mjs';
 
 const TICKERS = [
   'BBCA','BBRI','BMRI','BBNI','TLKM','ASII','UNVR','ICBP','INDF','HMSP',
@@ -10,29 +14,38 @@ const TICKERS = [
   'BUKA','GOTO','EMTK','SCMA','MNCN','PWON','CTRA','BSDE','SMRA','WIKA',
 ];
 
-// Kalimat yang muncul tiap satu emiten kena. Rakyat tenang, indeks tidak.
 const QUOTES = [
-  'Fundamental kita kuat.',
-  'Ini hanya koreksi teknikal.',
-  'Investor tidak perlu khawatir.',
-  'Pertumbuhan kita di atas rata-rata dunia.',
-  'Ekonomi kita resilient.',
-  'Semua sudah sesuai kajian.',
-  'Angka-angka ini bersifat sementara.',
-  'Kami sedang mengkaji.',
-  'Ini bagian dari transformasi.',
-  'Dunia sedang tidak baik-baik saja.',
-  'Tidak ada yang perlu dipanikkan.',
-  'Justru ini momentum yang tepat.',
+  'Our fundamentals remain strong.',
+  'This is only a technical correction.',
+  'Investors should remain calm.',
+  'Growth remains above the global average.',
+  'The economy is resilient.',
+  'Everything has been thoroughly assessed.',
+  'These numbers are temporary.',
+  'We are currently reviewing the situation.',
+  'This is part of the transformation.',
+  'The world is facing uncertainty.',
+  'There is no reason to panic.',
+  'This is precisely the right momentum.',
+];
+
+// The "index saviors": Bakrie group, PP and Waskita appear as collectible drops.
+const POWER_UPS = [
+  { ticker: 'BNBR', type: 'wide', label: 'WIDE PODIUM' },
+  { ticker: 'BUMI', type: 'slow', label: 'SLOW SPEECH' },
+  { ticker: 'BRMS', type: 'wide', label: 'WIDE PODIUM' },
+  { ticker: 'PTPP', type: 'slow', label: 'SLOW SPEECH' },
+  { ticker: 'WSKT', type: 'wide', label: 'WIDE PODIUM' },
 ];
 
 const W = 880, H = 620;
 const COLS = 10, ROWS = 5;
 const PAD_X = 24, TOP = 78, CELL_W = (W - PAD_X * 2) / COLS, CELL_H = 52;
 const BRICK_W = CELL_W - 8, BRICK_H = CELL_H - 10;
-const PADDLE_W = 168, PADDLE_H = 22, PADDLE_Y = H - 46;
-const BALL_R = 6, BASE_SPEED = 6.2, MAX_SPEED = 12;
+const BASE_PADDLE_W = 168, PADDLE_H = 22, PADDLE_Y = H - 46;
+const BALL_R = 6, BASE_SPEED = 380, MIN_SPEED = 250, MAX_SPEED = 720;
 const IHSG_OPEN = 7000;
+const FIXED_STEP = 1 / 120;
 
 const cv = document.getElementById('c');
 const ctx = cv.getContext('2d');
@@ -41,225 +54,372 @@ const el = {
   delta: document.getElementById('delta'),
   lives: document.getElementById('lives'),
   cleared: document.getElementById('cleared'),
+  power: document.getElementById('power'),
   overlay: document.getElementById('overlay'),
   otitle: document.getElementById('otitle'),
   omsg: document.getElementById('omsg'),
   start: document.getElementById('start'),
 };
 
-// ponytail: logos loaded as plain <img>, no sprite atlas. Add atlas when 50 -> 200+ bricks.
-const images = TICKERS.map((t) => {
+const imageFor = (ticker) => {
   const img = new Image();
-  img.src = `logos/${t}.png`;
+  img.src = `logos/${ticker}.png`;
   return img;
-});
+};
+const images = Object.fromEntries([...TICKERS, ...POWER_UPS.map((p) => p.ticker)]
+  .map((ticker) => [ticker, imageFor(ticker)]));
 
-let bricks, paddleX, ball, ihsg, lives, running, launched, paused, quote, quoteAt;
+const state = {
+  ball: { x: W / 2, y: 0, vx: 0, vy: 0 },
+  basePaddleWidth: BASE_PADDLE_W,
+  paddleWidth: BASE_PADDLE_W,
+  effectUntil: 0,
+};
+let bricks, paddleX, ihsg, lives, running, launched, paused, quote, quoteAt;
+let drops = [], particles = [], trail = [], shake = 0, dropCursor = 0;
+let lastTime = 0, accumulator = 0;
 const keys = { left: false, right: false };
 
 function reset(full) {
-  bricks = TICKERS.map((t, i) => ({
-    t,
-    img: images[i],
+  bricks = TICKERS.map((ticker, i) => ({
+    ticker,
     x: PAD_X + (i % COLS) * CELL_W + (CELL_W - BRICK_W) / 2,
     y: TOP + Math.floor(i / COLS) * CELL_H,
     alive: true,
   }));
-  if (full) { ihsg = IHSG_OPEN; lives = 3; quote = ''; quoteAt = 0; }
+  if (full) {
+    ihsg = IHSG_OPEN;
+    lives = 3;
+    quote = '';
+    quoteAt = 0;
+    drops = [];
+    particles = [];
+    trail = [];
+    state.paddleWidth = BASE_PADDLE_W;
+    state.effectUntil = 0;
+  }
   resetBall();
 }
 
 function resetBall() {
-  paddleX = (W - PADDLE_W) / 2;
-  ball = { x: W / 2, y: PADDLE_Y - BALL_R - 2, vx: 0, vy: 0 };
+  paddleX = (W - state.paddleWidth) / 2;
+  Object.assign(state.ball, { x: W / 2, y: PADDLE_Y - BALL_R - 2, vx: 0, vy: 0 });
+  trail = [];
   launched = false;
 }
 
 function launch() {
   if (launched || !running || paused) return;
-  const dir = Math.random() < 0.5 ? -1 : 1;
-  ball.vx = dir * BASE_SPEED * 0.55;
-  ball.vy = -BASE_SPEED * 0.83;
+  const angle = (Math.random() * 0.5 - 0.25) + (Math.random() < 0.5 ? -0.42 : 0.42);
+  state.ball.vx = Math.sin(angle) * BASE_SPEED;
+  state.ball.vy = -Math.abs(Math.cos(angle) * BASE_SPEED);
   launched = true;
 }
 
-function hud() {
+function hud(now = performance.now()) {
   const pct = ((ihsg - IHSG_OPEN) / IHSG_OPEN) * 100;
   el.score.textContent = ihsg.toFixed(2);
-  el.delta.textContent = `${pct <= 0 ? '' : '+'}${pct.toFixed(2)}%`;
+  el.delta.textContent = `${pct.toFixed(2)}%`;
   el.delta.className = pct < 0 ? 'down' : '';
   el.lives.textContent = '●'.repeat(Math.max(lives, 0)).padEnd(3, '○');
   el.cleared.textContent = `${bricks.filter((b) => !b.alive).length}/${bricks.length}`;
+  if (state.effectUntil > now) {
+    el.power.textContent = `WIDE ${Math.ceil((state.effectUntil - now) / 1000)}s`;
+    el.power.className = 'active';
+  } else {
+    el.power.textContent = '—';
+    el.power.className = '';
+  }
 }
 
-function overlay(title, msg, btn) {
+function overlay(title, msg, button) {
   el.otitle.textContent = title;
   el.omsg.textContent = msg;
-  el.start.textContent = btn;
+  el.start.textContent = button;
   el.overlay.hidden = false;
 }
 
-function step() {
-  if (keys.left) paddleX -= 9;
-  if (keys.right) paddleX += 9;
-  paddleX = Math.max(0, Math.min(W - PADDLE_W, paddleX));
+function spawnParticles(x, y) {
+  for (let i = 0; i < 8; i += 1) {
+    const angle = Math.random() * Math.PI * 2;
+    const speed = 45 + Math.random() * 100;
+    particles.push({ x, y, vx: Math.cos(angle) * speed, vy: Math.sin(angle) * speed,
+      life: 0.45 + Math.random() * 0.25 });
+  }
+}
+
+function maybeDrop(brick) {
+  if (Math.random() > 0.28) return;
+  const spec = POWER_UPS[dropCursor % POWER_UPS.length];
+  dropCursor += 1;
+  drops.push({ ...spec, x: brick.x + BRICK_W / 2, y: brick.y + BRICK_H / 2,
+    vy: 125, size: 34, spin: 0 });
+}
+
+function resolveBrickCollision(brick, previous) {
+  const ball = state.ball;
+  const cameFromLeft = previous.x + BALL_R <= brick.x;
+  const cameFromRight = previous.x - BALL_R >= brick.x + BRICK_W;
+  const cameFromTop = previous.y + BALL_R <= brick.y;
+  const cameFromBottom = previous.y - BALL_R >= brick.y + BRICK_H;
+
+  if (cameFromLeft) { ball.x = brick.x - BALL_R; ball.vx = -Math.abs(ball.vx); }
+  else if (cameFromRight) { ball.x = brick.x + BRICK_W + BALL_R; ball.vx = Math.abs(ball.vx); }
+  else if (cameFromTop) { ball.y = brick.y - BALL_R; ball.vy = -Math.abs(ball.vy); }
+  else if (cameFromBottom) { ball.y = brick.y + BRICK_H + BALL_R; ball.vy = Math.abs(ball.vy); }
+  else {
+    const dx = ball.x - (brick.x + BRICK_W / 2);
+    const dy = ball.y - (brick.y + BRICK_H / 2);
+    if (Math.abs(dx / BRICK_W) > Math.abs(dy / BRICK_H)) ball.vx *= -1;
+    else ball.vy *= -1;
+  }
+}
+
+function updateDrops(dt, now) {
+  const paddle = { x: paddleX, y: PADDLE_Y, w: state.paddleWidth, h: PADDLE_H };
+  for (const drop of drops) {
+    drop.y += drop.vy * dt;
+    drop.spin += dt * 2;
+    if (circleHitsRect({ x: drop.x, y: drop.y, r: drop.size / 2 }, paddle)) {
+      applyPowerUp(state, drop, now);
+      paddleX = Math.max(0, Math.min(W - state.paddleWidth,
+        paddleX - (state.paddleWidth - paddle.w) / 2));
+      quote = `${drop.ticker}: ${drop.label}`;
+      quoteAt = now;
+      spawnParticles(drop.x, drop.y);
+      drop.caught = true;
+      hud(now);
+    }
+  }
+  drops = drops.filter((drop) => !drop.caught && drop.y - drop.size < H);
+}
+
+function updateParticles(dt) {
+  for (const p of particles) {
+    p.x += p.vx * dt;
+    p.y += p.vy * dt;
+    p.vy += 180 * dt;
+    p.life -= dt;
+  }
+  particles = particles.filter((p) => p.life > 0);
+}
+
+function step(dt, now) {
+  advancePowerUps(state, now);
+  const movement = 520 * dt;
+  if (keys.left) paddleX -= movement;
+  if (keys.right) paddleX += movement;
+  paddleX = Math.max(0, Math.min(W - state.paddleWidth, paddleX));
+
+  updateDrops(dt, now);
+  updateParticles(dt);
 
   if (!launched) {
-    ball.x = paddleX + PADDLE_W / 2;
-    ball.y = PADDLE_Y - BALL_R - 2;
+    state.ball.x = paddleX + state.paddleWidth / 2;
+    state.ball.y = PADDLE_Y - BALL_R - 2;
+    hud(now);
     return;
   }
 
-  ball.x += ball.vx;
-  ball.y += ball.vy;
+  const ball = state.ball;
+  const previous = { x: ball.x, y: ball.y };
+  ball.x += ball.vx * dt;
+  ball.y += ball.vy * dt;
 
-  if (ball.x < BALL_R) { ball.x = BALL_R; ball.vx = Math.abs(ball.vx); }
-  if (ball.x > W - BALL_R) { ball.x = W - BALL_R; ball.vx = -Math.abs(ball.vx); }
-  if (ball.y < BALL_R) { ball.y = BALL_R; ball.vy = Math.abs(ball.vy); }
+  if (ball.x < BALL_R) { ball.x = BALL_R; ball.vx = Math.abs(ball.vx); shake = 2; }
+  if (ball.x > W - BALL_R) { ball.x = W - BALL_R; ball.vx = -Math.abs(ball.vx); shake = 2; }
+  if (ball.y < BALL_R) { ball.y = BALL_R; ball.vy = Math.abs(ball.vy); shake = 2; }
 
-  // podium
-  if (ball.vy > 0 && ball.y + BALL_R >= PADDLE_Y && ball.y - BALL_R <= PADDLE_Y + PADDLE_H
-      && ball.x >= paddleX - BALL_R && ball.x <= paddleX + PADDLE_W + BALL_R) {
-    const hit = (ball.x - (paddleX + PADDLE_W / 2)) / (PADDLE_W / 2); // -1..1
-    const angle = hit * (Math.PI / 3); // max 60deg
-    const speed = Math.min(Math.hypot(ball.vx, ball.vy) * 1.015, MAX_SPEED);
-    ball.vx = Math.sin(angle) * speed;
-    ball.vy = -Math.abs(Math.cos(angle) * speed);
-    ball.y = PADDLE_Y - BALL_R - 1;
+  const paddle = { x: paddleX, y: PADDLE_Y, w: state.paddleWidth, h: PADDLE_H };
+  if (ball.vy > 0 && circleHitsRect({ x: ball.x, y: ball.y, r: BALL_R }, paddle)) {
+    const speed = Math.min(Math.hypot(ball.vx, ball.vy) * 1.035, MAX_SPEED);
+    Object.assign(ball, reflectFromPaddle(ball, paddle, speed));
+    ball.y = PADDLE_Y - BALL_R - 0.5;
+    shake = 2.5;
   }
 
-  // emiten — resolve on the shallower overlap axis
-  for (const b of bricks) {
-    if (!b.alive) continue;
-    if (ball.x + BALL_R < b.x || ball.x - BALL_R > b.x + BRICK_W
-        || ball.y + BALL_R < b.y || ball.y - BALL_R > b.y + BRICK_H) continue;
-    const ox = Math.min(ball.x + BALL_R - b.x, b.x + BRICK_W - (ball.x - BALL_R));
-    const oy = Math.min(ball.y + BALL_R - b.y, b.y + BRICK_H - (ball.y - BALL_R));
-    if (ox < oy) ball.vx = ball.x < b.x + BRICK_W / 2 ? -Math.abs(ball.vx) : Math.abs(ball.vx);
-    else ball.vy = ball.y < b.y + BRICK_H / 2 ? -Math.abs(ball.vy) : Math.abs(ball.vy);
-    b.alive = false;
-    // blue chip di baris bawah bobotnya lebih berat
-    ihsg -= 12 + (ROWS - 1 - Math.floor((b.y - TOP) / CELL_H)) * 6;
+  for (const brick of bricks) {
+    if (!brick.alive || !circleHitsRect({ x: ball.x, y: ball.y, r: BALL_R },
+      { x: brick.x, y: brick.y, w: BRICK_W, h: BRICK_H })) continue;
+    resolveBrickCollision(brick, previous);
+    brick.alive = false;
+    ihsg -= 12 + (ROWS - 1 - Math.floor((brick.y - TOP) / CELL_H)) * 6;
     quote = QUOTES[Math.floor(Math.random() * QUOTES.length)];
-    quoteAt = performance.now();
-    hud();
+    quoteAt = now;
+    maybeDrop(brick);
+    spawnParticles(brick.x + BRICK_W / 2, brick.y + BRICK_H / 2);
+    shake = 4;
+    const safe = clampBallSpeed(ball, MIN_SPEED, MAX_SPEED);
+    ball.vx = safe.vx;
+    ball.vy = safe.vy;
+    hud(now);
     break;
   }
 
-  if (bricks.every((b) => !b.alive)) {
+  trail.unshift({ x: ball.x, y: ball.y });
+  if (trail.length > 8) trail.pop();
+
+  if (bricks.every((brick) => !brick.alive)) {
     running = false;
-    overlay('Pidato selesai', `Semua 50 emiten kena ARB. IHSG ditutup di ${ihsg.toFixed(2)}. Terima kasih atas arahannya.`, 'PIDATO LAGI');
+    overlay('Speech concluded', `All 50 stocks hit limit-down. The index closed at ${ihsg.toFixed(2)}. Thank you for the guidance.`, 'SPEAK AGAIN');
     return;
   }
 
   if (ball.y - BALL_R > H) {
     lives -= 1;
-    hud();
+    hud(now);
     if (lives <= 0) {
       running = false;
-      const saved = bricks.filter((b) => b.alive).length;
-      overlay('Mikrofon mati', `${saved} emiten selamat karena pidatonya keburu habis. IHSG ${ihsg.toFixed(2)}.`, 'ULANGI');
-    } else {
-      resetBall();
-    }
+      const saved = bricks.filter((brick) => brick.alive).length;
+      overlay('Microphone disconnected', `${saved} stocks survived because the speech ended early. IHSG: ${ihsg.toFixed(2)}.`, 'TRY AGAIN');
+    } else resetBall();
   }
 }
 
-function draw() {
+function drawImageContained(img, x, y, w, h, padding = 5) {
+  if (!img.complete || !img.naturalWidth) return false;
+  const scale = Math.min((w - padding * 2) / img.naturalWidth, (h - padding * 2) / img.naturalHeight);
+  const dw = img.naturalWidth * scale;
+  const dh = img.naturalHeight * scale;
+  ctx.drawImage(img, x + (w - dw) / 2, y + (h - dh) / 2, dw, dh);
+  return true;
+}
+
+function draw(now) {
   ctx.clearRect(0, 0, W, H);
+  ctx.save();
+  if (shake > 0.1) {
+    ctx.translate((Math.random() - 0.5) * shake, (Math.random() - 0.5) * shake);
+    shake *= 0.84;
+  }
   ctx.textAlign = 'center';
   ctx.textBaseline = 'middle';
 
-  // kutipan terakhir
-  if (quote && performance.now() - quoteAt < 2200) {
-    ctx.fillStyle = '#4a4a4a';
+  if (quote && now - quoteAt < 2200) {
+    ctx.fillStyle = quote.includes(':') ? '#d8d8d8' : '#4a4a4a';
     ctx.font = 'italic 13px ui-monospace, monospace';
-    ctx.fillText(`" ${quote} "`, W / 2, 34);
+    ctx.fillText(`“ ${quote} ”`, W / 2, 34);
   }
 
-  for (const b of bricks) {
-    if (!b.alive) continue;
+  for (const brick of bricks) {
+    if (!brick.alive) continue;
     ctx.fillStyle = '#101010';
-    ctx.fillRect(b.x, b.y, BRICK_W, BRICK_H);
+    ctx.fillRect(brick.x, brick.y, BRICK_W, BRICK_H);
     ctx.strokeStyle = '#2a2a2a';
-    ctx.strokeRect(b.x + 0.5, b.y + 0.5, BRICK_W - 1, BRICK_H - 1);
-    if (b.img.complete && b.img.naturalWidth) {
-      const pad = 5;
-      const s = Math.min((BRICK_W - pad * 2) / b.img.naturalWidth, (BRICK_H - pad * 2) / b.img.naturalHeight);
-      const w = b.img.naturalWidth * s, h = b.img.naturalHeight * s;
-      ctx.drawImage(b.img, b.x + (BRICK_W - w) / 2, b.y + (BRICK_H - h) / 2, w, h);
-    } else {
+    ctx.strokeRect(brick.x + 0.5, brick.y + 0.5, BRICK_W - 1, BRICK_H - 1);
+    if (!drawImageContained(images[brick.ticker], brick.x, brick.y, BRICK_W, BRICK_H)) {
       ctx.fillStyle = '#888';
       ctx.font = '600 12px ui-monospace, monospace';
-      ctx.fillText(b.t, b.x + BRICK_W / 2, b.y + BRICK_H / 2);
+      ctx.fillText(brick.ticker, brick.x + BRICK_W / 2, brick.y + BRICK_H / 2);
     }
   }
 
-  // podium = wordmark
+  for (const drop of drops) {
+    const size = drop.size;
+    ctx.save();
+    ctx.translate(drop.x, drop.y);
+    ctx.rotate(Math.sin(drop.spin) * 0.08);
+    ctx.fillStyle = '#e8e8e8';
+    ctx.fillRect(-size / 2, -size / 2, size, size);
+    drawImageContained(images[drop.ticker], -size / 2, -size / 2, size, size, 3);
+    ctx.strokeStyle = '#fff';
+    ctx.strokeRect(-size / 2 + 0.5, -size / 2 + 0.5, size - 1, size - 1);
+    ctx.restore();
+    ctx.fillStyle = '#aaa';
+    ctx.font = '600 9px ui-monospace, monospace';
+    ctx.fillText(drop.ticker, drop.x, drop.y + size / 2 + 8);
+  }
+
+  for (let i = trail.length - 1; i >= 0; i -= 1) {
+    const alpha = (trail.length - i) / trail.length * 0.16;
+    ctx.beginPath();
+    ctx.arc(trail[i].x, trail[i].y, BALL_R * (1 - i / trail.length * 0.55), 0, Math.PI * 2);
+    ctx.fillStyle = `rgba(232,232,232,${alpha})`;
+    ctx.fill();
+  }
+
+  for (const p of particles) {
+    ctx.fillStyle = `rgba(232,232,232,${Math.min(1, p.life * 2)})`;
+    ctx.fillRect(p.x - 1.5, p.y - 1.5, 3, 3);
+  }
+
   ctx.fillStyle = '#e8e8e8';
-  ctx.fillRect(paddleX, PADDLE_Y, PADDLE_W, PADDLE_H);
+  ctx.fillRect(paddleX, PADDLE_Y, state.paddleWidth, PADDLE_H);
   ctx.fillStyle = '#000';
   ctx.font = '700 13px ui-monospace, SFMono-Regular, Menlo, monospace';
-  ctx.fillText('Pidato Presiden', paddleX + PADDLE_W / 2, PADDLE_Y + PADDLE_H / 2 + 1);
+  ctx.fillText('Presidential Speech', paddleX + state.paddleWidth / 2, PADDLE_Y + PADDLE_H / 2 + 1);
 
   ctx.beginPath();
-  ctx.arc(ball.x, ball.y, BALL_R, 0, Math.PI * 2);
-  ctx.fillStyle = '#e8e8e8';
+  ctx.arc(state.ball.x, state.ball.y, BALL_R, 0, Math.PI * 2);
+  ctx.fillStyle = '#fff';
   ctx.fill();
 
   if (running && !launched && !paused) {
     ctx.fillStyle = '#666';
     ctx.font = '12px ui-monospace, monospace';
-    ctx.fillText('SPACE / tap untuk mulai bicara', W / 2, PADDLE_Y - 34);
+    ctx.fillText('SPACE / tap to begin speaking', W / 2, PADDLE_Y - 34);
   }
   if (paused) {
-    ctx.fillStyle = 'rgba(0,0,0,.7)';
+    ctx.fillStyle = 'rgba(0,0,0,.72)';
     ctx.fillRect(0, 0, W, H);
     ctx.fillStyle = '#e8e8e8';
     ctx.font = '600 16px ui-monospace, monospace';
-    ctx.fillText('JEDA — bursa menarik napas', W / 2, H / 2);
+    ctx.fillText('PAUSED — the market catches its breath', W / 2, H / 2);
   }
+  ctx.restore();
 }
 
-function loop() {
-  if (running && !paused) step();
-  draw();
+function loop(now) {
+  if (!lastTime) lastTime = now;
+  const frameTime = Math.min((now - lastTime) / 1000, 0.05);
+  lastTime = now;
+  if (running && !paused) {
+    accumulator += frameTime;
+    while (accumulator >= FIXED_STEP) {
+      step(FIXED_STEP, now);
+      accumulator -= FIXED_STEP;
+    }
+  }
+  hud(now);
+  draw(now);
   requestAnimationFrame(loop);
 }
 
 function begin() {
   reset(true);
   hud();
-  running = true; paused = false;
+  running = true;
+  paused = false;
+  accumulator = 0;
   el.overlay.hidden = true;
 }
 
-// input
 el.start.addEventListener('click', begin);
-addEventListener('keydown', (e) => {
-  if (e.key === 'ArrowLeft') keys.left = true;
-  if (e.key === 'ArrowRight') keys.right = true;
-  if (e.code === 'Space') { e.preventDefault(); running ? launch() : begin(); }
-  if (e.key === 'p' || e.key === 'P') { if (running) paused = !paused; }
+addEventListener('keydown', (event) => {
+  if (event.key === 'ArrowLeft') keys.left = true;
+  if (event.key === 'ArrowRight') keys.right = true;
+  if (event.code === 'Space') { event.preventDefault(); running ? launch() : begin(); }
+  if (event.key === 'p' || event.key === 'P') { if (running) paused = !paused; }
 });
-addEventListener('keyup', (e) => {
-  if (e.key === 'ArrowLeft') keys.left = false;
-  if (e.key === 'ArrowRight') keys.right = false;
+addEventListener('keyup', (event) => {
+  if (event.key === 'ArrowLeft') keys.left = false;
+  if (event.key === 'ArrowRight') keys.right = false;
 });
 
 function pointTo(clientX) {
-  const r = cv.getBoundingClientRect();
-  paddleX = Math.max(0, Math.min(W - PADDLE_W, ((clientX - r.left) / r.width) * W - PADDLE_W / 2));
+  const rect = cv.getBoundingClientRect();
+  paddleX = Math.max(0, Math.min(W - state.paddleWidth,
+    ((clientX - rect.left) / rect.width) * W - state.paddleWidth / 2));
 }
-cv.addEventListener('pointermove', (e) => { if (running && !paused) pointTo(e.clientX); });
-cv.addEventListener('pointerdown', (e) => {
-  e.preventDefault();
+cv.addEventListener('pointermove', (event) => { if (running && !paused) pointTo(event.clientX); });
+cv.addEventListener('pointerdown', (event) => {
+  event.preventDefault();
   if (!running) { begin(); return; }
-  pointTo(e.clientX);
+  pointTo(event.clientX);
   launch();
 });
 
 reset(true);
 hud();
-overlay('Pidato Presiden', 'Pantulkan setiap kalimat ke arah emiten. Tenang, indeksnya yang menyesuaikan.', 'MULAI PIDATO');
-loop();
+overlay('Presidential Speech', 'Every statement moves the market. Usually in one direction.', 'BEGIN SPEECH');
+requestAnimationFrame(loop);
