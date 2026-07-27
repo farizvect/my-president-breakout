@@ -1,6 +1,7 @@
 // Self-check: node check.mjs
 // Verifies every ticker in game.js has a logo file and the brick grid fits the canvas.
 import { readFileSync, existsSync } from 'node:fs';
+import { SPEECH_QUOTE_TEXTS } from './speech-quotes.mjs';
 
 const src = readFileSync(new URL('./game.js', import.meta.url), 'utf8');
 const tickers = src.match(/const TICKERS = \[([\s\S]*?)\];/)[1].match(/'([A-Z]{4})'/g).map((s) => s.slice(1, -1));
@@ -23,8 +24,7 @@ const open = num('IHSG_OPEN');
 const worst = open - tickers.length * (12 + (ROWS - 1) * 6);
 if (worst <= 0) throw new Error(`IHSG bisa tembus nol (${worst})`);
 
-const quotes = src.match(/const QUOTES = \[([\s\S]*?)\];/)[1].match(/'[^']+'/g);
-if (quotes.length < 5) throw new Error('not enough speech quotes');
+if (SPEECH_QUOTE_TEXTS.length < 5) throw new Error('not enough speech quotes');
 
 console.log(`ok — ${tickers.length} bricks, all logos present, grid clears paddle by ${PADDLE_Y - (TOP + ROWS * CELL_H)}px, `
-  + `${quotes.length} quotes, IHSG ${open} -> minimum ${worst} (drop: ${drop.trim()})`);
+  + `${SPEECH_QUOTE_TEXTS.length} quotes, IHSG ${open} -> minimum ${worst} (drop: ${drop.trim()})`);

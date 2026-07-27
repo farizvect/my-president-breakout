@@ -27,7 +27,6 @@
     --canvas-bg: #080808; --canvas-brick: #111110; --canvas-brick-border: #30302d;
     --canvas-quote: #555550; --canvas-accent: #e9e9e6; --canvas-fallback: #92928d;
     --canvas-paddle: #e9e9e6; --canvas-paddle-text: #050505; --canvas-ball: #fff;
-    --canvas-pause: rgba(5,5,5,.76); --canvas-pause-text: #e9e9e6;
   }
   :root[data-theme="light"] {
     --bg: #f5f3ed; --surface: #ece9e1; --fg: #121210; --muted: #5f5c55; --faint: #777268;
@@ -38,7 +37,6 @@
     --canvas-bg: #ebe8df; --canvas-brick: #f8f6f0; --canvas-brick-border: #c8c2b6;
     --canvas-quote: #676259; --canvas-accent: #171715; --canvas-fallback: #676259;
     --canvas-paddle: #171715; --canvas-paddle-text: #f8f6f0; --canvas-ball: #111;
-    --canvas-pause: rgba(245,243,237,.82); --canvas-pause-text: #111;
   }
   * { box-sizing: border-box; }
   html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
@@ -50,7 +48,8 @@
   a:focus-visible, button:focus-visible, canvas:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
   .skip-link { position: fixed; top: 8px; left: 8px; z-index: 20; transform: translateY(-160%); background: var(--button-bg); color: var(--button-fg); padding: 8px 10px; }
   .skip-link:focus { transform: translateY(0); }
-  .site-header, .rule, #game, #market-terminal, .site-footer { width: 100%; max-width: 880px; }
+  .site-header, .rule, #market-terminal, .site-footer { width: 100%; max-width: 1280px; }
+  #game { width: 100%; max-width: 880px; }
   .site-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; }
   h1 { font-size: 14px; font-weight: 650; margin: 0; letter-spacing: .055em; text-transform: uppercase; }
   .sub { color: var(--muted); margin-top: 3px; }
@@ -68,14 +67,21 @@
   #stage { position: relative; }
   canvas { display: block; width: 100%; height: auto; background: var(--canvas-bg); border: 1px solid var(--rule); touch-action: none; transition: background-color .18s; }
   #overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px;
-    background: var(--overlay); color: var(--fg); text-align: center; padding: 22px; backdrop-filter: blur(2px); }
+    background: var(--overlay); color: var(--fg); text-align: center; padding: 22px; backdrop-filter: blur(2px); overflow-y: auto; }
   #overlay[hidden] { display: none; }
   #otitle { font-size: 19px; font-weight: 650; letter-spacing: .07em; text-transform: uppercase; }
   #omsg { color: var(--muted); max-width: 52ch; }
   #start { min-height: 40px; font: inherit; color: var(--button-fg); background: var(--button-bg); border: 1px solid var(--button-bg); padding: 8px 20px;
     cursor: pointer; letter-spacing: .06em; }
   #start:hover { background: var(--button-hover); border-color: var(--button-hover); }
+  .overlay-actions { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+  #result-summary { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); width: min(100%, 430px); border-block: 1px solid var(--rule); text-align: left; }
+  #result-summary[hidden], #share-result[hidden] { display: none; }
+  .result-line { padding: 6px 8px; color: var(--muted); }
+  .result-line:nth-child(even) { border-left: 1px solid var(--rule); }
+  #share-status { min-height: 1.4em; color: var(--muted); font-size: 10px; }
   .game-controls { color: var(--faint); display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding-top: 9px; font-size: 11px; }
+  .mobile-controls { display: none; }
   kbd { border: 1px solid var(--rule); padding: 1px 5px; color: var(--muted); background: var(--surface); }
   #market-terminal { scroll-margin-top: 16px; margin-top: 4px; }
   .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 12px; }
@@ -83,26 +89,72 @@
   .muted, .source-line { color: var(--muted); }
   .source-line { font-size: 11px; margin: 10px 0 0; }
   .source-line a { color: var(--muted); text-decoration: underline; text-underline-offset: 3px; }
-  .market-summary { display: grid; grid-template-columns: repeat(4, 1fr); border-block: 1px solid var(--rule); }
-  .metric { padding: 12px 13px 11px 0; min-width: 0; }
+  .market-summary { display: grid; grid-template-columns: repeat(6, 1fr); border-block: 1px solid var(--rule); }
+  .metric { display: flex; flex-direction: column; justify-content: space-between; padding: 12px 13px 11px 0; min-width: 0; }
   .metric + .metric { border-left: 1px solid var(--rule); padding-left: 13px; }
   .metric-label { display: block; color: var(--muted); font-size: 10px; letter-spacing: .075em; margin-bottom: 3px; }
-  .metric-value { display: block; overflow: hidden; text-overflow: ellipsis; font-size: 16px; font-variant-numeric: tabular-nums; }
+  .metric-value { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 14px; font-variant-numeric: tabular-nums; }
+  .feed-status { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border-bottom: 1px solid var(--rule); color: var(--muted); font-size: 10px; }
+  .feed-status span { padding: 8px 10px 8px 0; min-width: 0; }
+  .feed-status span + span { border-left: 1px solid var(--rule); padding-left: 10px; }
+  .feed-status b { color: var(--fg); font-weight: 500; display: block; }
+  .fx-sparkline-panel { border-bottom: 1px solid var(--rule); padding: 11px 0 6px; }
+  .fx-sparkline-head { display: flex; justify-content: space-between; gap: 10px; color: var(--muted); font-size: 10px; letter-spacing: .055em; }
+  .fx-sparkline-wrap { position: relative; }
+  #fx-sparkline { display: block; width: 100%; height: auto; touch-action: pan-y; user-select: none; }
   .negative { color: var(--danger) !important; }
   .positive { color: var(--success) !important; }
   .terminal-layout { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(260px, .85fr); border-bottom: 1px solid var(--rule); }
   .chart-panel { min-width: 0; padding: 18px 20px 14px 0; }
   .speech-panel { min-width: 0; border-left: 1px solid var(--rule); padding: 18px 0 14px 20px; }
   .panel-title { color: var(--muted); font-size: 10px; letter-spacing: .075em; margin: 0 0 10px; }
-  #market-chart { display: block; width: 100%; height: auto; overflow: visible; }
+  .chart-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 7px; }
+  .chart-toolbar .panel-title { margin: 0; }
+  .range-picker { display: flex; border: 1px solid var(--rule); }
+  .range-picker button { min-width: 36px; min-height: 30px; border: 0; border-left: 1px solid var(--rule); background: transparent; color: var(--muted);
+    padding: 3px 7px; font: inherit; font-size: 10px; cursor: pointer; }
+  .range-picker button:first-child { border-left: 0; }
+  .range-picker button:hover, .range-picker button[aria-pressed="true"] { background: var(--surface); color: var(--fg); }
+  .chart-wrap { position: relative; }
+  #market-chart { display: block; width: 100%; height: auto; overflow: visible; touch-action: pan-y; user-select: none; }
   .chart-label { fill: var(--muted); font: 10px ui-monospace, monospace; }
   .chart-event { stroke: var(--muted); stroke-width: 1; stroke-dasharray: 3 4; }
-  .chart-event-dot { fill: var(--fg); stroke: var(--bg); stroke-width: 1.5; }
+  .chart-event-hit { fill: transparent; cursor: pointer; }
+  .chart-event-dot { fill: var(--fg); stroke: var(--bg); stroke-width: 1.5; pointer-events: none; }
+  .chart-event-group:hover .chart-event-dot, .chart-event-group.selected .chart-event-dot { fill: var(--danger); r: 5; }
+  .chart-event-group.selected .chart-event { stroke: var(--danger); stroke-width: 1.5; }
   .chart-line { fill: none; stroke: var(--chart-line); stroke-width: 1.6; vector-effect: non-scaling-stroke; }
   .chart-area { fill: var(--chart-area); }
   .chart-grid { stroke: var(--chart-grid); stroke-width: 1; }
-  .chart-legend { display: flex; gap: 14px; align-items: center; color: var(--muted); font-size: 10px; margin-top: 4px; }
+  .chart-latest-dot { fill: var(--fg); }
+  .chart-crosshair { stroke: var(--muted); stroke-width: 1; stroke-dasharray: 2 3; pointer-events: none; }
+  .chart-hover-dot { fill: var(--bg); stroke: var(--fg); stroke-width: 2; pointer-events: none; }
+  .chart-empty { fill: var(--muted); font: 11px ui-monospace, monospace; letter-spacing: .06em; }
+  .chart-tooltip { position: absolute; z-index: 2; display: none; min-width: 118px; transform: translate(-50%, calc(-100% - 10px));
+    border: 1px solid var(--rule); background: var(--bg); color: var(--fg); padding: 6px 8px; font-size: 10px; line-height: 1.45; pointer-events: none; }
+  .chart-tooltip.visible { display: block; }
+  .chart-tooltip span { display: block; color: var(--muted); }
+  .chart-legend { display: flex; gap: 14px; align-items: center; color: var(--muted); font-size: 10px; margin-top: 5px; }
   .chart-legend i { display: inline-block; width: 6px; height: 6px; background: var(--fg); margin-right: 5px; }
+  .event-selector { display: flex; gap: 5px; overflow-x: auto; margin: 11px 0 0; padding: 0 0 4px; scrollbar-color: var(--rule) transparent; }
+  .event-selector button { flex: 0 0 auto; min-height: 31px; border: 1px solid var(--rule); background: transparent; color: var(--muted); padding: 4px 7px;
+    font: inherit; font-size: 10px; cursor: pointer; }
+  .event-selector button:hover, .event-selector button[aria-pressed="true"] { color: var(--fg); background: var(--surface); border-color: var(--fg); }
+  .chart-readout { margin-top: 10px; border-top: 1px solid var(--rule); padding-top: 10px; }
+  .readout-head { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+  .readout-head strong { font-size: 11px; }
+  .readout-head span { color: var(--muted); font-size: 10px; text-align: right; }
+  .readout-stats { display: grid; grid-template-columns: repeat(3, 1fr); border-block: 1px solid var(--rule-soft); margin-top: 8px; }
+  .fx-window-title { margin-top: 12px; }
+  .readout-stat { padding: 7px 8px 7px 0; }
+  .readout-stat + .readout-stat { border-left: 1px solid var(--rule-soft); padding-left: 8px; }
+  .readout-stat small { display: block; color: var(--muted); font-size: 9px; letter-spacing: .05em; }
+  .readout-stat b { font-size: 11px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .intraday-report { margin-top: 9px; color: var(--fg); font-size: 11px; }
+  .intraday-report strong { color: var(--danger); }
+  .market-context { margin: 6px 0; color: var(--muted); font-size: 11px; }
+  .readout-sources { display: flex; flex-wrap: wrap; gap: 5px 12px; font-size: 10px; }
+  .readout-sources a { color: var(--fg); text-underline-offset: 3px; }
   #next-speech { margin-bottom: 16px; }
   .empty-schedule { color: var(--muted); padding: 8px 0 2px; }
   .event-list, .news-list { list-style: none; padding: 0; margin: 0; }
@@ -121,9 +173,16 @@
   .mobile-scroll-hint { display: none; color: var(--muted); font-size: 10px; margin: 8px 0 0; }
   .news-section { padding-top: 19px; }
   .news-list { display: grid; grid-template-columns: 1fr 1fr; column-gap: 30px; }
-  .news-list li { display: grid; grid-template-columns: 46px minmax(0, 1fr); gap: 10px; padding: 10px 0; border-top: 1px solid var(--rule-soft); }
+  .news-list li { display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 10px; padding: 10px 0; border-top: 1px solid var(--rule-soft); }
   .news-time { color: var(--muted); font-size: 10px; padding-top: 2px; font-variant-numeric: tabular-nums; }
   .news-source { color: var(--muted); font-size: 10px; display: block; margin-top: 3px; }
+  .news-cluster { display: grid; grid-template-columns: 1fr 1fr; margin-top: 22px; border-block: 1px solid var(--rule); }
+  .news-panel { min-width: 0; padding: 13px 24px 14px 0; }
+  .news-panel + .news-panel { border-left: 1px solid var(--rule); padding: 13px 0 14px 24px; }
+  .news-panel-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 3px; }
+  .news-panel-head .panel-title { margin: 0; }
+  .news-panel-status { color: var(--muted); font-size: 9px; text-align: right; }
+  .news-panel .news-list { grid-template-columns: 1fr; }
   .terminal-error { border: 1px solid var(--danger); color: var(--danger); padding: 10px; margin-bottom: 12px; }
   .site-footer { color: var(--muted); display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: 11px; }
   @media (max-width: 620px) {
@@ -134,15 +193,34 @@
     #hud { gap: 7px 16px; }
     .game-controls { display: block; line-height: 1.8; }
     .game-controls span:last-child { display: block; margin-top: 3px; }
+    .desktop-controls { display: none; }
+    .mobile-controls { display: inline; }
+    #stage.result-active { min-height: 430px; }
+    #stage.result-active #overlay { gap: 8px; padding: 16px 12px; }
+    #stage.result-active #result-summary { grid-template-columns: 1fr; }
+    #stage.result-active .result-line:nth-child(even) { border-left: 0; }
     .section-head { align-items: flex-start; flex-direction: column; gap: 3px; }
     .market-summary { grid-template-columns: 1fr 1fr; }
-    .metric:nth-child(3) { border-left: 0; border-top: 1px solid var(--rule); }
-    .metric:nth-child(4) { border-top: 1px solid var(--rule); }
+    .metric:nth-child(odd) { border-left: 0; padding-left: 0; }
+    .metric:nth-child(even) { padding-left: 12px; }
+    .metric:nth-child(n + 3) { border-top: 1px solid var(--rule); }
+    .metric-value { font-size: clamp(13px, 4vw, 16px); }
     .terminal-layout { grid-template-columns: 1fr; }
     .chart-panel { padding: 16px 0 13px; }
+    .chart-toolbar { align-items: flex-start; }
+    .chart-toolbar .panel-title { max-width: 19ch; }
+    .readout-stats { grid-template-columns: 1fr; }
+    .readout-stat + .readout-stat { border-left: 0; border-top: 1px solid var(--rule-soft); padding-left: 0; }
     .speech-panel { border-left: 0; border-top: 1px solid var(--rule); padding: 16px 0; }
     .news-list { grid-template-columns: 1fr; }
-    .impact-table { min-width: 570px; font-size: 11px; }
+    .news-list li { grid-template-columns: 94px minmax(0, 1fr); }
+    .news-cluster { grid-template-columns: 1fr; }
+    .news-panel { padding: 13px 0; }
+    .news-panel + .news-panel { border-left: 0; border-top: 1px solid var(--rule); padding: 13px 0; }
+    .news-panel-head { align-items: flex-start; }
+    .impact-table { min-width: 690px; font-size: 11px; }
+    .feed-status { grid-template-columns: 1fr; }
+    .feed-status span + span { border-left: 0; border-top: 1px solid var(--rule-soft); padding-left: 0; }
     .mobile-scroll-hint { display: block; }
     .site-footer { display: block; }
     .site-footer span:last-child { display: block; margin-top: 4px; }
@@ -173,17 +251,24 @@
     <span><b id="delta">0.00%</b></span>
     <span>SESSIONS <b id="lives">●●●</b></span>
     <span>LIMIT-DOWN <b id="cleared">0/50</b></span>
+    <span>DAILY CHALLENGE <b id="challenge-date">—</b></span>
   </div>
   <div id="stage">
     <canvas id="c" width="880" height="620" tabindex="0" aria-label="Presidential Speech breakout game"></canvas>
     <div id="overlay">
       <div id="otitle">Presidential Speech</div>
       <div id="omsg">Every statement moves the market. Usually in one direction.</div>
-      <button id="start">BEGIN SPEECH</button>
+      <div id="result-summary" hidden></div>
+      <div class="overlay-actions">
+        <button id="start">BEGIN SPEECH</button>
+        <button id="share-result" type="button" hidden>SHARE RESULT PNG</button>
+      </div>
+      <div id="share-status" role="status" aria-live="polite"></div>
     </div>
   </div>
   <div class="game-controls">
-    <span><kbd>←</kbd> <kbd>→</kbd> move · <kbd>Space</kbd> launch · <kbd>P</kbd> pause · mouse/touch supported</span>
+    <span class="desktop-controls"><kbd>←</kbd> <kbd>→</kbd> move · <kbd>Space</kbd> launch · mouse/touch supported</span>
+    <span class="mobile-controls">DRAG TO MOVE · TAP TO LAUNCH</span>
     <span>Satire. Not investment advice.</span>
   </div>
 </main>
@@ -194,18 +279,44 @@
     <span id="data-age" class="muted" aria-live="polite">Loading delayed market data…</span>
   </div>
   <div id="terminal-error" class="terminal-error" role="status" hidden></div>
-  <div class="market-summary" aria-label="IDX Composite market summary">
+  <div class="market-summary" aria-label="IDX Composite and USD/IDR market summary">
     <div class="metric"><span class="metric-label">IDX COMPOSITE</span><span id="market-price" class="metric-value">—</span></div>
     <div class="metric"><span class="metric-label">DAILY MOVE</span><span id="market-change" class="metric-value">—</span></div>
+    <div class="metric" role="status" aria-live="polite" aria-atomic="true"><span id="fx-label" class="metric-label">USD / IDR</span><span id="fx-price" class="metric-value">—</span></div>
+    <div class="metric"><span class="metric-label">DAILY FX MOVE</span><span id="fx-change" class="metric-value">—</span></div>
     <div class="metric"><span class="metric-label">SPEECHES TRACKED</span><span id="speech-count" class="metric-value">—</span></div>
     <div class="metric"><span class="metric-label">AVG EVENT DAY</span><span id="average-impact" class="metric-value">—</span></div>
   </div>
+  <div class="feed-status" aria-label="Independent feed freshness" aria-live="polite">
+    <span>IHSG FEED<b id="market-freshness">LOADING…</b></span>
+    <span>USD/IDR FEED<b id="fx-freshness">LOADING…</b></span>
+    <span>HEADLINES<b id="headline-status">LOADING…</b></span>
+  </div>
+  <div class="fx-sparkline-panel">
+    <div class="fx-sparkline-head"><span>USD / IDR · LAST 30 TRADING SESSIONS</span><span>PRESS / DRAG FOR PRICE</span></div>
+    <div class="fx-sparkline-wrap">
+      <svg id="fx-sparkline" viewBox="0 0 880 92" role="img" tabindex="0" aria-label="Interactive thirty-session USD to Indonesian rupiah chart with speech dates. Use left and right arrow keys to inspect prices."></svg>
+      <div id="fx-tooltip" class="chart-tooltip" role="status"></div>
+    </div>
+  </div>
   <div class="terminal-layout">
     <div class="chart-panel">
-      <p class="panel-title">ONE-YEAR IHSG · OFFICIAL SPEECH DATES MARKED</p>
-      <svg id="market-chart" viewBox="0 0 580 270" role="img" aria-label="One-year IDX Composite chart with presidential speech markers"></svg>
+      <div class="chart-toolbar">
+        <p id="chart-title" class="panel-title">ONE-YEAR IHSG · OFFICIAL SPEECH DATES MARKED</p>
+        <div class="range-picker" role="group" aria-label="Chart range">
+          <button type="button" data-range="3" aria-pressed="false">3M</button>
+          <button type="button" data-range="6" aria-pressed="false">6M</button>
+          <button type="button" data-range="12" aria-pressed="true">1Y</button>
+        </div>
+      </div>
+      <div class="chart-wrap">
+        <svg id="market-chart" viewBox="0 0 580 290" role="img" aria-label="IDX Composite chart with presidential speech markers"></svg>
+        <div id="chart-tooltip" class="chart-tooltip" role="status"></div>
+      </div>
       <div class="chart-legend"><span><i></i>SPEECH DATE</span><span>DAILY CLOSE</span></div>
-      <div class="source-line">Delayed daily closes via <a href="https://finance.yahoo.com/quote/%5EJKSE/" target="_blank" rel="noreferrer">Yahoo Finance ^JKSE</a>.</div>
+      <div id="event-selector" class="event-selector" aria-label="Select a speech event"></div>
+      <div id="chart-readout" class="chart-readout" aria-live="polite"></div>
+      <div class="source-line">Five-minute scheduled intraday snapshots via <a href="https://finance.yahoo.com/quote/%5EJKSE/" target="_blank" rel="noreferrer">Yahoo Finance ^JKSE</a> and <a href="https://finance.yahoo.com/quote/IDR%3DX/" target="_blank" rel="noreferrer">IDR=X</a>; feeds may be delayed.</div>
     </div>
     <aside class="speech-panel">
       <p class="panel-title">SPEECH SCHEDULE</p>
@@ -216,16 +327,35 @@
   <div class="impact-scroll" tabindex="0" aria-label="Speech impact table, horizontally scrollable on small screens">
     <p class="mobile-scroll-hint">SCROLL TABLE →</p>
     <table class="impact-table">
-      <thead><tr><th>Speech event</th><th>Event close</th><th>Event day</th><th>Next session</th></tr></thead>
+      <thead><tr><th>Speech event</th><th>IHSG close</th><th>IHSG event day</th><th>IHSG next session</th><th>USD/IDR event day</th></tr></thead>
       <tbody id="impact-rows"></tbody>
     </table>
-    <p class="source-line">Daily event study only: previous close → event-session close → next-session close. Correlation is not causation.</p>
+    <p class="source-line">Daily event study only: previous close → event-session close → next-session close. Rising USD/IDR means a weaker rupiah. Correlation is not causation.</p>
   </div>
   <div class="news-section">
-    <p class="panel-title">LATEST IHSG HEADLINES</p>
+    <p class="panel-title">IHSG HEADLINES</p>
     <ul id="news-list" class="news-list"></ul>
     <p class="source-line">Headline index via Google News RSS. Articles remain with their publishers.</p>
   </div>
+  <div class="news-cluster" aria-label="Latest stock and macro-market news">
+    <section class="news-panel" aria-labelledby="stock-news-title">
+      <div class="news-panel-head">
+        <p id="stock-news-title" class="panel-title">STOCK NEWS</p>
+        <b id="stock-news-status" class="news-panel-status" aria-live="polite">LOADING…</b>
+      </div>
+      <ul id="stock-news-list" class="news-list"></ul>
+      <p class="source-line">Latest issuer, corporate-action, and IDX coverage.</p>
+    </section>
+    <section class="news-panel" aria-labelledby="macro-news-title">
+      <div class="news-panel-head">
+        <p id="macro-news-title" class="panel-title">MACRO MARKET</p>
+        <b id="macro-news-status" class="news-panel-status" aria-live="polite">LOADING…</b>
+      </div>
+      <ul id="macro-news-list" class="news-list"></ul>
+      <p class="source-line">BI rates, inflation, rupiah, commodities, and global indices.</p>
+    </section>
+  </div>
+  <p class="source-line">Stock and macro headline indexes via Google News RSS. Articles remain with their publishers.</p>
 </section>
 <hr class="rule">
 <footer class="site-footer">

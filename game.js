@@ -3,7 +3,14 @@ import {
   reflectFromPaddle,
   clampBallSpeed,
   shouldHandleGameKey,
+  createSeededRandom,
+  dailyChallengeSeed,
+  buildGameResult,
+  gameResultLines,
+  dateInJakarta,
+  shouldTriggerHaptic,
 } from './game-core.mjs';
+import { pickSpeechQuote } from './speech-quotes.mjs';
 
 const TICKERS = [
   'BBCA','BBRI','BMRI','BBNI','TLKM','ASII','UNVR','ICBP','INDF','HMSP',
@@ -11,21 +18,6 @@ const TICKERS = [
   'INTP','CPIN','JPFA','MYOR','SIDO','TOWR','EXCL','ISAT','MEDC','PGAS',
   'AKRA','BRPT','TPIA','ESSA','MAPI','ACES','ERAA','BRIS','BTPS','ARTO',
   'BUKA','GOTO','EMTK','SCMA','MNCN','PWON','CTRA','BSDE','SMRA','WIKA',
-];
-
-const QUOTES = [
-  'Our fundamentals remain strong.',
-  'This is only a technical correction.',
-  'Investors should remain calm.',
-  'Growth remains above the global average.',
-  'The economy is resilient.',
-  'Everything has been thoroughly assessed.',
-  'These numbers are temporary.',
-  'We are currently reviewing the situation.',
-  'This is part of the transformation.',
-  'The world is facing uncertainty.',
-  'There is no reason to panic.',
-  'This is precisely the right momentum.',
 ];
 
 const W = 880, H = 620;
@@ -37,6 +29,12 @@ const BALL_R = 6, BASE_SPEED = 380, MIN_SPEED = 250, MAX_SPEED = 720;
 const IHSG_OPEN = 7000;
 const FIXED_STEP = 1 / 120;
 
+let challengeDate = dateInJakarta();
+let challengeSeed = dailyChallengeSeed(challengeDate);
+const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
+let gameplayRandom = createSeededRandom(challengeSeed);
+let effectsRandom = createSeededRandom(challengeSeed ^ 0x9E3779B9);
+let quoteRandom = createSeededRandom(challengeSeed ^ 0x85EBCA6B);
 const cv = document.getElementById('c');
 const ctx = cv.getContext('2d');
 let palette = {};
@@ -53,8 +51,6 @@ function refreshPalette() {
     paddle: color('--canvas-paddle'),
     paddleText: color('--canvas-paddle-text'),
     ball: color('--canvas-ball'),
-    pause: color('--canvas-pause'),
-    pauseText: color('--canvas-pause-text'),
   };
 }
 refreshPalette();
@@ -65,10 +61,15 @@ const el = {
   delta: document.getElementById('delta'),
   lives: document.getElementById('lives'),
   cleared: document.getElementById('cleared'),
+  challenge: document.getElementById('challenge-date'),
   overlay: document.getElementById('overlay'),
   otitle: document.getElementById('otitle'),
   omsg: document.getElementById('omsg'),
   start: document.getElementById('start'),
+  stage: document.getElementById('stage'),
+  result: document.getElementById('result-summary'),
+  share: document.getElementById('share-result'),
+  shareStatus: document.getElementById('share-status'),
 };
 
 const imageFor = (ticker) => {
@@ -81,9 +82,10 @@ const images = Object.fromEntries(TICKERS.map((ticker) => [ticker, imageFor(tick
 const state = {
   ball: { x: W / 2, y: 0, vx: 0, vy: 0 },
 };
-let bricks, paddleX, ihsg, lives, running, launched, paused, quote, quoteAt;
+let bricks, paddleX, ihsg, lives, running, launched, quote, quoteAt;
 let particles = [], trail = [], shake = 0;
 let lastTime = 0, accumulator = 0;
+let lastResult = null;
 const keys = { left: false, right: false };
 
 function reset(full) {
@@ -100,6 +102,9 @@ function reset(full) {
     quoteAt = 0;
     particles = [];
     trail = [];
+    gameplayRandom = createSeededRandom(challengeSeed);
+    effectsRandom = createSeededRandom(challengeSeed ^ 0x9E3779B9);
+    quoteRandom = createSeededRandom(challengeSeed ^ 0x85EBCA6B);
   }
   resetBall();
 }
@@ -112,8 +117,8 @@ function resetBall() {
 }
 
 function launch() {
-  if (launched || !running || paused) return;
-  const angle = (Math.random() * 0.5 - 0.25) + (Math.random() < 0.5 ? -0.42 : 0.42);
+  if (launched || !running) return;
+  const angle = (gameplayRandom() * 0.5 - 0.25) + (gameplayRandom() < 0.5 ? -0.42 : 0.42);
   state.ball.vx = Math.sin(angle) * BASE_SPEED;
   state.ball.vy = -Math.abs(Math.cos(angle) * BASE_SPEED);
   launched = true;
@@ -129,18 +134,116 @@ function hud() {
 }
 
 function overlay(title, msg, button) {
+  el.stage.classList.remove('result-active');
   el.otitle.textContent = title;
   el.omsg.textContent = msg;
   el.start.textContent = button;
+  el.result.hidden = true;
+  el.share.hidden = true;
+  el.shareStatus.textContent = '';
   el.overlay.hidden = false;
 }
 
+function finish(title, message, button) {
+  running = false;
+  lastResult = buildGameResult({
+    open: IHSG_OPEN,
+    close: ihsg,
+    cleared: bricks.filter((brick) => !brick.alive).length,
+    total: bricks.length,
+    lives,
+    challengeDate,
+  });
+  el.otitle.textContent = title;
+  el.omsg.textContent = message;
+  el.start.textContent = button;
+  el.result.replaceChildren(...gameResultLines(lastResult).map((line) => {
+    const item = document.createElement('div');
+    item.className = 'result-line';
+    item.textContent = line;
+    return item;
+  }));
+  el.result.hidden = false;
+  el.share.hidden = false;
+  el.shareStatus.textContent = '';
+  el.stage.classList.add('result-active');
+  el.overlay.hidden = false;
+}
+
+function resultCardBlob(result) {
+  const card = document.createElement('canvas');
+  card.width = 1200;
+  card.height = 630;
+  const cardContext = card.getContext('2d');
+  const styles = getComputedStyle(document.documentElement);
+  const background = styles.getPropertyValue('--bg').trim() || '#050505';
+  const foreground = styles.getPropertyValue('--fg').trim() || '#e9e9e6';
+  const muted = styles.getPropertyValue('--muted').trim() || '#92928d';
+  const danger = styles.getPropertyValue('--danger').trim() || '#ff6767';
+  cardContext.fillStyle = background;
+  cardContext.fillRect(0, 0, card.width, card.height);
+  cardContext.strokeStyle = foreground;
+  cardContext.lineWidth = 2;
+  cardContext.strokeRect(56, 56, card.width - 112, card.height - 112);
+  cardContext.fillStyle = foreground;
+  cardContext.font = '700 38px ui-monospace, monospace';
+  cardContext.fillText('PRESIDENTIAL SPEECH RESULT', 92, 132);
+  gameResultLines(result).forEach((line, index) => {
+    cardContext.fillStyle = index === 2 ? danger : index ? foreground : muted;
+    cardContext.font = `${index === 2 ? '700 42px' : '500 30px'} ui-monospace, monospace`;
+    cardContext.fillText(line, 92, 214 + index * 65);
+  });
+  cardContext.fillStyle = muted;
+  cardContext.font = '22px ui-monospace, monospace';
+  cardContext.fillText('SATIRE · NOT INVESTMENT ADVICE', 92, 548);
+  return new Promise((resolve, reject) => card.toBlob(
+    (blob) => blob ? resolve(blob) : reject(new Error('PNG export failed')),
+    'image/png',
+  ));
+}
+
+async function shareResult() {
+  if (!lastResult) return;
+  el.shareStatus.textContent = 'PREPARING PNG…';
+  try {
+    const blob = await resultCardBlob(lastResult);
+    const filename = `presidential-speech-${lastResult.challengeDate}.png`;
+    if (typeof File === 'function' && navigator.share) {
+      const file = new File([blob], filename, { type: 'image/png' });
+      if (navigator.canShare?.({ files: [file] })) {
+        try {
+          await navigator.share({ files: [file], title: 'Presidential Speech Result' });
+          el.shareStatus.textContent = 'RESULT SHARED';
+          return;
+        } catch (error) {
+          if (error?.name === 'AbortError') {
+            el.shareStatus.textContent = 'SHARE CANCELLED';
+            return;
+          }
+          // Fall through to a normal PNG download when native sharing is unavailable at runtime.
+        }
+      }
+    }
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = filename;
+    link.click();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+    el.shareStatus.textContent = 'PNG DOWNLOADED';
+  } catch (error) {
+    if (error?.name === 'AbortError') el.shareStatus.textContent = 'SHARE CANCELLED';
+    else el.shareStatus.textContent = 'PNG EXPORT FAILED';
+  }
+}
+
 function spawnParticles(x, y) {
+  if (reducedMotion) return;
   for (let i = 0; i < 8; i += 1) {
-    const angle = Math.random() * Math.PI * 2;
-    const speed = 45 + Math.random() * 100;
+    const angle = effectsRandom() * Math.PI * 2;
+    const speed = 45 + effectsRandom() * 100;
     particles.push({ x, y, vx: Math.cos(angle) * speed, vy: Math.sin(angle) * speed,
-      life: 0.45 + Math.random() * 0.25 });
+      life: 0.45 + effectsRandom() * 0.25 });
   }
 }
 
@@ -213,9 +316,10 @@ function step(dt, now) {
     resolveBrickCollision(brick, previous);
     brick.alive = false;
     ihsg -= 12 + (ROWS - 1 - Math.floor((brick.y - TOP) / CELL_H)) * 6;
-    quote = QUOTES[Math.floor(Math.random() * QUOTES.length)];
+    quote = pickSpeechQuote(quoteRandom);
     quoteAt = now;
     spawnParticles(brick.x + BRICK_W / 2, brick.y + BRICK_H / 2);
+    if (shouldTriggerHaptic(typeof navigator.vibrate === 'function')) navigator.vibrate(12);
     shake = 4;
     const safe = clampBallSpeed(ball, MIN_SPEED, MAX_SPEED);
     ball.vx = safe.vx;
@@ -224,12 +328,13 @@ function step(dt, now) {
     break;
   }
 
-  trail.unshift({ x: ball.x, y: ball.y });
-  if (trail.length > 8) trail.pop();
+  if (!reducedMotion) {
+    trail.unshift({ x: ball.x, y: ball.y });
+    if (trail.length > 8) trail.pop();
+  }
 
   if (bricks.every((brick) => !brick.alive)) {
-    running = false;
-    overlay('Speech concluded', `All 50 stocks hit limit-down. The index closed at ${ihsg.toFixed(2)}. Thank you for the guidance.`, 'SPEAK AGAIN');
+    finish('Speech concluded', `All 50 stocks hit limit-down. The index closed at ${ihsg.toFixed(2)}. Thank you for the guidance.`, 'SPEAK AGAIN');
     return;
   }
 
@@ -237,9 +342,8 @@ function step(dt, now) {
     lives -= 1;
     hud(now);
     if (lives <= 0) {
-      running = false;
       const saved = bricks.filter((brick) => brick.alive).length;
-      overlay('Microphone disconnected', `${saved} stocks survived because the speech ended early. IHSG: ${ihsg.toFixed(2)}.`, 'TRY AGAIN');
+      finish('Microphone disconnected', `${saved} stocks survived because the speech ended early. IHSG: ${ihsg.toFixed(2)}.`, 'TRY AGAIN');
     } else resetBall();
   }
 }
@@ -256,8 +360,8 @@ function drawImageContained(img, x, y, w, h, padding = 5) {
 function draw(now) {
   ctx.clearRect(0, 0, W, H);
   ctx.save();
-  if (shake > 0.1) {
-    ctx.translate((Math.random() - 0.5) * shake, (Math.random() - 0.5) * shake);
+  if (!reducedMotion && shake > 0.1) {
+    ctx.translate((effectsRandom() - 0.5) * shake, (effectsRandom() - 0.5) * shake);
     shake *= 0.84;
   }
   ctx.textAlign = 'center';
@@ -311,17 +415,10 @@ function draw(now) {
   ctx.fillStyle = palette.ball;
   ctx.fill();
 
-  if (running && !launched && !paused) {
+  if (running && !launched) {
     ctx.fillStyle = palette.fallback;
     ctx.font = '12px ui-monospace, monospace';
     ctx.fillText('SPACE / tap to begin speaking', W / 2, PADDLE_Y - 34);
-  }
-  if (paused) {
-    ctx.fillStyle = palette.pause;
-    ctx.fillRect(0, 0, W, H);
-    ctx.fillStyle = palette.pauseText;
-    ctx.font = '600 16px ui-monospace, monospace';
-    ctx.fillText('PAUSED — the market catches its breath', W / 2, H / 2);
   }
   ctx.restore();
 }
@@ -330,7 +427,7 @@ function loop(now) {
   if (!lastTime) lastTime = now;
   const frameTime = Math.min((now - lastTime) / 1000, 0.05);
   lastTime = now;
-  if (running && !paused) {
+  if (running) {
     accumulator += frameTime;
     while (accumulator >= FIXED_STEP) {
       step(FIXED_STEP, now);
@@ -343,22 +440,26 @@ function loop(now) {
 }
 
 function begin() {
+  challengeDate = dateInJakarta();
+  challengeSeed = dailyChallengeSeed(challengeDate);
+  el.challenge.textContent = challengeDate;
+  el.stage.classList.remove('result-active');
   reset(true);
   hud();
   running = true;
-  paused = false;
+  lastResult = null;
   accumulator = 0;
   el.overlay.hidden = true;
   cv.focus({ preventScroll: true });
 }
 
 el.start.addEventListener('click', begin);
+el.share.addEventListener('click', shareResult);
 addEventListener('keydown', (event) => {
   if (!shouldHandleGameKey(event.target?.tagName)) return;
   if (event.key === 'ArrowLeft') keys.left = true;
   if (event.key === 'ArrowRight') keys.right = true;
   if (event.code === 'Space') { event.preventDefault(); running ? launch() : begin(); }
-  if (event.key === 'p' || event.key === 'P') { if (running) paused = !paused; }
 });
 addEventListener('keyup', (event) => {
   if (event.key === 'ArrowLeft') keys.left = false;
@@ -370,7 +471,7 @@ function pointTo(clientX) {
   paddleX = Math.max(0, Math.min(W - BASE_PADDLE_W,
     ((clientX - rect.left) / rect.width) * W - BASE_PADDLE_W / 2));
 }
-cv.addEventListener('pointermove', (event) => { if (running && !paused) pointTo(event.clientX); });
+cv.addEventListener('pointermove', (event) => { if (running) pointTo(event.clientX); });
 cv.addEventListener('pointerdown', (event) => {
   event.preventDefault();
   if (!running) { begin(); return; }
@@ -380,5 +481,6 @@ cv.addEventListener('pointerdown', (event) => {
 
 reset(true);
 hud();
+el.challenge.textContent = challengeDate;
 overlay('Presidential Speech', 'Every statement moves the market. Usually in one direction.', 'BEGIN SPEECH');
 requestAnimationFrame(loop);

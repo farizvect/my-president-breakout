@@ -36,6 +36,39 @@
     "source": "https://setkab.go.id/en/president-prabowo-affirms-to-facilitate-economic-reform-and-investment-at-indonesia-japan-business-forum/"
   },
   {
+    "id": "dpr-kem-ppkf-2027",
+    "date": "2026-05-20",
+    "title": "KEM–PPKF 2027 Address to DPR",
+    "location": "DPR/MPR Complex, Jakarta",
+    "status": "confirmed",
+    "precision": "intraday-reported",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-sampaikan-kerangka-ekonomi-makro-dan-pokok-kebijakan-fiskal-rapbn-2027-di-sidang-paripurna-dpr-ri/",
+    "marketContext": "Kompas reported IHSG at 6,459 before the address and as low as 6,215 while it was under way. Separately, the Yahoo Finance daily series records a 6,318.50 close. Reporting highlighted investor concern over a proposed single-export mechanism through a state-owned entity and discussion of long-running export under-invoicing. BI's rate decision, rupiah pressure, regional markets, and MSCI-related flows were concurrent factors.",
+    "reportedIntraday": {
+      "preSpeechHigh": 6459,
+      "duringSpeechLow": 6215,
+      "publisher": "Kompas"
+    },
+    "reportedDailyClose": {
+      "value": 6318.5,
+      "publisher": "Yahoo Finance"
+    },
+    "marketSources": [
+      {
+        "publisher": "Kompas",
+        "url": "https://www.kompas.id/artikel/ihsg-volatil-investor-cermati-kepastian-kebijakan-pemerintah"
+      },
+      {
+        "publisher": "Bloomberg Technoz",
+        "url": "https://www.bloombergtechnoz.com/detail-news/109480/ihsg-jatuh-saat-prabowo-sampaikan-pandangan-ekonomi-di-dpr"
+      },
+      {
+        "publisher": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/quote/%5EJKSE/history/"
+      }
+    ]
+  },
+  {
     "id": "pkb-prabowonomics-2026",
     "date": "2026-07-23",
     "title": "Prabowonomics at PKB 28th Anniversary",

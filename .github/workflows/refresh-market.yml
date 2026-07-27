@@ -3,8 +3,10 @@ name: Refresh market snapshot
 on:
   workflow_dispatch:
   schedule:
-    # Weekdays after the Jakarta market close.
-    - cron: "30 10 * * 1-5"
+    # Every five minutes during IDX market hours (09:00–16:15 WIB, weekdays).
+    # GitHub cron uses UTC; Yahoo remains a delayed, non-licensed market feed.
+    - cron: "*/5 2-8 * * 1-5"
+    - cron: "0-15/5 9 * * 1-5"
 
 permissions:
   contents: write
