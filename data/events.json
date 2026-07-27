@@ -1,0 +1,47 @@
+[
+  {
+    "id": "wef-2026",
+    "date": "2026-01-22",
+    "title": "World Economic Forum 2026 Special Address",
+    "location": "Davos, Switzerland",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/pidato-di-wef-2026-presiden-prabowo-tegaskan-perdamaian-dan-stabilitas-sebagai-kunci-masa-depan-ekonomi-dunia/"
+  },
+  {
+    "id": "rakornas-2026",
+    "date": "2026-02-02",
+    "title": "National Coordination Meeting 2026",
+    "location": "Sentul, West Java",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://setkab.go.id/en/president-prabowo-indonesia-must-be-vigilant-in-facing-global-turmoil-firmly-uphold-free-active-politics/"
+  },
+  {
+    "id": "economic-outlook-2026",
+    "date": "2026-02-13",
+    "title": "Indonesia Economic Outlook 2026",
+    "location": "Jakarta, Indonesia",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://setkab.go.id/en/govt-prioritizes-environmental-reform-and-waste-management-for-sustainable-growth/"
+  },
+  {
+    "id": "japan-business-forum-2026",
+    "date": "2026-03-30",
+    "title": "Indonesia–Japan Business Forum",
+    "location": "Tokyo, Japan",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://setkab.go.id/en/president-prabowo-affirms-to-facilitate-economic-reform-and-investment-at-indonesia-japan-business-forum/"
+  },
+  {
+    "id": "pkb-prabowonomics-2026",
+    "date": "2026-07-23",
+    "title": "Prabowonomics at PKB 28th Anniversary",
+    "location": "Jakarta, Indonesia",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://setkab.go.id/en/president-prabowo-subianto-attends-pkb-28th-anniversary-responds-to-prabowonomics-theme-as-implementation-of-economic-mandate-of-constitution/"
+  }
+]

@@ -6,6 +6,11 @@ A browser-based Breakout satire built with 50 Indonesian Stock Exchange logos.
 The paddle reads **Presidential Speech**; every brick hit pushes the simulated
 IHSG lower.
 
+The original game remains the main experience. Below it, a data-backed Market
+Terminal adds delayed IHSG prices, a one-year chart, sourced presidential speech
+markers, daily event-impact calculations, a verified speech archive, and recent
+IHSG headlines.
+
 Inspired by [Open Weights Breakout](https://huggingface.co/spaces/burtenshaw/open-weights-breakout)
 by burtenshaw.
 
@@ -38,9 +43,32 @@ node check.mjs
 grid, logo assets, layout bounds, quote pool, and the invariant that the
 simulated IHSG never rises.
 
+`market-core.mjs` contains independently tested market normalization, event
+study, RSS parsing, latest-session and schedule-selection logic.
+
+## Market data
+
+```sh
+node scripts/fetch-data.mjs
+```
+
+This refreshes `data/live.json` from:
+
+- Yahoo Finance `^JKSE` daily chart data (delayed)
+- Google News RSS headlines linking to their original publishers
+
+Speech records in `data/events.json` are curated from official Presidency and
+Cabinet Secretariat pages. They currently have date-level precision, so the
+site calculates previous close → event-session close → next-session close. It
+does not fabricate intraday before/after figures. See `data/SOURCES.md` for the
+source audit and accuracy boundary.
+
+The included GitHub Actions workflow runs the test suite and refreshes the
+snapshot once after market close on weekdays.
+
 ## Stack
 
-Vanilla HTML, Canvas and JavaScript modules. No dependencies and no build step.
+Vanilla HTML, Canvas, SVG and JavaScript modules. No dependencies and no build step.
 
 Satire, not investment advice. Correlation between speeches and index movements
 is exaggerated for comedy. Logos and trademarks belong to their respective

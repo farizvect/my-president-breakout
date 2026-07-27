@@ -11,7 +11,7 @@
   html, body { margin: 0; min-height: 100%; background: #000; color: #e8e8e8;
     font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
   body { display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 14px 12px 24px; }
-  header, hr, #hud, #stage, footer { width: 100%; max-width: 880px; }
+  header, hr, #hud, #stage, footer, #market-terminal { width: 100%; max-width: 880px; }
   h1 { font-size: 13px; font-weight: 600; margin: 0; letter-spacing: .06em; text-transform: uppercase; }
   .sub { color: #777; margin-top: 2px; }
   hr { border: 0; border-top: 1px solid #262626; margin: 0; }
@@ -30,10 +30,63 @@
   button:hover { background: #fff; }
   footer { color: #555; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   kbd { border: 1px solid #333; padding: 0 5px; color: #aaa; }
+  #market-terminal { margin-top: 8px; }
+  .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 12px; }
+  .section-head h2 { margin: 0; font-size: 13px; letter-spacing: .06em; text-transform: uppercase; }
+  .muted, .source-line { color: #666; }
+  .source-line { font-size: 11px; }
+  .source-line a { color: #888; text-decoration: underline; text-underline-offset: 2px; }
+  .market-summary { display: grid; grid-template-columns: repeat(4, 1fr); border-block: 1px solid #262626; }
+  .metric { padding: 11px 12px 10px 0; }
+  .metric + .metric { border-left: 1px solid #262626; padding-left: 12px; }
+  .metric-label { display: block; color: #666; font-size: 10px; letter-spacing: .08em; margin-bottom: 2px; }
+  .metric-value { font-size: 15px; }
+  .negative { color: #ff5e5e !important; }
+  .positive { color: #6fdc8c !important; }
+  .terminal-layout { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(260px, .85fr); gap: 0; border-bottom: 1px solid #262626; }
+  .chart-panel { min-width: 0; padding: 16px 18px 12px 0; }
+  .speech-panel { min-width: 0; border-left: 1px solid #262626; padding: 16px 0 12px 18px; }
+  .panel-title { color: #777; font-size: 10px; letter-spacing: .08em; margin: 0 0 9px; }
+  #market-chart { display: block; width: 100%; height: auto; overflow: visible; }
+  .chart-label { fill: #666; font: 10px ui-monospace, monospace; }
+  .chart-event { stroke: #777; stroke-width: 1; stroke-dasharray: 3 4; }
+  .chart-event-dot { fill: #e8e8e8; }
+  .chart-line { fill: none; stroke: #d7d7d7; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+  .chart-area { fill: rgba(232,232,232,.045); }
+  .chart-grid { stroke: #202020; stroke-width: 1; }
+  #next-speech { margin-bottom: 16px; }
+  .empty-schedule { color: #888; padding: 9px 0; }
+  .event-list, .news-list { list-style: none; padding: 0; margin: 0; }
+  .event-list li { padding: 8px 0; border-top: 1px solid #1d1d1d; }
+  .event-list a, .news-list a { color: #d8d8d8; text-decoration: none; }
+  .event-list a:hover, .news-list a:hover { text-decoration: underline; }
+  .event-meta { display: flex; justify-content: space-between; gap: 10px; color: #666; font-size: 10px; margin-top: 3px; }
+  .impact-table { width: 100%; border-collapse: collapse; margin-top: 14px; }
+  .impact-table th, .impact-table td { padding: 7px 8px; border-bottom: 1px solid #1d1d1d; text-align: right; white-space: nowrap; }
+  .impact-table th { color: #666; font-size: 10px; font-weight: 400; letter-spacing: .06em; }
+  .impact-table th:first-child, .impact-table td:first-child { padding-left: 0; text-align: left; white-space: normal; }
+  .impact-table a { color: #d8d8d8; text-decoration: none; }
+  .impact-table a:hover { text-decoration: underline; }
+  .impact-scroll { max-width: 100%; overflow-x: auto; }
+  .news-section { padding-top: 16px; }
+  .news-list { display: grid; grid-template-columns: 1fr 1fr; column-gap: 28px; }
+  .news-list li { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 10px; padding: 9px 0; border-top: 1px solid #1d1d1d; }
+  .news-time { color: #666; font-size: 10px; padding-top: 2px; }
+  .news-source { color: #666; font-size: 10px; display: block; margin-top: 2px; }
+  .terminal-error { border: 1px solid #552626; color: #ff7777; padding: 10px; }
   @media (max-width: 520px) {
     body { padding-inline: 6px; }
     #hud { gap: 8px 16px; }
     footer { font-size: 11px; }
+    .section-head { align-items: flex-start; flex-direction: column; gap: 3px; }
+    .market-summary { grid-template-columns: 1fr 1fr; }
+    .metric:nth-child(3) { border-left: 0; border-top: 1px solid #262626; }
+    .metric:nth-child(4) { border-top: 1px solid #262626; }
+    .terminal-layout { grid-template-columns: 1fr; }
+    .chart-panel { padding-right: 0; }
+    .speech-panel { border-left: 0; border-top: 1px solid #262626; padding: 16px 0; }
+    .news-list { grid-template-columns: 1fr; }
+    .impact-table { min-width: 570px; font-size: 11px; }
   }
 </style>
 </head>
@@ -62,6 +115,46 @@
   <span><kbd>←</kbd> <kbd>→</kbd> move &middot; <kbd>Space</kbd> launch &middot; <kbd>P</kbd> pause &middot; mouse/touch supported</span>
   <span>Satire. Not investment advice. Trademarks belong to their owners.</span>
 </footer>
+<hr>
+<section id="market-terminal" aria-labelledby="terminal-title">
+  <div class="section-head">
+    <h2 id="terminal-title">Market Terminal</h2>
+    <span id="data-age" class="muted">Loading delayed market data…</span>
+  </div>
+  <div id="terminal-error" class="terminal-error" hidden></div>
+  <div class="market-summary" aria-label="IDX Composite market summary">
+    <div class="metric"><span class="metric-label">IDX COMPOSITE</span><span id="market-price" class="metric-value">—</span></div>
+    <div class="metric"><span class="metric-label">DAILY MOVE</span><span id="market-change" class="metric-value">—</span></div>
+    <div class="metric"><span class="metric-label">SPEECHES TRACKED</span><span id="speech-count" class="metric-value">—</span></div>
+    <div class="metric"><span class="metric-label">AVG EVENT DAY</span><span id="average-impact" class="metric-value">—</span></div>
+  </div>
+  <div class="terminal-layout">
+    <div class="chart-panel">
+      <p class="panel-title">ONE-YEAR IHSG · OFFICIAL SPEECH DATES MARKED</p>
+      <svg id="market-chart" viewBox="0 0 580 270" role="img" aria-label="One-year IDX Composite chart with presidential speech markers"></svg>
+      <div class="source-line">Delayed daily closes via <a href="https://finance.yahoo.com/quote/%5EJKSE/" target="_blank" rel="noreferrer">Yahoo Finance ^JKSE</a>.</div>
+    </div>
+    <aside class="speech-panel">
+      <p class="panel-title">SPEECH SCHEDULE</p>
+      <div id="next-speech"></div>
+      <ul id="speech-list" class="event-list"></ul>
+    </aside>
+  </div>
+  <div class="impact-scroll">
+    <table class="impact-table">
+      <thead><tr><th>Speech event</th><th>Event close</th><th>Event day</th><th>Next session</th></tr></thead>
+      <tbody id="impact-rows"></tbody>
+    </table>
+    <p class="source-line">Daily event study only: previous close → event-session close → next-session close. Correlation is not causation.</p>
+  </div>
+  <div class="news-section">
+    <p class="panel-title">LATEST IHSG HEADLINES</p>
+    <ul id="news-list" class="news-list"></ul>
+    <p class="source-line">Headline index via Google News RSS. Articles remain with their publishers.</p>
+  </div>
+</section>
+<hr>
 <script type="module" src="game.js"></script>
+<script type="module" src="market.js"></script>
 </body>
 </html>
