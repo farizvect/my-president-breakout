@@ -18,21 +18,6 @@ python3 -m http.server 8080
 
 Controls: `←` `→` move · `Space` launch · `P` pause · mouse/touch supported.
 
-## Power-ups
-
-Destroyed bricks have a chance to drop a stock-logo power-up:
-
-| Logo | Effect |
-|------|--------|
-| BNBR | Wide paddle |
-| BUMI | Slow ball |
-| BRMS | Wide paddle |
-| PTPP | Slow ball |
-| WSKT | Wide paddle |
-
-The wider paddle lasts ten seconds. Slow-ball drops reduce velocity immediately
-without allowing the game to stall below its minimum playable speed.
-
 ## Physics
 
 - Fixed 120 Hz simulation independent of display frame rate
@@ -50,8 +35,8 @@ node check.mjs
 ```
 
 `game-core.mjs` is DOM-free and unit-tested. `check.mjs` verifies the 50-brick
-grid, five power-up logos, layout bounds, quote pool, and the invariant that
-the simulated IHSG never rises.
+grid, logo assets, layout bounds, quote pool, and the invariant that the
+simulated IHSG never rises.
 
 ## Stack
 

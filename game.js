@@ -2,8 +2,6 @@ import {
   circleHitsRect,
   reflectFromPaddle,
   clampBallSpeed,
-  applyPowerUp,
-  advancePowerUps,
 } from './game-core.mjs';
 
 const TICKERS = [
@@ -29,15 +27,6 @@ const QUOTES = [
   'This is precisely the right momentum.',
 ];
 
-// The "index saviors": Bakrie group, PP and Waskita appear as collectible drops.
-const POWER_UPS = [
-  { ticker: 'BNBR', type: 'wide', label: 'WIDE PODIUM' },
-  { ticker: 'BUMI', type: 'slow', label: 'SLOW SPEECH' },
-  { ticker: 'BRMS', type: 'wide', label: 'WIDE PODIUM' },
-  { ticker: 'PTPP', type: 'slow', label: 'SLOW SPEECH' },
-  { ticker: 'WSKT', type: 'wide', label: 'WIDE PODIUM' },
-];
-
 const W = 880, H = 620;
 const COLS = 10, ROWS = 5;
 const PAD_X = 24, TOP = 78, CELL_W = (W - PAD_X * 2) / COLS, CELL_H = 52;
@@ -54,7 +43,6 @@ const el = {
   delta: document.getElementById('delta'),
   lives: document.getElementById('lives'),
   cleared: document.getElementById('cleared'),
-  power: document.getElementById('power'),
   overlay: document.getElementById('overlay'),
   otitle: document.getElementById('otitle'),
   omsg: document.getElementById('omsg'),
@@ -66,17 +54,13 @@ const imageFor = (ticker) => {
   img.src = `logos/${ticker}.png`;
   return img;
 };
-const images = Object.fromEntries([...TICKERS, ...POWER_UPS.map((p) => p.ticker)]
-  .map((ticker) => [ticker, imageFor(ticker)]));
+const images = Object.fromEntries(TICKERS.map((ticker) => [ticker, imageFor(ticker)]));
 
 const state = {
   ball: { x: W / 2, y: 0, vx: 0, vy: 0 },
-  basePaddleWidth: BASE_PADDLE_W,
-  paddleWidth: BASE_PADDLE_W,
-  effectUntil: 0,
 };
 let bricks, paddleX, ihsg, lives, running, launched, paused, quote, quoteAt;
-let drops = [], particles = [], trail = [], shake = 0, dropCursor = 0;
+let particles = [], trail = [], shake = 0;
 let lastTime = 0, accumulator = 0;
 const keys = { left: false, right: false };
 
@@ -92,17 +76,14 @@ function reset(full) {
     lives = 3;
     quote = '';
     quoteAt = 0;
-    drops = [];
     particles = [];
     trail = [];
-    state.paddleWidth = BASE_PADDLE_W;
-    state.effectUntil = 0;
   }
   resetBall();
 }
 
 function resetBall() {
-  paddleX = (W - state.paddleWidth) / 2;
+  paddleX = (W - BASE_PADDLE_W) / 2;
   Object.assign(state.ball, { x: W / 2, y: PADDLE_Y - BALL_R - 2, vx: 0, vy: 0 });
   trail = [];
   launched = false;
@@ -116,20 +97,13 @@ function launch() {
   launched = true;
 }
 
-function hud(now = performance.now()) {
+function hud() {
   const pct = ((ihsg - IHSG_OPEN) / IHSG_OPEN) * 100;
   el.score.textContent = ihsg.toFixed(2);
   el.delta.textContent = `${pct.toFixed(2)}%`;
   el.delta.className = pct < 0 ? 'down' : '';
   el.lives.textContent = '●'.repeat(Math.max(lives, 0)).padEnd(3, '○');
   el.cleared.textContent = `${bricks.filter((b) => !b.alive).length}/${bricks.length}`;
-  if (state.effectUntil > now) {
-    el.power.textContent = `WIDE ${Math.ceil((state.effectUntil - now) / 1000)}s`;
-    el.power.className = 'active';
-  } else {
-    el.power.textContent = '—';
-    el.power.className = '';
-  }
 }
 
 function overlay(title, msg, button) {
@@ -148,13 +122,6 @@ function spawnParticles(x, y) {
   }
 }
 
-function maybeDrop(brick) {
-  if (Math.random() > 0.28) return;
-  const spec = POWER_UPS[dropCursor % POWER_UPS.length];
-  dropCursor += 1;
-  drops.push({ ...spec, x: brick.x + BRICK_W / 2, y: brick.y + BRICK_H / 2,
-    vy: 125, size: 34, spin: 0 });
-}
 
 function resolveBrickCollision(brick, previous) {
   const ball = state.ball;
@@ -175,24 +142,6 @@ function resolveBrickCollision(brick, previous) {
   }
 }
 
-function updateDrops(dt, now) {
-  const paddle = { x: paddleX, y: PADDLE_Y, w: state.paddleWidth, h: PADDLE_H };
-  for (const drop of drops) {
-    drop.y += drop.vy * dt;
-    drop.spin += dt * 2;
-    if (circleHitsRect({ x: drop.x, y: drop.y, r: drop.size / 2 }, paddle)) {
-      applyPowerUp(state, drop, now);
-      paddleX = Math.max(0, Math.min(W - state.paddleWidth,
-        paddleX - (state.paddleWidth - paddle.w) / 2));
-      quote = `${drop.ticker}: ${drop.label}`;
-      quoteAt = now;
-      spawnParticles(drop.x, drop.y);
-      drop.caught = true;
-      hud(now);
-    }
-  }
-  drops = drops.filter((drop) => !drop.caught && drop.y - drop.size < H);
-}
 
 function updateParticles(dt) {
   for (const p of particles) {
@@ -205,17 +154,15 @@ function updateParticles(dt) {
 }
 
 function step(dt, now) {
-  advancePowerUps(state, now);
   const movement = 520 * dt;
   if (keys.left) paddleX -= movement;
   if (keys.right) paddleX += movement;
-  paddleX = Math.max(0, Math.min(W - state.paddleWidth, paddleX));
+  paddleX = Math.max(0, Math.min(W - BASE_PADDLE_W, paddleX));
 
-  updateDrops(dt, now);
   updateParticles(dt);
 
   if (!launched) {
-    state.ball.x = paddleX + state.paddleWidth / 2;
+    state.ball.x = paddleX + BASE_PADDLE_W / 2;
     state.ball.y = PADDLE_Y - BALL_R - 2;
     hud(now);
     return;
@@ -230,7 +177,7 @@ function step(dt, now) {
   if (ball.x > W - BALL_R) { ball.x = W - BALL_R; ball.vx = -Math.abs(ball.vx); shake = 2; }
   if (ball.y < BALL_R) { ball.y = BALL_R; ball.vy = Math.abs(ball.vy); shake = 2; }
 
-  const paddle = { x: paddleX, y: PADDLE_Y, w: state.paddleWidth, h: PADDLE_H };
+  const paddle = { x: paddleX, y: PADDLE_Y, w: BASE_PADDLE_W, h: PADDLE_H };
   if (ball.vy > 0 && circleHitsRect({ x: ball.x, y: ball.y, r: BALL_R }, paddle)) {
     const speed = Math.min(Math.hypot(ball.vx, ball.vy) * 1.035, MAX_SPEED);
     Object.assign(ball, reflectFromPaddle(ball, paddle, speed));
@@ -246,7 +193,6 @@ function step(dt, now) {
     ihsg -= 12 + (ROWS - 1 - Math.floor((brick.y - TOP) / CELL_H)) * 6;
     quote = QUOTES[Math.floor(Math.random() * QUOTES.length)];
     quoteAt = now;
-    maybeDrop(brick);
     spawnParticles(brick.x + BRICK_W / 2, brick.y + BRICK_H / 2);
     shake = 4;
     const safe = clampBallSpeed(ball, MIN_SPEED, MAX_SPEED);
@@ -314,21 +260,6 @@ function draw(now) {
     }
   }
 
-  for (const drop of drops) {
-    const size = drop.size;
-    ctx.save();
-    ctx.translate(drop.x, drop.y);
-    ctx.rotate(Math.sin(drop.spin) * 0.08);
-    ctx.fillStyle = '#e8e8e8';
-    ctx.fillRect(-size / 2, -size / 2, size, size);
-    drawImageContained(images[drop.ticker], -size / 2, -size / 2, size, size, 3);
-    ctx.strokeStyle = '#fff';
-    ctx.strokeRect(-size / 2 + 0.5, -size / 2 + 0.5, size - 1, size - 1);
-    ctx.restore();
-    ctx.fillStyle = '#aaa';
-    ctx.font = '600 9px ui-monospace, monospace';
-    ctx.fillText(drop.ticker, drop.x, drop.y + size / 2 + 8);
-  }
 
   for (let i = trail.length - 1; i >= 0; i -= 1) {
     const alpha = (trail.length - i) / trail.length * 0.16;
@@ -344,10 +275,10 @@ function draw(now) {
   }
 
   ctx.fillStyle = '#e8e8e8';
-  ctx.fillRect(paddleX, PADDLE_Y, state.paddleWidth, PADDLE_H);
+  ctx.fillRect(paddleX, PADDLE_Y, BASE_PADDLE_W, PADDLE_H);
   ctx.fillStyle = '#000';
   ctx.font = '700 13px ui-monospace, SFMono-Regular, Menlo, monospace';
-  ctx.fillText('Presidential Speech', paddleX + state.paddleWidth / 2, PADDLE_Y + PADDLE_H / 2 + 1);
+  ctx.fillText('Presidential Speech', paddleX + BASE_PADDLE_W / 2, PADDLE_Y + PADDLE_H / 2 + 1);
 
   ctx.beginPath();
   ctx.arc(state.ball.x, state.ball.y, BALL_R, 0, Math.PI * 2);
@@ -408,8 +339,8 @@ addEventListener('keyup', (event) => {
 
 function pointTo(clientX) {
   const rect = cv.getBoundingClientRect();
-  paddleX = Math.max(0, Math.min(W - state.paddleWidth,
-    ((clientX - rect.left) / rect.width) * W - state.paddleWidth / 2));
+  paddleX = Math.max(0, Math.min(W - BASE_PADDLE_W,
+    ((clientX - rect.left) / rect.width) * W - BASE_PADDLE_W / 2));
 }
 cv.addEventListener('pointermove', (event) => { if (running && !paused) pointTo(event.clientX); });
 cv.addEventListener('pointerdown', (event) => {

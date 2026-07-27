@@ -1,4 +1,4 @@
-// Pure physics and power-up helpers. Kept DOM-free so gameplay behavior is testable.
+// Pure physics helpers. Kept DOM-free so gameplay behavior is testable.
 
 export function circleHitsRect(circle, rect) {
   const nearestX = Math.max(rect.x, Math.min(circle.x, rect.x + rect.w));
@@ -24,28 +24,4 @@ export function reflectFromPaddle(ball, paddle, speed) {
     vx: Math.sin(angle) * speed,
     vy: -Math.abs(Math.cos(angle) * speed),
   };
-}
-
-export function applyPowerUp(state, powerUp, now) {
-  if (powerUp.type === 'slow') {
-    const slowed = clampBallSpeed({
-      vx: state.ball.vx * 0.55,
-      vy: state.ball.vy * 0.55,
-    }, 4, 12);
-    state.ball.vx = slowed.vx;
-    state.ball.vy = slowed.vy;
-    return;
-  }
-
-  if (powerUp.type === 'wide') {
-    state.paddleWidth = state.basePaddleWidth * 1.5;
-    state.effectUntil = now + 10000;
-  }
-}
-
-export function advancePowerUps(state, now) {
-  if (state.effectUntil && now >= state.effectUntil) {
-    state.paddleWidth = state.basePaddleWidth;
-    state.effectUntil = 0;
-  }
 }

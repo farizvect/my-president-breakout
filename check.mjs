@@ -9,12 +9,8 @@ const num = (k) => Number(src.match(new RegExp(`\\b${k} = ([\\d.]+)`))[1]);
 const [W, H, COLS, ROWS, PAD_X, TOP, CELL_H] = ['W', 'H', 'COLS', 'ROWS', 'PAD_X', 'TOP', 'CELL_H'].map(num);
 const PADDLE_Y = H - 46;
 
-const powerTickers = src.match(/const POWER_UPS = \[([\s\S]*?)\];/)[1]
-  .match(/ticker: '[A-Z]{4}'/g).map((s) => s.slice(-5, -1));
-const allLogos = [...tickers, ...powerTickers];
-const missing = allLogos.filter((t) => !existsSync(new URL(`./logos/${t}.png`, import.meta.url)));
+const missing = tickers.filter((t) => !existsSync(new URL(`./logos/${t}.png`, import.meta.url)));
 if (missing.length) throw new Error(`missing logos: ${missing.join(', ')}`);
-if (powerTickers.length < 5) throw new Error('expected at least five power-up stocks');
 if (tickers.length !== COLS * ROWS) throw new Error(`${tickers.length} tickers != ${COLS}x${ROWS} grid`);
 if (new Set(tickers).size !== tickers.length) throw new Error('duplicate tickers');
 if (TOP + ROWS * CELL_H >= PADDLE_Y) throw new Error('brick grid overlaps paddle');
@@ -28,7 +24,7 @@ const worst = open - tickers.length * (12 + (ROWS - 1) * 6);
 if (worst <= 0) throw new Error(`IHSG bisa tembus nol (${worst})`);
 
 const quotes = src.match(/const QUOTES = \[([\s\S]*?)\];/)[1].match(/'[^']+'/g);
-if (quotes.length < 5) throw new Error('kutipan pidatonya kurang banyak');
+if (quotes.length < 5) throw new Error('not enough speech quotes');
 
-console.log(`ok — ${tickers.length} bricks + ${powerTickers.length} power-ups, all logos present, grid clears paddle by ${PADDLE_Y - (TOP + ROWS * CELL_H)}px, `
+console.log(`ok — ${tickers.length} bricks, all logos present, grid clears paddle by ${PADDLE_Y - (TOP + ROWS * CELL_H)}px, `
   + `${quotes.length} quotes, IHSG ${open} -> minimum ${worst} (drop: ${drop.trim()})`);
