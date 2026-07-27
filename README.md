@@ -9,7 +9,8 @@ IHSG lower.
 The original game remains the main experience. Below it, a data-backed Market
 Terminal adds delayed IHSG prices, a one-year chart, sourced presidential speech
 markers, daily event-impact calculations, a verified speech archive, and recent
-IHSG headlines.
+IHSG headlines. A persistent Light/Dark switch themes the page, chart, overlays,
+and canvas game together while respecting the system preference on first visit.
 
 Inspired by [Open Weights Breakout](https://huggingface.co/spaces/burtenshaw/open-weights-breakout)
 by burtenshaw.

@@ -2,6 +2,7 @@ import {
   circleHitsRect,
   reflectFromPaddle,
   clampBallSpeed,
+  shouldHandleGameKey,
 } from './game-core.mjs';
 
 const TICKERS = [
@@ -38,6 +39,27 @@ const FIXED_STEP = 1 / 120;
 
 const cv = document.getElementById('c');
 const ctx = cv.getContext('2d');
+let palette = {};
+
+function refreshPalette() {
+  const styles = getComputedStyle(document.documentElement);
+  const color = (name) => styles.getPropertyValue(name).trim();
+  palette = {
+    brick: color('--canvas-brick'),
+    brickBorder: color('--canvas-brick-border'),
+    quote: color('--canvas-quote'),
+    accent: color('--canvas-accent'),
+    fallback: color('--canvas-fallback'),
+    paddle: color('--canvas-paddle'),
+    paddleText: color('--canvas-paddle-text'),
+    ball: color('--canvas-ball'),
+    pause: color('--canvas-pause'),
+    pauseText: color('--canvas-pause-text'),
+  };
+}
+refreshPalette();
+window.addEventListener('themechange', refreshPalette);
+
 const el = {
   score: document.getElementById('score'),
   delta: document.getElementById('delta'),
@@ -242,19 +264,19 @@ function draw(now) {
   ctx.textBaseline = 'middle';
 
   if (quote && now - quoteAt < 2200) {
-    ctx.fillStyle = quote.includes(':') ? '#d8d8d8' : '#4a4a4a';
+    ctx.fillStyle = palette.quote;
     ctx.font = 'italic 13px ui-monospace, monospace';
     ctx.fillText(`“ ${quote} ”`, W / 2, 34);
   }
 
   for (const brick of bricks) {
     if (!brick.alive) continue;
-    ctx.fillStyle = '#101010';
+    ctx.fillStyle = palette.brick;
     ctx.fillRect(brick.x, brick.y, BRICK_W, BRICK_H);
-    ctx.strokeStyle = '#2a2a2a';
+    ctx.strokeStyle = palette.brickBorder;
     ctx.strokeRect(brick.x + 0.5, brick.y + 0.5, BRICK_W - 1, BRICK_H - 1);
     if (!drawImageContained(images[brick.ticker], brick.x, brick.y, BRICK_W, BRICK_H)) {
-      ctx.fillStyle = '#888';
+      ctx.fillStyle = palette.fallback;
       ctx.font = '600 12px ui-monospace, monospace';
       ctx.fillText(brick.ticker, brick.x + BRICK_W / 2, brick.y + BRICK_H / 2);
     }
@@ -265,35 +287,39 @@ function draw(now) {
     const alpha = (trail.length - i) / trail.length * 0.16;
     ctx.beginPath();
     ctx.arc(trail[i].x, trail[i].y, BALL_R * (1 - i / trail.length * 0.55), 0, Math.PI * 2);
-    ctx.fillStyle = `rgba(232,232,232,${alpha})`;
+    ctx.globalAlpha = alpha;
+    ctx.fillStyle = palette.accent;
     ctx.fill();
   }
+  ctx.globalAlpha = 1;
 
   for (const p of particles) {
-    ctx.fillStyle = `rgba(232,232,232,${Math.min(1, p.life * 2)})`;
+    ctx.globalAlpha = Math.min(1, p.life * 2);
+    ctx.fillStyle = palette.accent;
     ctx.fillRect(p.x - 1.5, p.y - 1.5, 3, 3);
   }
+  ctx.globalAlpha = 1;
 
-  ctx.fillStyle = '#e8e8e8';
+  ctx.fillStyle = palette.paddle;
   ctx.fillRect(paddleX, PADDLE_Y, BASE_PADDLE_W, PADDLE_H);
-  ctx.fillStyle = '#000';
+  ctx.fillStyle = palette.paddleText;
   ctx.font = '700 13px ui-monospace, SFMono-Regular, Menlo, monospace';
   ctx.fillText('Presidential Speech', paddleX + BASE_PADDLE_W / 2, PADDLE_Y + PADDLE_H / 2 + 1);
 
   ctx.beginPath();
   ctx.arc(state.ball.x, state.ball.y, BALL_R, 0, Math.PI * 2);
-  ctx.fillStyle = '#fff';
+  ctx.fillStyle = palette.ball;
   ctx.fill();
 
   if (running && !launched && !paused) {
-    ctx.fillStyle = '#666';
+    ctx.fillStyle = palette.fallback;
     ctx.font = '12px ui-monospace, monospace';
     ctx.fillText('SPACE / tap to begin speaking', W / 2, PADDLE_Y - 34);
   }
   if (paused) {
-    ctx.fillStyle = 'rgba(0,0,0,.72)';
+    ctx.fillStyle = palette.pause;
     ctx.fillRect(0, 0, W, H);
-    ctx.fillStyle = '#e8e8e8';
+    ctx.fillStyle = palette.pauseText;
     ctx.font = '600 16px ui-monospace, monospace';
     ctx.fillText('PAUSED — the market catches its breath', W / 2, H / 2);
   }
@@ -323,10 +349,12 @@ function begin() {
   paused = false;
   accumulator = 0;
   el.overlay.hidden = true;
+  cv.focus({ preventScroll: true });
 }
 
 el.start.addEventListener('click', begin);
 addEventListener('keydown', (event) => {
+  if (!shouldHandleGameKey(event.target?.tagName)) return;
   if (event.key === 'ArrowLeft') keys.left = true;
   if (event.key === 'ArrowRight') keys.right = true;
   if (event.code === 'Space') { event.preventDefault(); running ? launch() : begin(); }

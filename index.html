@@ -1,127 +1,199 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Presidential Speech — IHSG Simulator</title>
-<meta name="description" content="Every presidential speech moves the market. An Indonesian stock exchange satire.">
+<meta name="description" content="Every presidential speech moves the market. An Indonesian stock exchange satire with sourced IHSG context.">
+<meta name="theme-color" content="#050505" id="theme-color">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>📉</text></svg>">
+<script>
+  (() => {
+    try {
+      const saved = localStorage.getItem('presidential-speech-theme');
+      const theme = saved === 'light' || saved === 'dark' ? saved : matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      document.documentElement.dataset.theme = theme;
+      document.documentElement.style.colorScheme = theme;
+    } catch {}
+  })();
+</script>
 <style>
+  :root {
+    --bg: #050505; --surface: #0b0b0a; --fg: #e9e9e6; --muted: #92928d; --faint: #70706b;
+    --rule: #2c2c2a; --rule-soft: #1e1e1c; --danger: #ff6767; --success: #70d894;
+    --button-bg: #e9e9e6; --button-fg: #080808; --button-hover: #fff;
+    --overlay: rgba(5,5,5,.9); --focus: #fff;
+    --chart-line: #deded9; --chart-area: rgba(232,232,226,.06); --chart-grid: #222220;
+    --canvas-bg: #080808; --canvas-brick: #111110; --canvas-brick-border: #30302d;
+    --canvas-quote: #555550; --canvas-accent: #e9e9e6; --canvas-fallback: #92928d;
+    --canvas-paddle: #e9e9e6; --canvas-paddle-text: #050505; --canvas-ball: #fff;
+    --canvas-pause: rgba(5,5,5,.76); --canvas-pause-text: #e9e9e6;
+  }
+  :root[data-theme="light"] {
+    --bg: #f5f3ed; --surface: #ece9e1; --fg: #121210; --muted: #5f5c55; --faint: #777268;
+    --rule: #c9c4b8; --rule-soft: #ddd8ce; --danger: #b42318; --success: #177245;
+    --button-bg: #151513; --button-fg: #f7f5ef; --button-hover: #343430;
+    --overlay: rgba(245,243,237,.93); --focus: #111;
+    --chart-line: #191917; --chart-area: rgba(20,20,18,.06); --chart-grid: #ddd8ce;
+    --canvas-bg: #ebe8df; --canvas-brick: #f8f6f0; --canvas-brick-border: #c8c2b6;
+    --canvas-quote: #676259; --canvas-accent: #171715; --canvas-fallback: #676259;
+    --canvas-paddle: #171715; --canvas-paddle-text: #f8f6f0; --canvas-ball: #111;
+    --canvas-pause: rgba(245,243,237,.82); --canvas-pause-text: #111;
+  }
   * { box-sizing: border-box; }
-  html, body { margin: 0; min-height: 100%; background: #000; color: #e8e8e8;
-    font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-  body { display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 14px 12px 24px; }
-  header, hr, #hud, #stage, footer, #market-terminal { width: 100%; max-width: 880px; }
-  h1 { font-size: 13px; font-weight: 600; margin: 0; letter-spacing: .06em; text-transform: uppercase; }
-  .sub { color: #777; margin-top: 2px; }
-  hr { border: 0; border-top: 1px solid #262626; margin: 0; }
-  #hud { display: flex; gap: 22px; flex-wrap: wrap; color: #777; }
-  #hud b { color: #e8e8e8; font-weight: 600; }
-  #delta { color: #777; }
-  #delta.down { color: #ff4d4d; }
+  html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+  html, body { margin: 0; min-height: 100%; background: var(--bg); color: var(--fg); }
+  body { display: flex; flex-direction: column; align-items: center; gap: 14px; padding: 18px 16px 34px;
+    font: 13px/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; transition: background-color .18s, color .18s; }
+  button, a { -webkit-tap-highlight-color: transparent; }
+  a { color: inherit; }
+  a:focus-visible, button:focus-visible, canvas:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
+  .skip-link { position: fixed; top: 8px; left: 8px; z-index: 20; transform: translateY(-160%); background: var(--button-bg); color: var(--button-fg); padding: 8px 10px; }
+  .skip-link:focus { transform: translateY(0); }
+  .site-header, .rule, #game, #market-terminal, .site-footer { width: 100%; max-width: 880px; }
+  .site-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; }
+  h1 { font-size: 14px; font-weight: 650; margin: 0; letter-spacing: .055em; text-transform: uppercase; }
+  .sub { color: var(--muted); margin-top: 3px; }
+  .site-nav { display: flex; align-items: center; gap: 4px; flex: 0 0 auto; }
+  .site-nav a, .theme-toggle { min-height: 40px; display: inline-flex; align-items: center; border: 1px solid transparent; background: transparent; color: var(--muted);
+    padding: 5px 8px; font: inherit; font-size: 11px; letter-spacing: .06em; text-decoration: none; cursor: pointer; }
+  .site-nav a:hover, .theme-toggle:hover { color: var(--fg); border-color: var(--rule); }
+  .theme-toggle { margin-left: 4px; border-color: var(--rule); color: var(--fg); min-width: 58px; justify-content: center; }
+  .rule { border: 0; border-top: 1px solid var(--rule); margin: 0; }
+  #game { scroll-margin-top: 16px; }
+  #hud { display: flex; gap: 8px 24px; flex-wrap: wrap; color: var(--muted); margin-bottom: 10px; }
+  #hud b { color: var(--fg); font-weight: 650; }
+  #delta { color: var(--muted); }
+  #delta.down { color: var(--danger); }
   #stage { position: relative; }
-  canvas { display: block; width: 100%; height: auto; background: #060606; border: 1px solid #262626; touch-action: none; }
-  #overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center;
-    justify-content: center; gap: 12px; background: rgba(0,0,0,.86); text-align: center; padding: 22px; }
+  canvas { display: block; width: 100%; height: auto; background: var(--canvas-bg); border: 1px solid var(--rule); touch-action: none; transition: background-color .18s; }
+  #overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px;
+    background: var(--overlay); color: var(--fg); text-align: center; padding: 22px; backdrop-filter: blur(2px); }
   #overlay[hidden] { display: none; }
-  #otitle { font-size: 18px; letter-spacing: .08em; text-transform: uppercase; }
-  #omsg { color: #999; max-width: 52ch; }
-  button { font: inherit; color: #000; background: #e8e8e8; border: 0; padding: 8px 18px; cursor: pointer; letter-spacing: .06em; }
-  button:hover { background: #fff; }
-  footer { color: #555; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
-  kbd { border: 1px solid #333; padding: 0 5px; color: #aaa; }
-  #market-terminal { margin-top: 8px; }
+  #otitle { font-size: 19px; font-weight: 650; letter-spacing: .07em; text-transform: uppercase; }
+  #omsg { color: var(--muted); max-width: 52ch; }
+  #start { min-height: 40px; font: inherit; color: var(--button-fg); background: var(--button-bg); border: 1px solid var(--button-bg); padding: 8px 20px;
+    cursor: pointer; letter-spacing: .06em; }
+  #start:hover { background: var(--button-hover); border-color: var(--button-hover); }
+  .game-controls { color: var(--faint); display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding-top: 9px; font-size: 11px; }
+  kbd { border: 1px solid var(--rule); padding: 1px 5px; color: var(--muted); background: var(--surface); }
+  #market-terminal { scroll-margin-top: 16px; margin-top: 4px; }
   .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 12px; }
-  .section-head h2 { margin: 0; font-size: 13px; letter-spacing: .06em; text-transform: uppercase; }
-  .muted, .source-line { color: #666; }
-  .source-line { font-size: 11px; }
-  .source-line a { color: #888; text-decoration: underline; text-underline-offset: 2px; }
-  .market-summary { display: grid; grid-template-columns: repeat(4, 1fr); border-block: 1px solid #262626; }
-  .metric { padding: 11px 12px 10px 0; }
-  .metric + .metric { border-left: 1px solid #262626; padding-left: 12px; }
-  .metric-label { display: block; color: #666; font-size: 10px; letter-spacing: .08em; margin-bottom: 2px; }
-  .metric-value { font-size: 15px; }
-  .negative { color: #ff5e5e !important; }
-  .positive { color: #6fdc8c !important; }
-  .terminal-layout { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(260px, .85fr); gap: 0; border-bottom: 1px solid #262626; }
-  .chart-panel { min-width: 0; padding: 16px 18px 12px 0; }
-  .speech-panel { min-width: 0; border-left: 1px solid #262626; padding: 16px 0 12px 18px; }
-  .panel-title { color: #777; font-size: 10px; letter-spacing: .08em; margin: 0 0 9px; }
+  .section-head h2 { margin: 0; font-size: 14px; letter-spacing: .055em; text-transform: uppercase; }
+  .muted, .source-line { color: var(--muted); }
+  .source-line { font-size: 11px; margin: 10px 0 0; }
+  .source-line a { color: var(--muted); text-decoration: underline; text-underline-offset: 3px; }
+  .market-summary { display: grid; grid-template-columns: repeat(4, 1fr); border-block: 1px solid var(--rule); }
+  .metric { padding: 12px 13px 11px 0; min-width: 0; }
+  .metric + .metric { border-left: 1px solid var(--rule); padding-left: 13px; }
+  .metric-label { display: block; color: var(--muted); font-size: 10px; letter-spacing: .075em; margin-bottom: 3px; }
+  .metric-value { display: block; overflow: hidden; text-overflow: ellipsis; font-size: 16px; font-variant-numeric: tabular-nums; }
+  .negative { color: var(--danger) !important; }
+  .positive { color: var(--success) !important; }
+  .terminal-layout { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(260px, .85fr); border-bottom: 1px solid var(--rule); }
+  .chart-panel { min-width: 0; padding: 18px 20px 14px 0; }
+  .speech-panel { min-width: 0; border-left: 1px solid var(--rule); padding: 18px 0 14px 20px; }
+  .panel-title { color: var(--muted); font-size: 10px; letter-spacing: .075em; margin: 0 0 10px; }
   #market-chart { display: block; width: 100%; height: auto; overflow: visible; }
-  .chart-label { fill: #666; font: 10px ui-monospace, monospace; }
-  .chart-event { stroke: #777; stroke-width: 1; stroke-dasharray: 3 4; }
-  .chart-event-dot { fill: #e8e8e8; }
-  .chart-line { fill: none; stroke: #d7d7d7; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
-  .chart-area { fill: rgba(232,232,232,.045); }
-  .chart-grid { stroke: #202020; stroke-width: 1; }
+  .chart-label { fill: var(--muted); font: 10px ui-monospace, monospace; }
+  .chart-event { stroke: var(--muted); stroke-width: 1; stroke-dasharray: 3 4; }
+  .chart-event-dot { fill: var(--fg); stroke: var(--bg); stroke-width: 1.5; }
+  .chart-line { fill: none; stroke: var(--chart-line); stroke-width: 1.6; vector-effect: non-scaling-stroke; }
+  .chart-area { fill: var(--chart-area); }
+  .chart-grid { stroke: var(--chart-grid); stroke-width: 1; }
+  .chart-legend { display: flex; gap: 14px; align-items: center; color: var(--muted); font-size: 10px; margin-top: 4px; }
+  .chart-legend i { display: inline-block; width: 6px; height: 6px; background: var(--fg); margin-right: 5px; }
   #next-speech { margin-bottom: 16px; }
-  .empty-schedule { color: #888; padding: 9px 0; }
+  .empty-schedule { color: var(--muted); padding: 8px 0 2px; }
   .event-list, .news-list { list-style: none; padding: 0; margin: 0; }
-  .event-list li { padding: 8px 0; border-top: 1px solid #1d1d1d; }
-  .event-list a, .news-list a { color: #d8d8d8; text-decoration: none; }
-  .event-list a:hover, .news-list a:hover { text-decoration: underline; }
-  .event-meta { display: flex; justify-content: space-between; gap: 10px; color: #666; font-size: 10px; margin-top: 3px; }
-  .impact-table { width: 100%; border-collapse: collapse; margin-top: 14px; }
-  .impact-table th, .impact-table td { padding: 7px 8px; border-bottom: 1px solid #1d1d1d; text-align: right; white-space: nowrap; }
-  .impact-table th { color: #666; font-size: 10px; font-weight: 400; letter-spacing: .06em; }
+  .event-list li { padding: 9px 0; border-top: 1px solid var(--rule-soft); }
+  .event-list a, .news-list a { color: var(--fg); text-decoration: none; }
+  .event-list a:hover, .news-list a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .event-meta { display: flex; justify-content: space-between; gap: 10px; color: var(--muted); font-size: 10px; margin-top: 4px; }
+  .impact-scroll { max-width: 100%; overflow-x: auto; scrollbar-color: var(--rule) transparent; }
+  .impact-table { width: 100%; border-collapse: collapse; margin-top: 15px; font-variant-numeric: tabular-nums; }
+  .impact-table th, .impact-table td { padding: 8px; border-bottom: 1px solid var(--rule-soft); text-align: right; white-space: nowrap; }
+  .impact-table th { color: var(--muted); font-size: 10px; font-weight: 400; letter-spacing: .055em; }
   .impact-table th:first-child, .impact-table td:first-child { padding-left: 0; text-align: left; white-space: normal; }
-  .impact-table a { color: #d8d8d8; text-decoration: none; }
-  .impact-table a:hover { text-decoration: underline; }
-  .impact-scroll { max-width: 100%; overflow-x: auto; }
-  .news-section { padding-top: 16px; }
-  .news-list { display: grid; grid-template-columns: 1fr 1fr; column-gap: 28px; }
-  .news-list li { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 10px; padding: 9px 0; border-top: 1px solid #1d1d1d; }
-  .news-time { color: #666; font-size: 10px; padding-top: 2px; }
-  .news-source { color: #666; font-size: 10px; display: block; margin-top: 2px; }
-  .terminal-error { border: 1px solid #552626; color: #ff7777; padding: 10px; }
-  @media (max-width: 520px) {
-    body { padding-inline: 6px; }
-    #hud { gap: 8px 16px; }
-    footer { font-size: 11px; }
+  .impact-table tbody tr:hover { background: var(--surface); }
+  .impact-table a { color: var(--fg); text-decoration: none; }
+  .impact-table a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .mobile-scroll-hint { display: none; color: var(--muted); font-size: 10px; margin: 8px 0 0; }
+  .news-section { padding-top: 19px; }
+  .news-list { display: grid; grid-template-columns: 1fr 1fr; column-gap: 30px; }
+  .news-list li { display: grid; grid-template-columns: 46px minmax(0, 1fr); gap: 10px; padding: 10px 0; border-top: 1px solid var(--rule-soft); }
+  .news-time { color: var(--muted); font-size: 10px; padding-top: 2px; font-variant-numeric: tabular-nums; }
+  .news-source { color: var(--muted); font-size: 10px; display: block; margin-top: 3px; }
+  .terminal-error { border: 1px solid var(--danger); color: var(--danger); padding: 10px; margin-bottom: 12px; }
+  .site-footer { color: var(--muted); display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: 11px; }
+  @media (max-width: 620px) {
+    body { padding: 13px 8px 28px; gap: 11px; }
+    .site-header { flex-direction: column; gap: 10px; }
+    .site-nav { width: 100%; justify-content: space-between; border-top: 1px solid var(--rule); padding-top: 6px; }
+    .theme-toggle { margin-left: auto; }
+    #hud { gap: 7px 16px; }
+    .game-controls { display: block; line-height: 1.8; }
+    .game-controls span:last-child { display: block; margin-top: 3px; }
     .section-head { align-items: flex-start; flex-direction: column; gap: 3px; }
     .market-summary { grid-template-columns: 1fr 1fr; }
-    .metric:nth-child(3) { border-left: 0; border-top: 1px solid #262626; }
-    .metric:nth-child(4) { border-top: 1px solid #262626; }
+    .metric:nth-child(3) { border-left: 0; border-top: 1px solid var(--rule); }
+    .metric:nth-child(4) { border-top: 1px solid var(--rule); }
     .terminal-layout { grid-template-columns: 1fr; }
-    .chart-panel { padding-right: 0; }
-    .speech-panel { border-left: 0; border-top: 1px solid #262626; padding: 16px 0; }
+    .chart-panel { padding: 16px 0 13px; }
+    .speech-panel { border-left: 0; border-top: 1px solid var(--rule); padding: 16px 0; }
     .news-list { grid-template-columns: 1fr; }
     .impact-table { min-width: 570px; font-size: 11px; }
+    .mobile-scroll-hint { display: block; }
+    .site-footer { display: block; }
+    .site-footer span:last-child { display: block; margin-top: 4px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after { transition-duration: .01ms !important; }
   }
 </style>
 </head>
 <body>
-<header>
-  <h1>Presidential Speech — IHSG Simulator</h1>
-  <div class="sub">He takes the podium. The market starts sweating.</div>
-</header>
-<hr>
-<div id="hud">
-  <span>IHSG <b id="score">7000.00</b></span>
-  <span><b id="delta">0.00%</b></span>
-  <span>SESSIONS <b id="lives">●●●</b></span>
-  <span>LIMIT-DOWN <b id="cleared">0/50</b></span>
-</div>
-<div id="stage">
-  <canvas id="c" width="880" height="620"></canvas>
-  <div id="overlay">
-    <div id="otitle">Presidential Speech</div>
-    <div id="omsg">Every statement moves the market. Usually in one direction.</div>
-    <button id="start">BEGIN SPEECH</button>
+<a class="skip-link" href="#game">Skip to game</a>
+<header class="site-header">
+  <div>
+    <h1>Presidential Speech — IHSG Simulator</h1>
+    <div class="sub">He takes the podium. The market starts sweating.</div>
   </div>
-</div>
-<hr>
-<footer>
-  <span><kbd>←</kbd> <kbd>→</kbd> move &middot; <kbd>Space</kbd> launch &middot; <kbd>P</kbd> pause &middot; mouse/touch supported</span>
-  <span>Satire. Not investment advice. Trademarks belong to their owners.</span>
-</footer>
-<hr>
+  <nav class="site-nav" aria-label="Page sections">
+    <a href="#game">GAME</a>
+    <a href="#market-terminal">MARKET</a>
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch color theme">LIGHT</button>
+  </nav>
+</header>
+<hr class="rule">
+<main id="game">
+  <div id="hud" aria-label="Game status">
+    <span>IHSG <b id="score">7000.00</b></span>
+    <span><b id="delta">0.00%</b></span>
+    <span>SESSIONS <b id="lives">●●●</b></span>
+    <span>LIMIT-DOWN <b id="cleared">0/50</b></span>
+  </div>
+  <div id="stage">
+    <canvas id="c" width="880" height="620" tabindex="0" aria-label="Presidential Speech breakout game"></canvas>
+    <div id="overlay">
+      <div id="otitle">Presidential Speech</div>
+      <div id="omsg">Every statement moves the market. Usually in one direction.</div>
+      <button id="start">BEGIN SPEECH</button>
+    </div>
+  </div>
+  <div class="game-controls">
+    <span><kbd>←</kbd> <kbd>→</kbd> move · <kbd>Space</kbd> launch · <kbd>P</kbd> pause · mouse/touch supported</span>
+    <span>Satire. Not investment advice.</span>
+  </div>
+</main>
+<hr class="rule">
 <section id="market-terminal" aria-labelledby="terminal-title">
   <div class="section-head">
     <h2 id="terminal-title">Market Terminal</h2>
-    <span id="data-age" class="muted">Loading delayed market data…</span>
+    <span id="data-age" class="muted" aria-live="polite">Loading delayed market data…</span>
   </div>
-  <div id="terminal-error" class="terminal-error" hidden></div>
+  <div id="terminal-error" class="terminal-error" role="status" hidden></div>
   <div class="market-summary" aria-label="IDX Composite market summary">
     <div class="metric"><span class="metric-label">IDX COMPOSITE</span><span id="market-price" class="metric-value">—</span></div>
     <div class="metric"><span class="metric-label">DAILY MOVE</span><span id="market-change" class="metric-value">—</span></div>
@@ -132,6 +204,7 @@
     <div class="chart-panel">
       <p class="panel-title">ONE-YEAR IHSG · OFFICIAL SPEECH DATES MARKED</p>
       <svg id="market-chart" viewBox="0 0 580 270" role="img" aria-label="One-year IDX Composite chart with presidential speech markers"></svg>
+      <div class="chart-legend"><span><i></i>SPEECH DATE</span><span>DAILY CLOSE</span></div>
       <div class="source-line">Delayed daily closes via <a href="https://finance.yahoo.com/quote/%5EJKSE/" target="_blank" rel="noreferrer">Yahoo Finance ^JKSE</a>.</div>
     </div>
     <aside class="speech-panel">
@@ -140,7 +213,8 @@
       <ul id="speech-list" class="event-list"></ul>
     </aside>
   </div>
-  <div class="impact-scroll">
+  <div class="impact-scroll" tabindex="0" aria-label="Speech impact table, horizontally scrollable on small screens">
+    <p class="mobile-scroll-hint">SCROLL TABLE →</p>
     <table class="impact-table">
       <thead><tr><th>Speech event</th><th>Event close</th><th>Event day</th><th>Next session</th></tr></thead>
       <tbody id="impact-rows"></tbody>
@@ -153,7 +227,12 @@
     <p class="source-line">Headline index via Google News RSS. Articles remain with their publishers.</p>
   </div>
 </section>
-<hr>
+<hr class="rule">
+<footer class="site-footer">
+  <span>Data is delayed and may be revised.</span>
+  <span>Trademarks belong to their owners.</span>
+</footer>
+<script type="module" src="theme.js"></script>
 <script type="module" src="game.js"></script>
 <script type="module" src="market.js"></script>
 </body>

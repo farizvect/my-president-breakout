@@ -4,6 +4,7 @@ import {
   circleHitsRect,
   reflectFromPaddle,
   clampBallSpeed,
+  shouldHandleGameKey,
 } from '../game-core.mjs';
 
 test('circleHitsRect detects edge and corner contact without false positives', () => {
@@ -27,4 +28,12 @@ test('reflectFromPaddle sends center hits upward and edge hits sideways', () => 
 test('clampBallSpeed enforces both minimum and maximum speed', () => {
   assert.deepEqual(clampBallSpeed({ vx: 1, vy: 0 }, 4, 10), { vx: 4, vy: 0 });
   assert.deepEqual(clampBallSpeed({ vx: 30, vy: 40 }, 4, 10), { vx: 6, vy: 8 });
+});
+
+test('game keyboard shortcuts ignore interactive controls', () => {
+  assert.equal(shouldHandleGameKey('BODY'), true);
+  assert.equal(shouldHandleGameKey('CANVAS'), true);
+  assert.equal(shouldHandleGameKey('BUTTON'), false);
+  assert.equal(shouldHandleGameKey('A'), false);
+  assert.equal(shouldHandleGameKey('INPUT'), false);
 });

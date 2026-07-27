@@ -16,6 +16,10 @@ export function clampBallSpeed(velocity, minSpeed, maxSpeed) {
   return { vx: velocity.vx * scale, vy: velocity.vy * scale };
 }
 
+export function shouldHandleGameKey(tagName) {
+  return !['A', 'BUTTON', 'INPUT', 'SELECT', 'TEXTAREA'].includes(String(tagName).toUpperCase());
+}
+
 export function reflectFromPaddle(ball, paddle, speed) {
   const relative = Math.max(-1, Math.min(1,
     (ball.x - (paddle.x + paddle.w / 2)) / (paddle.w / 2)));
