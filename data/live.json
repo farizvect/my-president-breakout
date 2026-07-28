@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-27T15:33:14.093Z",
+  "generatedAt": "2026-07-28T04:58:24.413Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
     "currency": "IDR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
-    "price": 6185.78,
-    "previousClose": 6196.43,
-    "change": -10.65,
-    "changePercent": -0.17,
-    "quoteAt": "2026-07-27T09:00:06.000Z",
+    "price": 6180.11,
+    "previousClose": 6185.78,
+    "change": -5.67,
+    "changePercent": -0.09,
+    "quoteAt": "2026-07-28T04:48:23.000Z",
     "exchangeTimezone": "Asia/Jakarta",
-    "marketState": "CLOSED",
-    "date": "2026-07-27",
+    "marketState": "REGULAR",
+    "date": "2026-07-28",
     "points": [
       {
         "date": "2025-07-28",
@@ -964,1221 +964,170 @@
         "close": 6315.31
       },
       {
-        "date": "2026-07-24",
-        "close": 6196.43
-      },
-      {
         "date": "2026-07-27",
         "close": 6185.78
+      },
+      {
+        "date": "2026-07-28",
+        "close": 6180.11
       }
     ],
-    "fetchedAt": "2026-07-27T09:00:06.000Z"
+    "fetchedAt": "2026-07-28T04:48:23.000Z"
   },
-  "fx": {
-    "symbol": "IDR=X",
-    "pair": "USD/IDR",
-    "baseCurrency": "USD",
-    "quoteCurrency": "IDR",
-    "price": 17990,
-    "previousClose": 17968,
-    "change": 22,
-    "changePercent": 0.12,
-    "quoteAt": "2026-07-27T15:24:21.000Z",
-    "exchangeTimezone": "Europe/London",
-    "marketState": "REGULAR",
-    "delayed": true,
-    "refreshIntervalMinutes": 5,
-    "points": [
-      {
-        "date": "2025-07-27",
-        "close": 16353
-      },
-      {
-        "date": "2025-07-28",
-        "close": 16398.8
-      },
-      {
-        "date": "2025-07-29",
-        "close": 16367.9
-      },
-      {
-        "date": "2025-07-30",
-        "close": 16426.8
-      },
-      {
-        "date": "2025-07-31",
-        "close": 16483
-      },
-      {
-        "date": "2025-08-03",
-        "close": 16483
-      },
-      {
-        "date": "2025-08-04",
-        "close": 16362
-      },
-      {
-        "date": "2025-08-05",
-        "close": 16377.5
-      },
-      {
-        "date": "2025-08-06",
-        "close": 16334.7
-      },
-      {
-        "date": "2025-08-07",
-        "close": 16300
-      },
-      {
-        "date": "2025-08-10",
-        "close": 16249
-      },
-      {
-        "date": "2025-08-11",
-        "close": 16298
-      },
-      {
-        "date": "2025-08-12",
-        "close": 16248.2
-      },
-      {
-        "date": "2025-08-13",
-        "close": 16109
-      },
-      {
-        "date": "2025-08-14",
-        "close": 16169
-      },
-      {
-        "date": "2025-08-17",
-        "close": 16196
-      },
-      {
-        "date": "2025-08-18",
-        "close": 16205.4
-      },
-      {
-        "date": "2025-08-19",
-        "close": 16275.2
-      },
-      {
-        "date": "2025-08-20",
-        "close": 16263.6
-      },
-      {
-        "date": "2025-08-21",
-        "close": 16339.7
-      },
-      {
-        "date": "2025-08-24",
-        "close": 16227
-      },
-      {
-        "date": "2025-08-25",
-        "close": 16267
-      },
-      {
-        "date": "2025-08-26",
-        "close": 16299.2
-      },
-      {
-        "date": "2025-08-27",
-        "close": 16314
-      },
-      {
-        "date": "2025-08-28",
-        "close": 16344.3
-      },
-      {
-        "date": "2025-08-31",
-        "close": 16409
-      },
-      {
-        "date": "2025-09-01",
-        "close": 16405.2
-      },
-      {
-        "date": "2025-09-02",
-        "close": 16443.9
-      },
-      {
-        "date": "2025-09-03",
-        "close": 16463
-      },
-      {
-        "date": "2025-09-04",
-        "close": 16452.1
-      },
-      {
-        "date": "2025-09-07",
-        "close": 16392
-      },
-      {
-        "date": "2025-09-08",
-        "close": 16446.1
-      },
-      {
-        "date": "2025-09-09",
-        "close": 16449.9
-      },
-      {
-        "date": "2025-09-10",
-        "close": 16439
-      },
-      {
-        "date": "2025-09-11",
-        "close": 16413.6
-      },
-      {
-        "date": "2025-09-14",
-        "close": 16401
-      },
-      {
-        "date": "2025-09-15",
-        "close": 16364.6
-      },
-      {
-        "date": "2025-09-16",
-        "close": 16398.1
-      },
-      {
-        "date": "2025-09-17",
-        "close": 16418.6
-      },
-      {
-        "date": "2025-09-18",
-        "close": 16569.1
-      },
-      {
-        "date": "2025-09-21",
-        "close": 16637
-      },
-      {
-        "date": "2025-09-22",
-        "close": 16582
-      },
-      {
-        "date": "2025-09-23",
-        "close": 16633
-      },
-      {
-        "date": "2025-09-24",
-        "close": 16695.1
-      },
-      {
-        "date": "2025-09-25",
-        "close": 16759.1
-      },
-      {
-        "date": "2025-09-28",
-        "close": 16723
-      },
-      {
-        "date": "2025-09-29",
-        "close": 16628
-      },
-      {
-        "date": "2025-09-30",
-        "close": 16683
-      },
-      {
-        "date": "2025-10-01",
-        "close": 16644.1
-      },
-      {
-        "date": "2025-10-02",
-        "close": 16601.5
-      },
-      {
-        "date": "2025-10-05",
-        "close": 16558
-      },
-      {
-        "date": "2025-10-06",
-        "close": 16596.5
-      },
-      {
-        "date": "2025-10-07",
-        "close": 16587
-      },
-      {
-        "date": "2025-10-08",
-        "close": 16556
-      },
-      {
-        "date": "2025-10-09",
-        "close": 16577.7
-      },
-      {
-        "date": "2025-10-12",
-        "close": 16598
-      },
-      {
-        "date": "2025-10-13",
-        "close": 16548
-      },
-      {
-        "date": "2025-10-14",
-        "close": 16585.9
-      },
-      {
-        "date": "2025-10-15",
-        "close": 16575
-      },
-      {
-        "date": "2025-10-16",
-        "close": 16561.9
-      },
-      {
-        "date": "2025-10-19",
-        "close": 16566
-      },
-      {
-        "date": "2025-10-20",
-        "close": 16542
-      },
-      {
-        "date": "2025-10-21",
-        "close": 16598.9
-      },
-      {
-        "date": "2025-10-22",
-        "close": 16596.6
-      },
-      {
-        "date": "2025-10-23",
-        "close": 16593.8
-      },
-      {
-        "date": "2025-10-27",
-        "close": 16597.8
-      },
-      {
-        "date": "2025-10-28",
-        "close": 16158.2
-      },
-      {
-        "date": "2025-10-29",
-        "close": 16561.78
-      },
-      {
-        "date": "2025-10-30",
-        "close": 16562
-      },
-      {
-        "date": "2025-10-31",
-        "close": 16150
-      },
-      {
-        "date": "2025-11-03",
-        "close": 16630
-      },
-      {
-        "date": "2025-11-04",
-        "close": 16640.9
-      },
-      {
-        "date": "2025-11-05",
-        "close": 16707
-      },
-      {
-        "date": "2025-11-06",
-        "close": 16669
-      },
-      {
-        "date": "2025-11-07",
-        "close": 16694.1
-      },
-      {
-        "date": "2025-11-10",
-        "close": 16653
-      },
-      {
-        "date": "2025-11-11",
-        "close": 16690
-      },
-      {
-        "date": "2025-11-12",
-        "close": 16694.9
-      },
-      {
-        "date": "2025-11-13",
-        "close": 16729
-      },
-      {
-        "date": "2025-11-14",
-        "close": 16719
-      },
-      {
-        "date": "2025-11-17",
-        "close": 16679.5
-      },
-      {
-        "date": "2025-11-18",
-        "close": 16738.9
-      },
-      {
-        "date": "2025-11-19",
-        "close": 16727.7
-      },
-      {
-        "date": "2025-11-20",
-        "close": 16686.7
-      },
-      {
-        "date": "2025-11-21",
-        "close": 16731
-      },
-      {
-        "date": "2025-11-24",
-        "close": 16639
-      },
-      {
-        "date": "2025-11-25",
-        "close": 16645
-      },
-      {
-        "date": "2025-11-26",
-        "close": 16633.5
-      },
-      {
-        "date": "2025-11-27",
-        "close": 16614.7
-      },
-      {
-        "date": "2025-11-28",
-        "close": 16603.9
-      },
-      {
-        "date": "2025-12-01",
-        "close": 16635
-      },
-      {
-        "date": "2025-12-02",
-        "close": 16609
-      },
-      {
-        "date": "2025-12-03",
-        "close": 16609.9
-      },
-      {
-        "date": "2025-12-04",
-        "close": 16594
-      },
-      {
-        "date": "2025-12-05",
-        "close": 16654.4
-      },
-      {
-        "date": "2025-12-08",
-        "close": 16683
-      },
-      {
-        "date": "2025-12-09",
-        "close": 16686
-      },
-      {
-        "date": "2025-12-10",
-        "close": 16662
-      },
-      {
-        "date": "2025-12-11",
-        "close": 16639
-      },
-      {
-        "date": "2025-12-12",
-        "close": 16649
-      },
-      {
-        "date": "2025-12-15",
-        "close": 16623.1
-      },
-      {
-        "date": "2025-12-16",
-        "close": 16645.8
-      },
-      {
-        "date": "2025-12-17",
-        "close": 16644.6
-      },
-      {
-        "date": "2025-12-18",
-        "close": 16657
-      },
-      {
-        "date": "2025-12-19",
-        "close": 16685.2
-      },
-      {
-        "date": "2025-12-22",
-        "close": 16678.5
-      },
-      {
-        "date": "2025-12-23",
-        "close": 16756.4
-      },
-      {
-        "date": "2025-12-24",
-        "close": 16735
-      },
-      {
-        "date": "2025-12-26",
-        "close": 16753.1
-      },
-      {
-        "date": "2025-12-29",
-        "close": 16741.1
-      },
-      {
-        "date": "2025-12-30",
-        "close": 16770
-      },
-      {
-        "date": "2025-12-31",
-        "close": 16709
-      },
-      {
-        "date": "2026-01-02",
-        "close": 16668
-      },
-      {
-        "date": "2026-01-05",
-        "close": 16683
-      },
-      {
-        "date": "2026-01-06",
-        "close": 16727.2
-      },
-      {
-        "date": "2026-01-07",
-        "close": 16742
-      },
-      {
-        "date": "2026-01-08",
-        "close": 16753
-      },
-      {
-        "date": "2026-01-09",
-        "close": 16805.7
-      },
-      {
-        "date": "2026-01-12",
-        "close": 16826.7
-      },
-      {
-        "date": "2026-01-13",
-        "close": 16859.4
-      },
-      {
-        "date": "2026-01-14",
-        "close": 16840.8
-      },
-      {
-        "date": "2026-01-15",
-        "close": 16845.1
-      },
-      {
-        "date": "2026-01-16",
-        "close": 16878.9
-      },
-      {
-        "date": "2026-01-19",
-        "close": 16876.6
-      },
-      {
-        "date": "2026-01-20",
-        "close": 16939
-      },
-      {
-        "date": "2026-01-21",
-        "close": 16960.1
-      },
-      {
-        "date": "2026-01-22",
-        "close": 16897
-      },
-      {
-        "date": "2026-01-23",
-        "close": 16820
-      },
-      {
-        "date": "2026-01-26",
-        "close": 16770
-      },
-      {
-        "date": "2026-01-27",
-        "close": 16734
-      },
-      {
-        "date": "2026-01-28",
-        "close": 16674.7
-      },
-      {
-        "date": "2026-01-29",
-        "close": 16722.8
-      },
-      {
-        "date": "2026-01-30",
-        "close": 16778.3
-      },
-      {
-        "date": "2026-02-02",
-        "close": 16758.4
-      },
-      {
-        "date": "2026-02-03",
-        "close": 16758.4
-      },
-      {
-        "date": "2026-02-04",
-        "close": 16759
-      },
-      {
-        "date": "2026-02-05",
-        "close": 16800
-      },
-      {
-        "date": "2026-02-06",
-        "close": 16879.9
-      },
-      {
-        "date": "2026-02-09",
-        "close": 16843.5
-      },
-      {
-        "date": "2026-02-10",
-        "close": 16796
-      },
-      {
-        "date": "2026-02-11",
-        "close": 16778
-      },
-      {
-        "date": "2026-02-12",
-        "close": 16793.9
-      },
-      {
-        "date": "2026-02-13",
-        "close": 16809
-      },
-      {
-        "date": "2026-02-16",
-        "close": 16826.1
-      },
-      {
-        "date": "2026-02-17",
-        "close": 16806.6
-      },
-      {
-        "date": "2026-02-18",
-        "close": 16840
-      },
-      {
-        "date": "2026-02-19",
-        "close": 16915.3
-      },
-      {
-        "date": "2026-02-20",
-        "close": 16887.2
-      },
-      {
-        "date": "2026-02-23",
-        "close": 16843.4
-      },
-      {
-        "date": "2026-02-24",
-        "close": 16804.3
-      },
-      {
-        "date": "2026-02-25",
-        "close": 16816.8
-      },
-      {
-        "date": "2026-02-26",
-        "close": 16749.8
-      },
-      {
-        "date": "2026-02-27",
-        "close": 16749
-      },
-      {
-        "date": "2026-03-02",
-        "close": 16795
-      },
-      {
-        "date": "2026-03-03",
-        "close": 16863
-      },
-      {
-        "date": "2026-03-04",
-        "close": 16898.1
-      },
-      {
-        "date": "2026-03-05",
-        "close": 16865
-      },
-      {
-        "date": "2026-03-06",
-        "close": 16913.1
-      },
-      {
-        "date": "2026-03-09",
-        "close": 16923.7
-      },
-      {
-        "date": "2026-03-10",
-        "close": 16886
-      },
-      {
-        "date": "2026-03-11",
-        "close": 16852
-      },
-      {
-        "date": "2026-03-12",
-        "close": 16884
-      },
-      {
-        "date": "2026-03-13",
-        "close": 16908
-      },
-      {
-        "date": "2026-03-16",
-        "close": 16952.1
-      },
-      {
-        "date": "2026-03-17",
-        "close": 16953.1
-      },
-      {
-        "date": "2026-03-18",
-        "close": 16971.3
-      },
-      {
-        "date": "2026-03-19",
-        "close": 17041.7
-      },
-      {
-        "date": "2026-03-20",
-        "close": 16915.9
-      },
-      {
-        "date": "2026-03-23",
-        "close": 16959.3
-      },
-      {
-        "date": "2026-03-24",
-        "close": 16865.1
-      },
-      {
-        "date": "2026-03-25",
-        "close": 16797.3
-      },
-      {
-        "date": "2026-03-26",
-        "close": 16749.6
-      },
-      {
-        "date": "2026-03-27",
-        "close": 16925
-      },
-      {
-        "date": "2026-03-29",
-        "close": 16958
-      },
-      {
-        "date": "2026-03-30",
-        "close": 16975.4
-      },
-      {
-        "date": "2026-03-31",
-        "close": 16936.4
-      },
-      {
-        "date": "2026-04-01",
-        "close": 16924.1
-      },
-      {
-        "date": "2026-04-02",
-        "close": 16959
-      },
-      {
-        "date": "2026-04-05",
-        "close": 16988
-      },
-      {
-        "date": "2026-04-06",
-        "close": 17015.3
-      },
-      {
-        "date": "2026-04-07",
-        "close": 17027.4
-      },
-      {
-        "date": "2026-04-08",
-        "close": 17005.5
-      },
-      {
-        "date": "2026-04-09",
-        "close": 17059
-      },
-      {
-        "date": "2026-04-12",
-        "close": 17083
-      },
-      {
-        "date": "2026-04-13",
-        "close": 17079.2
-      },
-      {
-        "date": "2026-04-14",
-        "close": 17129
-      },
-      {
-        "date": "2026-04-15",
-        "close": 17146.1
-      },
-      {
-        "date": "2026-04-16",
-        "close": 17123
-      },
-      {
-        "date": "2026-04-19",
-        "close": 17133
-      },
-      {
-        "date": "2026-04-20",
-        "close": 17123.8
-      },
-      {
-        "date": "2026-04-21",
-        "close": 17133.1
-      },
-      {
-        "date": "2026-04-22",
-        "close": 17199.5
-      },
-      {
-        "date": "2026-04-23",
-        "close": 17329
-      },
-      {
-        "date": "2026-04-26",
-        "close": 17246
-      },
-      {
-        "date": "2026-04-27",
-        "close": 17216
-      },
-      {
-        "date": "2026-04-28",
-        "close": 17244
-      },
-      {
-        "date": "2026-04-29",
-        "close": 17334.2
-      },
-      {
-        "date": "2026-04-30",
-        "close": 17311
-      },
-      {
-        "date": "2026-05-03",
-        "close": 17288.5
-      },
-      {
-        "date": "2026-05-04",
-        "close": 17346.2
-      },
-      {
-        "date": "2026-05-05",
-        "close": 17389.8
-      },
-      {
-        "date": "2026-05-06",
-        "close": 17296.9
-      },
-      {
-        "date": "2026-05-07",
-        "close": 17294.9
-      },
-      {
-        "date": "2026-05-10",
-        "close": 17358
-      },
-      {
-        "date": "2026-05-11",
-        "close": 17413
-      },
-      {
-        "date": "2026-05-12",
-        "close": 17549
-      },
-      {
-        "date": "2026-05-13",
-        "close": 17500
-      },
-      {
-        "date": "2026-05-14",
-        "close": 17530.6
-      },
-      {
-        "date": "2026-05-17",
-        "close": 17586
-      },
-      {
-        "date": "2026-05-18",
-        "close": 17701
-      },
-      {
-        "date": "2026-05-19",
-        "close": 17777
-      },
-      {
-        "date": "2026-05-20",
-        "close": 17658.4
-      },
-      {
-        "date": "2026-05-21",
-        "close": 17692
-      },
-      {
-        "date": "2026-05-24",
-        "close": 17692
-      },
-      {
-        "date": "2026-05-25",
-        "close": 17762
-      },
-      {
-        "date": "2026-05-26",
-        "close": 17699.7
-      },
-      {
-        "date": "2026-05-27",
-        "close": 17804
-      },
-      {
-        "date": "2026-05-28",
-        "close": 17840
-      },
-      {
-        "date": "2026-05-31",
-        "close": 17817
-      },
-      {
-        "date": "2026-06-01",
-        "close": 17864
-      },
-      {
-        "date": "2026-06-02",
-        "close": 17858
-      },
-      {
-        "date": "2026-06-03",
-        "close": 18004.2
-      },
-      {
-        "date": "2026-06-04",
-        "close": 17955.5
-      },
-      {
-        "date": "2026-06-07",
-        "close": 18029
-      },
-      {
-        "date": "2026-06-08",
-        "close": 18190.3
-      },
-      {
-        "date": "2026-06-09",
-        "close": 18031
-      },
-      {
-        "date": "2026-06-10",
-        "close": 17875.9
-      },
-      {
-        "date": "2026-06-11",
-        "close": 17921
-      },
-      {
-        "date": "2026-06-14",
-        "close": 17772
-      },
-      {
-        "date": "2026-06-15",
-        "close": 17716
-      },
-      {
-        "date": "2026-06-16",
-        "close": 17730
-      },
-      {
-        "date": "2026-06-17",
-        "close": 17891
-      },
-      {
-        "date": "2026-06-18",
-        "close": 17794.4
-      },
-      {
-        "date": "2026-06-21",
-        "close": 17788
-      },
-      {
-        "date": "2026-06-22",
-        "close": 17862
-      },
-      {
-        "date": "2026-06-23",
-        "close": 17916
-      },
-      {
-        "date": "2026-06-24",
-        "close": 17990
-      },
-      {
-        "date": "2026-06-25",
-        "close": 17995
-      },
-      {
-        "date": "2026-06-28",
-        "close": 17830
-      },
-      {
-        "date": "2026-06-29",
-        "close": 17925
-      },
-      {
-        "date": "2026-06-30",
-        "close": 17935
-      },
-      {
-        "date": "2026-07-01",
-        "close": 17998
-      },
-      {
-        "date": "2026-07-02",
-        "close": 17787.9
-      },
-      {
-        "date": "2026-07-05",
-        "close": 17998
-      },
-      {
-        "date": "2026-07-06",
-        "close": 18046
-      },
-      {
-        "date": "2026-07-07",
-        "close": 17979
-      },
-      {
-        "date": "2026-07-08",
-        "close": 18125
-      },
-      {
-        "date": "2026-07-09",
-        "close": 18125
-      },
-      {
-        "date": "2026-07-12",
-        "close": 18065
-      },
-      {
-        "date": "2026-07-13",
-        "close": 18111
-      },
-      {
-        "date": "2026-07-14",
-        "close": 18157
-      },
-      {
-        "date": "2026-07-15",
-        "close": 18068.8
-      },
-      {
-        "date": "2026-07-16",
-        "close": 17985
-      },
-      {
-        "date": "2026-07-19",
-        "close": 17934
-      },
-      {
-        "date": "2026-07-20",
-        "close": 17931
-      },
-      {
-        "date": "2026-07-21",
-        "close": 17911
-      },
-      {
-        "date": "2026-07-22",
-        "close": 17917
-      },
-      {
-        "date": "2026-07-23",
-        "close": 17967
-      },
-      {
-        "date": "2026-07-27",
-        "close": 17990
-      }
-    ],
-    "fetchedAt": "2026-07-27T15:24:21.000Z"
-  },
+  "fx": null,
   "headlines": [
     {
-      "title": "IHSG Dibayangi Net Sell Asing, Rawan Uji Support 6.100 pada Selasa (28/7)",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rRFZVaTZTcloxNC1nSU5BWkcwMHRXTHQ0VlZDWHFfaHhQcmw0R05OeE1xMEdnQVNudXlUeEk1UWotem96ZDZSMDlUTDhNNUJCXzF4bkc2ZjZCOVhnVHhKVXplaGRBUQ?oc=5",
-      "source": "TradingView",
-      "publishedAt": "2026-07-27T12:47:23.000Z"
+      "title": "IHSG Stagnan di Area 6.180, Masih Cerna Pengunduran Diri Gubernur Bank Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHd1OWRiQmpZdjlMSnhpVzBySko4YlNkTHJ0ZkE2akgxYnMyQWxVbHZtY1hubElkdjYtZmhYTk9hSW53VU9mRXVvSlFMM3YzUFcxWmRtRGYxX0pqRHpScXpBU0xUT2dVWVZPQ1VGbzVPSHFVZmp3NWpISGs5YllKMmdibHptbzREbURKd1R2SGx6RkZNLWlBLVludVZJcDdzTUN2aE5RcFB5WXY0aVdyaWEyZGQwSVNJbDRPNGxMUTY3d9IBxwFBVV95cUxQTmFEYVhiVEFOb1dxbzBDOGw0enltd1dMeTNoYzVQMUV6cGJnOFRZUXBJajNDOHJZVHlNNUtoY2ktS3Zka0huN2xfZkJGc3ljUVNQRkJENUpQS3RVM1BvR2g3LUN2X0MtRHhWeFg3T1BaWFdGOUpQb3BnVW80ZVZMbU1wVXBLUXJpQ1dGa2k0MHZhMnF6SHp2TVRyQ1FjSVFCQUFMT19Bb0NsNHQzc2MyVG0wbFJocU5hMW9hS0swaHloaUdFTEE4?oc=5",
+      "source": "fxstreet-id.com",
+      "publishedAt": "2026-07-28T04:35:38.000Z"
     },
     {
-      "title": "IHSG Dibayangi Net Sell Asing, Rawan Uji Support 6.100 pada Selasa (28/7)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVJSczhwaUZUN1I3aU1Mc3ZLVW5jWGlzOXdNRmxCY1FhcEdOczBGVmxlWThraUNXVGtneExUTW52N1lGVmdzc0RXWHFhc0JuRElicjZETWg2dkpxdkRyQk9xS3ZIR00zNERlYmRadkFEVFFGN210NzRoX0xCZEJxNHh1aFI2QUN0d3Q4TktTbEVkSU9NVHI2NzEzcXFLelluU3NEa9IBnwFBVV95cUxNY3dwQm4wSS05dDA1U2JkeW1yMFRCZ19lZkdkOFQwamh2YVBsWU15NEVwTnJTWG5VMHdzcUFTeUlnWG4ySUU2WjFISmhta2J1YUFMeXE2UlkwSFFadE00N0ZQeW1ZOXlvUTVqOF9DYk42SDhWSjhUMWgxU3FkUVpDMUVIQ3dXd2UyYV9NaWN1ZDd1dkx0dDEwTmxNQ1BDa3c?oc=5",
-      "source": "KONTAN",
-      "publishedAt": "2026-07-27T12:47:23.000Z"
+      "title": "Melemah Hari Ini, IHSG Tetap Masuk 3 Besar Bursa Saham Terbaik Asia",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOEcwSHFnTTBNa241Ui1mU20tM3BEQ3I5bWZFOVIwLUk4QV9ZY3FiRVFEOTF0dFZCYngyOGpJUDBfYWVsZUtzNkwzQXJabmM2YnBGbUFtbTdLWTZnR0R4eW1icnJCS0xwcXVNaXJBLXQ3QmxvWDY0RU1ORExOUU1qeHRYNWVvS0ZZTzJ0dWN0OWlkU3BWQWdQaFl3T1VLcVdDYV81d0NUUjljU1JYYzlOenlOc2VlNEVxbWdBTW9nTER4MVBTQ2QxOE9mWQ?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-07-28T04:25:14.000Z"
     },
     {
-      "title": "IHSG Berpeluang Rebound pada Selasa (28/7), Cek Rekomendasi Sahamnya",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rWnkxbmVCekxuQ1lwbHhkWTVLVzlTeWpBMGlRYnlpeWxYbFJGQWdLVllDR0d2d3VkR0VLV1VqWXl2N3A5ZmJuZlNrMUVxWml6aWJJY3ZEVUw3V1RjT2lyLU04cEU5dw?oc=5",
-      "source": "TradingView",
-      "publishedAt": "2026-07-27T12:44:22.000Z"
+      "title": "IHSG Selasa dibuka melemah 10,58 poin",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLU9yU0ZyUjlCaEpxc1pQQldZbjE2LVE2V1JVYTk1eHFVaElNTkpDeWNzZFdXMU9ybFZseFVMdm1NbVVJUEo2OXR4b1gzRmlsdHhUV3UtbENIWlRZbEE4el9xN1lrQXlDUHdRLVdWOGFoUGw1Y290ZFotREN1NnhhY3V5b0l5Y0k?oc=5",
+      "source": "ANTARA News Sultra",
+      "publishedAt": "2026-07-28T03:52:50.000Z"
     },
     {
-      "title": "IHSG Ditutup Melemah, Pasar Wait and See Menanti Gubernur BI",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXpwWUtsRlBQc0tEQjBwOWkyclhaLXhMSFRPQ0RFS3YwNEZhT1BXaE5kRG5jQk83Wmh0VFNxU3h2SWRzTVN1OUVHR3NQbC0zYkJHRGxvSDlmWGNwd1JRVDZDcWhHSHV0RVNKVUE5aEp3ZXVZM2Q5QUoyMmd4emJRM0VqTEZBZHFvR1A0ak5UOWVVMkxPMl9nNlZZR2Y?oc=5",
-      "source": "Tempo.co",
-      "publishedAt": "2026-07-27T12:25:39.000Z"
+      "title": "IHSG melemah 10,58 poin ke posisi 6.175",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSmtWU0s1RTRjXy1TMjVOZ1IxU0JfOWVDMDVjZFAtbzVWNlI3TlpyeHc4X3RxemNzUnJYMUJLVFpWb3BBS0lGcklMREd2VXhZRG5WMl9lQmFiV21Lcm9oVGp5Z3N3N2FzU1MzNDgwc0p3U1VoRVIzN3M4U2w1cl9MTWgyQWJQTE1GSFZZYW1R0gGOAUFVX3lxTE5Ka1ZTSzVFNGNfLVMyNU5nUjFTQl85ZUMwNWNkUC1vNVY2UjdOWnJ4dzhfdHF6Y3NSclgxQktUWlZvcEFLSUZySUxER3ZVeFlEblYyX2VCYWJXbUtyb2hUanlnc3c3YXNTUzM0ODBzSndTVWhFUjM3czhTbDVyX0xNaDJBYlBMTUZIVllhbVE?oc=5",
+      "source": "ANTARA News",
+      "publishedAt": "2026-07-28T03:08:55.000Z"
     },
     {
-      "title": "IHSG Melemah Tipis, Analis Proyeksikan Peluang Rebound Terbatas Selasa (28/7)",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRM3lRZE9MX01HcVltTG14RmJUSEdRUmNKeXoyU05HWmRod1RLdUJPblRGbXd0YndEeW9aa2Q2bmVJODdySmhVcXpkQVctYkZObllTNU5UbUVvSUJ1bGIxNGFlbzB6QQ?oc=5",
-      "source": "TradingView",
-      "publishedAt": "2026-07-27T11:53:08.000Z"
+      "title": "IHSG Selasa dibuka melemah 10,58 poin ke posisi 6.175",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR1pETUpNWnVJTTF6MFpUS0YwWGw4VWR3d0lhZUI4a0F1OVZqSmxkbzdSYWw2MGdEODYzMlNuVjcwRDBxeVZ5a2Y1X0trYy1xaVZSalBhX3BRTzBUVTR3dnVoVmJIZ3pSREI1X3lkNzYxODJCUVVyUDVpRlk0cWNSZEROV1dBajk0YkFNNnlXWXQ4bzJFVjY0Q20wZWZ3eHM?oc=5",
+      "source": "ANTARA News Jambi",
+      "publishedAt": "2026-07-28T02:39:26.000Z"
     },
     {
-      "title": "IHSG Hari Ini Ditutup Koreksi ke 6.185, Simak Top Gainer & Top Loser LQ45",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN00wM01FS1VTd0J6cnBaVHNxTVZFRGNvR3FSTjNMZkxmc2VxT3JERm5HVEFWd2xKVW9uM1lYS3laNFRCcVJDQ2lsbkVfWEl0Q2JCT3ByZUVudmNrenVubUhYREJBV21VNlhrcHNjNDRKVkcycXpGWUo1NFpmLW9tQ0ROWl9kLUxldWFMUWRDaURlYlN6LVZEYUFicw?oc=5",
-      "source": "Ajaib",
-      "publishedAt": "2026-07-27T11:48:52.000Z"
+      "title": "IHSG Dibuka Melemah, Saham Unggulan Turut Tertekan pada Perdagangan Selasa",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclhVaVRzSUc5V2gzOUdodW1zMlk1NmpoREdWVlpUa044VG8tay1JaEY3VDlFSHhlbjl0ZjhJT3RBbVdKZkhRTUdWRXZJYW41c05KNnBIcmMyUnBMaklyNjZTNXEzTlRGYUZuWEk2cnRyZFo2NVFVRVlBUkJ3c1ZvOGpXMEk2QjdSVUpVcVlSYmd5S25JWDZ6UWt4WUwzVDVTS25ocWdlREE1cm90QmVmM0pB?oc=5",
+      "source": "TopBusiness.id",
+      "publishedAt": "2026-07-28T02:23:00.000Z"
     },
     {
-      "title": "IHSG Melemah, Pelaku Pasar Tunggu Kebijakan The Fed (Senin, 27 Juli 2026)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlh1Rmo5WEttUlhMc0Mtdm5ZejNDRHNjWEE2OFFzdHlHOU1iSEpfMG43UmJEN2VBRmxNTEdwU0pVaHVscTFlNTB2WjZ1cl84c1VFNjZvZzRUMHVBLUxqcnhMdkVoUUlIcUFVem9MZ3podWJPakpvR251bERYb2xjVUhoTTBza0NxaS1pYWw1QmU5UHJVc0NmazFJSXhxWTVkLVdnOFZQTVRVa3NBWG8wTzlLZHB5S3hlcnR1QWlLek1fazBfclBvRHltSQ?oc=5",
-      "source": "Databoks",
-      "publishedAt": "2026-07-27T11:44:56.000Z"
+      "title": "IHSG Dibuka Melemah ke 6.178",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamkzdm8wU21zdFVzVzlQWTk3bVM5djR5RF9oNnp2WDl6LVE3NWwtRmd6RGlxTGd5MDc3bkdmd1NhLTB4bmpyY1laNlpoQ2tnZlU2akpnMkdZbU1nWk1GSl9zR2F4dkZzbnVEMVRtSnhrb0VwcnBsY0I2c09CVVdCWmQ1ZlhmSVHSAYwBQVVfeXFMTVdHeXhiVHpwV2tTTENVS2NzLXQ2UUJaaHRoM2ZoNzVuV05aT2FOWmU3dW5ZSXk2d3pUc0hhRzdkR1JXUkNtNUVDejN0RXJRX1JIUWpocTNHdWVXSjc0Ti1UUk54TDRHQU9ETms2Q013ZWZ2a2NidTJ6SUtfdmVoNFNUZ3pvQy1jbjlTbGk?oc=5",
+      "source": "detikFinance",
+      "publishedAt": "2026-07-28T02:17:41.000Z"
     },
     {
-      "title": "📉 IHSG & Rupiah Melemah Usai Gubernur BI Mundur meski Harga Minyak Turun",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTdzcnRTRmJ4dGV3ZkZwRExkUDgxb0g5dkFaQllaM0xRRVdCdTFwSHY2dHpLU0NHQnNTdjVwUDhQOEFuUkhlUTJlTU1WS05IWWdJVTRLai14bGJpeUdxWDNsenlrUzU5S09rbHpaSTh5dVpZNHNkVW5NdnBYM3ZJMjc2WHhab01Vd1Q0bnhaUTI5eVRzdW11VG9PLXQ3Z0FadU01dHN2bjc2YURSWW5V?oc=5",
-      "source": "Stockbit Snips",
-      "publishedAt": "2026-07-27T11:39:38.000Z"
+      "title": "IHSG Selasa dibuka melemah 10,58 poin ke posisi 6.175",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0NOem0tRDRRRTZWT0dyMlNzYVhfUGtHcHhMWnJRelMzM2RtX3FLVjZRVng2cUVHYjhFVkNMOHNwbEQ5djVnSjZ4eE9WLXdBSkRYbTZ2c3B5aEhwcVBDb1ppZm1XaEwxa2liUE1aX2xILUVLcGI3UHFWbEs3T3k1b1hNWG5Za0NQM1JVdEJtOVM0NmozWFBTN2hMNA?oc=5",
+      "source": "ANTARA News Sumbar",
+      "publishedAt": "2026-07-28T02:06:13.000Z"
     }
   ],
   "stockNews": [
     {
-      "title": "Daftar Saham Indeks LQ45 Terbaru: SMGR dan TOWR Terdepak",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkZOUzlscDZKWWtwa0NVT1ZWcEpwcnp3SlhnMGdvMHlPd3JISW83OGRieHVWWVBfTGRJTXVCaHoyTkY5MVdISVdVemJtcEFEMDZTYmhFb2FaUnc5Zm5hZVB5cHdGUVRwWWRvUnhaWE55aEZhUEFtNzZJQUxvUDRqcGFlZEtzT3Q1T1NEaXBjWldaeDdTRDNqRkp3U0IxaVlYM2JGdy00d1lvcEtY0gGyAUFVX3lxTE16VUQ1X25BczV5amVwTEkxSFFSRUEwNVFja3Vta3NmRnVGOElXeEpNUFMzLUJNX3hIUWtMLXI3NG1PYnB3bGtOeXNwc0Nic2l0OGxHSl82ZWNPVTFBVXdQNnBVaWMyYVE2dXRmcTRiWV84V0lvUTE1ZGpOSHVNSXpFanFsd2tqM2YxSXh4MHotRFg3aHR4U1UxM1d4REtzWTUweWl0WDRwUGtuQnFRclVnUlE?oc=5",
-      "source": "Katadata.co.id",
-      "publishedAt": "2026-07-27T15:15:00.000Z"
+      "title": "BEI Ubah Daftar Saham LQ45, IDX80, dan IDX30, Mulai Berlaku 3 Agustus 2026 - kumparan.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMC01S2o3WFJ1cXVZTHpVN2Zwcm8tOEZjcjF1dmc2T3pxOUh0cEk4S2VkR1BVb1VoR2lZd29RVTFGT2Q4Rm80NG5xQlhNTWpLNEVGSHJFX3I0d0loVVUzYUZDbWhRLVB2cDFVM2NtakNRaXZHeDVFVmVxSXNrY3lfeG41aV93VG1hdVZwaW55cGx0YUdISjFab011WUFFVDlIZUhsR2l3SUhwblVhY3B1OE56VF9iQkhyMjFR0gHDAUFVX3lxTE8wVkJpNUhiWk45Mm94SGhCZXVObHdwd19LWjk1OTBXUjFlUEJ6Q3JtLS1sMG44N0xPSGZybmdGYjcxd0tDOU1hNEVyRk91M0p1SktINS1SaWI3b19hUUkyYzloNmpuTXVyNzRWdW1lRUhRNHExdENQbTdfLWo4TGxmeVFXSDZhQnRFOTVIaWNFZ2pMS1FVNy0xWnZwc0NKNmF5UTVIQjJUMWZCeWt2WHduSnFlNjM2aG1EUXlOb2k0WE9udw?oc=5",
+      "source": "Kumparan.com",
+      "publishedAt": "2026-07-28T04:18:00.000Z"
     },
     {
-      "title": "BEI Rombak 4 Indeks Utama: INDY dan NCKL Masuk LQ45, DEWA Masuk IDX30",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnk1OE04bUk4U3l6a0xQSnhrclZ1ZFppMjdqeUlmR3ZmRm9lbXUwR0RaRDRsRGV1R3JhME1UVVNmNFJSSmRVUFlfdFpIalRBWGxybThqWnhYSm1sSHlZRFBqTURmYVp5b084XzgxZVB6bVpfSjhhYWhNSE1rRC04Um9QbjZCVV84QnJYYWtac3VSdC1hc1ZTN1g5SjlfaHBIak5NMFhHQmJhM2FFUFI4WkZaUU9mc3NLVkNXZNIBwgFBVV95cUxNeTZjRGJkZmdkQThtdF94OC1VOWItWUVCSVlzWGtFSjgxZ2NPSUdpcTV4TlIyVG5fZ1hjZ2ZSV2FockVXbkdJSENvYUR4cHlxRWVwSmN5RGREUkVKMEFUVTVsZnJYRW4wQnFBcVBHNGFBTTZXQ3FxOUZuZC1lZVoyZjVWUC14eFlLOWhQemd1aktVZ2phNDlkWG9rYlJVUThCZXlXMTZGUmZqeG5JdjVST0lnMmx3RVRxemZVTnp6WmhyZw?oc=5",
-      "source": "Katadata.co.id",
-      "publishedAt": "2026-07-27T15:09:00.000Z"
+      "title": "BNI (BBNI) Bakal Gelar Buyback Saham, Siapkan Dana Rp627 Miliar",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenppOXNBTnZBX0JlYzBRWmtpWFFJMFktbG9WZXVaV3MxZW1RdXItQ2JhN0xqTjVGMVA4WkxpdnJIdU54WHg5U0RmNThQRzBtSXF6Sk1BVGhFSml3bmJXMENfR2hVTzBraWRWdEhpVXgtSkhzbTV4V2xSd0FhZnJLX2M3RjZwVnJlaGpVbTJka0FyX1Vn?oc=5",
+      "source": "SWA.co.id",
+      "publishedAt": "2026-07-28T04:10:00.000Z"
     },
     {
-      "title": "BEI Evaluasi Susunan Indeks LQ45, IDX80, dan IDX30 Juli 2026",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oZ3V1andzQnZPUHFWUHVQRXdDZ2ZEWEdzUlQweE1MQl9QcmU1eTNZQ2wtNkc5ZjNKSTBqT0xDQVB6VUdSYm1KZENMeXpYOU5YbkpTUkJSa0JveW9PdTZ0Y3Q3ampLbGdW?oc=5",
-      "source": "achmadnurhidayat.id",
-      "publishedAt": "2026-07-27T14:53:39.000Z"
+      "title": "Porsi dan Bobot TPIA di Indeks ESG Meningkat, Harga Saham Terangkat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXJRT3dtejRUS1ppdG1IbFBmenJxejF4SG1xUEZTWGdHM05rR0VkMVVYRUd0R0l0TTlNWmozYUlIbE1maG1ldGIzV1dLVjQzaFNLOThYV2hORm82YkY2ZzFNenpLaXgyUGduWmRlZWI2QjRPYk5HTUZnNWcwZHNuelpYa0RkU2cwNnJ0R1Q4dG1KdjBrZUR0VG9LSGJHWDBTcWt5VTctV2NpQVdiYWdXSTNYTVdSZm8?oc=5",
+      "source": "Bisnis.com - Market",
+      "publishedAt": "2026-07-28T03:36:39.000Z"
     },
     {
-      "title": "BEI Evaluasi Indeks, Emiten Grup Djarum Dicoret dari LQ45",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLUVLRTdUYlMxa3lvY2RJTlFUVnVxaTBsaFAyaER0cDFWRzBsc3hsaXVDSUw2cm43MzdkMTczOUllY2s1cWI3WWFkb25nVURIcUJ1ckRqc0ZEdmczV180UDFwb3NtdEhPQXY3eWZpSGJ6dW9oVWRBWlRHUUFudEhaSXNWekoxaDhXcVlTeFlHR1R2VFNM?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-07-27T14:45:00.000Z"
+      "title": "9 Saham Ini Terdepak dari Indeks Kompas100, Bagaimana Prospeknya?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUpRWHFEX2pOTWkyejNuazJhektHdWRVMXdoOXkyVkFkX2JEVWYzRzRDQXh5T0JYeVVMMjFPb2VnQjJhOGtVZkhfdTYxOGhJRVdCM25sbUZMYVg4TzU1cHhNUlNfNE93U3h1Y1RadzF6ODUxMXFHemg1VzQ3RmM0VjNubFBhRmx2NU5sWWVfN0M0QktYQUtDaHh5SU5oSTBEa3VkU1JOdndWdVROdWJrWHhRZ0o?oc=5",
+      "source": "Kompas.com",
+      "publishedAt": "2026-07-28T03:31:00.000Z"
     },
     {
-      "title": "BEI Perbarui Konstituen Indeks LQ45 IDX30 dan IDX80",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2aFFySTBlbG9TeGxReWJQMEFjeTBoWGw3amtnYS1GVTJlVWJBOXVmaFo3SE5VYXM5cDV2alBMXzU4aFg0b0VkaU5YYThvNUxGVWFNYnNybnhaUWQ2RVZPNlRoTVo1VGpnZmpLVWR3a2ZrZw?oc=5",
-      "source": "achmadnurhidayat.id",
-      "publishedAt": "2026-07-27T14:36:24.000Z"
+      "title": "IHSG Selasa dibuka melemah 10,58 poin ke posisi 6.175",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2hZWWZLeE8yTkZjNEdEdnpueUMtTUFPYTlBcm94WFNrUmZhQW9CTTc5MDIwbmhULTV1bW9WQmhtWVpyMDdGWWR0T3BZcHZyQkVteUdWQ3JNeU96YmU5clY4LU1TUXhrWlgtMXE0aVFJeDZTd25Hc3JKRHZjZjlsUGtvWlh0dkVkQ3hORzNBVzI2TENo?oc=5",
+      "source": "ANTARA News",
+      "publishedAt": "2026-07-28T03:15:29.000Z"
     },
     {
-      "title": "BEI Kocok Ulang Indeks LQ45 hingga IDX30, Saham Ini Naik Kelas",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmxhejVIX2Zra042MzVNWVIySzBsZjd1cGdCSGw5ejNnUUtOelUzWUhwQnJsdlV0QUxaWVhMREtlRkNURnBoMFFRc1FCTlJvUExNRTh6bE04WHA0RmZ2d3NENDVvekwwWWNJMlNVQ1hhRjdRX2lHQllIenVLUTd5bUF4LXMwclBudjZOQm9maGlCTHRFSUk2bWthTQ?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-07-27T14:32:33.000Z"
-    },
-    {
-      "title": "Daftar Terbaru Indeks Kompas100, BREN Keluar BNBR Masuk",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFo0Y2tHYTE5QjExSlgwMGRNV2w2X1pjd0dOS3phU2pRcF9HaU5ILVZMSVoyZVJ2RXNwWl96VFIzZlg0cFltN0ItT0lZN0R3MXpWaWJsX0MzZlBqbDZHenp2RlA4T25mSGlFamtkMWhrOERDYU9ta0l4MHk2WC1MS3ctanp1TG9PN20tdDVCbw?oc=5",
+      "title": "3 Saham Kompak Tertekan UMA BEI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TREUwQ0lsU2tBS0hGQTBxSURYX05OVWpYRHBFQXpPalJ1RTdXbWZKd2lhR2MtR3ZFc0dJNFFxYjNVWEJQcnI1cXN2cDVqSFBDdWIzVVJUSlpqMlFkbFNiN3ZTNTJiS2h6cUk5QW9DQ0k?oc=5",
       "source": "Emitennews.com",
-      "publishedAt": "2026-07-27T14:25:00.000Z"
+      "publishedAt": "2026-07-28T03:15:00.000Z"
     },
     {
-      "title": "BEI Ubah Penghuni Saham Indeks LQ45 hingga IDX30",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNndWVDBMSEttdXdYNEh1d1ExRGZMbE5yclFWbXlXdVNNZjh0dEk5NkNiaEFjN2RWOG1ueTdZMmRxZlhYSHZLTnV1YmJwa3dGOUdjSkg0Tm9HLTU1TU1oTHJ0azRNcnpUeTFtRGxLRDBKUFhiTmpWbTZZMHRDRzg3VEZQdzZST2F6allLZzNETkZ5eXAyUjlN0gGOAUFVX3lxTFB5R3FFNUMtaTdndUI5OWFieWhhOHNXeWxUeG1VaHBvRjB1b2w0Q3BqTnRJNloxMzlpSDUwX0RkcUdlVEdGcTlzR3o5eXRxUnlNMEF0UE1jSGluZVRhTVRON0xTN09XZ3BSbmlLMXZGLWdrNldBdE1lZHRqNnYwYVNmTDlzVDJ2eFZ1NjZBZmc?oc=5",
-      "source": "Liputan6.com",
-      "publishedAt": "2026-07-27T14:22:54.000Z"
+      "title": "BEI Susun Ulang Anggota Indeks Kompas100, Saham yang Kepemilikannya Terkonsentrasi Didepak",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM183TzZMWlJFNUdYMnZ5Q3EzcGRKMFNDODYxUzd5b09KMzF5ekNpcVpQYUczeW5CNDl2TWc3Mno3WTZmbU1UVEtkSG9SZVlodFFUakFkdHFVTk1YUEQ2QnRoUTJVUjlwSTFUMElqWTNnSlV1YWMyd3pnazR0Vk1ISDg1SzZzOWEtZi1OLWJtQkx0VHFxekxZcmdFX1Q4Qmc?oc=5",
+      "source": "Kompas.id",
+      "publishedAt": "2026-07-28T03:11:00.000Z"
+    },
+    {
+      "title": "Resmi Lepas dari Suspensi BEI, Begini Beda Nasib Pergerakan Saham ALKA dan MPRO",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTU2T3BNMzJHVGY1SndVV1cxVHVzVFFuV2hGa29Jd2NRc2RBeGN0NHB6MzBTR0otUFNpdks1LTdpSWhEY19XYUFaVkhMaV9td3JnaDV3UThZeWtpQXBadU9wU0hkZkczdUpVc3k4U1YtUDM5ejl2TklfVmwtMDVzMTRLUUVOaVJFSElnZy1qQWwxR1Z1VzlGNkRCVmFXX2ZWVG9nWGtxRVFnT190WlpaTEJOdUtMZEZ6dHc?oc=5",
+      "source": "Lotus Andalan Sekuritas",
+      "publishedAt": "2026-07-28T03:01:08.000Z"
     }
   ],
   "macroNews": [
     {
-      "title": "Wall Street Naik Senin (27/7), Jelang Keputusan The Fed dan Konflik AS-Iran Mereda",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2JnOGdnMWRqY29pT3BhT3o5ZTFCZDF6bVFTMUh2dDRFam1oWVFyYW5qZG9rX2p2bE5aRXo4RnVuVzRxWmhUMlVKb1pLdUttQzR6TTN2WTJWWUNvaWpvcEszNDlHVVo1d2ZkNUxUMmFyVmlDSHdvd0dqOU42UHdONGM1S29fdVJLVTk5WGZ1ajBBOVpncW5PZ1VMOW15ZzZOd2JSTnZFQXQ0Z2JNODlHN1dhVmrSAawBQVVfeXFMTm1YWlJCOWNzTVZvRW9wY3VVSlZaNzZMVlhCQjJnZWE5TDJLZW84ZU1qM1V0VFlhQTBZU05Rbkw1djFOXzVrM2tvbk5hdXlpRWpVWEFicWpERzBxMkFFMDg3QzNwYkdSU0s4MEV1cWlMXzlINlNqNy1yVWFEWEtJNElHWWlJbXd2Nk5hcG54NGtBZ2Y2RE95Vk1wUjUwNHBMUUUzNEY1QjFCWEJxdQ?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-07-27T14:03:06.000Z"
+      "title": "Dinamika di BI Masih Jadi Perhatian Pasar, Berdampak ke IHSG",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1ZhT3Q5UktNbjBPWGZ0bS1FU3N3MHRsY205OUJILVhuc1RlemJ5dE5lVGVwZnBpMVRXS2FLTFlhb29XaU9jS0VVc0NzWlRIZVhwLWZaM3RYNi1CVUhxQk96TDZYZjJ4bEVWOVA4MktuNGExdGRnZzRkcTdvQXdrU0loOUNSOVNvNXQ1dExvRG4yQ2U0X21NODN4T000MTc4YmxqVzV5dU1BbENMUkNOOA?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-07-28T03:08:47.000Z"
     },
     {
-      "title": "Crypto sedang menulis ulang cara para pedagang Wall Street menghabiskan akhir pekan mereka",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVVtbTBMRl92NWFxTk5KRUhpUEVzOXZZZEZlMzhxSDNZZkxycTJZMXdTTm9NWmlWcUFqZ3Z5X1A0ZkU0Y1dzQzV3Z3NIU3BGendHMFhEWHRNd0lHUzVlYzU0YXBxeW1JRUdaTzlDaHl1ZEtRQk1leVZGMWIwVl9TNDYzUnM2dF9JUEdNYVlYdXowWHhfYVg2NEhXTllfYWprU1RwSFotMHduQm9xemNUNA?oc=5",
-      "source": "CoinDesk",
-      "publishedAt": "2026-07-27T13:00:00.000Z"
+      "title": "IHSG Dibuka Menguat Siap Tes Resistance, Bursa Asia Menguat dan Wall Street Variatif",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcl9Cc3FUc0FCT1FVc2V4NGJraHdUdi1WOVBRWnZGelRWRkEwejUxa1JJSHFEcVFSdjdLdi1IcVRwbGY2a3o4SExKeDBLNWNRQThBSXp6LUdRdFZLNWlhZmx5WENtb1RLck9ERU1ITWpocktnVmpNXzN0ZVh0anNxMHVsM2kweUJZUEp1akFCUFduRFhyakRUNlMwQVg2bjJSa0FDR0VzQnJQUXhqSjVydVozbmN4NzdfSzR4VkZnYzFEZ1lXWE5QaGNYVUHSAdIBQVVfeXFMTTBRSUpzTUhISGp4NWxCNWx5YlhYb3JZLUJfb0RMaVRhOGhabXMzaTFkNVVaZDZhWmR4ZU1kQW1zWXlQQWlRcjd0QUUxZFNGZ1RfbTMzQkJ3WXVoX0xKeEdQMjRTNVA4MW9RMHB1OWg0Z254ejc4RDQxR28zVU5vdlE3SnFPSHd2UThuU0QyZ0pNY0cwV2dIMktIYUFHVlpWWkRCZG9xQ29BYUxISzZQbFYyNkdCSXJXamp1c3l0cHdYazRyR1NEQUh5Mk9DcGxJaUNR?oc=5",
+      "source": "tvOneNews",
+      "publishedAt": "2026-07-28T02:54:08.000Z"
     },
     {
-      "title": "Kisi-kisi Anyar Harga Emas Wall Street Jelang FOMC The Fed",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSU10YjVIdVVLT1dZU1hHa2Nac1BTSTRpc2tvS0RnQXNwYmZjZkNjNUxqUzVfZEZrd0ViMWpSUXI5NDJjRGQ3ZGd0ZjQyTTVOUC1nLUw4SGtZNDQxdzRzMUFOaVAzOVpUNGtxSWROQjR1YlpVeWZDLTV0MHZzaFhWZ2U1SnBKNVAzYnBqaXp4ZG9IUl9CLWw5Zm1qX256dHVlcmtQSGxONVJlYWh4c0xqUg?oc=5",
-      "source": "Bisnis Indonesia Premium",
-      "publishedAt": "2026-07-27T11:15:00.000Z"
-    },
-    {
-      "title": "IHSG Ditutup Melemah 0,17% ke 6.185, Saham Bank Batasi Tekanan di Tengah Sentimen BI",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkpzVXl5SEFaWFQxNGdrTTVfSUFkaTBTTnRXb1lfVEthbmkwTDVMbWhwdkhRVFF1b0ZSMGRBc0M4Ry1YcUcxdThhNFIzUG52d1NETW1fQVlBU1BHSE1GU0paTkE5OU9WSFEwTWVsTzZvM1lQLW85NGMyZE1IQkd4enFOaUdXSXlvRGlGRjAxckV2OWt5MVNxOUlyZ0FUbGlYMWY5ZlV1Wllpck5vb3poUW1yYmpRUVM4OE02cmVpQzkzR25LQVZFUnRQVdIBywFBVV95cUxPSkpzVXl5SEFaWFQxNGdrTTVfSUFkaTBTTnRXb1lfVEthbmkwTDVMbWhwdkhRVFF1b0ZSMGRBc0M4Ry1YcUcxdThhNFIzUG52d1NETW1fQVlBU1BHSE1GU0paTkE5OU9WSFEwTWVsTzZvM1lQLW85NGMyZE1IQkd4enFOaUdXSXlvRGlGRjAxckV2OWt5MVNxOUlyZ0FUbGlYMWY5ZlV1Wllpck5vb3poUW1yYmpRUVM4OE02cmVpQzkzR25LQVZFUnRQVQ?oc=5",
-      "source": "fxstreet-id.com",
-      "publishedAt": "2026-07-27T10:02:37.000Z"
-    },
-    {
-      "title": "Bursa Saham Global Menguat, Harga Minyak Anjlok Usai AS-Iran Hentikan Serangan",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWVuekNMRGNnelozMk5qeDVMd0VEcFVoOXpoa0JPc0wyb2E3OF9Gd1RjT2Q2R05PdTY4QmRRdVV0Z2s0SkdLa3hvWWRpaGltN0p0UW13NG5sS2J3NTdzT25nZGYwNkNHZVpTNzFTQmtDT0ZjbVhTZFBjQVQ5UmtpcHBIVENyLVpSajdRdk5fXzRtZEE4Tlp5UkhVb2F0NW5ocTFLQVMwWS1kSjDSAasBQVVfeXFMT0llbnpDTERjZ3paMzJOang1THdFRHBVaDl6aGtCT3NMMm9hNzhfRndUY09kNkdOT3U2OEJkUXVVdGdrNEpHS2t4b1lkaWhpbTdKdFFtdzRubEtidzU3c09uZ2RmMDZDR2VaUzcxU0JrQ09GY21YU2RQY0FUOVJraXBwSFRDci1aUmo3UXZOX180bWRBOE5aeVJIVW9hdDVuaHExS0FTMFktZEow?oc=5",
+      "title": "Bursa Asia Berguguran, Kekhawatiran Pendanaan AI Picu Aksi Jual Saham Teknologi",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb296SGxfdnRhbkxwY1JpcHBWNW4yMFgwTUx1RWVJS1hHcl8yaTUydEd0ZUFTVlFhS3VQdkdHN3ZySDh0WkpyVmRJcXBxOVJXeEdrVXdqS0ZZbjFLVDNscGhlWFVkc0tQS3NweF9BM0Q2MjNITm9pV1ljWWhPRzR0dFR1b1lpTjh4NzgxWGJXMGU4bE94WXcyem5mbWd3MmNfTVJpN2w2VDdhUk810gGsAUFVX3lxTE5vb3pIbF92dGFuTHBjUmlwcFY1bjIwWDBNTHVFZUlLWEdyXzJpNTJ0R3RlQVNWUWFLdVB2R0c3dnJIOHRaSnJWZElxcHE5Uld4R2tVd2pLRlluMUtUM2xwaGVYVWRzS1BLc3B4X0EzRDYyM0hOb2lXWWNZaE9HNHR0VHVvWWlOOHg3ODFYYlcwZThsT3hZdzJ6bmZtZ3cyY19NUmk3bDZUN2FSTzU?oc=5",
       "source": "KONTAN",
-      "publishedAt": "2026-07-27T09:54:52.000Z"
+      "publishedAt": "2026-07-28T02:49:01.000Z"
     },
     {
-      "title": "IHSG Melemah Hari Ini: Pelaku Pasar Cermati Suku Bunga The Fed",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkNMWmVmWF9zRHl3dU5RNEhYNzNSV3RoY0dETFlKRGZEeXpNQVhxSTZIWURGeE12cEFOZzlVMDdRbUVqY1FKQzhGQkRnanltZkRNOTBQV0QwbzFucFBaSmV1czJYWkNhVF9xWE1mVzUyaXdGb1RPZ2FpSG5xTzlNYjdkMkdRTkcyV2fSAYoBQVVfeXFMUGZDTFplZlhfc0R5d3VOUTRIWDczUld0aGNHRExZSkRmRHl6TUFYcUk2SFlERnhNdnBBTmc5VTA3UW1FamNRSkM4RkJEZ2p5bWZETTkwUFdEMG8xbnBQWkpldXMyWFpDYVRfcVhNZlc1Mml3Rm9UT2dhaUhucU85TWI3ZDJHUU5HMldn?oc=5",
-      "source": "merahputih.com",
-      "publishedAt": "2026-07-27T09:50:42.000Z"
+      "title": "IHSG Masih Loyo di Awal Perdagangan Selasa, Pantau Saham Bank",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2RiNEV3MkJqZjNHRURWX1RKaVlKbnN5VDhqOG5SWEUzQ2ptTkJ0dnE5Z2tkREVQREN1MXJiaXh6WkNQYk9KY3ViQ0llSFVqSV9lWnpSeEVJX0JTaVd3Z2EwZDk5V3FWa0lQZ2E0N2lHVWJ4cnRIZEZOYm9vVV8yelpjRTNYWHgxTklRWS13MTJObjA3WHRubmQyNGIyOEJjOFRRbVJkb3lyQVnSAasBQVVfeXFMTWF5c2NvM1FiRUhobUI5eUtuT1ZQc29EZ1Q1ckk1ZGw4NkJtVWdyWTc1QnF1a1R5NmJ5YU5xZjkzdWVldlN5T2pvUkxyNF9RUUlKa0lJRF8wMEhRb0hjVDg0NWg3UmtPb2lnMEFGLUVfQ05sSnNjbFJjbVA3VUFuMU5wZTNOTVFnX3llejFRT2RtREFLRV9lYUFiRHZRWmxnRHRucXI3VHVaV21N?oc=5",
+      "source": "Suara.com",
+      "publishedAt": "2026-07-28T02:13:23.000Z"
     },
     {
-      "title": "Saham CXMT Melonjak 466 Persen Saat Debut Perdagangan",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrU1RKczBJOWtXOWRBNUZ6bU1EdFZaZTlHQ2pPNGhlSTEyZGZyQXZBMFZ4RUE3cmtkX09XUndhMnlucEVTOThsdDVNMm1kZ29WcENYX29QZzI3MXV0VW52VU1jajJIalFFd0tWSk1NTkU?oc=5",
-      "source": "sekbernews.id",
-      "publishedAt": "2026-07-27T08:59:18.000Z"
+      "title": "Wall Street ditutup beragam jelang laporan keuangan teknologi",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HOHFjQS1xd3EyNEphOTdVTFEtM0Q4Y3dNcmEtTFNTd1FGdm91RlNOZ3EyTWVWbm5KMXliZkxRZ0QzWEFnUkNBc3ZRR0dTWnNaR0tuOVlRSG4zMDlrdUNTbjlUNVhoWk1uSThKbTNvWGZJbS1LN1E?oc=5",
+      "source": "Readers.id",
+      "publishedAt": "2026-07-28T02:03:58.000Z"
     },
     {
-      "title": "Futures AS melonjak saat harga minyak anjlok, meredakan kekhawatiran suku bunga",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3VJNE4wQVNlc211eG5uSC0zbHV4OHNFMHN0ZXkzblZuV0hKbm5HUDRabHRNN1RVNHdpd2dsQmZpaFIya29NbW1QQ2V0bXRpMG5sX3V0ZFk4OFVOekdWVFNaTVlXVUNSaTVhMzA1UnJEZU15NHNkaWR0YVNKR1ZQZ0lrUjhCUDc0NElkbWc3WXYwYi1Ob1dyOG05YzdfX0owMWswaWJvZkJIZUVLRXZPdjdMa0x6eHlHcENZbzA3LTN5NDhT?oc=5",
-      "source": "Investing.com Indonesia",
-      "publishedAt": "2026-07-27T08:42:30.000Z"
+      "title": "ANALIS MARKET (28/7/2026): Wait and See!",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTcmliUFhfYVZmUDVMVjc5T0hhM0YyODdPa0t5Ul9LS0lrUTAwS1FKcGtHUXloZnVDMTBrQ2pzUFdCZF9HLXBmb3dIT2xSYndiZnZYTGVhMlhfYWozMTlObUJVWEFUanh4MF9yak41VmhySTQ1ZDEyaEU3MTU?oc=5",
+      "source": "pasardana.id",
+      "publishedAt": "2026-07-28T02:02:00.000Z"
+    },
+    {
+      "title": "Wall Street Ditutup Beragam, Pasar Cemas Harga Minyak Tinggi Picu Kenaikan Suku Bunga The Fed",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmhmUjl5ZXM3NUtpcDlzN04zWXY3N3hjRnBqM0ZpbDBtVTJvUnFSeE96UF9ZN09YZEpQT1NtZzBYWF9RVThBQzVhYlBhOW1fNUtGc0xmQnFMWFM3dFdqMW05SUhhUzRjWkZaWmQtei1RZWF3LUhoaTFfdjNWMUNuQktNSkVEY3I1b243aTdJV2QwOUFGRTV0Zzl4Y2RORm1xWjVTcy0yUEV3MzFzTHZQVnU0RXRCa19odDNrdC01cWpyd2k4cmYwMQ?oc=5",
+      "source": "Kompas.com",
+      "publishedAt": "2026-07-28T01:59:00.000Z"
+    },
+    {
+      "title": "ANALIS MARKET (28/7/2026): IHSG Diperkirakan Masih Cenderung Tertekan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXg2cTVYckJuMV9rWUdHbmx0ZHk5SjBEM21OWUVVMVM1YmhzQ3Nzem0xU2h6eUhXazdPUTBXS3VhVlc4LTFiSlA1RWtMNjBDOUE3bjE4YmRkVzA4dEpEQ0lReGFvVXVidHRfRm5icTZmSHdiZF8xR0thSjlfTF9sU2phR2xpdEx6RHRNbjlNc1kzYzdQLWlzV2t0aVhidXFzRnlieg?oc=5",
+      "source": "pasardana.id",
+      "publishedAt": "2026-07-28T01:50:00.000Z"
     }
   ],
-  "errors": [],
+  "errors": [
+    "fx: assembled snapshot failed validation"
+  ],
   "sources": {
     "market": "Yahoo Finance ^JKSE intraday (5-minute workflow; delayed)",
     "fx": "Yahoo Finance IDR=X daily history + intraday (5-minute workflow; delayed)",
