@@ -69,6 +69,33 @@
     ]
   },
   {
+    "id": "b50-mandatori-2026",
+    "date": "2026-07-09",
+    "title": "Mandatory Biodiesel B50 Launch",
+    "location": "Rest Area KM 57, Karawang, West Java",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/indonesia-ukir-sejarah-presiden-prabowo-resmikan-mandatori-biodiesel-b50-pertama-di-dunia/"
+  },
+  {
+    "id": "hari-koperasi-79-2026",
+    "date": "2026-07-12",
+    "title": "79th National Cooperative Day Address",
+    "location": "Indonesia Arena, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/hadiri-puncak-hari-koperasi-ke-79-presiden-prabowo-tegaskan-koperasi-pilar-utama-ekonomi-kerakyatan/"
+  },
+  {
+    "id": "sidang-kabinet-paripurna-2026-07",
+    "date": "2026-07-20",
+    "title": "Mid-Year Plenary Cabinet Session",
+    "location": "Istana Negara, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-jadikan-sidang-kabinet-paripurna-titik-evaluasi-dan-penguatan-kinerja-memasuki-tahun-kedua-pemerintahan/"
+  },
+  {
     "id": "pkb-prabowonomics-2026",
     "date": "2026-07-23",
     "title": "Prabowonomics at PKB 28th Anniversary",
@@ -76,5 +103,24 @@
     "status": "confirmed",
     "precision": "daily",
     "source": "https://setkab.go.id/en/president-prabowo-subianto-attends-pkb-28th-anniversary-responds-to-prabowonomics-theme-as-implementation-of-economic-mandate-of-constitution/"
+  },
+  {
+    "id": "iifc-acceleration-2026",
+    "date": "2026-07-23",
+    "title": "Indonesia International Financial Center Acceleration",
+    "location": "Istana Kepresidenan, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-percepat-pembentukan-indonesia-international-financial-center-untuk-perkuat-daya-saing-investasi/"
+  },
+  {
+    "id": "kssk-2026-07",
+    "date": "2026-07-27",
+    "title": "Financial System Stability Committee Meeting",
+    "location": "Istana Merdeka, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-pimpin-rapat-kssk-perkuat-sinergi-jaga-stabilitas-keuangan-dan-kepercayaan-pasar/",
+    "marketContext": "Official Presidency record: President Prabowo chaired a KSSK meeting with BI, OJK, LPS, and Finance. Acting BI Governor Destry Damayanti stressed exchange-rate stability as the priority and said BI would remain present in spot, DNDF, and NDF markets while continuing pro-growth macroprudential policy and hedging-cost incentives for capital inflows."
   }
 ]
