@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:33:17.902Z",
+  "generatedAt": "2026-07-28T11:10:38.717Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
@@ -8,7 +8,7 @@
     "refreshIntervalMinutes": 5,
     "price": 6130.59,
     "previousClose": 6185.78,
-    "change": -55.2,
+    "change": -55.19,
     "changePercent": -0.89,
     "quoteAt": "2026-07-28T09:00:06.000Z",
     "exchangeTimezone": "Asia/Jakarta",
@@ -962,10 +962,6 @@
       {
         "date": "2026-07-23",
         "close": 6315.31
-      },
-      {
-        "date": "2026-07-24",
-        "close": 6196.43
       },
       {
         "date": "2026-07-27",
@@ -2088,6 +2084,12 @@
   ],
   "stockNews": [
     {
+      "title": "Rebalancing Indeks BEI Belum Jadi Katalis Kuat, Analis Soroti Saham Pendatang Baru",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUklWdXhBTENGaWhZbUt6emR3MDZWaHZFNnhQdGRnTllJaFJpZ0J5NTZYQ3pRY0hzTFptVGc0bTcyLWxHQkhpRXF3ZmllSjBQYW1nR0lGMVhFdDBQLWs0dGlxWGxFV3hObGZxbFBwY0tiYlE2MC05a1NvVW45Vjg2TGhkc0lrdE9WQ2o4QlFXNk5VU3NoUU5HdDNrMEp6d1BWVGk5UzJGQVhOVTh3ZW1TQVBkTm1QZGxG0gGwAUFVX3lxTE5RbEJQLTktR1FiR29hT3FnSXhnS3Jwb3JNWFRzTXNJMDhuZDU0WVRtLThza0VHYzhxUjY4UlczMHpSYXRlMDJROF9KV2Z2OERBZ2tPZHN5Q1dQRF9MZktTeHJaY0dnUFl4bS1PNFFJQW10aU5rRGVXM2FUNEtLZ29odmxqc0k3S3R4V29XU0R0YkZabklBamhSY0ZjYVZSWVhraE5mQ19tM2JabHBwdjkw?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-07-28T10:33:47.000Z"
+    },
+    {
       "title": "BEI Ungkap Alasan Saham GOTO Masih Bertahan di LQ45 Meski Diperdagangkan di Level Rp 50",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaGdtZE5XRU1DYzFTbVMwcUN2Z1RHcW9fMHpLWjA4T2JRdkVhcWJTT2VwNmM3WDFCRlZQek05LWF0UkZwdUtnY3RSLW1SN0ZwNzZRcWt4RUtOT1pTRFNHUjJPWGtEdnlyZW51WmVjWWFXcUZZWERWZlhDbmtMM2VHYmZmMkNxMF9yYzF1bm95S1lIanF4ZmpYajlQWHBzZWZvWWNqRGgxNWJkZEVCTnFZQW5VaGpoWHdpa2FDS1N4UzN2by1K?oc=5",
       "source": "InvestorTrust",
@@ -2125,18 +2127,18 @@
     },
     {
       "title": "Masuk Radar BEI, Saham DOOH, FILM, dan TAMA Kompak Ambruk",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkk1R0pkYVlJazBpU041bEg5S0s3cDhfUDVzbVpZYkNjWjVNVVBNeUZKbU82VExxYXNYdUtRMURYUEpZSHFBNnpfX2RuMUt2SXllSmNBN0d4cTljb29haVRkMmdqam1wMVRoa0J3U2hUNWhtcEtrakFjNUozUU56VG53UlVCazJWQ3d4aTJZVklXVUtoUXo00gGcAUFVX3lxTE5RYm9KSGlucTFCVS1USnhBTzl2MWFvLUxOamxrMTNsaWh0b3VhWFpPTlhlQXFLN3IxWExwRFg2SWJzQ2VwQlpNcHpxQ1NjVDZUUDFJNmVSVm84WlFfSkhnSER6MVItMEpoOW1vakN2bVpGVDZXbXBubzBWTnFyZFE5TVRnbXZUazZCWFVqbVhOd29odU42V2JBZ2U2QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWJvSkhpbnExQlUtVEp4QU85djFhby1MTmpsazEzbGlodG91YVhaT05YZUFxSzdyMVhMcERYNklic0NlcEJaTXB6cUNTY1Q2VFAxSTZlUlZvOFpRX0pIZ0hEejFSLTBKaDltb2pDdm1aRlQ2V21wbm8wVk5xcmRROU1UZ212VGs2QlhVam1YTndvaHVONldiQWdlNkHSAZwBQVVfeXFMTlFib0pIaW5xMUJVLVRKeEFPOXYxYW8tTE5qbGsxM2xpaHRvdWFYWk9OWGVBcUs3cjFYTHBEWDZJYnNDZXBCWk1wenFDU2NUNlRQMUk2ZVJWbzhaUV9KSGdIRHoxUi0wSmg5bW9qQ3ZtWkZUNldtcG5vMFZOcXJkUTlNVGdtdlRrNkJYVWptWE53b2h1TjZXYkFnZTZB?oc=5",
       "source": "Warta Ekonomi",
       "publishedAt": "2026-07-28T08:45:00.000Z"
-    },
-    {
-      "title": "BEI pastikan stabilitas pasar saham di tengah transisi kepemimpinan BI",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGE2cjJMd2w0WjV1YWJWLW9fcVFENlFILUlLcVpyMFg3dWM1SHhNVGluUjdVVFBzM18tUjRYNWFESldPVUFacEhZZlBTTk5ST1lSSzl0X0szYTlteWg4Q2cyUFVwbTRVVFN5c2VYYXhfVEZLSkxEM1dTVzNhVHdtYTlFZTNnNVdLR2E5X05XOXNzcHUwZ29Uc2ZtUTBTbEIwZGFaQjEybnVrRV85N3JVQ3lR0gG0AUFVX3lxTE5QLWdTSHBrTkZ4NktIMGdodU45NnNZaHI4RmphdXdLZWVUU3h0akZfVEswM1Fva2xYd29nU0xERTB2YkQ0R2NPZDBCQi1oVVZTdmJoaWhrM21HTVAxbUtGVmVYTmZlNVUyajZoQmVnRDhYTXJpRDVTQWxwVUl0c004djBVQjhQMmxXYzlQV1dPVXN2ckY3a1Q1Ukc4SDJSVmZDdVdKa2xaSV9Na0h1ZlU1NmtmQg?oc=5",
-      "source": "ANTARA News",
-      "publishedAt": "2026-07-28T08:36:57.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Raksasa Wall Street Citadel Prediksi The Fed Naikkan Suku Bunga",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFFvTzVjdHdmTjBlVGowWGQyWXMxT0dZTE95eC1JMWRxejVnaTRKUklORkhhcUlxaGZPNTU1WTM5N3BIX3RIQkFOU2NNS0NDVkxXTzc4bmpLTVpkWG9NUHdIcGN6TDhneHNVWGEwQTY3Y1dqMEFia0wycUNjRkhZWnhLWTlQbV9yalFMMGNmSFU4TWgxNHhXQzBBeF9jUk9aZmYwZdIBpAFBVV95cUxNZFFvTzVjdHdmTjBlVGowWGQyWXMxT0dZTE95eC1JMWRxejVnaTRKUklORkhhcUlxaGZPNTU1WTM5N3BIX3RIQkFOU2NNS0NDVkxXTzc4bmpLTVpkWG9NUHdIcGN6TDhneHNVWGEwQTY3Y1dqMEFia0wycUNjRkhZWnhLWTlQbV9yalFMMGNmSFU4TWgxNHhXQzBBeF9jUk9aZmYwZQ?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-07-28T09:07:00.000Z"
+    },
     {
       "title": "Saham Chip Tekan Nasdaq di Awal Pekan",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYzBYVTJOSXltX1l2eG5Pbk9FbzdWV1pWLU1IQWt3Q2NqT3NPdllhaTRaREVuM01tUnNSbVE3YWM0TjRxV1hiMmVXenJsMXpHa282bVFETVYxems2bEJnQWQ2MXEwd3JnMXdCOW1lRVF5RldEc1VxMTdFRDZjZ3hwZXRWNVRUemdlSzJWSzh2Rm5lYllZWXZtbXFtR2h3SU1lZXhBdTA1eGJ4YTcwSElZYnBB?oc=5",
@@ -2178,12 +2180,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTVpnNkdFck1kbUM4NXpNNTZ1a2UxaTQ0V2dLYlNMTWRCOUNpRU8yWWUtN0k0bXdPZGRSejQ0cVNoYWwxQWkweGw0NWRSMTExZE0wQTdQc2JsTHdOQlJncFl6RWwtZEN1cHd5Q1lLWkY?oc=5",
       "source": "asatunews.co.id",
       "publishedAt": "2026-07-28T03:11:09.000Z"
-    },
-    {
-      "title": "Dinamika di BI Masih Jadi Perhatian Pasar, Berdampak ke IHSG",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1ZhT3Q5UktNbjBPWGZ0bS1FU3N3MHRsY205OUJILVhuc1RlemJ5dE5lVGVwZnBpMVRXS2FLTFlhb29XaU9jS0VVc0NzWlRIZVhwLWZaM3RYNi1CVUhxQk96TDZYZjJ4bEVWOVA4MktuNGExdGRnZzRkcTdvQXdrU0loOUNSOVNvNXQ1dExvRG4yQ2U0X21NODN4T000MTc4YmxqVzV5dU1BbENMUkNOOA?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-07-28T03:08:47.000Z"
     }
   ],
   "errors": [],
