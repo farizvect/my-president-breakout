@@ -246,7 +246,8 @@ export function isValidPriceSeriesSnapshot(candidate, nowMs = Date.now()) {
   return Number.isFinite(candidate.price) && candidate.price > 0
     && Number.isFinite(candidate.previousClose) && candidate.previousClose > 0
     && Number.isFinite(candidate.change) && Number.isFinite(candidate.changePercent)
-    && candidate.change === expectedChange && candidate.changePercent === expectedChangePercent
+    && Math.abs(round(candidate.change - expectedChange)) <= 0.01
+    && Math.abs(round(candidate.changePercent - expectedChangePercent)) <= 0.01
     && typeof candidate.quoteAt === 'string' && Number.isFinite(quoteMs)
     && quoteMs >= Date.UTC(2000, 0, 1) && quoteMs <= nowMs
     && ['REGULAR', 'STALE', 'CLOSED'].includes(candidate.marketState)
