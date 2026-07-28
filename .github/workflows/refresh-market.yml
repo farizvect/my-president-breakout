@@ -23,10 +23,10 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020  # v4
         with:
           node-version: "24"
-      - name: Test data logic
-        run: node --test tests/*.test.mjs
       - name: Fetch delayed market data and headlines
         run: node scripts/fetch-data.mjs
+      - name: Test data logic
+        run: node --test tests/*.test.mjs
       - name: Commit changed snapshot
         run: |
           if git diff --quiet -- data/live.json; then
