@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:23:54.920Z",
+  "generatedAt": "2026-07-28T10:32:44.716Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
@@ -978,7 +978,1064 @@
     ],
     "fetchedAt": "2026-07-28T09:00:06.000Z"
   },
-  "fx": null,
+  "fx": {
+    "symbol": "IDR=X",
+    "pair": "USD/IDR",
+    "baseCurrency": "USD",
+    "quoteCurrency": "IDR",
+    "price": 18058,
+    "previousClose": 17990,
+    "change": 68,
+    "changePercent": 0.38,
+    "quoteAt": "2026-07-28T10:05:07.000Z",
+    "exchangeTimezone": "Europe/London",
+    "marketState": "STALE",
+    "delayed": true,
+    "refreshIntervalMinutes": 5,
+    "points": [
+      {
+        "date": "2025-07-27",
+        "close": 16353
+      },
+      {
+        "date": "2025-07-28",
+        "close": 16398.8
+      },
+      {
+        "date": "2025-07-29",
+        "close": 16367.9
+      },
+      {
+        "date": "2025-07-30",
+        "close": 16426.8
+      },
+      {
+        "date": "2025-07-31",
+        "close": 16483
+      },
+      {
+        "date": "2025-08-03",
+        "close": 16483
+      },
+      {
+        "date": "2025-08-04",
+        "close": 16362
+      },
+      {
+        "date": "2025-08-05",
+        "close": 16377.5
+      },
+      {
+        "date": "2025-08-06",
+        "close": 16334.7
+      },
+      {
+        "date": "2025-08-07",
+        "close": 16300
+      },
+      {
+        "date": "2025-08-10",
+        "close": 16249
+      },
+      {
+        "date": "2025-08-11",
+        "close": 16298
+      },
+      {
+        "date": "2025-08-12",
+        "close": 16248.2
+      },
+      {
+        "date": "2025-08-13",
+        "close": 16109
+      },
+      {
+        "date": "2025-08-14",
+        "close": 16169
+      },
+      {
+        "date": "2025-08-17",
+        "close": 16196
+      },
+      {
+        "date": "2025-08-18",
+        "close": 16205.4
+      },
+      {
+        "date": "2025-08-19",
+        "close": 16275.2
+      },
+      {
+        "date": "2025-08-20",
+        "close": 16263.6
+      },
+      {
+        "date": "2025-08-21",
+        "close": 16339.7
+      },
+      {
+        "date": "2025-08-24",
+        "close": 16227
+      },
+      {
+        "date": "2025-08-25",
+        "close": 16267
+      },
+      {
+        "date": "2025-08-26",
+        "close": 16299.2
+      },
+      {
+        "date": "2025-08-27",
+        "close": 16314
+      },
+      {
+        "date": "2025-08-28",
+        "close": 16344.3
+      },
+      {
+        "date": "2025-08-31",
+        "close": 16409
+      },
+      {
+        "date": "2025-09-01",
+        "close": 16405.2
+      },
+      {
+        "date": "2025-09-02",
+        "close": 16443.9
+      },
+      {
+        "date": "2025-09-03",
+        "close": 16463
+      },
+      {
+        "date": "2025-09-04",
+        "close": 16452.1
+      },
+      {
+        "date": "2025-09-07",
+        "close": 16392
+      },
+      {
+        "date": "2025-09-08",
+        "close": 16446.1
+      },
+      {
+        "date": "2025-09-09",
+        "close": 16449.9
+      },
+      {
+        "date": "2025-09-10",
+        "close": 16439
+      },
+      {
+        "date": "2025-09-11",
+        "close": 16413.6
+      },
+      {
+        "date": "2025-09-14",
+        "close": 16401
+      },
+      {
+        "date": "2025-09-15",
+        "close": 16364.6
+      },
+      {
+        "date": "2025-09-16",
+        "close": 16398.1
+      },
+      {
+        "date": "2025-09-17",
+        "close": 16418.6
+      },
+      {
+        "date": "2025-09-18",
+        "close": 16569.1
+      },
+      {
+        "date": "2025-09-21",
+        "close": 16637
+      },
+      {
+        "date": "2025-09-22",
+        "close": 16582
+      },
+      {
+        "date": "2025-09-23",
+        "close": 16633
+      },
+      {
+        "date": "2025-09-24",
+        "close": 16695.1
+      },
+      {
+        "date": "2025-09-25",
+        "close": 16759.1
+      },
+      {
+        "date": "2025-09-28",
+        "close": 16723
+      },
+      {
+        "date": "2025-09-29",
+        "close": 16628
+      },
+      {
+        "date": "2025-09-30",
+        "close": 16683
+      },
+      {
+        "date": "2025-10-01",
+        "close": 16644.1
+      },
+      {
+        "date": "2025-10-02",
+        "close": 16601.5
+      },
+      {
+        "date": "2025-10-05",
+        "close": 16558
+      },
+      {
+        "date": "2025-10-06",
+        "close": 16596.5
+      },
+      {
+        "date": "2025-10-07",
+        "close": 16587
+      },
+      {
+        "date": "2025-10-08",
+        "close": 16556
+      },
+      {
+        "date": "2025-10-09",
+        "close": 16577.7
+      },
+      {
+        "date": "2025-10-12",
+        "close": 16598
+      },
+      {
+        "date": "2025-10-13",
+        "close": 16548
+      },
+      {
+        "date": "2025-10-14",
+        "close": 16585.9
+      },
+      {
+        "date": "2025-10-15",
+        "close": 16575
+      },
+      {
+        "date": "2025-10-16",
+        "close": 16561.9
+      },
+      {
+        "date": "2025-10-19",
+        "close": 16566
+      },
+      {
+        "date": "2025-10-20",
+        "close": 16542
+      },
+      {
+        "date": "2025-10-21",
+        "close": 16598.9
+      },
+      {
+        "date": "2025-10-22",
+        "close": 16596.6
+      },
+      {
+        "date": "2025-10-23",
+        "close": 16593.8
+      },
+      {
+        "date": "2025-10-27",
+        "close": 16597.8
+      },
+      {
+        "date": "2025-10-28",
+        "close": 16158.2
+      },
+      {
+        "date": "2025-10-29",
+        "close": 16561.78
+      },
+      {
+        "date": "2025-10-30",
+        "close": 16562
+      },
+      {
+        "date": "2025-10-31",
+        "close": 16150
+      },
+      {
+        "date": "2025-11-03",
+        "close": 16630
+      },
+      {
+        "date": "2025-11-04",
+        "close": 16640.9
+      },
+      {
+        "date": "2025-11-05",
+        "close": 16707
+      },
+      {
+        "date": "2025-11-06",
+        "close": 16669
+      },
+      {
+        "date": "2025-11-07",
+        "close": 16694.1
+      },
+      {
+        "date": "2025-11-10",
+        "close": 16653
+      },
+      {
+        "date": "2025-11-11",
+        "close": 16690
+      },
+      {
+        "date": "2025-11-12",
+        "close": 16694.9
+      },
+      {
+        "date": "2025-11-13",
+        "close": 16729
+      },
+      {
+        "date": "2025-11-14",
+        "close": 16719
+      },
+      {
+        "date": "2025-11-17",
+        "close": 16679.5
+      },
+      {
+        "date": "2025-11-18",
+        "close": 16738.9
+      },
+      {
+        "date": "2025-11-19",
+        "close": 16727.7
+      },
+      {
+        "date": "2025-11-20",
+        "close": 16686.7
+      },
+      {
+        "date": "2025-11-21",
+        "close": 16731
+      },
+      {
+        "date": "2025-11-24",
+        "close": 16639
+      },
+      {
+        "date": "2025-11-25",
+        "close": 16645
+      },
+      {
+        "date": "2025-11-26",
+        "close": 16633.5
+      },
+      {
+        "date": "2025-11-27",
+        "close": 16614.7
+      },
+      {
+        "date": "2025-11-28",
+        "close": 16603.9
+      },
+      {
+        "date": "2025-12-01",
+        "close": 16635
+      },
+      {
+        "date": "2025-12-02",
+        "close": 16609
+      },
+      {
+        "date": "2025-12-03",
+        "close": 16609.9
+      },
+      {
+        "date": "2025-12-04",
+        "close": 16594
+      },
+      {
+        "date": "2025-12-05",
+        "close": 16654.4
+      },
+      {
+        "date": "2025-12-08",
+        "close": 16683
+      },
+      {
+        "date": "2025-12-09",
+        "close": 16686
+      },
+      {
+        "date": "2025-12-10",
+        "close": 16662
+      },
+      {
+        "date": "2025-12-11",
+        "close": 16639
+      },
+      {
+        "date": "2025-12-12",
+        "close": 16649
+      },
+      {
+        "date": "2025-12-15",
+        "close": 16623.1
+      },
+      {
+        "date": "2025-12-16",
+        "close": 16645.8
+      },
+      {
+        "date": "2025-12-17",
+        "close": 16644.6
+      },
+      {
+        "date": "2025-12-18",
+        "close": 16657
+      },
+      {
+        "date": "2025-12-19",
+        "close": 16685.2
+      },
+      {
+        "date": "2025-12-22",
+        "close": 16678.5
+      },
+      {
+        "date": "2025-12-23",
+        "close": 16756.4
+      },
+      {
+        "date": "2025-12-24",
+        "close": 16735
+      },
+      {
+        "date": "2025-12-26",
+        "close": 16753.1
+      },
+      {
+        "date": "2025-12-29",
+        "close": 16741.1
+      },
+      {
+        "date": "2025-12-30",
+        "close": 16770
+      },
+      {
+        "date": "2025-12-31",
+        "close": 16709
+      },
+      {
+        "date": "2026-01-02",
+        "close": 16668
+      },
+      {
+        "date": "2026-01-05",
+        "close": 16683
+      },
+      {
+        "date": "2026-01-06",
+        "close": 16727.2
+      },
+      {
+        "date": "2026-01-07",
+        "close": 16742
+      },
+      {
+        "date": "2026-01-08",
+        "close": 16753
+      },
+      {
+        "date": "2026-01-09",
+        "close": 16805.7
+      },
+      {
+        "date": "2026-01-12",
+        "close": 16826.7
+      },
+      {
+        "date": "2026-01-13",
+        "close": 16859.4
+      },
+      {
+        "date": "2026-01-14",
+        "close": 16840.8
+      },
+      {
+        "date": "2026-01-15",
+        "close": 16845.1
+      },
+      {
+        "date": "2026-01-16",
+        "close": 16878.9
+      },
+      {
+        "date": "2026-01-19",
+        "close": 16876.6
+      },
+      {
+        "date": "2026-01-20",
+        "close": 16939
+      },
+      {
+        "date": "2026-01-21",
+        "close": 16960.1
+      },
+      {
+        "date": "2026-01-22",
+        "close": 16897
+      },
+      {
+        "date": "2026-01-23",
+        "close": 16820
+      },
+      {
+        "date": "2026-01-26",
+        "close": 16770
+      },
+      {
+        "date": "2026-01-27",
+        "close": 16734
+      },
+      {
+        "date": "2026-01-28",
+        "close": 16674.7
+      },
+      {
+        "date": "2026-01-29",
+        "close": 16722.8
+      },
+      {
+        "date": "2026-01-30",
+        "close": 16778.3
+      },
+      {
+        "date": "2026-02-02",
+        "close": 16758.4
+      },
+      {
+        "date": "2026-02-03",
+        "close": 16758.4
+      },
+      {
+        "date": "2026-02-04",
+        "close": 16759
+      },
+      {
+        "date": "2026-02-05",
+        "close": 16800
+      },
+      {
+        "date": "2026-02-06",
+        "close": 16879.9
+      },
+      {
+        "date": "2026-02-09",
+        "close": 16843.5
+      },
+      {
+        "date": "2026-02-10",
+        "close": 16796
+      },
+      {
+        "date": "2026-02-11",
+        "close": 16778
+      },
+      {
+        "date": "2026-02-12",
+        "close": 16793.9
+      },
+      {
+        "date": "2026-02-13",
+        "close": 16809
+      },
+      {
+        "date": "2026-02-16",
+        "close": 16826.1
+      },
+      {
+        "date": "2026-02-17",
+        "close": 16806.6
+      },
+      {
+        "date": "2026-02-18",
+        "close": 16840
+      },
+      {
+        "date": "2026-02-19",
+        "close": 16915.3
+      },
+      {
+        "date": "2026-02-20",
+        "close": 16887.2
+      },
+      {
+        "date": "2026-02-23",
+        "close": 16843.4
+      },
+      {
+        "date": "2026-02-24",
+        "close": 16804.3
+      },
+      {
+        "date": "2026-02-25",
+        "close": 16816.8
+      },
+      {
+        "date": "2026-02-26",
+        "close": 16749.8
+      },
+      {
+        "date": "2026-02-27",
+        "close": 16749
+      },
+      {
+        "date": "2026-03-02",
+        "close": 16795
+      },
+      {
+        "date": "2026-03-03",
+        "close": 16863
+      },
+      {
+        "date": "2026-03-04",
+        "close": 16898.1
+      },
+      {
+        "date": "2026-03-05",
+        "close": 16865
+      },
+      {
+        "date": "2026-03-06",
+        "close": 16913.1
+      },
+      {
+        "date": "2026-03-09",
+        "close": 16923.7
+      },
+      {
+        "date": "2026-03-10",
+        "close": 16886
+      },
+      {
+        "date": "2026-03-11",
+        "close": 16852
+      },
+      {
+        "date": "2026-03-12",
+        "close": 16884
+      },
+      {
+        "date": "2026-03-13",
+        "close": 16908
+      },
+      {
+        "date": "2026-03-16",
+        "close": 16952.1
+      },
+      {
+        "date": "2026-03-17",
+        "close": 16953.1
+      },
+      {
+        "date": "2026-03-18",
+        "close": 16971.3
+      },
+      {
+        "date": "2026-03-19",
+        "close": 17041.7
+      },
+      {
+        "date": "2026-03-20",
+        "close": 16915.9
+      },
+      {
+        "date": "2026-03-23",
+        "close": 16959.3
+      },
+      {
+        "date": "2026-03-24",
+        "close": 16865.1
+      },
+      {
+        "date": "2026-03-25",
+        "close": 16797.3
+      },
+      {
+        "date": "2026-03-26",
+        "close": 16749.6
+      },
+      {
+        "date": "2026-03-27",
+        "close": 16925
+      },
+      {
+        "date": "2026-03-29",
+        "close": 16958
+      },
+      {
+        "date": "2026-03-30",
+        "close": 16975.4
+      },
+      {
+        "date": "2026-03-31",
+        "close": 16936.4
+      },
+      {
+        "date": "2026-04-01",
+        "close": 16924.1
+      },
+      {
+        "date": "2026-04-02",
+        "close": 16959
+      },
+      {
+        "date": "2026-04-05",
+        "close": 16988
+      },
+      {
+        "date": "2026-04-06",
+        "close": 17015.3
+      },
+      {
+        "date": "2026-04-07",
+        "close": 17027.4
+      },
+      {
+        "date": "2026-04-08",
+        "close": 17005.5
+      },
+      {
+        "date": "2026-04-09",
+        "close": 17059
+      },
+      {
+        "date": "2026-04-12",
+        "close": 17083
+      },
+      {
+        "date": "2026-04-13",
+        "close": 17079.2
+      },
+      {
+        "date": "2026-04-14",
+        "close": 17129
+      },
+      {
+        "date": "2026-04-15",
+        "close": 17146.1
+      },
+      {
+        "date": "2026-04-16",
+        "close": 17123
+      },
+      {
+        "date": "2026-04-19",
+        "close": 17133
+      },
+      {
+        "date": "2026-04-20",
+        "close": 17123.8
+      },
+      {
+        "date": "2026-04-21",
+        "close": 17133.1
+      },
+      {
+        "date": "2026-04-22",
+        "close": 17199.5
+      },
+      {
+        "date": "2026-04-23",
+        "close": 17329
+      },
+      {
+        "date": "2026-04-26",
+        "close": 17246
+      },
+      {
+        "date": "2026-04-27",
+        "close": 17216
+      },
+      {
+        "date": "2026-04-28",
+        "close": 17244
+      },
+      {
+        "date": "2026-04-29",
+        "close": 17334.2
+      },
+      {
+        "date": "2026-04-30",
+        "close": 17311
+      },
+      {
+        "date": "2026-05-03",
+        "close": 17288.5
+      },
+      {
+        "date": "2026-05-04",
+        "close": 17346.2
+      },
+      {
+        "date": "2026-05-05",
+        "close": 17389.8
+      },
+      {
+        "date": "2026-05-06",
+        "close": 17296.9
+      },
+      {
+        "date": "2026-05-07",
+        "close": 17294.9
+      },
+      {
+        "date": "2026-05-10",
+        "close": 17358
+      },
+      {
+        "date": "2026-05-11",
+        "close": 17413
+      },
+      {
+        "date": "2026-05-12",
+        "close": 17549
+      },
+      {
+        "date": "2026-05-13",
+        "close": 17500
+      },
+      {
+        "date": "2026-05-14",
+        "close": 17530.6
+      },
+      {
+        "date": "2026-05-17",
+        "close": 17586
+      },
+      {
+        "date": "2026-05-18",
+        "close": 17701
+      },
+      {
+        "date": "2026-05-19",
+        "close": 17777
+      },
+      {
+        "date": "2026-05-20",
+        "close": 17658.4
+      },
+      {
+        "date": "2026-05-21",
+        "close": 17692
+      },
+      {
+        "date": "2026-05-24",
+        "close": 17692
+      },
+      {
+        "date": "2026-05-25",
+        "close": 17762
+      },
+      {
+        "date": "2026-05-26",
+        "close": 17699.7
+      },
+      {
+        "date": "2026-05-27",
+        "close": 17804
+      },
+      {
+        "date": "2026-05-28",
+        "close": 17840
+      },
+      {
+        "date": "2026-05-31",
+        "close": 17817
+      },
+      {
+        "date": "2026-06-01",
+        "close": 17864
+      },
+      {
+        "date": "2026-06-02",
+        "close": 17858
+      },
+      {
+        "date": "2026-06-03",
+        "close": 18004.2
+      },
+      {
+        "date": "2026-06-04",
+        "close": 17955.5
+      },
+      {
+        "date": "2026-06-07",
+        "close": 18029
+      },
+      {
+        "date": "2026-06-08",
+        "close": 18190.3
+      },
+      {
+        "date": "2026-06-09",
+        "close": 18031
+      },
+      {
+        "date": "2026-06-10",
+        "close": 17875.9
+      },
+      {
+        "date": "2026-06-11",
+        "close": 17921
+      },
+      {
+        "date": "2026-06-14",
+        "close": 17772
+      },
+      {
+        "date": "2026-06-15",
+        "close": 17716
+      },
+      {
+        "date": "2026-06-16",
+        "close": 17730
+      },
+      {
+        "date": "2026-06-17",
+        "close": 17891
+      },
+      {
+        "date": "2026-06-18",
+        "close": 17794.4
+      },
+      {
+        "date": "2026-06-21",
+        "close": 17788
+      },
+      {
+        "date": "2026-06-22",
+        "close": 17862
+      },
+      {
+        "date": "2026-06-23",
+        "close": 17916
+      },
+      {
+        "date": "2026-06-24",
+        "close": 17990
+      },
+      {
+        "date": "2026-06-25",
+        "close": 17995
+      },
+      {
+        "date": "2026-06-28",
+        "close": 17830
+      },
+      {
+        "date": "2026-06-29",
+        "close": 17925
+      },
+      {
+        "date": "2026-06-30",
+        "close": 17935
+      },
+      {
+        "date": "2026-07-01",
+        "close": 17998
+      },
+      {
+        "date": "2026-07-02",
+        "close": 17787.9
+      },
+      {
+        "date": "2026-07-05",
+        "close": 17998
+      },
+      {
+        "date": "2026-07-06",
+        "close": 18046
+      },
+      {
+        "date": "2026-07-07",
+        "close": 17979
+      },
+      {
+        "date": "2026-07-08",
+        "close": 18125
+      },
+      {
+        "date": "2026-07-09",
+        "close": 18125
+      },
+      {
+        "date": "2026-07-12",
+        "close": 18065
+      },
+      {
+        "date": "2026-07-13",
+        "close": 18111
+      },
+      {
+        "date": "2026-07-14",
+        "close": 18157
+      },
+      {
+        "date": "2026-07-15",
+        "close": 18068.8
+      },
+      {
+        "date": "2026-07-16",
+        "close": 17985
+      },
+      {
+        "date": "2026-07-19",
+        "close": 17934
+      },
+      {
+        "date": "2026-07-20",
+        "close": 17931
+      },
+      {
+        "date": "2026-07-21",
+        "close": 17911
+      },
+      {
+        "date": "2026-07-22",
+        "close": 17917
+      },
+      {
+        "date": "2026-07-23",
+        "close": 17967
+      },
+      {
+        "date": "2026-07-26",
+        "close": 17958
+      },
+      {
+        "date": "2026-07-28",
+        "close": 18058
+      }
+    ],
+    "fetchedAt": "2026-07-28T10:05:07.000Z"
+  },
   "headlines": [
     {
       "title": "Ditutup di Level 6.130, IHSG Selasa Melemah -0,89 Persen",
@@ -1049,6 +2106,12 @@
       "publishedAt": "2026-07-28T09:34:22.000Z"
     },
     {
+      "title": "BEI Jelaskan Alasan GOTO Tetap Masuk LQ45, IDX30, dan IDX80",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2MzdFVLNXZUSVloYjF3aHBzVUNISW1kbWZCRTZXYkhER3U1alVXT0szOEhTUDhpQXJBYnlxSkVJcWVnejlfYWY4X0N4UzVnWUdCcXc1d3lOVGtJUUFfWi0wNGpqUVJCNlF0bHI0UnROLU5yLUx6NXAtQlhkS0k0UFNHWkMtanR6WHdMTjN2ZXo?oc=5",
+      "source": "SWA.co.id",
+      "publishedAt": "2026-07-28T09:31:00.000Z"
+    },
+    {
       "title": "Saham Buyback Distribusi Voucher (DIVA) Belum Laku, Periode Penjualan Diperpanjang",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlBWSG1jajBaOUZZbWdCUlRVVU1rQlBGUUFGSk5RSk1VdHVJaG02azAwNF9fTENTQXE0SGdvaUJEb25OTkJ6UHRwQlg1ZUl6V2ZhTGlCNFVJbWRRTmNReTA2RkgwbjluLS1oMXA4TTAxSjIwc1d0NzhlTUtuM0xISWpwSXlEOG52S0hrTHRhYW9YLVUtTDRLNm1qaDFhcldzeEtWZHFVSGJFTG15b1pqeE1RMlBNd9IBrgFBVV95cUxPeVRYXzlRS20tUFVYUW9wN2VOS1A5WTBLZEpZbmdqa25UcnZ5UmdhdC1wZ1JQMzVYNDFSdlpZOURzWmN3d2tQWFQ2NjhtQjAyUFRwbkZhZnlzcTBTYU81azF1NUF3WExpOENkelN2czR6VWFpbTJPbElOcWV0ckNWMW9VaXZGbnZXY1RFWWt1SGN6S0Jha1VZNkJSY2NaNy02Qy1STXdPREN1c185eHc?oc=5",
       "source": "kontan.co.id",
@@ -1071,15 +2134,15 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGE2cjJMd2w0WjV1YWJWLW9fcVFENlFILUlLcVpyMFg3dWM1SHhNVGluUjdVVFBzM18tUjRYNWFESldPVUFacEhZZlBTTk5ST1lSSzl0X0szYTlteWg4Q2cyUFVwbTRVVFN5c2VYYXhfVEZLSkxEM1dTVzNhVHdtYTlFZTNnNVdLR2E5X05XOXNzcHUwZ29Uc2ZtUTBTbEIwZGFaQjEybnVrRV85N3JVQ3lR0gG0AUFVX3lxTE5QLWdTSHBrTkZ4NktIMGdodU45NnNZaHI4RmphdXdLZWVUU3h0akZfVEswM1Fva2xYd29nU0xERTB2YkQ0R2NPZDBCQi1oVVZTdmJoaWhrM21HTVAxbUtGVmVYTmZlNVUyajZoQmVnRDhYTXJpRDVTQWxwVUl0c004djBVQjhQMmxXYzlQV1dPVXN2ckY3a1Q1Ukc4SDJSVmZDdVdKa2xaSV9Na0h1ZlU1NmtmQg?oc=5",
       "source": "ANTARA News",
       "publishedAt": "2026-07-28T08:36:57.000Z"
-    },
-    {
-      "title": "BEI Imbau Investor Tak Panik Sikapi Mundurnya Gubernur BI",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDZ3aHJLaWpqeHRLeDJPX2NVUW5PakRkTENkRkhFUGhzYkhfYTNOTEZtWkRGNXYwOXhwTDQxTnFFNXZibTBvMDRJazU3VzR4UEgyeXBTWHVGTVVoR2lOOWg1ZXU3ZVcwODFJR2dlSTc0VHFlY2o3ZS1KdFYyeWhhLU4zMlNvVW4ybnJZRHpMRG5VOXFZUXViMNIBkAFBVV95cUxNaWxTbEJQTGpDUUN1TkhNODliLW56WGpBcWtsNnVWdkt4WmxYMTJUc1djdDhsTDE3N29kSjI0aThPZy1WOExCUzlWS1FKa0d6eDBONlU2Yzhkd0EyWEFkWXotdUU5MlN2WHpYTE05M0FuQVg4MXVfRlpIcmNnQ285azd4SXhaTmpKOUY1dm16eFg?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-07-28T08:36:29.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Raksasa Wall Street Citadel Prediksi The Fed Naikkan Suku Bunga",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFFvTzVjdHdmTjBlVGowWGQyWXMxT0dZTE95eC1JMWRxejVnaTRKUklORkhhcUlxaGZPNTU1WTM5N3BIX3RIQkFOU2NNS0NDVkxXTzc4bmpLTVpkWG9NUHdIcGN6TDhneHNVWGEwQTY3Y1dqMEFia0wycUNjRkhZWnhLWTlQbV9yalFMMGNmSFU4TWgxNHhXQzBBeF9jUk9aZmYwZdIBpAFBVV95cUxNZFFvTzVjdHdmTjBlVGowWGQyWXMxT0dZTE95eC1JMWRxejVnaTRKUklORkhhcUlxaGZPNTU1WTM5N3BIX3RIQkFOU2NNS0NDVkxXTzc4bmpLTVpkWG9NUHdIcGN6TDhneHNVWGEwQTY3Y1dqMEFia0wycUNjRkhZWnhLWTlQbV9yalFMMGNmSFU4TWgxNHhXQzBBeF9jUk9aZmYwZQ?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-07-28T09:07:00.000Z"
+    },
     {
       "title": "Saham Chip Tekan Nasdaq di Awal Pekan",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYzBYVTJOSXltX1l2eG5Pbk9FbzdWV1pWLU1IQWt3Q2NqT3NPdllhaTRaREVuM01tUnNSbVE3YWM0TjRxV1hiMmVXenJsMXpHa282bVFETVYxems2bEJnQWQ2MXEwd3JnMXdCOW1lRVF5RldEc1VxMTdFRDZjZ3hwZXRWNVRUemdlSzJWSzh2Rm5lYllZWXZtbXFtR2h3SU1lZXhBdTA1eGJ4YTcwSElZYnBB?oc=5",
@@ -1121,17 +2184,9 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1ZhT3Q5UktNbjBPWGZ0bS1FU3N3MHRsY205OUJILVhuc1RlemJ5dE5lVGVwZnBpMVRXS2FLTFlhb29XaU9jS0VVc0NzWlRIZVhwLWZaM3RYNi1CVUhxQk96TDZYZjJ4bEVWOVA4MktuNGExdGRnZzRkcTdvQXdrU0loOUNSOVNvNXQ1dExvRG4yQ2U0X21NODN4T000MTc4YmxqVzV5dU1BbENMUkNOOA?oc=5",
       "source": "Bloomberg Technoz",
       "publishedAt": "2026-07-28T03:08:47.000Z"
-    },
-    {
-      "title": "Dinamika di BI Masih Jadi Perhatian Pasar, Berdampak ke IHSG - Market",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXp2ZFotQW5va2pUQU1YSENhbXVzZ3FxX2NFTlBkMFhVWk9EWHVLSkE5MTZFT01SR3RNTUQ2cGEzTjNxUVZrZ3lnN2tlZWJDUkRNMlhQUldtQURtVFp2SklvbUpYTGtoVWhLUU5tTGFKaXQwVW1yc1ZEVGdpQmVzcWl5OTc2UC1UcmllcEdGS01sOWFtdnRrczl1TDROLTVhNUhUUXFxSmptNHlLQ0VCMU85NA?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-07-28T03:08:47.000Z"
     }
   ],
-  "errors": [
-    "fx: assembled snapshot failed validation"
-  ],
+  "errors": [],
   "sources": {
     "market": "Yahoo Finance ^JKSE intraday (5-minute workflow; delayed)",
     "fx": "Yahoo Finance IDR=X daily history + intraday (5-minute workflow; delayed)",

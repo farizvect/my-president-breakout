@@ -347,4 +347,19 @@ test('cached price-series validation rejects malformed JSON shapes and broken po
     points: [...valid.points, { date: '2099-01-01', close: valid.price }],
   }), false);
   assert.equal(isValidPriceSeriesSnapshot({ ...valid, points: [valid.points[0], { ...valid.points[1], close: 6999 }] }), false);
+  // Weekend gap: Yahoo previousClose need not equal the prior daily point.
+  assert.equal(isValidPriceSeriesSnapshot({
+    ...valid,
+    previousClose: 7025,
+    change: -25,
+    changePercent: -0.36,
+    points: [{ date: '2026-07-24', close: 7010 }, { date: '2026-07-27', close: 7000 }],
+  }), true);
+  // Consecutive sessions still require previousClose ≈ prior point.
+  assert.equal(isValidPriceSeriesSnapshot({
+    ...valid,
+    previousClose: 7025,
+    change: -25,
+    changePercent: -0.36,
+  }), false);
 });
