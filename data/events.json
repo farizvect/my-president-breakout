@@ -69,6 +69,78 @@
     ]
   },
   {
+    "id": "bubk-kebumen-2026",
+    "date": "2026-05-23",
+    "title": "BUBK Kebumen Shrimp Harvest Remarks",
+    "location": "BUBK Kebumen, Central Java",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://setkab.go.id/en/president-prabowo-reaffirms-food-sovereignty-safeguarding-state-wealth/"
+  },
+  {
+    "id": "srmp-17-tabanan-2026",
+    "date": "2026-06-07",
+    "title": "Remarks at SRMP 17 Tabanan",
+    "location": "SRMP 17 Tabanan, Bali",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/di-srmp-17-tabanan-presiden-prabowo-tanamkan-pesan-pendidikan-disiplin-dan-karakter/"
+  },
+  {
+    "id": "steinmeier-state-visit-2026",
+    "date": "2026-06-15",
+    "title": "State Visit Welcome for President Steinmeier",
+    "location": "Istana Merdeka, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-sambut-kunjungan-kenegaraan-presiden-jerman-frank-walter-steinmeier-di-istana-merdeka/"
+  },
+  {
+    "id": "penas-petani-nelayan-2026",
+    "date": "2026-06-24",
+    "title": "PENAS Farmers and Fishers XVII Address",
+    "location": "Sport Center Limboto, Gorontalo",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-hadiri-puncak-penas-petani-dan-nelayan-xvii-tahun-2026-di-gorontalo-bersama-50-ribu-peserta/"
+  },
+  {
+    "id": "ksti-opening-2026",
+    "date": "2026-06-26",
+    "title": "KSTI 2026 National Forum Opening",
+    "location": "JICC, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/buka-sarasehan-kebangsaan-ksti-2026-presiden-prabowo-ajak-kampus-jadi-motor-kemandirian-ekonomi/"
+  },
+  {
+    "id": "ksti-closing-2026",
+    "date": "2026-06-28",
+    "title": "KSTI 2026 National Forum Closing",
+    "location": "JICC, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-tutup-ksti-2026-serukan-persatuan-potensi-bangsa-untuk-lompatan-besar-sains-dan-teknologi-indonesia/"
+  },
+  {
+    "id": "indian-community-reception-2026",
+    "date": "2026-07-07",
+    "title": "Indian Community Reception Remarks",
+    "location": "JICC, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-hadiri-indian-community-reception-tegaskan-eratnya-persahabatan-indonesia-dan-india/"
+  },
+  {
+    "id": "modi-state-visit-2026",
+    "date": "2026-07-07",
+    "title": "State Visit Welcome for PM Modi",
+    "location": "Istana Merdeka, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-sambut-kunjungan-kenegaraan-pm-modi-di-istana-merdeka/"
+  },
+  {
     "id": "b50-mandatori-2026",
     "date": "2026-07-09",
     "title": "Mandatory Biodiesel B50 Launch",
@@ -76,6 +148,15 @@
     "status": "confirmed",
     "precision": "daily",
     "source": "https://presidenri.go.id/siaran-pers/indonesia-ukir-sejarah-presiden-prabowo-resmikan-mandatori-biodiesel-b50-pertama-di-dunia/"
+  },
+  {
+    "id": "lima-bendungan-2026",
+    "date": "2026-07-10",
+    "title": "Inauguration of Five Dams",
+    "location": "Bendungan Meninting, West Lombok",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-subianto-resmikan-lima-bendungan-di-indonesia-layani-irigasi-seluas-39-ribu-hektare/"
   },
   {
     "id": "hari-koperasi-79-2026",
@@ -96,13 +177,13 @@
     "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-jadikan-sidang-kabinet-paripurna-titik-evaluasi-dan-penguatan-kinerja-memasuki-tahun-kedua-pemerintahan/"
   },
   {
-    "id": "pkb-prabowonomics-2026",
-    "date": "2026-07-23",
-    "title": "Prabowonomics at PKB 28th Anniversary",
-    "location": "Jakarta, Indonesia",
+    "id": "praspa-2026",
+    "date": "2026-07-22",
+    "title": "Praspa 2026 TNI–Polri Commissioning Address",
+    "location": "Istana Merdeka, Jakarta",
     "status": "confirmed",
     "precision": "daily",
-    "source": "https://setkab.go.id/en/president-prabowo-subianto-attends-pkb-28th-anniversary-responds-to-prabowonomics-theme-as-implementation-of-economic-mandate-of-constitution/"
+    "source": "https://presidenri.go.id/siaran-pers/pimpin-upacara-praspa-2026-presiden-prabowo-lantik-1-177-perwira-remaja-tni-polri/"
   },
   {
     "id": "iifc-acceleration-2026",
@@ -112,6 +193,15 @@
     "status": "confirmed",
     "precision": "daily",
     "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-percepat-pembentukan-indonesia-international-financial-center-untuk-perkuat-daya-saing-investasi/"
+  },
+  {
+    "id": "pkb-prabowonomics-2026",
+    "date": "2026-07-23",
+    "title": "Prabowonomics at PKB 28th Anniversary",
+    "location": "JICC, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-hadiri-harlah-ke-28-pkb-tegaskan-arah-baru-ekonomi-berpijak-pada-amanat-konstitusi/"
   },
   {
     "id": "kssk-2026-07",
