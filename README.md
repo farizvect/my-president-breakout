@@ -26,16 +26,18 @@ system preference on first visit.
 Inspired by [Open Weights Breakout](https://huggingface.co/spaces/burtenshaw/open-weights-breakout)
 by burtenshaw.
 
-## Run
+## Play
+
+Live site: https://farizvect.github.io/my-president-breakout/
 
 ```sh
 python3 -m http.server 8080
 # open http://localhost:8080
 ```
 
-Controls: `←` `→` move · `Space` launch · `P` pause · mouse drag/tap supported.
-On touch screens, drag to move, tap to launch, use the visible pause/resume button,
-and receive haptic feedback automatically where the vibration API is supported.
+Controls: `←` `→` move · `Space` launch · mouse drag/tap supported.
+On touch screens, drag to move, tap to launch, and receive haptic feedback
+automatically where the vibration API is supported.
 
 ## Physics
 
