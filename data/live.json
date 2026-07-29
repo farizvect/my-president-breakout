@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T10:33:11.273Z",
+  "generatedAt": "2026-07-29T10:33:27.833Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
@@ -960,16 +960,8 @@
         "close": 6315.31
       },
       {
-        "date": "2026-07-24",
-        "close": 6196.43
-      },
-      {
         "date": "2026-07-27",
         "close": 6185.78
-      },
-      {
-        "date": "2026-07-28",
-        "close": 6130.59
       },
       {
         "date": "2026-07-29",
@@ -2050,6 +2042,12 @@
       "publishedAt": "2026-07-29T10:02:00.000Z"
     },
     {
+      "title": "IHSG Turun 6 Hari Beruntun, Kini di Level 6.091 (Rabu, 29 Juli 2026)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHEzVTB0LVFQMkc5c2pKSm8xUmdRLWRDUzdBNjFJSHVfWGpISE8wMkpfcE5xczlDV1lsbnFIOGw4b0doZ2pzem5DSWd0SGNESXd4T0JuTk05eXlKT3RyNXIzYldzazBxdmxiNTdWWDNFUG1vcFZjNUpEbVZncGFUM1lTQm1yTkh4YVd0WGUyQU5MRDkxU2xicGtJNm5ramtRYkdGOEVhYTByVkk2cVp4MDQzTDBseVZCNVZna1NxSExvajA?oc=5",
+      "source": "Databoks",
+      "publishedAt": "2026-07-29T09:46:21.000Z"
+    },
+    {
       "title": "IHSG Ditutup Turun 0,64%, Tinggalkan Level 6.100",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjlfeWZvdmVNQnJRTkNYX1lHTktDbmtmTEQ3Z1FyZVRaclJLZTNQVEt6aVcwWnJzV1NUaUd2RWQyb3pHcjh3TXFkZURvRFdTX0kzendIWXhVRFhOS1FRbmM5Zk5qNFIxWXhYaE5jN1hjODdaRG5uU29pQ0dBNVlxY0Q3emRVSFp2cE9FdFdGOXBkdzhqYnFQR0JsamY5QnNET3RZRk15YU11Z9IBrwFBVV95cUxNSlNzc3ZIaFZVRUl1a1BQbC1RRUdGUHA4VGdndkpoM2Rsd2djd19fWkR1a0NzcWgxUmJBUzhvMWpwLVUwOVZOTXFrcjQ2dVFmRndmVlFISnNRWUxkX01CRzJkWG9lUjNucnFTaUg2QXRVd092bjlOTThLQnV0aF9wTUNydTlfcVRreXFvS3dnOURTZmdabFQ5Q3lLREViUEJtVDQ3OF9weWFESG94eUtJ?oc=5",
       "source": "CNBC Indonesia",
@@ -2078,12 +2076,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEdHd3RFODc3NElXVm14eHNYMzA4N2RNLUdKZTRfRU54dVI4bHprZzg3Nmp1VGVqOGZxcm40YXFfcUMxOGQ5U1BrUUJQaGhBeWtIZlAxNjJHaS14UGFRSTM0OFotNll3aWRZSXBYVmEzUFlrMWdvRWZfNEZhN0JBelhMZ0xoNXp4OVBBREJfakRodi1aeUQ1SXhVLS1LN1NiYlRpcHpYdw?oc=5",
       "source": "IDNFinancials",
       "publishedAt": "2026-07-29T06:12:00.000Z"
-    },
-    {
-      "title": "IHSG Sempat Tembus ke Bawah 6.050, ke Mana Arah Selanjutnya?",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkRHZGZXWWNiZUpSam4wNUhPdTZ5dlhrNzV5RmJFTllOX25jeHpfQ0JwMHNwR1pQcTdtOHJMQnZ5V0ZtXzVqZDBBLXhxRnhrNXBCMS1zZ0lXWUNIZ3ZJT21SdUpQSlNpMllPTGlzTUpmcFhVOEIxNzNPNkdia3hYN1psNFVwMm1LTE9EeXRiaE1JTEJYblREWXEwd014Ri02N2lmS29kclp2dmstNkxocmxYY01ibWdLNXFF0gHAAUFVX3lxTFBmWkxtcWZwaE5BZERGMXY5VkRQUzJUV2FoS0RaMXpLekhwZTFfQnZYUnJsOUVwV1VSdzIxOTZLMkpSN3hjZkxKVnlLVUtWZXNEUC1xTG51TDl3cTBlSU9VS2hoajIzLWJ3YTNVNnBFRW5hTGlOcVlvWEVyUjRudUFmc2g4QlczMXJVREMyQnZTNHhLQmxKak5lbzFFUDN5WEcxSHdRamxRN25HVF93ZTAwNDk0N25XcmJHNUVDT1NXMg?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-07-29T05:40:02.000Z"
     }
   ],
   "stockNews": [
