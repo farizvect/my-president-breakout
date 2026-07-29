@@ -680,8 +680,26 @@ function renderFeedFreshness(live, nowMs = Date.now()) {
   if (fxStatus) fxStatus.textContent = describe(live?.fx);
 }
 
+// Live market data is committed by the refresh workflow. Pages only hosts the
+// static app — do NOT redeploy Pages just to pick up a new live.json. Public
+// hosts read the latest committed file from raw.githubusercontent.com (CORS *).
+// Local/LAN servers and Node tests keep same-origin/relative so offline/dev works.
+const LIVE_JSON_RAW =
+  'https://raw.githubusercontent.com/farizvect/my-president-breakout/master/data/live.json';
+
 function snapshotUrl() {
-  return `./data/live.json?v=${Date.now()}`;
+  let host = '';
+  try {
+    host = globalThis.location?.hostname || '';
+  } catch {
+    host = '';
+  }
+  const useRaw =
+    host.endsWith('github.io')
+    || host === 'farizulhammi.ebizu.id'
+    || (host.endsWith('.ebizu.id') && host !== 'ebizu.id');
+  const base = useRaw ? LIVE_JSON_RAW : './data/live.json';
+  return `${base}?v=${Date.now()}`;
 }
 
 let lastLiveSnapshot = null;
