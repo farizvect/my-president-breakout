@@ -665,12 +665,14 @@ export function renderFxSparkline(points, events) {
 }
 
 
+const FRESH_QUOTE_MS = 90 * 60_000; // hourly workflow + slack for cron drift
+
 function renderFeedFreshness(live, nowMs = Date.now()) {
   const describe = (quote) => {
     if (!quote || !Number.isFinite(Date.parse(quote.quoteAt))) return 'DATA UNAVAILABLE';
     const quoteMs = Date.parse(quote.quoteAt);
     const age = nowMs - quoteMs;
-    const fresh = quote.marketState === 'REGULAR' && age >= -60_000 && age <= 15 * 60_000;
+    const fresh = quote.marketState === 'REGULAR' && age >= -60_000 && age <= FRESH_QUOTE_MS;
     const state = fresh ? 'FRESH' : quote.marketState === 'CLOSED' ? 'LAST QUOTE' : 'STALE';
     return `${state} · ${shortDate.format(new Date(quoteMs)).toUpperCase()} ${time.format(new Date(quoteMs))} WIB`;
   };
@@ -731,7 +733,7 @@ function renderFxQuote(live, nowMs = Date.now()) {
   const quoteAge = nowMs - quoteAt.getTime();
   const quoteIsFresh = fx.marketState === 'REGULAR'
     && quoteAge >= -60_000
-    && quoteAge <= 15 * 60_000;
+    && quoteAge <= FRESH_QUOTE_MS;
   label.textContent = fx.marketState === 'CLOSED'
     ? 'USD / IDR · LAST QUOTE'
     : quoteIsFresh ? 'USD / IDR' : 'USD / IDR · STALE';
@@ -751,9 +753,9 @@ function renderMarketQuote(live, nowMs = Date.now()) {
   const quoteAge = nowMs - quoteAt.getTime();
   const quoteIsFresh = market.marketState === 'REGULAR'
     && quoteAge >= -60_000
-    && quoteAge <= 15 * 60_000;
+    && quoteAge <= FRESH_QUOTE_MS;
   const status = quoteIsFresh
-    ? '5-MIN AUTO REFRESH'
+    ? 'HOURLY AUTO REFRESH'
     : market.marketState === 'CLOSED' ? 'LAST QUOTE' : 'STALE QUOTE';
   $('data-age').textContent = `${status} · ${market.date} ${time.format(quoteAt)} WIB · YAHOO DELAYED`;
   renderFxQuote(live, nowMs);

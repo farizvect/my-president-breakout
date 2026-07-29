@@ -3,12 +3,10 @@ name: Refresh market snapshot
 on:
   workflow_dispatch:
   schedule:
-    # Target: every 5 minutes during IDX market hours (09:00–16:15 WIB, weekdays).
-    # GitHub cron uses UTC and is best-effort — high-frequency schedules are often
-    # delayed or skipped under load (not a hard every-5-minute guarantee).
+    # Once per hour during IDX market hours (09:00–16:00 WIB, weekdays).
+    # GitHub cron uses UTC and is best-effort (can drift a few minutes).
     # Yahoo remains a delayed, non-licensed market feed.
-    - cron: "*/5 2-8 * * 1-5"
-    - cron: "0-15/5 9 * * 1-5"
+    - cron: "0 2-9 * * 1-5"
 
 permissions:
   contents: write

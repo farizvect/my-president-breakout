@@ -4,7 +4,7 @@ Audited 2026-07-27 before the information dashboard was built.
 
 | Source | Data | Structured | Reachable | Current | Verdict |
 |---|---|---:|---:|---:|---|
-| Yahoo Finance chart API (`^JKSE`) | One-minute quote metadata + daily IDX Composite history | JSON | Yes, HTTP 200 | Yes | Refresh every 5 minutes; retain delayed-data label |
+| Yahoo Finance chart API (`^JKSE`) | One-minute quote metadata + daily IDX Composite history | JSON | Yes, HTTP 200 | Yes | Refresh hourly on weekdays; retain delayed-data label |
 | Yahoo Finance chart API (`IDR=X`) | USD/IDR quote, daily move, and daily history | JSON | Yes, HTTP 200 | Yes | Refresh with IHSG; expose independent stale/last-quote state and event windows |
 | Google News RSS (`IHSG when:7d`) | IHSG headlines | RSS/XML | Yes, HTTP 200 | Yes | Use as linked headline index with full Jakarta publication date/time |
 | Google News RSS (`(saham OR emiten) (BEI OR IDX) when:3d`) | Stock, issuer, corporate-action, and IDX news | RSS/XML | Yes, HTTP 200 | Yes | Use as an independent linked stock-news index |
@@ -52,12 +52,12 @@ Yahoo Finance IHSG and USD/IDR data is delayed and may be unavailable or revised
 stock, and macro headlines remain links to their publishers; this project does not republish article
 content. Correlation around a speech date is not evidence of causation.
 
-The GitHub Actions schedule runs every five minutes during 09:00–16:15 WIB on
+The GitHub Actions schedule runs once per hour during 09:00–16:00 WIB on
 weekdays. Each run merges Yahoo's latest IHSG quote into the daily series, fetches and
 merges the latest USD/IDR quote into its one-year daily series, and writes
-`data/live.json`; open pages check that
-same-origin file every minute. GitHub
-cron can start late, and Yahoo may delay or revise quotes. Quotes older than 15
+`data/live.json`; open pages poll that
+file every minute (public hosts read the latest commit via raw.githubusercontent.com). GitHub
+cron can start late, and Yahoo may delay or revise quotes. Quotes older than about 90
 minutes during an open session, or snapshots preserved after a failed fetch, are
-labeled **stale**. The UI must distinguish **5-minute auto refresh**, **stale
+labeled **stale**. The UI must distinguish **hourly auto refresh**, **stale
 quote**, and **last quote**, and must never claim official exchange real-time.

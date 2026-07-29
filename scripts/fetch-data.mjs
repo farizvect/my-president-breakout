@@ -154,8 +154,8 @@ const snapshot = {
   macroNews,
   errors,
   sources: {
-    market: 'Yahoo Finance ^JKSE intraday (5-minute workflow; delayed)',
-    fx: 'Yahoo Finance IDR=X daily history + intraday (5-minute workflow; delayed)',
+    market: 'Yahoo Finance ^JKSE intraday (hourly workflow; delayed)',
+    fx: 'Yahoo Finance IDR=X daily history + intraday (hourly workflow; delayed)',
     news: 'Google News RSS; articles belong to linked publishers',
     stockNews: 'Google News RSS stock and issuer query; articles belong to linked publishers',
     macroNews: 'Google News RSS macro-market query; articles belong to linked publishers',

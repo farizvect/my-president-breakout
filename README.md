@@ -85,9 +85,10 @@ landmarks without mixing them with Yahoo's two-decimal daily close. See
 `data/SOURCES.md` for the source audit and accuracy boundary.
 
 The included GitHub Actions workflow runs the test suite and refreshes the
-snapshot every five minutes during IDX market hours on weekdays. Open pages
-check the same-origin snapshot every minute so new workflow data appears
-without a reload. Each feed exposes its own quote/publication timestamp and stale
+snapshot once per hour during IDX market hours on weekdays. Open pages
+poll the snapshot every minute (public hosts read the latest commit from
+raw.githubusercontent.com) so new workflow data appears without a full site
+redeploy. Each feed exposes its own quote/publication timestamp and stale
 state; one successful feed cannot make another look current. This is not a licensed
 exchange real-time feed.
 
