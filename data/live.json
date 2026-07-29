@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T10:33:27.833Z",
+  "generatedAt": "2026-07-29T10:45:47.938Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
@@ -2042,7 +2042,7 @@
       "publishedAt": "2026-07-29T10:02:00.000Z"
     },
     {
-      "title": "IHSG Turun 6 Hari Beruntun, Kini di Level 6.091 (Rabu, 29 Juli 2026)",
+      "title": "IHSG Turun 6 Hari Beruntun, Kini di Level 6.091 (Rabu, 29 Juli 2026) | Pusat Data Ekonomi dan Bisnis Indonesia",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHEzVTB0LVFQMkc5c2pKSm8xUmdRLWRDUzdBNjFJSHVfWGpISE8wMkpfcE5xczlDV1lsbnFIOGw4b0doZ2pzem5DSWd0SGNESXd4T0JuTk05eXlKT3RyNXIzYldzazBxdmxiNTdWWDNFUG1vcFZjNUpEbVZncGFUM1lTQm1yTkh4YVd0WGUyQU5MRDkxU2xicGtJNm5ramtRYkdGOEVhYTByVkk2cVp4MDQzTDBseVZCNVZna1NxSExvajA?oc=5",
       "source": "Databoks",
       "publishedAt": "2026-07-29T09:46:21.000Z"
@@ -2054,10 +2054,16 @@
       "publishedAt": "2026-07-29T09:37:36.000Z"
     },
     {
-      "title": "IHSG Ditutup Melemah ke Level 6.091",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLU1Wemdtek5qU2J1ZjN5c1RpYkhvZ0E4VVN5UXRGTFdQRDlNSGVDRkxsZ2F3aXItTDRadXhaYWt5aF9qZnFGeHc4b1RFMW9UTmNkb0tsQktlMDlyWEZld0Jjc3prUC1lNXdTRHI0cXdobjZnNndyWHY0Yzh0QVBOQ1VsT0Q0RjViTnE3anJ4LW3SAZYBQVVfeXFMTkVMRk5UREF5ck82QzdLRWwyRlpyVmozbEg0Y3lSaGxJcnpEbmRKTlRuNEw3dWZockhLSEswdTl4TVJuVXpEMjZvNFM0cUV3bFYzdFdnc0ZjSlNod3E4NmZPOWNOZ0FVd2pUT01tbm5aR2pEZEh1cmdoSHZVS2lnbzdSdHNPVlF0ZnBzMEJaSVJ2b29CNml3?oc=5",
-      "source": "detikFinance",
-      "publishedAt": "2026-07-29T09:18:46.000Z"
+      "title": "IHSG Berakhir di Zona Merah ke Posisi 6.091",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vVm1ua2pielJQTHdsTHhYRlRPc2dCZFVfOGlVZVBNbXFkNkhnWS11T0hieEFqVmJVQ0ZZUHptaWpNMUJQb3NKYzdSb0NPQ2VVd3RJc2RhQlVpVG9NeTliOXVDS2NPaklldjN4RGp6MlVBMUxNZDNB?oc=5",
+      "source": "Infobanknews",
+      "publishedAt": "2026-07-29T09:30:00.000Z"
+    },
+    {
+      "title": "IHSG Ditutup ke Level 6.091",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xd3JXRXdDUThodmRxTzliUnQ5TEtPUDlBcFdid3duVEFoQmpxQ09hbTJ4OHp3S1RsNy1maWJ3N3l3bjBHY3VXQjYxbmEwUkg3dXpZR09tTHVaaDhfNG90MjBfMHpfUHZ5WHV5dG9OaWdHdGNGRXZrNA?oc=5",
+      "source": "MetroTVNews.com",
+      "publishedAt": "2026-07-29T09:23:13.000Z"
     },
     {
       "title": "IHSG Mengakhiri Perdagangan dengan Pelemahan",
@@ -2070,12 +2076,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmRkVHZxZ0RnZzRWSnBYSkxFR3hCQ2wxVFlCeHI1OUhNcFdjMVFIUDZIdWUxUFdOd1BuR2oxWUVuc0FRWS1QX254dU9wOFN5eWZyQjZsRERVQlNZMVRyRlJlN3hybWNNQm9Nd0RVSDV5R291azdzc1I1YVJPaHhXSmxXM2o2cHJnaWxScDhOdVc5a3RVeVVoN1VB?oc=5",
       "source": "InvestorTrust",
       "publishedAt": "2026-07-29T09:05:00.000Z"
-    },
-    {
-      "title": "IHSG turun 0,6% di sesi I, net buy asing tembus Rp9,17 triliun",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEdHd3RFODc3NElXVm14eHNYMzA4N2RNLUdKZTRfRU54dVI4bHprZzg3Nmp1VGVqOGZxcm40YXFfcUMxOGQ5U1BrUUJQaGhBeWtIZlAxNjJHaS14UGFRSTM0OFotNll3aWRZSXBYVmEzUFlrMWdvRWZfNEZhN0JBelhMZ0xoNXp4OVBBREJfakRodi1aeUQ1SXhVLS1LN1NiYlRpcHpYdw?oc=5",
-      "source": "IDNFinancials",
-      "publishedAt": "2026-07-29T06:12:00.000Z"
     }
   ],
   "stockNews": [
