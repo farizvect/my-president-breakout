@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-29T08:00:15.088Z",
+  "generatedAt": "2026-07-29T10:33:11.273Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
     "currency": "IDR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
-    "price": 6074.17,
+    "price": 6091.39,
     "previousClose": 6130.59,
-    "change": -56.41,
-    "changePercent": -0.92,
-    "quoteAt": "2026-07-29T07:50:13.000Z",
+    "change": -39.2,
+    "changePercent": -0.64,
+    "quoteAt": "2026-07-29T09:00:06.000Z",
     "exchangeTimezone": "Asia/Jakarta",
-    "marketState": "REGULAR",
+    "marketState": "CLOSED",
     "date": "2026-07-29",
     "points": [
       {
@@ -960,28 +960,36 @@
         "close": 6315.31
       },
       {
+        "date": "2026-07-24",
+        "close": 6196.43
+      },
+      {
         "date": "2026-07-27",
         "close": 6185.78
       },
       {
+        "date": "2026-07-28",
+        "close": 6130.59
+      },
+      {
         "date": "2026-07-29",
-        "close": 6074.17
+        "close": 6091.39
       }
     ],
-    "fetchedAt": "2026-07-29T07:50:13.000Z"
+    "fetchedAt": "2026-07-29T09:00:06.000Z"
   },
   "fx": {
     "symbol": "IDR=X",
     "pair": "USD/IDR",
     "baseCurrency": "USD",
     "quoteCurrency": "IDR",
-    "price": 18055,
+    "price": 18050,
     "previousClose": 18083,
-    "change": -28,
-    "changePercent": -0.15,
-    "quoteAt": "2026-07-29T07:50:01.000Z",
+    "change": -33,
+    "changePercent": -0.18,
+    "quoteAt": "2026-07-29T10:12:09.000Z",
     "exchangeTimezone": "Europe/London",
-    "marketState": "REGULAR",
+    "marketState": "STALE",
     "delayed": true,
     "refreshIntervalMinutes": 5,
     "points": [
@@ -2023,12 +2031,48 @@
       },
       {
         "date": "2026-07-29",
-        "close": 18055
+        "close": 18050
       }
     ],
-    "fetchedAt": "2026-07-29T07:50:01.000Z"
+    "fetchedAt": "2026-07-29T10:12:09.000Z"
   },
   "headlines": [
+    {
+      "title": "IHSG turun dekati 6.000, dua saham Prajogo Pangestu tetap naik",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamlOdG94UGJJSWFna1RuX2tFWURWWEl4VzJSMzZ6TkJzOXJLaWk0bkNTODFyZWtXUXNsQkpvN3pwTjdsdDBGcTZ6SzhpLUJZUUFjYjZNS3lTZWg4OVJHNVoyVXNLdnZsNXJkcDdSenBUWjRISGZJa1dFWm82ZmpYZHBQUlZTYTVIZFhqaFh6a09CckFFMHprVE5oMVVUVk5YcnZVTkxPVkg?oc=5",
+      "source": "IDNFinancials",
+      "publishedAt": "2026-07-29T10:25:00.000Z"
+    },
+    {
+      "title": "Ditutup di Level 6.091, IHSG Rabu Melemah -0,64 Persen",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGNqMmZSamMxTTg2SFAyRUdKbXVTb0Zhb0xWS2hhOEZxckhVeVN4dXItVWRFa1oxZi1SSXJINnRaTlZPM0NGQXZVbER5eHdnbF90VHUxYzFacWdKVlNaZWxkVXRBMWdzUnVHVUU4TVlRaGNRYXI2bEZ1WVpYaUlpRWhBbWVxTUlFZW4xNlBqVGZHZw?oc=5",
+      "source": "pasardana.id",
+      "publishedAt": "2026-07-29T10:02:00.000Z"
+    },
+    {
+      "title": "IHSG Ditutup Turun 0,64%, Tinggalkan Level 6.100",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjlfeWZvdmVNQnJRTkNYX1lHTktDbmtmTEQ3Z1FyZVRaclJLZTNQVEt6aVcwWnJzV1NUaUd2RWQyb3pHcjh3TXFkZURvRFdTX0kzendIWXhVRFhOS1FRbmM5Zk5qNFIxWXhYaE5jN1hjODdaRG5uU29pQ0dBNVlxY0Q3emRVSFp2cE9FdFdGOXBkdzhqYnFQR0JsamY5QnNET3RZRk15YU11Z9IBrwFBVV95cUxNSlNzc3ZIaFZVRUl1a1BQbC1RRUdGUHA4VGdndkpoM2Rsd2djd19fWkR1a0NzcWgxUmJBUzhvMWpwLVUwOVZOTXFrcjQ2dVFmRndmVlFISnNRWUxkX01CRzJkWG9lUjNucnFTaUg2QXRVd092bjlOTThLQnV0aF9wTUNydTlfcVRreXFvS3dnOURTZmdabFQ5Q3lLREViUEJtVDQ3OF9weWFESG94eUtJ?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-07-29T09:37:36.000Z"
+    },
+    {
+      "title": "IHSG Ditutup Melemah ke Level 6.091",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLU1Wemdtek5qU2J1ZjN5c1RpYkhvZ0E4VVN5UXRGTFdQRDlNSGVDRkxsZ2F3aXItTDRadXhaYWt5aF9qZnFGeHc4b1RFMW9UTmNkb0tsQktlMDlyWEZld0Jjc3prUC1lNXdTRHI0cXdobjZnNndyWHY0Yzh0QVBOQ1VsT0Q0RjViTnE3anJ4LW3SAZYBQVVfeXFMTkVMRk5UREF5ck82QzdLRWwyRlpyVmozbEg0Y3lSaGxJcnpEbmRKTlRuNEw3dWZockhLSEswdTl4TVJuVXpEMjZvNFM0cUV3bFYzdFdnc0ZjSlNod3E4NmZPOWNOZ0FVd2pUT01tbm5aR2pEZEh1cmdoSHZVS2lnbzdSdHNPVlF0ZnBzMEJaSVJ2b29CNml3?oc=5",
+      "source": "detikFinance",
+      "publishedAt": "2026-07-29T09:18:46.000Z"
+    },
+    {
+      "title": "IHSG Mengakhiri Perdagangan dengan Pelemahan",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU1V6VmVZWGpTQTNKaENybDQ0WVBhempVWTJIbUNueW00YklTenNPWHY0ZnBxU0dRcXEzQlVjVy1WOG1NbkJXUmhneUwxQlJ1WG1FcWNrWVM5dWNLbzlFNGhNWjh3a0VidXBxOWRDTEVoS2ZoZ0RYdDhLS3BILXZhT0JHTXB4WEtEN2Fn?oc=5",
+      "source": "TopBusiness.id",
+      "publishedAt": "2026-07-29T09:16:00.000Z"
+    },
+    {
+      "title": "IHSG Ditutup Anjlok 0,64%, Mayoritas Sektor Saham Melemah",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmRkVHZxZ0RnZzRWSnBYSkxFR3hCQ2wxVFlCeHI1OUhNcFdjMVFIUDZIdWUxUFdOd1BuR2oxWUVuc0FRWS1QX254dU9wOFN5eWZyQjZsRERVQlNZMVRyRlJlN3hybWNNQm9Nd0RVSDV5R291azdzc1I1YVJPaHhXSmxXM2o2cHJnaWxScDhOdVc5a3RVeVVoN1VB?oc=5",
+      "source": "InvestorTrust",
+      "publishedAt": "2026-07-29T09:05:00.000Z"
+    },
     {
       "title": "IHSG turun 0,6% di sesi I, net buy asing tembus Rp9,17 triliun",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEdHd3RFODc3NElXVm14eHNYMzA4N2RNLUdKZTRfRU54dVI4bHprZzg3Nmp1VGVqOGZxcm40YXFfcUMxOGQ5U1BrUUJQaGhBeWtIZlAxNjJHaS14UGFRSTM0OFotNll3aWRZSXBYVmEzUFlrMWdvRWZfNEZhN0JBelhMZ0xoNXp4OVBBREJfakRodi1aeUQ1SXhVLS1LN1NiYlRpcHpYdw?oc=5",
@@ -2040,45 +2084,21 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkRHZGZXWWNiZUpSam4wNUhPdTZ5dlhrNzV5RmJFTllOX25jeHpfQ0JwMHNwR1pQcTdtOHJMQnZ5V0ZtXzVqZDBBLXhxRnhrNXBCMS1zZ0lXWUNIZ3ZJT21SdUpQSlNpMllPTGlzTUpmcFhVOEIxNzNPNkdia3hYN1psNFVwMm1LTE9EeXRiaE1JTEJYblREWXEwd014Ri02N2lmS29kclp2dmstNkxocmxYY01ibWdLNXFF0gHAAUFVX3lxTFBmWkxtcWZwaE5BZERGMXY5VkRQUzJUV2FoS0RaMXpLekhwZTFfQnZYUnJsOUVwV1VSdzIxOTZLMkpSN3hjZkxKVnlLVUtWZXNEUC1xTG51TDl3cTBlSU9VS2hoajIzLWJ3YTNVNnBFRW5hTGlOcVlvWEVyUjRudUFmc2g4QlczMXJVREMyQnZTNHhLQmxKak5lbzFFUDN5WEcxSHdRamxRN25HVF93ZTAwNDk0N25XcmJHNUVDT1NXMg?oc=5",
       "source": "CNBC Indonesia",
       "publishedAt": "2026-07-29T05:40:02.000Z"
-    },
-    {
-      "title": "IHSG Sesi I Melemah -0,60 Persen di Level 6.093",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblh1NGRETGtyWDFkeTZHNllhWlBPZi1DeVBfMHZJbU5iRUFNWE5Cd2xfdG8wRE9iU2kwVk5SRUZvMkwxMS10a0hlQTB4THZNTXdub1RLT0d6U2xuS0VsNS1iTXJJVnlub2llVFJ3RDdrZUMtM1ozdk1odUhZR25NcUFQWURlTGhJQnc?oc=5",
-      "source": "pasardana.id",
-      "publishedAt": "2026-07-29T05:18:00.000Z"
-    },
-    {
-      "title": "IHSG Sesi I Lanjut Melemah 37 Poin, Sebaliknya Saham MGNA dan DWGL Tetap Perkasa",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXM2dE9RSFZWUXFrN2VrV1lUekg2aS1ZX0lfb3BRRFpoODcteGdNcndQVkk0ZDZ2TzZiQUN3Nnk4LTRjWU5jV1NwaGhTWUhOdHFMM1VvY0ZrLU5UNm9XU0VvZ1FRY2NIbXRHeWZQRDVKNnhwUnZzNW1MckplVDQ2eWNEYnYzalZ0TzNHMU02OHlwMl9ISHB5akpqRjBrMk9Uc0FlSm9UeWEzVGxhNkV6cTRCMUpXRW9QQmc?oc=5",
-      "source": "InvestorTrust",
-      "publishedAt": "2026-07-29T05:07:00.000Z"
-    },
-    {
-      "title": "IHSG Dibuka Menguat, Rupiah Masih Tertekan di Atas Rp18.000, Pasar Menanti Sinyal The Fed",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFdxUlh0M3BEY0U4WUM4cHdWTUR3MXpaLVRWNWc3TDIwbzlmbzVmOUUxVVBDbmZOVUpaUjhHY0pid3JmMnVDTWlyWEh2djdLQXQ3MHZVSDJjMmFjR3lCd0FWbE1tZ0xKOUZzNzJMM2w0ZDZJMi0yQkJqSUxObWFOS2ZQLWZERlRCOW55M0hnVEhnTnRFNkZaZg?oc=5",
-      "source": "Ajaib",
-      "publishedAt": "2026-07-29T04:54:44.000Z"
-    },
-    {
-      "title": "Rekomendasi Saham Tim Analis Bareksa Hari Ini: INTP, SMRA & DEWA, Ini Prediksi Arah IHSG",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORW9qd3ZmY3JwUGRfMUdEU0NNUXIzOFpDWXdaMTdKanNxclNLZkIwdV9QRWpqQ1BET1JBUmZzWENfOE9BTmVZM2NScVcxYTcxUHhKcHpuOU5hckc4ZGdLY1F1Z0g2cnFBMEx2V3lkY2duNDU3bm8wVlJ2RHBUQ0FHME5KUUo1a2JNVXhMWnJGZ1NPblZVbnJiRkdUQ2N0cFpXaDhYU3NkVi1xRnB6Q0lxNDJyTnRUM2w1RTZ3Y1JGZEdYbUt6MEpMWGloRXBBcXJr?oc=5",
-      "source": "Bareksa.com",
-      "publishedAt": "2026-07-29T03:56:30.000Z"
-    },
-    {
-      "title": "Penyebab Tiba-Tiba IHSG Anjlok 1,5%",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWdwMXV4bWJTaDFmaUJsNldoUEYwSUFTTk00R1Z1U1hTekNQdnY2Wlg1YndfbFhFc2RJZ2Q2bUU3cGlKaVJwREpSMU5XSHFfemZEeGg3NHZnZTU1OGpTdWMyby1Yc1l6dTJwN3pPWHlvSk45Y2p6OE5vTGd0OVN2VVlrcXZSQ2V2ZUxMQVF5MHhRbllqU1hoSGpNNNIBoAFBVV95cUxQQ0ZRQm1qM3hSOEpZN2ZDMjdzd3g3OHRGUVlPUVJQb3pJOW5OTlIwQmY0XzYyYzlFUkozcElKME00aEZoSXJNNVZITTdTOUY3aXotaHg2ZVNPaXo3ZndoR2lPUkMtZ0RmSzl3ZDZvY3ZoelE3MzEyR3RJa1dkdkxMb09PRDVCZ2phLWd3c0VEVDFzRGlVSzlDaE85R0ZJUDNa?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-07-29T03:42:00.000Z"
-    },
-    {
-      "title": "IHSG potensial melemah seiring pasar cermati sentimen global-domestik",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEQxa2VPM2NIQ19kZjV0dVVmUGlzak0xTnY4QzNaMXo5eGNDWFI1anpQd3VHWk80T281Y2ZuVXJiQXUtUU53czJFTTdOT3B5RE5sZjZ1OUNkZFYzME5ZQy15dktlMGhQVzZveXFIV0tvYzdJbUFjSy1TTGRaOUQyZVh5S0hIZ0U0T3NjMTdkd1pCZ0VkODJQZldhUkwxUVBjWGxyMG9McVRVVXlOUUhuNk5pZGg0N1XSAbcBQVVfeXFMT3REMWtlTzNjSENfZGY1dHVVZlBpc2pNMU52OEMzWjF6OXhjQ1hSNWp6UHd1R1pPNE9vNWNmblVyYkF1LVFOd3MyRU03Tk9weURObGY2dTlDZGRWMzBOWUMteXZLZTBoUFc2b3lxSFdLb2M3SW1BY0stU0xkWjlEMmVYeUtISGdFNE9zYzE3ZHdaQmdFZDgyUGZXYVJMMVFQY1hscjBvTHFUVVV5TlFIbjZOaWRoNDdV?oc=5",
-      "source": "ANTARA News",
-      "publishedAt": "2026-07-29T03:32:46.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "BEI Soroti 4 Saham, 3 Langsung Anjlok di Perdagangan Hari Ini",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWU5UcUtLN2k1SDQyTGxNVVFmSURmS24tWC02RnRudzFaWXoxT1ZnM28wQWVsdTNQNE9HTmJUWGMxcHlTcDZ0djhrWlVOaXhiTXRXQVh6RW5JdzV2bzQzaHdIeU9odlpfdW5MNU9ISldyRHk0dmtfYTU1czk2RlE4MjFnSW9MQjJVTlVuc19CdVFMYkcwbGFRODRQNFNVbVnSAaQBQVVfeXFMTUhnNjd3QzNGV3pUbVl6NEJJS1VMVHpnb3U0VHcwdXk4ak5XU1NESlBnZWEtNlNIMjVXZXJ3OEF4V2tIWEZwZzVCODFrdlhYX2lfdkY5ZG9TempIQ2poNXZWNlQzZF9iNDJIVGtGS2xINXBTekI3cHE5RUF6cVBjeXQ3TWJRQzFEM3Y1eVlleU9hWTlwazAyLWt3NDlCTWR3OGV3NGM?oc=5",
+      "source": "Warta Ekonomi",
+      "publishedAt": "2026-07-29T09:55:00.000Z"
+    },
+    {
+      "title": "Video: BEI Rombak Konstituen IDX80, LQ45 & IDX30",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZTF3c0k3WkVfWFdVV1BPR0hKU2FnWGxHT2VpbkJPam5NMmRoYVBnbDFzSGZjdHpMTUMxbFpDMFdkd1dEcHpDeTkxeWNqMzFSZ2szWTRnVURlM2ItV1lNUnRZNEtoa1dEY2Q4NGFhTzhYTVNWdlFhclRRdWREaTRtbFRfM2xBRW1aZG9wTzdmUnpRZ012VjRPS0lsTWZpVTRoQVhESUNwN3QzQdIBrwFBVV95cUxOVlVBanhmZjFBdUNrNmp6RkZ2a1R6T0MxV3Jnbk1vZlM1bzNzZDdYaFo5Mk5FRzBQWUhINjd0YVZhSkNNemdJZFVjZC1aamtid0Z5Z2VrMVdNUWJuYzUwSkRYV0tpTHF5QkhDU2tfaFhQTXpOcTFLRk1RRW5JN3F1MzlqYUcwRjdpdkNaRFhOQUZIVm10YWJCQldlRHhoT2hOVDZtUkNORWxsUFA0OXFr?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-07-29T08:32:16.000Z"
+    },
     {
       "title": "Prospek Saham SMGR dan TOWR Usai Terdepak dari LQ45 - Market",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGZyanJsUWN5YkY3WDBfR0w1eFhrVEw5dzI5WWxoY3VKTGttX0JzcWFNTGI0ZS12ajlpWG5lUWxmbkMtQy1tLWhIX1ptRWU4TXFha2EtU0d5aW1wamJ6NVlUZ21UZEh1NXdrU0c4OVBvU1ZudllqbFVkd20za1NJOUJQRHlGbWctVS15RjlNOTNQV0trM1llVU1XaERGZHQzbWVMWXRn?oc=5",
@@ -2114,18 +2134,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTC1XbGZaWkhjWVppZG41a0lIZ0NuVGVZUzd4UVJMZzlDZ3dkT2ZMVXlZTUNnSUllYUJsQXR6M004SWE3U3p2MUJpY0p4SkMtakNGQlI5RmM0RG5rOEt2cm9nekFndHVFTnQzQUJxQ3lBbnVpekJZaHJmZ3Q2dVFETkhiMA?oc=5",
       "source": "investor.id",
       "publishedAt": "2026-07-29T05:28:23.000Z"
-    },
-    {
-      "title": "Transaksi Misterius Rp9,32 Triliun Warnai Pasar Nego Saham MAPI",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekpJd3dKdEZnOFJnVzB5NU5Sb1hvcGRjSE5XbGZ5UG5hZG9VUkJSWkdtMEZnbDFpSjFxbE1mZHhEclBzZ1dWdGtQWHQ5WlNHUTJMZjNqRXhTZ25VWlFFTE9hN0Y5Z1VFejlmTnExOW9wLWVKNVMyTlQzalV2TmVlbTZZc1VYbzJveEVUWFpLLVhiWllMWXo0NWRDRkw0c1JTZ2szeDc2Mk_SAagBQVVfeXFMT3pKSXd3SnRGZzhSZ1cweTVOUm9Yb3BkY0hOV2xmeVBuYWRvVVJCUlpHbTBGZ2wxaUoxcWxNZmR4RHJQc2dXVnRrUFh0OVpTR1EyTGYzakV4U2duVVpRRUxPYTdGOWdVRXo5Zk5xMTlvcC1lSjVTMk5UM2pVdk5lZW02WXNVWG8yb3hFVFhaSy1YYlpZTFl6NDVkQ0ZMNHNSU2drM3g3NjJP?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-07-29T04:27:00.000Z"
-    },
-    {
-      "title": "BEI Hentikan Sementara Perdagangan Saham ALKA dan BKDP",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdUJmYzZsQ0xNLTA1U0J5QWZuRUFnLUppLWNicVUxVlFKaGhnVzhETGFFa2d5XzhBYm5XUmZQSURZV3E1c0ltRm1yaXFVQ0tHaTBzMFlDN3RqTC1OblhHZU95SDFPOVdDeWREYUQ3WHNicVhPbmgyRDVqR3pJY1BHQXVVdlNWT3Z1N090UlBGbUFDVmJa?oc=5",
-      "source": "pasardana.id",
-      "publishedAt": "2026-07-29T04:26:00.000Z"
     }
   ],
   "macroNews": [
