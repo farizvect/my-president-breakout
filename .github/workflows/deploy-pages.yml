@@ -3,6 +3,11 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: [master]
+  # GITHUB_TOKEN pushes from "Refresh market snapshot" do not emit a
+  # normal push event, so Pages would stay stale without this hook.
+  workflow_run:
+    workflows: ["Refresh market snapshot"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -16,12 +21,15 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
       - name: Add .nojekyll
         run: touch .nojekyll
       - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d  # v6.0.0
