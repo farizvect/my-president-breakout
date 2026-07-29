@@ -242,16 +242,9 @@ export function isValidPriceSeriesSnapshot(candidate, nowMs = Date.now()) {
     })
     && candidate.points.every((point, index) => index === 0 || candidate.points[index - 1].date < point.date);
   const lastPoint = pointsAreValid ? candidate.points.at(-1) : null;
-  const previousPoint = pointsAreValid ? candidate.points.at(-2) : null;
-  // When daily history has weekend/holiday gaps, Yahoo previousClose often
-  // won't match the prior point exactly. Only enforce a tight match when
-  // the two trailing points are consecutive calendar days.
-  const consecutiveSessions = lastPoint && previousPoint
-    && ((Date.parse(`${lastPoint.date}T00:00:00Z`) - Date.parse(`${previousPoint.date}T00:00:00Z`))
-      === 24 * 60 * 60 * 1000);
-  const previousCloseMatchesSeries = !previousPoint || !consecutiveSessions
-    || Math.abs(previousPoint.close - candidate.previousClose)
-      <= Math.max(0.02, candidate.previousClose * 0.0001);
+  // previousClose is Yahoo's day-change baseline and can diverge from the prior
+  // daily bar (weekend gaps, FX 24h sessions, bar revisions). Day-change math
+  // above already binds previousClose to price; do not also force a series match.
   return Number.isFinite(candidate.price) && candidate.price > 0
     && Number.isFinite(candidate.previousClose) && candidate.previousClose > 0
     && Number.isFinite(candidate.change) && Number.isFinite(candidate.changePercent)
@@ -261,6 +254,5 @@ export function isValidPriceSeriesSnapshot(candidate, nowMs = Date.now()) {
     && quoteMs >= Date.UTC(2000, 0, 1) && quoteMs <= nowMs
     && ['REGULAR', 'STALE', 'CLOSED'].includes(candidate.marketState)
     && pointsAreValid && lastPoint.date <= quoteDate && lastPoint.close === candidate.price
-    && previousCloseMatchesSeries
     && (candidate.date == null || candidate.date === lastPoint.date);
 }

@@ -665,7 +665,7 @@ export function renderFxSparkline(points, events) {
 }
 
 
-const FRESH_QUOTE_MS = 90 * 60_000; // hourly workflow + slack for cron drift
+const FRESH_QUOTE_MS = 15 * 60_000; // 5-minute market workflow + slack for cron drift
 
 function renderFeedFreshness(live, nowMs = Date.now()) {
   const describe = (quote) => {
@@ -682,29 +682,40 @@ function renderFeedFreshness(live, nowMs = Date.now()) {
   if (fxStatus) fxStatus.textContent = describe(live?.fx);
 }
 
-// Live market data is committed by the refresh workflow. Pages only hosts the
-// static app — do NOT redeploy Pages just to pick up a new live.json. Public
-// hosts read the latest committed file from raw.githubusercontent.com (CORS *).
+// Market (IHSG+FX) and news are separate JSON files with independent CI schedules.
+// Pages only hosts the static app — bot data commits do NOT need a Pages redeploy.
+// Public hosts read the latest committed files from raw.githubusercontent.com (CORS *).
 // Local/LAN servers and Node tests keep same-origin/relative so offline/dev works.
-const LIVE_JSON_RAW =
-  'https://raw.githubusercontent.com/farizvect/my-president-breakout/master/data/live.json';
+const RAW_DATA_ROOT =
+  'https://raw.githubusercontent.com/farizvect/my-president-breakout/master/data';
 
-function snapshotUrl() {
+function useRawDataHost() {
   let host = '';
   try {
     host = globalThis.location?.hostname || '';
   } catch {
     host = '';
   }
-  const useRaw =
-    host.endsWith('github.io')
+  return host.endsWith('github.io')
     || host === 'farizulhammi.ebizu.id'
     || (host.endsWith('.ebizu.id') && host !== 'ebizu.id');
-  const base = useRaw ? LIVE_JSON_RAW : './data/live.json';
+}
+
+function dataFileUrl(name) {
+  const base = useRawDataHost() ? `${RAW_DATA_ROOT}/${name}` : `./data/${name}`;
   return `${base}?v=${Date.now()}`;
 }
 
-let lastLiveSnapshot = null;
+function marketSnapshotUrl() {
+  return dataFileUrl('market.json');
+}
+
+function newsSnapshotUrl() {
+  return dataFileUrl('news.json');
+}
+
+let lastMarketSnapshot = null;
+let lastNewsSnapshot = null;
 let lastEvents = [];
 
 function validateRenderableSnapshot(live, nowMs) {
@@ -755,7 +766,7 @@ function renderMarketQuote(live, nowMs = Date.now()) {
     && quoteAge >= -60_000
     && quoteAge <= FRESH_QUOTE_MS;
   const status = quoteIsFresh
-    ? 'HOURLY AUTO REFRESH'
+    ? '5-MIN AUTO REFRESH'
     : market.marketState === 'CLOSED' ? 'LAST QUOTE' : 'STALE QUOTE';
   $('data-age').textContent = `${status} · ${market.date} ${time.format(quoteAt)} WIB · YAHOO DELAYED`;
   renderFxQuote(live, nowMs);
@@ -764,60 +775,74 @@ function renderMarketQuote(live, nowMs = Date.now()) {
 
 export async function refreshMarketQuote(nowMs = Date.now()) {
   try {
-    const response = await fetch(snapshotUrl(), { cache: 'no-store' });
+    const response = await fetch(marketSnapshotUrl(), { cache: 'no-store' });
     if (!response.ok) throw new Error(`market refresh returned ${response.status}`);
-    const live = await response.json();
-    renderMarketQuote(live, nowMs);
-    renderSnapshotNews(live, nowMs);
-    if ($('fx-sparkline')) renderFxSparkline(live.fx?.points ?? [], lastEvents);
-    lastLiveSnapshot = live;
+    const marketSnap = await response.json();
+    renderMarketQuote(marketSnap, nowMs);
+    if ($('fx-sparkline')) renderFxSparkline(marketSnap.fx?.points ?? [], lastEvents);
+    lastMarketSnapshot = marketSnap;
   } catch {
     // Preserve values but keep aging every feed so failed polling cannot claim freshness.
-    if (lastLiveSnapshot) {
+    if (lastMarketSnapshot) {
       const failedSnapshot = {
-        ...lastLiveSnapshot,
-        market: lastLiveSnapshot.market
-          ? { ...lastLiveSnapshot.market, marketState: lastLiveSnapshot.market.marketState === 'CLOSED' ? 'CLOSED' : 'STALE' } : null,
-        fx: lastLiveSnapshot.fx
-          ? { ...lastLiveSnapshot.fx, marketState: lastLiveSnapshot.fx.marketState === 'CLOSED' ? 'CLOSED' : 'STALE' } : null,
+        ...lastMarketSnapshot,
+        market: lastMarketSnapshot.market
+          ? { ...lastMarketSnapshot.market, marketState: lastMarketSnapshot.market.marketState === 'CLOSED' ? 'CLOSED' : 'STALE' } : null,
+        fx: lastMarketSnapshot.fx
+          ? { ...lastMarketSnapshot.fx, marketState: lastMarketSnapshot.fx.marketState === 'CLOSED' ? 'CLOSED' : 'STALE' } : null,
       };
       renderMarketQuote(failedSnapshot, nowMs);
-      renderSnapshotNews(failedSnapshot, nowMs, true);
     }
+  }
+}
+
+export async function refreshNews(nowMs = Date.now()) {
+  try {
+    const response = await fetch(newsSnapshotUrl(), { cache: 'no-store' });
+    if (!response.ok) throw new Error(`news refresh returned ${response.status}`);
+    const news = await response.json();
+    lastNewsSnapshot = news;
+    renderSnapshotNews(news, nowMs);
+  } catch {
+    if (lastNewsSnapshot) renderSnapshotNews(lastNewsSnapshot, nowMs, true);
   }
 }
 
 async function loadTerminal() {
   try {
-    const [liveResponse, eventsResponse] = await Promise.all([
-      fetch(snapshotUrl(), { cache: 'no-store' }),
+    const [marketResponse, newsResponse, eventsResponse] = await Promise.all([
+      fetch(marketSnapshotUrl(), { cache: 'no-store' }),
+      fetch(newsSnapshotUrl(), { cache: 'no-store' }),
       fetch('./data/events.json', { cache: 'no-store' }),
     ]);
-    if (!liveResponse.ok || !eventsResponse.ok) throw new Error('market snapshot or event archive is unavailable');
-    const [live, events] = await Promise.all([liveResponse.json(), eventsResponse.json()]);
-    const market = live.market;
+    if (!marketResponse.ok || !eventsResponse.ok) throw new Error('market snapshot or event archive is unavailable');
+    const [marketSnap, events] = await Promise.all([marketResponse.json(), eventsResponse.json()]);
+    const news = newsResponse.ok ? await newsResponse.json() : { headlines: [], stockNews: [], macroNews: [], errors: ['news: unavailable'] };
+    const market = marketSnap.market;
     if (!market?.points?.length) throw new Error('market snapshot has no chart points');
 
-    renderMarketQuote(live);
-    lastLiveSnapshot = live;
+    renderMarketQuote(marketSnap);
+    lastMarketSnapshot = marketSnap;
+    lastNewsSnapshot = news;
     lastEvents = events;
     $('speech-count').textContent = String(events.length);
 
-    const impacts = renderImpacts(events, market.points, live.fx?.points ?? []);
+    const impacts = renderImpacts(events, market.points, marketSnap.fx?.points ?? []);
     if (impacts.length) {
       const average = impacts.reduce((sum, impact) => sum + impact.eventReturn, 0) / impacts.length;
       setDirectional($('average-impact'), average);
     } else {
       $('average-impact').textContent = '—';
     }
-    setupInteractiveChart(market.points, events, live.fx?.points ?? []);
-    renderFxSparkline(live.fx?.points ?? [], events);
+    setupInteractiveChart(market.points, events, marketSnap.fx?.points ?? []);
+    renderFxSparkline(marketSnap.fx?.points ?? [], events);
     renderSchedule(events);
-    renderSnapshotNews(live);
+    renderSnapshotNews(news);
 
-    if (live.errors?.length) {
+    const partialErrors = [...(marketSnap.errors ?? []), ...(news.errors ?? [])];
+    if (partialErrors.length) {
       $('terminal-error').hidden = false;
-      $('terminal-error').textContent = `PARTIAL DATA: ${live.errors.join(' · ')}`;
+      $('terminal-error').textContent = `PARTIAL DATA: ${partialErrors.join(' · ')}`;
     }
   } catch (error) {
     $('terminal-error').hidden = false;
@@ -829,4 +854,5 @@ async function loadTerminal() {
 if (typeof window !== 'undefined') {
   loadTerminal();
   window.setInterval(refreshMarketQuote, 60_000);
+  window.setInterval(refreshNews, 60_000);
 }

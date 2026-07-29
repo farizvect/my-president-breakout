@@ -292,8 +292,7 @@ test('DPR event keeps rounded Kompas intraday landmarks separate from Yahoo dail
 });
 
 test('generated snapshot carries a usable sourced USD/IDR quote', async () => {
-  const live = JSON.parse(await readFile(new URL('../data/live.json', import.meta.url)));
-
+  const live = JSON.parse(await readFile(new URL('../data/market.json', import.meta.url)));
   assert.equal(live.fx.symbol, 'IDR=X');
   assert.equal(live.fx.pair, 'USD/IDR');
   assert.equal(live.fx.baseCurrency, 'USD');
@@ -375,7 +374,7 @@ test('news renderer targets independent stock and macro lists', async () => {
 });
 
 test('generated snapshot carries independently sourced stock and macro news', async () => {
-  const live = JSON.parse(await readFile(new URL('../data/live.json', import.meta.url)));
+  const live = JSON.parse(await readFile(new URL('../data/news.json', import.meta.url)));
 
   assert.equal(Array.isArray(live.stockNews) && live.stockNews.length > 0, true);
   assert.equal(Array.isArray(live.macroNews) && live.macroNews.length > 0, true);
@@ -418,7 +417,7 @@ test('refreshMarketQuote replaces displayed market and USD/IDR quotes', async ()
   assert.equal(elements['fx-change'].textContent, '+45.50 · +0.28%');
   assert.equal(elements['fx-change'].classList.contains('negative'), true);
   assert.equal(elements['fx-label'].textContent, 'USD / IDR');
-  assert.equal(elements['data-age'].textContent, 'HOURLY AUTO REFRESH · 2026-07-27 09:40 WIB · YAHOO DELAYED');
+  assert.equal(elements['data-age'].textContent, '5-MIN AUTO REFRESH · 2026-07-27 09:40 WIB · YAHOO DELAYED');
   globalThis.fetch = originalFetch;
 });
 
@@ -447,7 +446,7 @@ test('refreshMarketQuote labels an old same-session quote as stale', async () =>
   });
   const { refreshMarketQuote } = await marketModule;
 
-  await refreshMarketQuote(Date.parse('2026-07-27T04:20:00.000Z'));
+  await refreshMarketQuote(Date.parse('2026-07-27T03:10:00.000Z'));
 
   assert.equal(elements['data-age'].textContent, 'STALE QUOTE · 2026-07-27 09:40 WIB · YAHOO DELAYED');
   assert.equal(elements['fx-price'].textContent, '16,425.75');
@@ -498,7 +497,7 @@ test('failed polling ages the last successful market and FX snapshot', async () 
   const { refreshMarketQuote } = await marketModule;
 
   await refreshMarketQuote(Date.parse('2026-07-27T02:45:00.000Z'));
-  assert.equal(elements['data-age'].textContent.startsWith('HOURLY AUTO REFRESH'), true);
+  assert.equal(elements['data-age'].textContent.startsWith('5-MIN AUTO REFRESH'), true);
   assert.equal(elements['fx-label'].textContent, 'USD / IDR');
 
   mode = 'http-error';
@@ -508,7 +507,7 @@ test('failed polling ages the last successful market and FX snapshot', async () 
 
   mode = 'valid';
   await refreshMarketQuote(Date.parse('2026-07-27T02:46:00.000Z'));
-  assert.equal(elements['data-age'].textContent.startsWith('HOURLY AUTO REFRESH'), true);
+  assert.equal(elements['data-age'].textContent.startsWith('5-MIN AUTO REFRESH'), true);
 
   mode = 'bad-market';
   await refreshMarketQuote(Date.parse('2026-07-27T02:46:00.000Z'));

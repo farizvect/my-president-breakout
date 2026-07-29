@@ -1,19 +1,16 @@
-name: Refresh market snapshot
+name: Refresh news snapshot
 
 on:
   workflow_dispatch:
   schedule:
-    # Every five minutes during IDX market hours (09:00–16:15 WIB, weekdays).
-    # GitHub cron uses UTC and is best-effort under load.
-    # Yahoo remains a delayed, non-licensed market feed.
-    - cron: "*/5 2-8 * * 1-5"
-    - cron: "0-15/5 9 * * 1-5"
+    # Every hour, every day (including weekends). News does not need IDX hours.
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: market-snapshot
+  group: news-snapshot
   cancel-in-progress: true
 
 jobs:
@@ -24,18 +21,18 @@ jobs:
       - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020  # v7.0.0
         with:
           node-version: "24"
-      - name: Fetch delayed IHSG + USD/IDR
-        run: node scripts/fetch-market.mjs
+      - name: Fetch Google News RSS feeds
+        run: node scripts/fetch-news.mjs
       - name: Test data logic
         run: node --test tests/*.test.mjs
-      - name: Commit changed market snapshot
+      - name: Commit changed news snapshot
         run: |
-          if git diff --quiet -- data/market.json; then
-            echo "Market snapshot unchanged"
+          if git diff --quiet -- data/news.json; then
+            echo "News snapshot unchanged"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/market.json
-          git commit -m "data: refresh IHSG + FX snapshot"
+          git add data/news.json
+          git commit -m "data: refresh news snapshot"
           git push

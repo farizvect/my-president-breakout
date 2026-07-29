@@ -66,10 +66,22 @@ study, RSS parsing, latest-session and schedule-selection logic.
 ## Market data
 
 ```sh
+# Full local refresh (market + news + combined live.json)
 node scripts/fetch-data.mjs
+
+# Or independently:
+node scripts/fetch-market.mjs   # data/market.json — IHSG + USD/IDR
+node scripts/fetch-news.mjs     # data/news.json — three RSS feeds
 ```
 
-This refreshes `data/live.json` from:
+GitHub Actions:
+
+- **Refresh market snapshot** — every 5 minutes during IDX hours (weekdays 09:00–16:15 WIB) → `data/market.json`
+- **Refresh news snapshot** — every hour, every day → `data/news.json`
+
+Public pages read those files from raw.githubusercontent.com (no Pages redeploy on data-only commits). Open tabs poll both files every minute.
+
+Sources:
 
 - Yahoo Finance `^JKSE` one-minute quote metadata plus daily chart history (delayed)
 - Yahoo Finance `IDR=X` USD/IDR quote, daily move, and one-year daily history (delayed)
@@ -84,12 +96,8 @@ separately attributed DPR event note preserves rounded reported intraday
 landmarks without mixing them with Yahoo's two-decimal daily close. See
 `data/SOURCES.md` for the source audit and accuracy boundary.
 
-The included GitHub Actions workflow runs the test suite and refreshes the
-snapshot once per hour during IDX market hours on weekdays. Open pages
-poll the snapshot every minute (public hosts read the latest commit from
-raw.githubusercontent.com) so new workflow data appears without a full site
-redeploy. Each feed exposes its own quote/publication timestamp and stale
-state; one successful feed cannot make another look current. This is not a licensed
+Each feed exposes its own quote/publication timestamp and stale state; one
+successful feed cannot make another look current. This is not a licensed
 exchange real-time feed.
 
 ## Stack

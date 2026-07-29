@@ -1,6 +1,6 @@
 name: Deploy GitHub Pages
 
-# Static app host only. Market data (data/live.json) is read at runtime from
+# Static app host only. Market/news JSON are read at runtime from
 # raw.githubusercontent.com by market.js — bot refresh commits do NOT need a
 # Pages redeploy.
 on:
@@ -8,6 +8,8 @@ on:
     branches: [master]
     paths-ignore:
       # Bot/human data-only commits: site code unchanged, skip rebuild.
+      - 'data/market.json'
+      - 'data/news.json'
       - 'data/live.json'
       - 'README.md'
   workflow_dispatch:
