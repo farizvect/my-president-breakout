@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T02:09:36.388Z",
+  "generatedAt": "2026-08-02T05:57:05.776Z",
   "headlines": [
     {
       "title": "IHSG Menguat Tipis Pekan Ini",
@@ -52,6 +52,12 @@
   ],
   "stockNews": [
     {
+      "title": "Perkuat Ekosistem Keuangan Berkelanjutan, BEI Tetapkan Saham Hijau",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTI2MEJhcVBvcWV2RmxZSG96WEhrVHI0X3l4Qm94aUFua3ozcEVEUTFUY2dhWG9sVTNSMzBhOV8xVW1yZlRXUVdPOFdnVlIzdUdJRUpGZVRrT3p3Z1dRSUFHWjVIX2JpSHZoRE5MV0tqZVAxOTQ2SkFXdWp3VFc0Mnhpay1mTU52dkE3aUtDa1NOTE1wZWZrOQ?oc=5",
+      "source": "Emitennews.com",
+      "publishedAt": "2026-08-02T02:46:00.000Z"
+    },
+    {
       "title": "Antrean IPO BEI Masih Ada Empat Perusahaan hingga Akhir Juli 2026, ini Rinciannya",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFlwTU5BQ2hQc1ZTQXZzSjBLcDVzZG0wOGlkcEJuY1lmM2d6cGpodm90YzJkRG5lb3I0U2pYZkxTREJpYk1rakNGY0owYjc3emE4WGZ6WFREcGRjN09rT1dmZmNFUDc3MnphNUc0X3BkdDZJR1I3ZFg0YWhTbmw3d1J4bE5pOFFGcFV1ZmdibDctdDk1SkZ2N2VDcnpaaXFNUGZfTDB4MUg1SHNnSWdTeW9xQQ?oc=5",
       "source": "KabarBursa.com",
@@ -78,7 +84,7 @@
     {
       "title": "BEI Rilis Green Equity Designation, Dinilai Berpotensi Tarik Dana Asing ke RI - kumparan.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHU0WllHM0h5R1dnc2tlQ3cxWlFoMkdHMFQ3MUVYMjZDazJ0VUtjbXlqT0F5aGgyZXExTzV1Znlmd2VWbjM1dWNTdnc5a1VwdUhhTXA2VjNoUVA0Z1NlOXpUR2VpZzluczg2dTNfakJuOTRaLUQ2MlhvbFQtdkliTHFTUnhVcHU5SFhiX3NJUnZQQkhJQnl2WlFlQ1I2Sl81bHY3a3NQTDMzMElWemU5UVY3OUh0VXkxbldULV9mejJPQdIBygFBVV95cUxNMjd4QjNRek9HMFVhYnZLWXE0YkczMXBhQTc4dzV5NHBKeldaS2ltLUZMYVRHR0N2bDRodXRYTmxRMVpBX29JM0I5V0RfcGYxa1BfU05BWXljOXJXcGtVdmVDcU8yanMzMXBwelJSYXliaGs4akt1bTAzUzVuU1lmRVhEYTdob1BUSXdIM0dSSDNYUWpZQ1RBUzJWNXVBSTl6dEhWdEUtOHNOX056dkR1a2x2Y2NKRXJxbGV0Y18wZm5RQVNJTjdOY1hn?oc=5",
-      "source": "Kumparan.com",
+      "source": "Kumparan",
       "publishedAt": "2026-08-01T12:30:00.000Z"
     },
     {
@@ -92,20 +98,44 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREdvYkpQX3AxNFlqQkNJNVNjNkNXcHExTjV6Z0JGNHBabFlwVE1OUTNncXhEX21IM2NjWEZXb3NHalFEQWprbV9ScVJrT1l6R2ZRNUpFeVBQOHhYTTFSOERfSEZJdDctbHJJVm9NUTg3cHhPU1NuZXRwSUFFN3FTU3NjOFQ0c3dkMUlTYVpWWHJMUmp1YUx1QnhxMWFkdnAt0gGgAUFVX3lxTE1ER29iSlBfcDE0WWpCQ0k1U2M2Q1dwcTFONXpnQkY0cFpsWXBUTU5RM2dxeERfbUgzY2NYRldvc0dqUURBamttX1JxUmtPWXpHZlE1SkV5UFA4eFhNMVI4RF9IRkl0Ny1scklWb01RODdweE9TU25ldHBJQUU3cVNTc2M4VDRzd2QxSVNhWlZYckxSanVhTHVCeHExYWR2cC0?oc=5",
       "source": "IDX Channel",
       "publishedAt": "2026-08-01T09:25:00.000Z"
-    },
-    {
-      "title": "Video: Bos BEI Ajak Pengusaha Raih Pembiayaan Dari Pasar Modal",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnR6SXhrNTBhNWd1Sl9Td0tWV0lwYlEweHFMVHlfU1dSZF9HQWd3WEF6X1dtaHlDT3dETUJjNHJMd1Qwb0ZKYllhQWM4eWlxcUlYR2otM1JmRTFSQWUzNGx0X0tzRzV1SEtYc3lfTnotOW9OeWVzRnNaMjFVUktWSFNOcFJCWnZpVm0tMHdDYllUdGFPaTFlVWFfOEpfUzBZbVZCNTRTdWQ4blpkUWtKam9QMm80WXd2a2gyeHZYbjBhdw?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-08-01T07:00:11.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Permintaan Emas di Indonesia Naik 40 Persen pada Kuartal II",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPajRjOFJhLVpQdmI0WmhiV25STDRiXzZLbVBkR1RzbkRMMjNNbS1CQzg0ODhlckFTaWFlWUNLUFZoWUZOaVZnb0JoMXFFYlprR3ZBZjdvS2UtR3lDcUtDSHY5SjYyMEsweGdfM2NkM01aWTRfR2Y5SkhRWnJvd0xueDVsV3k0eXl1eFhGd1c2clVfUjVEQ1lQRHRaTnM?oc=5",
+      "source": "Tempo.co",
+      "publishedAt": "2026-08-02T05:00:00.000Z"
+    },
+    {
+      "title": "Harga emas hari ini, 2 Agustus 2026: Menurun minggu ini, pembeli terus mengalami kerugian.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWC14UDhVUm5rWXREX0RWRnJienRwTWlPc2ZRQ3pReWkwNWROSXFwclFqN29faThDVVRpY0VsNnVKd2RvS1dSd1hvd01NQjdjSVhFRldJZE5vVGhRM1ZvS1hhZTk5TUJDbW9LVnR4aGo4UXNPeXAtb0hhSk9sUlJJWGNXUWlEUVduRmNtRlhLWkF2aVc5SjB1bUhJbnNDQjg?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-02T03:28:56.000Z"
+    },
+    {
+      "title": "Warsh Tak Beri Sinyal Suku Bunga, Wall Street Menuntut Premi Risiko Lebih Tinggi",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2RvZE1WR0FtcmJ6SzNJNmdqcVlFaWN4dEsxVHlGdEdkUnpmZ3I3NUoycm14dlJZWHJiQTMyOEJtUm01MFpCN1ZrOEdGa3o4UHNLaVRRWV94RGZsODZES01jZWludmYzY3NvamdFTmZvd1JWUGxvUGplNF9ROWpDMWpxWlo4eDVoZGJyTlNkUVRxZmZVbVNvQ1hn?oc=5",
+      "source": "Qoo Media",
+      "publishedAt": "2026-08-02T02:27:00.000Z"
+    },
+    {
+      "title": "Harga emas mendingin, tetapi para penambang tetap menuai keuntungan besar.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2YUpZeU4zZWlXMVZFemFYN2dlZWZTcy1OQTJkc0dRRnJyZDlxQ1p3c0x1aDFRWDItRmE3NzhlQmoxSnN5VFgtVDh5MmJKcmU5NWNuZF9heV9xamFfSGFtOXQ4TVkxTlNIZGVHVnJPMmxXUjM5aXBCTHR3?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-02T00:41:25.000Z"
+    },
     {
       "title": "Wall Street Hadapi Pekan Penentuan, Data Ketenagakerjaan dan Kinerja Emiten Jadi Ujian Investor",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnZWOTF2Ukl0NURFTF9nWHJqMEt6Y3cySkt2RWFubTdBQlNDR3RDZnhNVDc0QU1tTFVEMF9TZmF5LVBPcjJmX0x3bDlIXzloTnNzVWp5YlBxY2Y5UFdmdWVqbTkzYkFOT1ppeHVla1pCdS1tSzZEeV9sbjk2UlVhWnAzTUwzaUNBYk45Z19JVmhlVGZKcERmOHpGYkRSaTBCVHlkb1gzNXpvUmJMeDR2ejM5ZTNONXVoLVdSRTBHeHNNa2hsTFE?oc=5",
       "source": "KabarBursa.com",
       "publishedAt": "2026-08-01T20:23:39.000Z"
+    },
+    {
+      "title": "Laporan WGC: Permintaan Emas Global Tembus 2.522 Ton di Semester I 2026",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYThqMVpvV0dKR2hPUUlKTElZazlONTJTdk5PMERHSGh4YnpoTDdKeWc2ZHNHRHRTcUlWMW5XVGVpdXJWZ3lOeW9JZTJ5aHR6UXd2cXBUVmV0VlpkX2hCaVM4ZWFncjZPUkhSMmVqV0lPVlJDdFd1NFdmcEhCSnp0SHNhbENZXzhpcTY4cXJITGRyMEoydldrbm1JZjg2cTQ0dzZjOURBRlJJdTl0Qm13azhVN0ZGZExZRHB3b0hB?oc=5",
+      "source": "Jawa Pos",
+      "publishedAt": "2026-08-01T09:56:40.000Z"
     },
     {
       "title": "Harga emas telah jatuh tajam, penurunan terbesar dalam lebih dari 10 tahun, yang dilihat oleh bank sentral sebagai peluang pembelian.",
@@ -118,36 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVhZbV92cVFheWVvZjZPTDdRQkhwbjVxVjl4cGExMlNaMzJ3eFFNd3E1b2MxSkRveVE5dFJiYm1Lbm0xc2ZmbXB3OUs4YkV0eVdjbmJuejVNd0lYc09zQkZZcGhxWU9pZkpVZHN4RU5JY01Qb0VXd0t3Q1FMTXZxYjhXM3Y1SXhvUkxfb3FVVnNpUGNYeVpaTzZCR0hiQU1SNmlXTA?oc=5",
       "source": "KabarBursa.com",
       "publishedAt": "2026-08-01T07:06:00.000Z"
-    },
-    {
-      "title": "Wall Street menutup pekan yang penuh gejolak dengan dorongan dari Amazon dan Microsoft.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXVsd1NMMlJnbnpRMU1ZZS1pNHBJWVZacFJ6Z0pkMVJObEVJX3VUcC10YmNBS3owY1JRc0xVeEtmbnNZcjdZZWlfdmYzZk9xN0F0SktJTVZrNTZOVV9DQWpiZkFTaTBUVmtZRkJ1Yi1sMWtsQTlvTHlNTmhpV1V6QWlqemk4M1MzTEhSNXBjR2Y4RExXRGtaYjlBal9FNndz?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-08-01T06:52:53.000Z"
-    },
-    {
-      "title": "Emas Bergerak Sideways, Pakar Tunggu Katalis Penguat",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd09LZFp5bVZHUHd2Mldyd2FLYTR4OTFmb2FIZWgzemNNT3pmb2hvVnZyMEZoRWFDX3RnaXFsRE1tZG1RclZsZ1FqNnQ1NXg5ZDE3c0duZUZoU09MTTJxR0NSUzNyZVo5aE9CWVRib3YyV3MzdnY3X1MtejJYb21lbQ?oc=5",
-      "source": "Detak Media",
-      "publishedAt": "2026-08-01T01:01:44.000Z"
-    },
-    {
-      "title": "Pakar Sebut Harga Emas Butuh Katalis untuk Bangkit",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUVLWmdUOHJmVVhWLWtCdzRLck5EenAzS1BIOExwV0xKOU5OTnk2UW1GMExwUkJiaXJLV2t2MXBKVzJfbjNzZ1lrX1JrSDdpZks5VVF4NjBqR0xqV05rejdrR3pyXzc2S291eDJEMlFRRmhrNE00VEV4Tnh2TzFCeWxpTjI4bzRPTDluLQ?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-08-01T01:00:00.000Z"
-    },
-    {
-      "title": "Harga Emas Konsolidasi, Perusahaan Tambang Cetak Kinerja Kuat",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MRHNRdURObnNiZTlGZDIxVVc3X0F2Vy1pZGNQQklETS1Hb0lMamRBTmtvUThRczY5V2ExcDFLLV9MbEJNWE9Gb3piVmliOVRsdDN4aTRmTjRwRWM3ODRFcmE0X0lMV2Y4V2RVQlM0dXM3YVJM?oc=5",
-      "source": "achmadnurhidayat.id",
-      "publishedAt": "2026-08-01T00:32:25.000Z"
-    },
-    {
-      "title": "The Fed mempertahankan sikap hawkish, dan harga emas serta perak tetap stabil menjelang September.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWdrQVpWekY5SnhqQlptYldvbnVzejZoSzVZWko2akROdXlWOWRRMjladzF3WVVVWk0zNVJsODR2NjQ3X01wUDhQeHU2Z1VUSXk0UnFOX05JWEZvZERMS1VlZnZicUFlS3hEdENRSFQtWXVDdDdtYkRSQVJmWXVINGVseXUtc2JCV0t6LUtKM2x6cnYtY0E?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-08-01T00:18:22.000Z"
     }
   ],
   "errors": [],
