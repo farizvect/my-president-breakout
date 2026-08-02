@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T11:57:50.810Z",
+  "generatedAt": "2026-08-02T13:23:31.376Z",
   "headlines": [
     {
       "title": "Berikut 5 Saham yang Topang Penguatan IHSG Sepekan, Simak Daftarnya",
@@ -10,7 +10,7 @@
     {
       "title": "IHSG Menguat Tipis Pekan Ini",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclFtZ1hDV3h5ZmFFM1V2dkZubHVxeUt2UjlZcUszVE5ESG1uS2RyZjkyUU1BMFFLcUNWLWNYVzNMNUdwbXA4emh6ZXVYbVJLRXhSTnNrZC1HdzVaX1ZqaEMtWnE5eWdOQVFtQVcwdU54UWJpN25JYVdzUUJHbUhFZHZmUU5FYUnSAYwBQVVfeXFMTTFyR1h6VFZDc1pVMVZzVW5CNDdTMy04SktEeXlranVPWEc2N3Y0cWR1Ti04dFlJalpBZ2hRdVFKRXd5ZU9uVFdKMXNnUUlmeFBPejNpOG9fd3l5Wmt4UnRpWFg0Y0J2eTR2Sl9Ddy1xZS1PSi0zN0x1b01nWEFTOE9PY0U1dzRLTnFGWmY?oc=5",
-      "source": "detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+      "source": "finance.detik.com",
       "publishedAt": "2026-08-01T07:37:45.000Z"
     },
     {
@@ -52,6 +52,12 @@
   ],
   "stockNews": [
     {
+      "title": "BEI Kantongi 4 Perusahaan dalam Pipeline IPO Saham",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUTVHRmpxTG15cUt3S0k3dHlRVUJJT19xR3Zic1IxOTQ5dThoMUpDelhlWTYtSzBtNEt2ZVIyblhWQkd1c2w4dThhR1EzNXZQWVVjV1VIMjN1cG12MExndy1oS05nS0xrNU84d001Q3pBd0Npb0M1VnQ5UzhOVC1NQg?oc=5",
+      "source": "Infobanknews",
+      "publishedAt": "2026-08-02T12:51:11.000Z"
+    },
+    {
       "title": "BEI Tetapkan Saham Berbasis Hijau, Perkuat Pendanaan Berkelanjutan di Pasar Modal",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0dJMUJOYVZLQklXbzZWYU5HWGpXcTE5OTRqWjJRcVppc29CaGRfWGpRRm1adllGUUNEVE9OOUI1ZjNRT2JCUThpR3pXWGwwcmE0UlZSWWtoQjJuWTJlR2hveHlicnU4elNFSWN1MGtqVUsyMVAzUmN0dmZteWZFVTFZcm5zYUpnS01TM0FrYWtISXhpaVJ6WFBheDJkckVKR3FwbVE5aTQ?oc=5",
       "source": "Infobanknews",
@@ -62,6 +68,12 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2pvTFhMa1dJWlZ1bXdQcU8wMTFyMENzcnM2clRYak1HZEZOZ3FBTEl4dFluYmZvbTZnd3VDdGF0R3NLak53aGRBS3JaTnpFV0twdmxtR1QtVmJKblEzbHZlSEpoTElvMzktbHg1Sk9waTk0UW8tZ0JkYlJGRmpxWGF5bVNCaU9OdUdlNGxpUnp5NXBRVEx4SnBnNVZLdTFrUzVFNUhGUQ?oc=5",
       "source": "Bloomberg Technoz",
       "publishedAt": "2026-08-02T10:00:00.000Z"
+    },
+    {
+      "title": "BEI Resmi Berlakukan Penetapan Saham Berbasis Hijau",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb2hWOXNISzNuUU0yMEdVODYzeU5qQXdfMHlfaVRzdzQwRzctNmc5ak1YTEpjVXhwSzRWeDl4LWFvaVRDVWdsbFo2cThrWjF4UnItNENVYllKQW52WHJ5SHlQZVBrWDY2WVh1LXNhdWQ4bHc5bFFNeTljcFVuX0RablVPNnE4d9IBhgFBVV95cUxNb2hWOXNISzNuUU0yMEdVODYzeU5qQXdfMHlfaVRzdzQwRzctNmc5ak1YTEpjVXhwSzRWeDl4LWFvaVRDVWdsbFo2cThrWjF4UnItNENVYllKQW52WHJ5SHlQZVBrWDY2WVh1LXNhdWQ4bHc5bFFNeTljcFVuX0RablVPNnE4dw?oc=5",
+      "source": "Ibukotakini",
+      "publishedAt": "2026-08-02T08:53:56.000Z"
     },
     {
       "title": "5 Saham Listing BEI yang Potensial Bullish 3 Agustus, Apa Saja?",
@@ -86,21 +98,21 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMFE4aUphcHZLd25WZjBwNHZqSlVsVi1MZGJxdlQ4RTYxZ29qaTZYa1Fib3VNZHNyWGwwZ2tTWkdyRi1qeDhFUmlQanRyLXlnYi1qd0oxWThEcXNpaDlMZFRiU0oyWXNiNUJHMjcxZHF4SjFabzdydl9CQWV1TE9HbThVQlJ0UWlPQmhaTE5Xc2FUS1RSbk1Za2R2VVEwRVBsRGdQMkpPRGFSd3pUT2hKUFMxRzV5Z2c3TjNac2VWUHY4UnBUUGI2WVFHc9IB0AFBVV95cUxQaFNwOXoybFVuSEkyemw1cUIzSGxCUS0tTnh3b3pXc3dDdTBpLXhlV3dnaU1MLVhSbkZ0cnBuMEhrVGFjN09pdEFtM1dVVWNjVmRyaE1GdTQwR2FFTEtWMWtZZF9adUdEd0ZTZnV3d0w0ZG1RRl8yLW9uZnAtNEw3NGd4Z2Z6TnhFSWxLc2tiSWc5MTVEVDNlTFhOa0lFRVg2Y2tPT0VXYXdtZjFpVkcyN1hiaGxtWEUxQXdueEF3VEV6T0N3elBYSDFTamRXYjgz?oc=5",
       "source": "CNBC Indonesia",
       "publishedAt": "2026-08-02T06:00:06.000Z"
-    },
-    {
-      "title": "Ekspansi Masif hingga Picu Spekulasi Akuisisi Nestlé, Saham BAIK Jadi Sasaran Aksi Beli Asing",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2s1ZlFGX0dHUk1mNzBVLURidEVyczh0RkNZNlFzMkNTb3JIM2R0ZUJCUWVpOV9IdzAtc1VDd0UtMDRURnhqX0dmNWtHZi14WDZrUDk4R282SFdGdHowZ1B1WFpUNzExNUJKUHl2d0hYcWZmMFhLSXFxOV9TT2haU05aRERHbGxyVXRjMmNZeEt5UVdWSFFlY3d6UHRIMmNNeTVHNXNHNHcycFI4ZFhudzgtbnN3dzZQVC1YeHJIZWRCMGlGSlVqc09UTUZDeHVR0gHQAUFVX3lxTE9jazVmUUZfR0dSTWY3MFUtRGJ0RXJzOHRGQ1k2UXMyQ1NvckgzZHRlQkJRZWk5X0h3MC1zVUN3RS0wNFRGeGpfR2Y1a0dmLXhYNmtQOThHbzZIV0Z0ejBnUHVYWlQ3MTE1QkpQeXZ3SFhxZmYwWEtJcXE5X1NPaFpTTlpEREdsbHJVdGMyY1l4S3lRV1ZIUWVjd3pQdEgyY015NUc1c0c0dzJwUjhkWG53OC1uc3d3NlBULVh4ckhlZEIwaUZKVWpzT1RNRkN4dVE?oc=5",
-      "source": "idxchannel.com",
-      "publishedAt": "2026-08-02T05:30:00.000Z"
-    },
-    {
-      "title": "Perkuat Ekosistem Keuangan Berkelanjutan, BEI Tetapkan Saham Hijau",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTI2MEJhcVBvcWV2RmxZSG96WEhrVHI0X3l4Qm94aUFua3ozcEVEUTFUY2dhWG9sVTNSMzBhOV8xVW1yZlRXUVdPOFdnVlIzdUdJRUpGZVRrT3p3Z1dRSUFHWjVIX2JpSHZoRE5MV0tqZVAxOTQ2SkFXdWp3VFc0Mnhpay1mTU52dkE3aUtDa1NOTE1wZWZrOQ?oc=5",
-      "source": "Emitennews.com",
-      "publishedAt": "2026-08-02T02:46:00.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Wall Street Ditutup Bervariasi: Dow Jones Melonjak 221 Poin, Nasdaq Malah Terpuruk!",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLTVqR2Vyd0V5azJiWFJGbWgyazcyRzk2Q1Y4SG1iM2FYMEFSUjR5b0lQLVdkVFlQVzdEQlJWNTNHMGh0RXl6N0poTXNaSGg1bWYtbGsyOEFJb3Q3VXYyVzVHTDZya1puaWtHQ1BTZ1EzYzE5cFc5WDdMZ3hyc091TEZISGgzQ0lfTktKMHFUVkdZTXU2VGhNYTQwSDhsaE5oaVB5ZdIBqgFBVV95cUxNbUh0NlNDT3dpU0FDMmF2ZlJLbDE0TEJfM1ZDQmh4bm1rMkhtZkFIQ3BzdGljQi1EUlUxakxXeS1wWDdYWGdPV0ZPX2dYcFdMMXFuYkdHMnNQa2pOcTdwengycTZOdG9IbmwzOHcxOHpMT0pSSVNLVWl4cU96bnlSSHhoaXNYUlQtdUw1UTZuTGs3dG1XT3ZsMzNMZW5Ud2E2LS16UXZhVG0zZw?oc=5",
+      "source": "Stockwatch.id",
+      "publishedAt": "2026-08-02T10:14:44.000Z"
+    },
+    {
+      "title": "Permintaan Emas Global Semester Pertama 2026 Naik 2 Persen",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ONnMyTk1sYzVCQXROcERmY3ExT2g0NjBac3NHUDN4YlVlUklEUFBOUWxPLWxubE4zQjhndmlGeTNRLXZtUEZvbWFNeTc0eGtGU3RVdnRiR3phVDNBR3pXVGhEZjgxS3I2blVKU0lJemVDQQ?oc=5",
+      "source": "mediakompeten.co.id",
+      "publishedAt": "2026-08-02T09:11:29.000Z"
+    },
     {
       "title": "WGC Catat Permintaan Emas Global Mencapai 1.269 Ton",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvQnlKNGZCc0gyeUdpTkdrdXN6d3B3aDJCcXBPblBuNGtqeFR4bEM1WmpoT3VPZnoycUxGeWE1TjM2X1NpbVZvdDFCVkwtdE5TVllIcWg3ZE9PUVZXWUEtLUpYbThNU1VVeldZVA?oc=5",
@@ -126,28 +138,16 @@
       "publishedAt": "2026-08-02T05:00:00.000Z"
     },
     {
-      "title": "BI Mau Umumkan Suku Bunga! Kiwoom Kasih Bocoran Saham yang Wajib Dilirik!",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdW91cVlUWkRtWWlzYWFiSy1pVmsxVGUzbFViX3lKenNMMUFwdEhIemlvczJMUkFxT2l1Mk1fZ3J4TExJSl9JWW4tRjVMeDJDc1YxWUFxRVZUd0NCN2p3My1yMUppS1RGcFNVaWoyQXpOc3A0cjF0bDlaMnBPYVJkVWhEWDhTcXJZWWhlcDFYQlpKYnpCaDJMeFBRcll6UmNBb1BHdUhEd0JJTXhabXZvN0MxeWw3MG9IT2fSAb8BQVVfeXFMT1M1QkZoaUJDQ0Q1R1VqTXhwNFRDemY2d201dGJGX0NTLXRTOTFXeTBIa1lKREZiS2FVVWRHYTUtYlBvSktVZDQwNUxwSlgyOVlQWUFEeUx1RUR0RC1NS01PclBaOEkzOUVDSGNraWJ2aERGLUdFT01qU1lhRGJ4TTY2Qkl0eEU2T0poLTFsalhHZ2pCdkNFOE56anJUek1OWWxVUFVfSGRpTnBrRWhndEQ2NVQ3MTBTZjBXRFN2MEk?oc=5",
-      "source": "Stockwatch.id",
-      "publishedAt": "2026-08-02T04:51:15.000Z"
+      "title": "Permintaan Investasi Emas di Indonesia Melonjak 40 Persen pada Kuartal II 2026",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdlc0Vm8td2gwdVBwOFlCVUhwWkpxVjVyOHVocm1sRERYTzd0QTM4ZXFvLXYybDdCOFgycHNnMENaTkNfR1Q0Tm41eUo3RENfNGV4RFFXZExidmZVSko2X2M0LWVjdnRNNjFiS3U1YWUxNjlZMXBHY19MYnR1MEhfMVhiWHY5bFNZREU5bGFmTjlkV25NMlNV?oc=5",
+      "source": "mediakompeten.co.id",
+      "publishedAt": "2026-08-02T04:44:24.000Z"
     },
     {
       "title": "Kronologi Investor Boncos Habis-habisan, Aset Rp810 Triliun Berantakan",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNTd3RFhHTTdFbnQ5MzhmY3l0aFA0S204Tk9wNmVGRFRVWHpSVEJsM2VTcTJiNWxvR0pIRi1GSGFrTFZGOU13eEdqLU9RMmx2aFJ4TEtFckhSUlFIUDI1WDhkWUlxYm54Tm9SbmJKVDNfcjlOalI1RzNxRnpCM0tIaUQtNWsxTzhId2NTVk5JT01xQ19MSXBUTG40UzE1ZVI4Mmw3M3hQODQ2aTAzUlJZV0owYmc2b3ROcHVZcVFnYUx2RmluUWpVbGxWQnk2ckw20gHQAUFVX3lxTE01N3dEWEdNN0VudDkzOGZjeXRoUDRLbThOT3A2ZUZEVFVYelJUQmwzZVNxMmI1bG9HSkhGLUZIYWtMVkY5TXd4R2otT1EybHZoUnhMS0VySFJSUUhQMjVYOGRZSXFibnhOb1JuYkpUM19yOU5qUjVHM3FGekIzS0hpRC01azFPOEh3Y1NWTklPTXFDX0xJcFRMbjRTMTVlUjgybDczeFA4NDZpMDNSUllXSjBiZzZvdE5wdVlxUWdhTHZGaW5RalVsbFZCeTZyTDY?oc=5",
       "source": "CNBC Indonesia",
       "publishedAt": "2026-08-02T03:45:00.000Z"
-    },
-    {
-      "title": "Harga emas hari ini, 2 Agustus 2026: Menurun minggu ini, pembeli terus mengalami kerugian.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWC14UDhVUm5rWXREX0RWRnJienRwTWlPc2ZRQ3pReWkwNWROSXFwclFqN29faThDVVRpY0VsNnVKd2RvS1dSd1hvd01NQjdjSVhFRldJZE5vVGhRM1ZvS1hhZTk5TUJDbW9LVnR4aGo4UXNPeXAtb0hhSk9sUlJJWGNXUWlEUVduRmNtRlhLWkF2aVc5SjB1bUhJbnNDQjg?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-08-02T03:28:56.000Z"
-    },
-    {
-      "title": "Warsh Tak Beri Sinyal Suku Bunga, Wall Street Menuntut Premi Risiko Lebih Tinggi",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2RvZE1WR0FtcmJ6SzNJNmdqcVlFaWN4dEsxVHlGdEdkUnpmZ3I3NUoycm14dlJZWHJiQTMyOEJtUm01MFpCN1ZrOEdGa3o4UHNLaVRRWV94RGZsODZES01jZWludmYzY3NvamdFTmZvd1JWUGxvUGplNF9ROWpDMWpxWlo4eDVoZGJyTlNkUVRxZmZVbVNvQ1hn?oc=5",
-      "source": "Qoo Media",
-      "publishedAt": "2026-08-02T02:27:00.000Z"
     }
   ],
   "errors": [],
