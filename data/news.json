@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T22:50:01.142Z",
+  "generatedAt": "2026-08-02T23:53:06.502Z",
   "headlines": [
     {
       "title": "IHSG Berpeluang Menguat di Agustus 2026, Ini Saham yang Bisa Dicermati",
@@ -16,7 +16,7 @@
     {
       "title": "IHSG Menguat Tipis Pekan Ini",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclFtZ1hDV3h5ZmFFM1V2dkZubHVxeUt2UjlZcUszVE5ESG1uS2RyZjkyUU1BMFFLcUNWLWNYVzNMNUdwbXA4emh6ZXVYbVJLRXhSTnNrZC1HdzVaX1ZqaEMtWnE5eWdOQVFtQVcwdU54UWJpN25JYVdzUUJHbUhFZHZmUU5FYUnSAYwBQVVfeXFMTTFyR1h6VFZDc1pVMVZzVW5CNDdTMy04SktEeXlranVPWEc2N3Y0cWR1Ti04dFlJalpBZ2hRdVFKRXd5ZU9uVFdKMXNnUUlmeFBPejNpOG9fd3l5Wmt4UnRpWFg0Y0J2eTR2Sl9Ddy1xZS1PSi0zN0x1b01nWEFTOE9PY0U1dzRLTnFGWmY?oc=5",
-      "source": "finance.detik.com",
+      "source": "detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
       "publishedAt": "2026-08-01T07:37:45.000Z"
     },
     {
@@ -53,9 +53,27 @@
   "stockNews": [
     {
       "title": "Pelaporan ESG Tahun 2026 Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJa1VyM3pBMW1Oc09jMUtpQjdRX1QtNktsS2kxTWxKX0ZwRlRRajh1RUZKSFpCeGItU0dGYjBkUjMwUElUT3FWNWNNOWd0Z1BOTkJEdTJZRUczeU9UR0RoMENJOEVrd2tEcnRJR2h2Z3dzQWV3QmNXTEZ2Q3RIdw?oc=5",
-      "source": "Rmol.id",
-      "publishedAt": "2026-08-02T16:05:00.000Z"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10YktFX0p4S1hkQ1RGU25PdGtsbF95bkJVOWM4MGtLeUw4MDZ6TVQtS0NNcXpVa3hfR1ZFUENHdElhc3ZybGhVaGdGRTJMUlNmWHZabWRqYWdVNnY3NFpEVnZhcUlSQm02OC1BVXdXcU9vWjBk?oc=5",
+      "source": "politikindonesia.id",
+      "publishedAt": "2026-08-02T23:36:03.000Z"
+    },
+    {
+      "title": "2 Saham Resmi Masuk Indeks LQ45 Mulai Hari Ini (3/8), Cek Rekomendasi Analis",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1pXX3J6U1k1SmlHYi1PaTZ4MHpMYmFaaTAwNDVMWE9IS0NXa1BaTGF1MFdnZHp3ZWJDdWh3NkQtanIzYmp2Q2pqOUx4cHNaVXd0Z2VqQ1NBa2xCUnZTZlltR3pDQ2dSRzFmQ3V5LVFzY2R2bU54TGFydmtrUnA0RFdKWTlRSWlQZTVScXVnNEpQUkQtYTRnNjhuS0R5Ujg3cGRzbW12TmZIN1NK0gGkAUFVX3lxTFBTTHZjVWUzZDdZR1RSZVlTNHFzaW9CNU40TjBPOE00WkdOTzZTd1hFWVNoNFRUcXdMSFJxRER1bFVPRGxvZ3EwV0ljNGJLWTRGUF9qOGltY2RqT1FtelFBUG0zay1qX3dEZmpROVdoanlpMFRFTGZjY0ZPOFdCV3NQMmdXZ1ZuRkhITExUMlJxazRhQkRGTHYtOEo0aTVMbGFubGd4?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-02T23:07:29.000Z"
+    },
+    {
+      "title": "Resmi Berlaku Hari Ini (3/8)! Cek Daftar Saham Blue Chip LQ45 Terbaru",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNelBCVDY5Y1M2Ym9femlkQTNvRC1VbWJlU21peWtURVJtS3ZBWHo1WGE0b0M1M0x4T09kblgxRHRjVndfUEdvY2E1bWZoM0JJU21KQl9ZWFZFWEducVBZanR4RmUzb3RnOEUxLVh6UHJqbk1ZQlBzR3BDQU4tRURtYmVfdExIYjZDNWNadUZBME10RThWMjFpTFpjcWJsaUdCSVlN0gGbAUFVX3lxTE9PZ2VXNlgxUDVlMG13MFZucEhhS2pqMGZmX3pjNjhNdnJWNFhLRVM0RkU1bWV1YXpMRFlUZmZKblZ2MklJeUVUbWZDLVhxLUplM0JxT0tfcEFMMm5YbldRQWFuTklLZFpMeFlzMFJuOFVEYUFLWjhpTkpBSmREeF9jb3VWY1A0Nzl2cElRd21Va1ZZaTQ2bTRVUTlj?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-02T22:49:16.000Z"
+    },
+    {
+      "title": "Pergerakan IHSG Sepekan Naik, Asing Borong Saham Rp7 T",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWU13a21qNnhjSzFWckNkM1k5NjEwWjNIZFhua2twOHBFMnF0ZnlnMG14LVJsSmstRzk1SUo2aWtaRW54YTNPSmMwSGhab1piUU5Pci11YnlsZ21tMWNJRTZ4RlB5bFUzZTBtOEZsQm9YSnI1Z1VaVVhkVUxBeGU0b1I4UGZ1TVo5dFlUNjln0gGOAUFVX3lxTE9ZTXdrbWo2eGNLMVZyQ2QzWTk2MTBaM0hkWG5ra3A4cEUycXRmeWcwbXgtUmxKay1HOTVJSjZpa1pFbnhhM09KYzBIaFpvWmJRTk9yLXVieWxnbW0xY0lFNnhGUHlsVTNlMG04RmxCb1hKcjVnVVpVWGRVTEF4ZTRvUjhQZnVNWjl0WVQ2OWc?oc=5",
+      "source": "Bursa Nusantara",
+      "publishedAt": "2026-08-02T22:00:00.000Z"
     },
     {
       "title": "Proline (PRDL) Catat Rugi usai Pendapatan Anjlok 52 Persen di Semester I-2026",
@@ -80,31 +98,19 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUTVHRmpxTG15cUt3S0k3dHlRVUJJT19xR3Zic1IxOTQ5dThoMUpDelhlWTYtSzBtNEt2ZVIyblhWQkd1c2w4dThhR1EzNXZQWVVjV1VIMjN1cG12MExndy1oS05nS0xrNU84d001Q3pBd0Npb0M1VnQ5UzhOVC1NQg?oc=5",
       "source": "Infobanknews",
       "publishedAt": "2026-08-02T12:51:11.000Z"
-    },
-    {
-      "title": "BEI Tetapkan Saham Berbasis Hijau, Perkuat Pendanaan Berkelanjutan di Pasar Modal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0dJMUJOYVZLQklXbzZWYU5HWGpXcTE5OTRqWjJRcVppc29CaGRfWGpRRm1adllGUUNEVE9OOUI1ZjNRT2JCUThpR3pXWGwwcmE0UlZSWWtoQjJuWTJlR2hveHlicnU4elNFSWN1MGtqVUsyMVAzUmN0dmZteWZFVTFZcm5zYUpnS01TM0FrYWtISXhpaVJ6WFBheDJkckVKR3FwbVE5aTQ?oc=5",
-      "source": "Infobanknews",
-      "publishedAt": "2026-08-02T10:01:00.000Z"
-    },
-    {
-      "title": "Mulai Besok, BEI Berlakukan Notasi Khusus Baru Emiten",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2pvTFhMa1dJWlZ1bXdQcU8wMTFyMENzcnM2clRYak1HZEZOZ3FBTEl4dFluYmZvbTZnd3VDdGF0R3NLak53aGRBS3JaTnpFV0twdmxtR1QtVmJKblEzbHZlSEpoTElvMzktbHg1Sk9waTk0UW8tZ0JkYlJGRmpxWGF5bVNCaU9OdUdlNGxpUnp5NXBRVEx4SnBnNVZLdTFrUzVFNUhGUQ?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-02T10:00:00.000Z"
-    },
-    {
-      "title": "BEI Resmi Berlakukan Penetapan Saham Berbasis Hijau",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb2hWOXNISzNuUU0yMEdVODYzeU5qQXdfMHlfaVRzdzQwRzctNmc5ak1YTEpjVXhwSzRWeDl4LWFvaVRDVWdsbFo2cThrWjF4UnItNENVYllKQW52WHJ5SHlQZVBrWDY2WVh1LXNhdWQ4bHc5bFFNeTljcFVuX0RablVPNnE4d9IBhgFBVV95cUxNb2hWOXNISzNuUU0yMEdVODYzeU5qQXdfMHlfaVRzdzQwRzctNmc5ak1YTEpjVXhwSzRWeDl4LWFvaVRDVWdsbFo2cThrWjF4UnItNENVYllKQW52WHJ5SHlQZVBrWDY2WVh1LXNhdWQ4bHc5bFFNeTljcFVuX0RablVPNnE4dw?oc=5",
-      "source": "Ibukotakini",
-      "publishedAt": "2026-08-02T08:53:56.000Z"
     }
   ],
   "macroNews": [
     {
+      "title": "Wall Street Menghijau Berkat Saham Amazon Melonjak 15%",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3NDR1diTVFsS2Q5eTRQTHNqd3JKUThJTVBQcThBNy10cXRsM0k0QnZBLTNaeVphLTBiNURaNUdhcjk1a3RELVkyWVU5dzNqWWlqcExKVmpSNDVEOHo1NFdjNXJRZGNGNGM4RHN6ZjZrUGs3SXBIblFSd1dFcUpjLVBQckl3YWFRbVlYLUVXZDJlVGVLRmhidk5wUWIyWDhGME5EaVRDRTlud9IBrwFBVV95cUxQcTJtM0JJYUN2V0lzSW9OSHZjbk9CdDlLVlVnZXRPMWFVaU1IY2FXSWZiamVXMXI4SUF2dHNRYlRMNmg4cTJCbU90YUF3dHZsdktKR0ZnckdFRXRPZzA1RTFsM1FpcDVGemltVUszSDNuQlZYNHdhWHJTV0dZdzlSN3N0V3JNdG5XSWFPOFpvdlluTU9scTdtSS12eHF0X3dVeXpoTllNdGFwRm5lWDJN?oc=5",
+      "source": "Katadata.co.id",
+      "publishedAt": "2026-08-02T23:07:00.000Z"
+    },
+    {
       "title": "SpaceX IPO Bayar Wall Street US$100 Juta: Akankah Laba Perdana Ini Balik Modal untuk Investor?",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUE0xelRtcGxmZ1psUGFQdGk2c19qRVVBTHhVNThQTjAwcWgtRW5ZQkcyZm9VZG9iUC1nR2FLSFFpVzhGb1M2dmxVNnkzSDVmSV9HcVNyN2NCZU8yTTdDeEY0cGZBenRTbVczS0RMVG9KQkY4bEtr?oc=5",
-      "source": "id.beincrypto.com",
+      "source": "BeInCrypto",
       "publishedAt": "2026-08-02T19:45:00.000Z"
     },
     {
@@ -118,12 +124,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaHh4eno1QWJQbjE2V1JyZzVlV2J0S3loNmFZOHpiSHZaX01KRGR1NGdrNkRRUWZxTFlmV1oyQTB2VWk2VF9Hcmw3ZE5xTVJYbEdQVHF0cEU1OFhCb0lhU0pkU01GY2Nkb0JJU3JxdWpjT1hIai1WTHNaMDBBNDAxeHhycVVuY1pMUV95VDlrdHJNRk81bmdxVmdRMnFJUjNYZHp4T2taUGs2TmvSAaoBQVVfeXFMT1pPWGM3VEwwWWlPdHdha1ZCdVJKSTAtX2FIcnhiU0w3OWVGckJORjBHYWJsUXdzb0o2SzhLSk9zdVZnNUZKVEVBZ0ZscmQ3Nm9jcm5rU3hZUHYyQW81Q2ROU2c0cHZ2S2thQXlEbmRXaXZpenI1OG9ILW5XcEZ4ZllZTkJ2elhacFVoeHlGOXZoTmU2bmtpZlZsV2U0dURKQ1ZhTWRGOE13bnc?oc=5",
       "source": "Bacakoran",
       "publishedAt": "2026-08-02T16:12:00.000Z"
-    },
-    {
-      "title": "Wall Street Ditutup Bervariasi: Dow Jones Melonjak 221 Poin, Nasdaq Malah Terpuruk!",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLTVqR2Vyd0V5azJiWFJGbWgyazcyRzk2Q1Y4SG1iM2FYMEFSUjR5b0lQLVdkVFlQVzdEQlJWNTNHMGh0RXl6N0poTXNaSGg1bWYtbGsyOEFJb3Q3VXYyVzVHTDZya1puaWtHQ1BTZ1EzYzE5cFc5WDdMZ3hyc091TEZISGgzQ0lfTktKMHFUVkdZTXU2VGhNYTQwSDhsaE5oaVB5ZdIBqgFBVV95cUxNbUh0NlNDT3dpU0FDMmF2ZlJLbDE0TEJfM1ZDQmh4bm1rMkhtZkFIQ3BzdGljQi1EUlUxakxXeS1wWDdYWGdPV0ZPX2dYcFdMMXFuYkdHMnNQa2pOcTdwengycTZOdG9IbmwzOHcxOHpMT0pSSVNLVWl4cU96bnlSSHhoaXNYUlQtdUw1UTZuTGs3dG1XT3ZsMzNMZW5Ud2E2LS16UXZhVG0zZw?oc=5",
-      "source": "Stockwatch.id",
-      "publishedAt": "2026-08-02T10:14:44.000Z"
     },
     {
       "title": "Permintaan Emas Global Stabil di 2026, Bank Sentral Jadi Penopang Utama",
