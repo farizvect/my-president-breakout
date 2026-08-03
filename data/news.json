@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-08-03T13:36:01.344Z",
+  "generatedAt": "2026-08-03T16:17:39.498Z",
   "headlines": [
+    {
+      "title": "Strategi Manajer Investasi di Saat IHSG Terpuruk",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2dPM0FkUXlLeTNDcG90dVE1UmhUMWc3MG5McmZIX1BSeVMxdjNuejJkZkx0dUVuMldZczc2VnZERTU1NG5jcExaMzhJQlk4cTVzZnIwT3ZWYjd6T1RKM0FqZUZJNkZ3WFQ1eTVLS1czWFQ5X2dycUhwZlJEZjF2U29yMDJpSWZZOEE?oc=5",
+      "source": "KONTAN",
+      "publishedAt": "2026-08-03T15:24:45.000Z"
+    },
     {
       "title": "IHSG Turun Tipis, Net Sell Asing Mencapai Rp 708 Miliar Hari Ini (3/8)",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnNnQnVZUUF2aEtQVk1iZktuYkR0OHdTWVVyUXdiWGowS1pjOWxyaU9fczJLU3g2RmJDYlJRVlBwOWhGRDhfMGFNUkQtN3VrSmlUUWFnbVlWa3BXbk5wZnNwSWI2N2ZPQ28tWDF0WDh4R2FhbWl1OFUweEdDQWpFQ0tzU0hiTEtvbkFFZktQS1F0OXAtUmRQRkpaQnBBSWM5eUU0cQ?oc=5",
@@ -42,15 +48,21 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0xGNWdTaXlhRXFZLXZPcC1YMmtJcTI4TzZJdnlGRWQ1cWZOWXN0bW9DSUV1VmtwMXdGS2t5NDg4dlBYN29xa2pROWJwdTBvTnhvcDRfZ2JKbEY1UVNWYUdOZWl3cTBtQ2Uxek42QmVTVHN2cUxfNmF6R0s1cGszdkJQU1Mtd2tEVVRtakFGcHNzRER1cEdEOTBiS0V0M2Mx?oc=5",
       "source": "TopBusiness.id",
       "publishedAt": "2026-08-03T09:36:00.000Z"
-    },
-    {
-      "title": "IHSG Masih Sideways, Ditutup Stagnan di Level 6.234",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcG1BRWVoVWk0VUMxMGZtTnBjYWN0QmdEanltaWdzNUJFZEZHVnVMRGp3NF9acy1DWjQyQ3lQMzJVT3NUZmd5dmJjS1lSaVpoa1NkWnd0bDBMMHNIQ21ia05xc1hIbG1hRS1HNFpubm4za3JQeFF5YkkxX3U0ZGNwSWMxWEdhamlMZnJlbWhTd0YwSXgxMlJJVjRlQlhLWTNtS1FSTWxrWTJpa043X3V3btIBtgFBVV95cUxNVTMzdFEwN2tNSmlVdnptV2FuQUhDUUJKcE5sYTFDam91bGc5Ykk1S3JsVGpTdGNWeTlUSDI1T0JLb3JjY2Y5ZHBjWXlXMGJzdjNGOHdKbjBwMmY4NHk5VDBUZUdrRHhxTFJIWWlGTHFpekw5ZWZyek9veXpFQWNYOHByNUxhYUJ4cFlabzdZVHRzTFVKZWdXWnlmeW5JZDB5UTVrSTVUZWRnM090YVhOMDZ2d29uZw?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-08-03T09:35:06.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "BEI Ubah Kode Saham, Notasi Baru \"P\" Resmi Hadir demi Transparansi Investor",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0dyZGJZaDFsdzZRVURUdjlxYWhuZklGcnBJMWNvYUd4RG5XbDQ5YTBOTTRMLVd2WjhwWi1aUmlTanVPVzMzT2NSQU5vVFE2Yk1Tc0lVYnktUWhrRjUzRURaT3R3ZUlLTkJaMjYyQWNJXzNKc3RCTnFSQ2hjbjQ4NFd5aGhjR1NtUjR3dF9Ha09BRUZWaGRYYnUzSENldGs3QnBEODIzOEhIcVFJYWUyVmNqU2ttMFdNNmc?oc=5",
+      "source": "TIMES Indonesia",
+      "publishedAt": "2026-08-03T15:55:00.000Z"
+    },
+    {
+      "title": "BEI terbitkan aturan emiten belum penuhi free float dapat notasi P",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmlEdGNsV2FELXpyWWR2Y0hZWFFNWWtQNmUwTlZWVGJ3NXFBRXoxT3ljc19yMzQ2S3RzUmJhYUdQQ2R1VXN1VURWaXh5NTZCbWpSU2R3ZzBHbEFpWFlEczNjRnRHeHI3WHNCSXZsV3p4MEtFd1RsWTFsMzlYdVBpY0FPMVZ4RGRBR1VJNUR2bVp1czRuY3EyTDF5Ym9Fd2xsVmRpeWQ1ek13c2RV0gGvAUFVX3lxTE9fMFdKbFpLTU5weGFvOG52QW1GLTV6ZklzaUcyVlYyR2hTNzd6Yzdyci1sdVBER1cybTFlR09HOHhIZlJidkpwZG9FQVBGeF9jV29WVlNxWUNDX1ZWU1A2NWQxcjEwLW0yeWdOd0NwZ1g5ZmNLX2Q4ODladkdad1U5bmtvVUxVUnJCWTBYc2Rud0RJSWhGY3M0T09xZlZza3dGeWNLb1p6aXNuZFp3LUE?oc=5",
+      "source": "antaranews.com",
+      "publishedAt": "2026-08-03T15:18:19.000Z"
+    },
     {
       "title": "BEI Berlakukan Notasi Khusus Baru pada Kode Saham, Ini Arti dan Dampaknya bagi Investor",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXkyWVAzemJOYk91RmJTLUZTV1pGRmc4TlFrSS1PWGlHdlh1NlFVdi1XWjJCQS1vMnR1SGZMUUZJS3ZMWFZYY0FIejROWEdsRFBGZVY0VEszNmI0NnlHQlRpdlBEOWd1ZTlTOWJnNkIyN0w0dXhNOE5qVXQ0cHh4STZkbVc2dTNzNzFkaVZlUzdCcnBLYUI3Vm5RYTRRamdzT3FOWmhEejFtX0gzNzhoc2dSelBKakRwY3hDVTNB?oc=5",
@@ -84,20 +96,8 @@
     {
       "title": "Cermati ANTM, PTBA dan BMRI Masuk Radar Analis Usai Evaluasi IDX BUMN 20",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTNxa1F5UXVhNi1sZC00SmJCeG53NVN2VFlydnh0ekxaYkdZTTczcHFOQWlaVHdvM19mMTIyYVZpMjJXVmp1NXBmZTZzMlhhOGgtb25GUjhnckRoLW1Udnh5T05sYUlZZEVDa3d6U1RPanhueUtWVC1rUWs0TTYtWk9ncS03S1A4Q0lGb21ZaWVHb052b1EzZHRRYmQtTWxGVFZwSWVwNG5mMy1XR3V5RFdBcWl1NVdxQ2dwLW1QZVc?oc=5",
-      "source": "market.bisnis.com",
+      "source": "Bisnis.com - Market",
       "publishedAt": "2026-08-03T09:26:49.000Z"
-    },
-    {
-      "title": "BEI Rebalancing Indeks Kompas100 Mulai 3 Agustus 2026",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZX3A0MklJTnZSQk1ENmRPT1pQbVZKYndodDdLRV9yZkNBN0tqNEstZ3BJTG95MG53OXRIa3ZUNGdFVmRPUzVpQndzaTRDR0x4LTVCNHc4LVhVd1lNTG0yblA0V1p0X2VUM3dBNjRQOEQwU0RkS3pIX19JdzZ6Zw?oc=5",
-      "source": "achmadnurhidayat.id",
-      "publishedAt": "2026-08-03T09:25:16.000Z"
-    },
-    {
-      "title": "BEI Rombak Notasi Khusus Emiten, Ada 4 Kode Dihapus",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWtLbHZZOVRTSGlWMWVMajlOcE1MMlNnc1Uwak8wM2FpUEFwZFVzSXNSVFgyRFY3Tk9kWjBGcmpKVlpKUUN5TlI1TVZaemNHZFdGeEFqZGMwV1JRaTFXUW9VRXlLOVJnenNPRWJLamhCSUNZcEgwY204VEI1bWVDaDZWRkFaT29jVV9BRWFWUHBnSFZzRVk5R2l6WnQwcXpOUmc?oc=5",
-      "source": "market.bisnis.com",
-      "publishedAt": "2026-08-03T09:24:45.000Z"
     }
   ],
   "macroNews": [
