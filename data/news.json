@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T13:53:02.369Z",
+  "generatedAt": "2026-08-05T15:58:26.333Z",
   "headlines": [
     {
       "title": "Video: IHSG Menguat, Asing Balik Masuk! Apa yang Sedang Terjadi?",
@@ -16,13 +16,13 @@
     {
       "title": "IHSG Lagi Volatil? Cara Trader Screening Banyak Saham Sekaligus dengan Fitur Custom Layout & Widgets",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODJaUDhRdjJ5WUNQSjRLNEZvaDh2cnZLTUlpOTlhYkZyeFRNWWpiXzhfQlR2YWRPZEdOdjlyWmdWSWh0bVJIVGxmNVVPVzY3THJPeERsbTVwbjdtY3NaWnhaVWc1Vi0xVkhiX21oR2hPWG16NWlnT2NIV1lDQ25USk9IVlY3eEdiZnZrQS02N21qYUcxeWFpd3lOQUdITk5oRmFF?oc=5",
-      "source": "ajaib.co.id",
+      "source": "Ajaib",
       "publishedAt": "2026-08-05T11:44:43.000Z"
     },
     {
       "title": "IHSG Hari Ini Ditutup Rebound Usai Rilis Angka PDB Kuartal II 2026, Simak Top Gainer & Top Loser LQ45",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmJYWlYyMVdrNU9Qc3lpTVp4dmxKNXpiQTE0VWc1bi03eHp1cjljODlaREdQcmpJYXMyMU11S0ZvQkM3bzBDREdzSjMyRTNuQmpSTE5wVk1mcmdjTjByaVFZRFB3RkcwMm9oXzJHYmoxMl9UWmtRemhnaEotdmJkdEd3VmtDVHg4UFQ2VHhZa0I2UmpRcWlYRVdZNWcxY3M4WHVmRQ?oc=5",
-      "source": "ajaib.co.id",
+      "source": "Ajaib",
       "publishedAt": "2026-08-05T11:41:36.000Z"
     },
     {
@@ -30,6 +30,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEZCbUNzOEVIaFk2VnNjWXp6Y25QemkwN2d2MXhUMUUzWHctalRFZnFUMnJ3Ujh4bUdaU0ZpMkJWYUlRLURFVHdDa3VZUkpoV2tIWlBzOHIzNEY4VEVlZnR1MkJQS0Faak1qa2QycWk5RmtRd0RoRFIwdWZldnRKWkR3RzJVaDFH0gGOAUFVX3lxTFBHTE1aTy1zeGM4Y3RDM1RCN08xS0t6ZmhxaHNWZEZFOFE1TjVRcWZuWG5HcThLZVVfMEU2WVYwRVFxUEUwUWNsTGdiV2kxZ2djUnBUOGJPSXVWdVdJeFVjcWhyVVNrbDFTMERGZmV5TGNLZUZZTXdoTWpKYnJwSG0zRGV6T0JveGdrczdYQ3c?oc=5",
       "source": "detikFinance",
       "publishedAt": "2026-08-05T10:42:20.000Z"
+    },
+    {
+      "title": "IHSG Ditutup Naik 0,50% ke 6.351, Saham Pertumbuhan dan Kesehatan Memimpin",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk1KMWZFUFRWOWJlM2pHZ3VqSjh2cDQyTEpKLWZpN2cyVlBIeXB0WUd4bUlVQ3RVdHJJMGgydlFJd0FwNnB0TEtkaHJZZUZxdW5yVHdvZU9EX0dmbzVHalZFZVpsZ05OdXNLWlJZN0ZtTWhHeHp1QUxDN01XY2dzTUQtb2lFVXlVY1JHSUxXT2pUQzFBWU9PRjg1MVVqZUNLVHNUVmRfbkpYVG9XUnczZ1h5V3dBaVNJaGFCTUN30gG-AUFVX3lxTFAyTUoxZkVQVFY5YmUzakdndWpKOHZwNDJMSkotZmk3ZzJWUEh5cHRZR3htSVVDdFV0ckkwaDJ2UUl3QXA2cHRMS2RoclllRnF1bnJUd29lT0RfR2ZvNUdqVkVlWmxnTk51c0taUlk3Rm1NaEd4enVBTEM3TVdjZ3NNRC1vaUVVeVVjUkdJTFdPalRDMUFZT09GODUxVWplQ0tUc1RWZF9uSlhUb1dSdzNnWHlXd0FpU0loYUJNQ3c?oc=5",
+      "source": "fxstreet-id.com",
+      "publishedAt": "2026-08-05T10:41:49.000Z"
     },
     {
       "title": "IHSG ditutup menguat ikuti bursa saham kawasan Asia",
@@ -42,20 +48,38 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEJtaEUwclNCaUxvam1hU2tmVHZfUi1xb1gxX0I2SHU5N1F3cUxnSi00NjFBSjNlaTgzS1BDUmdyYzZ4Y295d2JKUVBvR3dyVGhoX0pKaU80Y2dsTzNEbzYxS1NfVDdiN2RqSmtCX21taUJocnZ1aVpiWkxRZEcycS1uSVZTQTFQVFFBMG9oNkI0M2d3eFZ5LXZvbFBWZzl5bU5n?oc=5",
       "source": "idnfinancials.com",
       "publishedAt": "2026-08-05T10:15:00.000Z"
-    },
-    {
-      "title": "IHSG Ditutup Menguat ke Level 6.351 (Rabu, 5 Agustus 2026) | Pusat Data Ekonomi dan Bisnis Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMjhpUDV3ZXp6cDkwcDB0NlhxSGloaXF3NzdNZUVXSXA0TUpqZFdfVlFiSlA5OUF4ZTlVcXNUTUl3Q2ZUT1dBc2tiVzlodFlRZ3VoVm16MFhvWldzRm5EdW1EX3hmWDRjeW9EakpXamEySnVFS3lTU0ZrMXdNZEVrbXduVlFibFNxRm5YSTFjMUhPeTQ3TVYweU0taS1sbXRWd2hRbGhvOFpUWVdxTy1tMHJ4dHVfUWM?oc=5",
-      "source": "Databoks",
-      "publishedAt": "2026-08-05T09:51:56.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "BKDP Anggota Baru, ini 54 Daftar Saham Berstatus HSC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQXVwcmVOWl8zTndtRU1XbnhwZGZxa0FlaEpCTHUxY0k2bGYxNnlvcVBTbzVQTlNCT2k1anUyalF4SHc5T2lmSktHQjV0M29ERS14a0lrVUthcFFWQU80YUFldWJLTjl3YUVmSThldTZKLU1uaVByRWV4U1F1YW1BejRYamZrcXdMM25J?oc=5",
+      "source": "Emitennews.com",
+      "publishedAt": "2026-08-05T15:30:00.000Z"
+    },
+    {
+      "title": "Purbaya Ungkap Danantara Sudah Buat Pengajuan Beli Saham Bursa",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ1JhUlBPLVRlWFRzMFNONm9qYXd4RTgxWVBMUktoVmUzQ0Vlal9mU3JuNmtaQ05RWHV1Znp1eEdqbFdENmRycDkyb1F5WVg1c0QwY2t0am50cU5xdWtTbHZ6c2VNUnJUWkhaZDdXVTJOY3R0NU5YYmJuYmtsZUNkbE9sVFR3RWtSdlc5VXJDUjlPZ1Y2eEpzV2NXNFByZ09vX2lyX3dn0gGmAUFVX3lxTE9nUmFSUE8tVGVYVHMwU042b2phd3hFODFZUExSS2hWZTNDRWVqX2ZTcm42a1pDTlFYdXVmenV4R2psV0Q2ZHJwOTJvUXlZWDVzRDBja3RqbnRxTnF1a1NsdnpzZU1SclRaSFpkN1dVMk5jdHQ1TlhiYm5ia2xlQ2RsT2xUVHdFa1J2VzlVckNSOU9nVjZ4SnNXY1c0UHJnT29faXJfd2c?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-08-05T13:41:00.000Z"
+    },
     {
       "title": "BEI Tetapkan Saham AGAR dan ALKA Masuk Daftar Kepemilikan Terkonsentrasi",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BdG9nUWVvcHd3bUtpaTV0MmU4NEFVZWR2Y013bjhndVlmRnNacE9KdWNfRGV2R0NpV2R5cEZNS01ITC1fRzRNekVKdEhUZ3NIamlYY3R0NHo5bnZ0S3ZPR05JRHY1WWlJcUR0MA?oc=5",
       "source": "achmadnurhidayat.id",
       "publishedAt": "2026-08-05T13:29:40.000Z"
+    },
+    {
+      "title": "BEI Cabut Suspensi Saham TGUK Mulai 6 Agustus, Perseroan Fokus Perkuat Kinerja",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0J5N09YTU1SaGUtaThUYWZmM0ttdjlNWFhNR2phYVVudVZXb25Wdl9DOTJtMjlVRFJoZ0NFVXBKY2pfZzQydWFqb05vMlpoVW5IQzhsbFQ5NHU1dWtVRWFqYlZ2TEtsX3kyMkhxNDJiaDBPODkwbjh1RU9icG5ZSy1reDliSEg1VDdjakZFMHhhaW4zN3U1d0h1akRGOEZWcnk2WEtVdW1PRkVmTjNsemRfelh1dDTSAbwBQVVfeXFMUGZDM3ZtdnJEbDJiUzZLVl81UDZnMW9FZDJncXh4LVA5OUFYNW9MdG4wT1phdWhWOEZtSU5yTTBGd1hoU0I4MUFVVmt2Wlh4d3FJWTFhbmdoTXNXbHN4YU9YTzNXZzRCNUVZc2p0WnRXQmlwVzJJZlpYbnZUTjNFelVobV9tNzNiOHFDNEhudURRT1F1M3YzOUxHdDNjMXZ1ZkxkMTNRWlVpWktxckk2N0ZsWGROUFdaOXJYNjE?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-08-05T13:26:00.000Z"
+    },
+    {
+      "title": "Sah, Chandra Asri (TPIA) Tingkatkan Free Float Saham Jadi 25,7 Persen",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlMtaGVfajRJTnpLZ1IwZFRpQWR3LVlJdkc2cC05THc2NEpIc1hzdnVla1ZhMjVPNEJqSWhQUi0zdWxwYk40QWppbGllUHVCTHZnTzVCakZKSmxxaEx0NFlzMUo4akZEdl9HdFFrZ0w5UkpHdDVYb015d3lLMDZlazFONVlOSDJBa2M5SjZ6UVpMendzR2s3dWo0Tkp5TUg3UlJzX2hjOWdIVjdQ0gGsAUFVX3lxTE92Uy1oZV9qNElOektnUjBkVGlBZHctWUl2RzZwLTlMdzY0SkhzWHN2dWVrVmEyNU80QmpJaFBSLTN1bHBiTjRBamlsaWVQdUJMdmdPNUJqRkpKbHFoTHQ0WXMxSjhqRkR2X0d0UWtnTDlSSkd0NVhvTXl3eUswNmVrMU41WU5IMkFrYzlKNnpRWkx6d3NHazd1ajROSnlNSDdSUnNfaGM5Z0hWN1A?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-08-05T13:22:00.000Z"
     },
     {
       "title": "Free Float Golden Flower (POLU) Masih 11,45%, Ditargetkan Naik ke 12,5% pada 31 Maret 2027",
@@ -70,42 +94,18 @@
       "publishedAt": "2026-08-05T12:28:23.000Z"
     },
     {
-      "title": "BEI Tetapkan Saham ALKA dan AGAR Berstatus HSC",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CcUJ1LXlnUk5aNVJlTnc5ak1XN1B2OGtHWlNXMW9zVHJIZlZWX0IxWHVENU44VmZtRDRPdHRDdGJmNmRFMUVkazFwdlMwazNfVVdBZEJVWlE0UV9XSGhmSA?oc=5",
-      "source": "achmadnurhidayat.id",
-      "publishedAt": "2026-08-05T12:18:33.000Z"
-    },
-    {
-      "title": "Rencana Demutualisasi Saham BEI, Purbaya: Kami Belum Ajukan",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1p4RUNUSnoxX3BsSC1oLVl5TXNrLWVQcVhmSGIxY0RZZjlqZVR6SnJpRUJlUFpuV1ZPOVpzemhVYm1vWVlKM0hiV3hPd3J5VnhjZ3k2WEh1dWlxWWNqTDU1TEx2aEFTMEpfeTk0NGY3QUx0UVpfVnZiYjk2ZzZ0alhHTXphcE1KOTlFYjBqVnZ1aHFUeFZWbE51V0RtakNS?oc=5",
-      "source": "MetroTVNews.com",
-      "publishedAt": "2026-08-05T12:05:33.000Z"
-    },
-    {
-      "title": "BEI Tambah 2 Saham ke Daftar Kepemilikan Terkonsentrasi Tinggi (HSC), Total Kini 53 Emiten",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEdoM3F0QmlXWnN0UmE0OGFlSjdyZXB6Tmp4a0dlVDF2Ujh3VjY1cGZwUVo4YThFVUVKX2ZiV1ZCQ2Ruak91U2owRG1NRno1ZDBDVVBmV09oUXVCTVdyYjJUdVUxOWZKT01wRllYTjVVSVF3RFNTRUF5blRGVmljbXlTZlZmSnNXZTFacWwzWGx5OEtKejRNN1NGbk8wbmdkV251OXJ6TktGaUtYOEt6Skx0S1BRVXROb1RhU2pGQXpTazVPV2FV?oc=5",
-      "source": "Kompas.com",
-      "publishedAt": "2026-08-05T11:47:00.000Z"
-    },
-    {
-      "title": "Purbaya: Danantara Sudah Mengajukan untuk Membeli Saham Bursa - kumparan.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT0ZUcHV2UWl0ODllRHVfN01PRlJvOUVRSDZWUjNSTVVDOUM5eV8xck9KLVk2T0dzb0ZyMlkybjJXeFZXNEluaUoyeFVVM2pZbkU5UU5vaGxEa3RnQ3dtMVh3c3QwcXRoLU5VWVdxVlJuWUdWWjNVYnNkaEJaSFpxT3RaUE8zaXh1a0NWSExWSEJyeGFSMlBLU2xySkxTS2tHOEwtV19CME55cTBQ0gG0AUFVX3lxTFBPNXM3TWpNVjBsTjRnMTU5VU4yWTF0bGU2MGtPSklnZkpfWEFJa1FUUFF6ZXlLNHdCaHlhZ0xmbTRoa1M1dm5yMEVDVnItRExWVzA1NWVCSzY0eklPUVVPTGQxWTZZUFByRlAwVzh0VmhGU1Y1MlFqaS1lZzdFb0J6dGlzS1RVWE5HV05URnBtMFc4WFM4VGNiVE5xd2RHaVlwMlU5QnVNWjg5aEdGakl1VDUtbw?oc=5",
-      "source": "Kumparan.com",
-      "publishedAt": "2026-08-05T11:01:00.000Z"
-    },
-    {
-      "title": "BPI Danantara Ajukan Porsi Saham di Bursa Efek Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nUzRrZ2VEUkJKSkJaZkoxV2tCYzB0VzkwSWFXVVdHc3NCSjVZUHZGd0pJeU41dU5iN3B5dk45bHJwZTlOQ29jT2ZUSnJxVlpBbGg3RW8wN283LThEbzFGQzFlc0ZtMVEwR2c?oc=5",
-      "source": "achmadnurhidayat.id",
-      "publishedAt": "2026-08-05T10:33:01.000Z"
+      "title": "Distribusi Voucher (DIVA) Mulai Alihkan Saham Buyback, Harga Saham Melejit",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQek5PSXJQaG5WTW5XVGpFaTFZUWhmbUY3cENNUUUtNHo0blRIUGhwOWJNMkdrUUQ5eUZSUTNKam1LVVl4YUxVRVJIZHVBTzhxM1BQWDRKNG51cldua2dPbHVHbnl0dXN3WlFlckhCWm5TaVVUdlN5bnJVVDFhbkFnN3VKblZQbWVjRFMtYnFFMklWRjEwWVZNU3N5c0ZWdXlyLW5zRnkyM19zSW_SAaMBQVVfeXFMTlJOcE9TSHBZRGtHdkpfdTRWNGI4Z1J2a2FnSWZXcGZkd2hQaXp2ZHdtMXNrTnVvbFJoOWNWUUdvbG5VTUFDX1dMeTBxamtqb29MQTROZkJZT2Rxc3VmMnNaWFFCeVFPZmoxdExISnp1Tmd4ekZ6Y254RkwxV19fSUdxeF9pZ1NaVDk5dUx0UUd5M2Vrb2pETmVvZTk1SUJhNTJrcw?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-05T12:24:36.000Z"
     }
   ],
   "macroNews": [
     {
-      "title": "IHSG Berpeluang Menguat pada Kamis (6/8), Ini Kata Analis",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSmdYZFlRZ21BYzk4WUtzTkJRWnozQWxJak03bVZFNkRiZ0dscEJaQ2VSZ0lYeFRSMHZMS0NjeXpKNkEtQWFJMGxIeW1UenZhVm1GNDZUY1AwRnRjdEZEcUJyQnpXVDJKeGI3T2tJWmFwSWRHVk9HWEZvN1R3YVB1dkVTV1g5TjgxdjRub19PQk12WUHSAYsBQVVfeXFMT05RT0NwR1BKczk0X1BSaF80UVZ1WHJWX0MwZkpxb1lqX2NYWXFhNE1IOUZITUFtREJFb296emhzSjNfd2Vza3FONUlqeUhtenFheWJkUWY3R2diRWlJcUctREpacTVoZG12YVZrV2FUQ1pnQXpMTkdwTExnZjk3YVNXLXZ4ejJQdkxWdw?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-05T10:27:37.000Z"
+      "title": "IHSG Ditutup Naik 0,50% ke 6.351, Saham Pertumbuhan dan Kesehatan Memimpin",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk1KMWZFUFRWOWJlM2pHZ3VqSjh2cDQyTEpKLWZpN2cyVlBIeXB0WUd4bUlVQ3RVdHJJMGgydlFJd0FwNnB0TEtkaHJZZUZxdW5yVHdvZU9EX0dmbzVHalZFZVpsZ05OdXNLWlJZN0ZtTWhHeHp1QUxDN01XY2dzTUQtb2lFVXlVY1JHSUxXT2pUQzFBWU9PRjg1MVVqZUNLVHNUVmRfbkpYVG9XUnczZ1h5V3dBaVNJaGFCTUN30gG-AUFVX3lxTFAyTUoxZkVQVFY5YmUzakdndWpKOHZwNDJMSkotZmk3ZzJWUEh5cHRZR3htSVVDdFV0ckkwaDJ2UUl3QXA2cHRMS2RoclllRnF1bnJUd29lT0RfR2ZvNUdqVkVlWmxnTk51c0taUlk3Rm1NaEd4enVBTEM3TVdjZ3NNRC1vaUVVeVVjUkdJTFdPalRDMUFZT09GODUxVWplQ0tUc1RWZF9uSlhUb1dSdzNnWHlXd0FpU0loYUJNQ3c?oc=5",
+      "source": "fxstreet-id.com",
+      "publishedAt": "2026-08-05T10:41:49.000Z"
     },
     {
       "title": "Banyak Sentimen Positif, IHSG Menguat 0,5% ke Level 6.351",
@@ -114,16 +114,16 @@
       "publishedAt": "2026-08-05T09:48:08.000Z"
     },
     {
-      "title": "Harga Emas Dunia Turun 1%, Tapi Masih Cetak Kenaikan Tiga Bulan Beruntun!",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZHM0MWpEazR2VkxJLU40aThLY2RkNk9CNlNPT0szTGJyTnFxdVJEb0c2RHJNVGhCZXRIWVFLcnE0aWFJaE1uUUhQdzM3T3dMS0kxSHAxWC1pLThGMnFtQ0JBWDdZTEttTXRjZENWQmp6UDZSWjNhTy05LW9Fa0ZzSWt2N3pxb0Fqb2xYLUdvNXFFNnRUazVn0gGcAUFVX3lxTE5sRktfQ2ZZUVkwVi00QXJnWFRVQVFiUjh2MHdoZWlteHpnQTE4UmJzWThDZFNRT2lBbEk2VmFDTE5EMzFBR1lJRU1LTHVGM1JTNVpZUnhYZWJqRmVXd0liU0x3WUt0alF4SkNwRW9MZFJTWU9tcHk3TTk5d1doejE4VzZfNkQ3R0tVMl9jUWhZRlBGWGtycGI3N0tCbA?oc=5",
-      "source": "Stockwatch.id",
-      "publishedAt": "2026-08-05T07:04:47.000Z"
-    },
-    {
       "title": "INDY Melonjak 7,7% usai Sempat Ambrol, Wall Street Cetak Rekor Baru",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkxpUHpjVjYyUzM5czFaMEtVYXc4ZEZJLVBPdFJpbFVsV1U1OEZsNlQzZmVtSUZiTWNIWG11czFvR3hTU3V0aGQyX19UYXUwamN6WGJSNzZudmM1UVhHQ2lEeUMxVnllbzl1U21MTmM3UFdfOHdSaUM2WmliajE0Rll0UmNHNDZmVmVnVlVfYi00cWZSVXhNQ1U2WjF6bEdCTHIwVWJfOXFzTFNOSW4zbE5qRmFzbUtFejB3MQ?oc=5",
       "source": "Investing.com Indonesia",
       "publishedAt": "2026-08-05T05:03:25.000Z"
+    },
+    {
+      "title": "Investor Cemaskan Suku Bunga Gegara Tingginya Penjualan Ritel AS, Bursa Saham Wall Street Merosot Tajam!",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUpqUWJSd28tam5kVXNBUTVQMXhQXzNFb2kwWWtDcHhyMU1NRklYaWh5RkVzTWFsY1dVQ0NqT2UzaEg3cGFydk5QellJakNSLTlUcjdZRExVdEZJdUpUeEY5SW1Ta1hXUFZ6eUxmU3JsTDVqdGZUV0w3WUpDRlJKZmp3b3d5dGt5X1JhMUoyNFRfUXQzLWhuMkZuRkwtVmlLZXVNTmdVUEx0OE1NUHJVSmdaeFM1ZXJOZVdraFk3aXdFZ9IBxwFBVV95cUxPUm9CYzc0NGtLSWJuVklPQlBjVGFOXy1QY2FGeHpfZkNaVGFzNEx0anF3MzJaZGN5REFzTTVxNkhCV1BOWnIyZU9HQ1lfamFlTEhkYmFjNXQ5SE9sbEN5TU95TGpELTFRWTlnMjh4UTRCczlpVlg4Q0xwSkhrSlhJSnlBMWhJdWRCYVFCNEpWUlJIQUxLQV9HS3plRHNsRDFicGk2N2xYRUtEVUxiaGtLcEJkeHllS0U2UlFraklVaFM1V19ESF9n?oc=5",
+      "source": "Stockwatch.id",
+      "publishedAt": "2026-08-05T03:52:51.000Z"
     },
     {
       "title": "Harga Cabai Rawit Merah Hari Ini Rp45.150 per Kg, Telur Ayam Ras Rp24.000",
@@ -134,7 +134,7 @@
     {
       "title": "IHSG Dibuka di Zona Hijau ke Posisi 6.330",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XM1JMeHJCa29zMXMtd0IwZ1lXNzNPRENMZF9FeUZMbWNWMU9Ud1RlUmVNS2d5bkdzX1hiTlpCMkRESVV5YlFDVGl3c0hWcmNmYXNFQndpRWRYZTRKRmlhRjB4NW9CT0F6WlZGYlhMaU4tS0lm?oc=5",
-      "source": "infobanknews.com",
+      "source": "Infobanknews",
       "publishedAt": "2026-08-05T02:05:00.000Z"
     },
     {
