@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-08T04:50:46.727Z",
+  "generatedAt": "2026-08-08T05:37:24.130Z",
   "headlines": [
     {
       "title": "Red Door Roulette Menawarkan Visual Dinamis di Tengah Volatilitas IHSG",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMEgzVy12OU95Tjl4aGRDOU1sSGktM0RsTWhvTUp5RzJERjNCdENnZ2hiZ21BRG8wenpaN1JDNUxyY05fTV9rZVN6OENmVEVhLUl5U05KYlJXbVNZeTQyV0JlRTJydEFxMmhXeDRjVzR5U2hGckc0TGpoay1mdDB5ZWJJTkhuczRKNTNIVUExN0pYdEJOeEE5eUU5QWpONjZFTDdjUEdzeXNqUHZxU1N3QWhwNHVxQWtDQUJ6ejB0azdLblJQNkI1WlNqMnVVMFRC?oc=5",
       "source": "Media Center Rokan Hilir",
       "publishedAt": "2026-08-08T02:40:58.000Z"
+    },
+    {
+      "title": "IHSG Naik 0,71% ke 6.388,48 pada Sesi I Jumat 7 Agustus 2026",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQUF9BaUtxM1JLVFpDMjZ1cWJDSVFKZnlxcGItSHdqeWhUcUhDc19SOEtrUFhvTEQzcmE3NWZ0Q1VfbDE2aU0wMmtMTDAwX1NIR2NMUHhxR1R1RXRKby0yTlBxMXYxclNwWDM5WHVyRzJpWXBDWkw0ZF9HSG51WWFoSURQX01VQVlDOFp5QXluQjJFR0Q2bjVGMjJubGZuS19UeUwyb3dGVFJuLVJxR3drRGRzT3dfMVZLQ21peUd4N3BPaGxnTVNrQktmTVhjTkRhUThZWjJxZUJQekppUUhhYW5ZUDYyX3lRT2QwYm1GOF9OTnZmUVczakJ4aUMtZlBycVFtd3pZaDg5a1JzaFdpT2EzM3JGTDlNT2w5UGFQV0FfYURQN0doNjlRcEVKd2F1eldGT0psNE4zWUpHRFpreEtSMzg2RDNFNUd3?oc=5",
+      "source": "Indo Premier Sekuritas",
+      "publishedAt": "2026-08-07T15:44:51.000Z"
+    },
+    {
+      "title": "IHSG Dibuka Naik 0,45% ke 6.372, Diproyeksikan Uji Resistance 6.400 pada Jumat 7 Agustus 2026",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPeUpfVlBsQmNlZ1ZyRU9SSnBRSERIQTBPR2JmX2MxRjR5dzdNME16cGxHOVNtZ1dpY1d4SDBFOG01NWNvUmFYaElBYnczUWFvX2NaQlRHcEpnaWF4cVhWZ1hzckY4dTBtY0Q5RkM2Q3M5UW9Lb1BXRkpGRHVjdWhYbktBdGc5ZHZlbDBvdmp4MHdibE5Ia1RhYnhkUEFjaC1DMkVhOFI4M1BPdDZ4S1RiUHpWOVM4NGZEN1pTZlo4djQwX3VkUG5jOVJSRWpGZ0tSbzQyRXJud1dqZXExcmVKdVZLU05yYThtTkVua1NWZnlwdUFfRF9PUnZSa2tyX2kweEFMRGNyVzNSNXNwSkRYOWZ4MG9CNHlmUHBkWnBMXzlSSDVNZHhnakNqRDhDQzJtNVc5MHM4ZENwWW9DckpkanVkOXl4bHpVd2daRlNkLUg2NVVMQUpFUlRNTTVHUlBvU1BxQ3Z5ZXZWRzRiZVY5QnNfLUdLTjQ?oc=5",
+      "source": "Indo Premier Sekuritas",
+      "publishedAt": "2026-08-07T14:33:11.000Z"
     },
     {
       "title": "Sektor Energi Pimpin IHSG, Harga Minyak Melonjak",
@@ -28,7 +40,7 @@
     {
       "title": "IHSG Naik 1,03% Hari Ini (7/8), Simak Reviewnya Sepekan",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrcWFSUF9BbUJxVXVwLXJpUTA0akFaRndxS3BHcWdXbzV6bXdYc19Jb1Nxd2pTdTJpVm1oMUxxejRtNThrNXZodkxQQzZzNDlnNHduOVRlbHNCRUdYTFFQRDRVdW1Ydw?oc=5",
-      "source": "id.tradingview.com",
+      "source": "TradingView",
       "publishedAt": "2026-08-07T12:24:59.000Z"
     },
     {
@@ -36,21 +48,33 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGllb1lDLXota1lXN3BnUUtmMnpjV0dxUVRtaVVBODZpS0xWYjhyazVvRUhRV0VBWjBRNW5xeHYyNDk1U0dULW5YdGVFazJac3pSVVVLQ2g5MXEzVFh2N3lFMjFsR25sMTdURE5sRXM2UDVLZHBSVkFCUGFQRHVVMnc4OUZDczFxcVctdk5LMzlnRUxQeFAxZ3haay1Ebk9YNU14dmNiS0hWSVBvN1E?oc=5",
       "source": "Ajaib",
       "publishedAt": "2026-08-07T11:58:39.000Z"
-    },
-    {
-      "title": "IHSG ditutup menguat 65,94 poin",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aQ0FscWRrT1F3MnlDS1lRU01KT0RMNXhoZUljc1VQUDZNaUxSQnF0OHRSVzl1TTlUVkxvX1FfTGpVa2JTbk5UOUdEbThaZHVpaTR3TF9Eekw2eXpxM2g2MmlXRnhJeS1JTDBiODIxSE1yTDBkLTV6eUVlcWU3Z9IBgwFBVV95cUxQZC1ZRWRrVHIzUmVPWDdGQkNGa2lQYTNQcGo2anRkTGpFWW5xeFF4YmpTMWVISU5hZFJmN0Q3a3JmUFEzbVItWmJBRENLWjF3VG1HdXVjWXpFVXVHSFc3MnE0dEpwMTJWQXQtdFdhUEpOVlpYY3k3S002UEdyeFB0VFdKNA?oc=5",
-      "source": "ANTARA Foto",
-      "publishedAt": "2026-08-07T11:30:00.000Z"
-    },
-    {
-      "title": "Pasar Saham Indonesia Menggeliat di Awal Semester II-2026",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdXluUnZ5WDFOdW8zckFNVlJQdklIRkI3MjZUWjZoQXBPZFRkRjk1c2FqTFZIamVhRmlMY0ktUTJuMjNXQ09DelZZMDZKX0ZhdHplcnJPTWpFY0w5ckdzc1lTWjgwVmpwdlB6LWJDSkZtcEwxOUxBQzU5YWJpUjVobTE3TFBvR0xNcFNJX3VpMWN5a3NUQ2M1RUl3?oc=5",
-      "source": "Kompas.id",
-      "publishedAt": "2026-08-07T11:22:00.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "Pasar Modal Kian Dilirik, Investor Saham Tembus 10 Juta SID Sepanjang 2026",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3Ezdk1DVXI1V0MyZGZ4LWRqekF5RS1FSFVlNGl4MzE3ajhUTkFUZDRmSVAxN1o5ejFldXVRTy1OZnZNMVpPSUR6T0g0dWk3ZmZVMTU4YVpBWUt0Y3pQVGVHRVY4ekt0aFdGZ1hEV3IzV3lud0dQZFo5WlVjVGtTeEVCMDcyWUVwUExsMUxaRUdscmZCUUpTUW1FREQ2UjBvZEQwMWJ4blV0bi1NeEtaRF9iXzNHY2c?oc=5",
+      "source": "KabarBursa.com",
+      "publishedAt": "2026-08-08T05:32:00.000Z"
+    },
+    {
+      "title": "BEI: Data perdagangan saham Periode 3–7 Agustus Mayoritas Positif",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWNBcHRneFdjSFRSc0JVa0V1UElrNmY3STNkSE01Qkk0ZWc2RzVYZTRCVVgwci1sX19US3p1NVB4SFFEd1g5TVpRdU5EZ1BRUko5ekdlTG1CV1dmWUVZOEZRMHoyTEd3RnM1T0ZzbjZ1Vk44d1JVaGpJb0FsdEx0Uzh1c2Q1bHltZ0lSLUtFc3ZEQUV0SklNa1VxbzY2WC0yQ2Y1VTF3?oc=5",
+      "source": "TopBusiness.id",
+      "publishedAt": "2026-08-08T05:31:00.000Z"
+    },
+    {
+      "title": "10 Saham Berlari, CBPE Melaju Paling Tinggi",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDYwdjBidmJULWRYdkhab0ZqNWNLWFc0dTQ1ZDc3TDRZNVdNTkdScGl1Qkc5dERvYnFwZ3VBWWVVbzNyOXRBeGxHekd2cHFocTVENkZNZmdwZXhRV1pPSXV5eUdldGl4VTJ4blBTYThPZlEzR0l6WGdZaHd1bndnUDVn?oc=5",
+      "source": "investor.id",
+      "publishedAt": "2026-08-08T05:30:00.000Z"
+    },
+    {
+      "title": "Investor Wajib Waspada! Ini Daftar 10 Saham Paling Boncos Pekan Ini",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUU2eXNhaC0xMmVXRWtLMzAtNFcxM245NEZmbGh1MlAtYnNLWFh2UkxJVXRzTkZHU0xOMXdPdkQzZ3lESzQ1VWxrb2tjZXJsTFpFWmdDSTMtNlVBQzhfd21yY3NMVlRVVGttcnBCZ0xaN0FoX1RkczJOQko2Q3l1Q2RMc2hDeUhZalp3OTNpcVVEWXR3WHVmSDBMT1NpVjQ5WnhURDdWONIBrAFBVV95cUxNQjByQmRPS1djdTNJZTg5UWlURXBZcERrclZBTHBTc3ZlR1E4eHl6WjY0YkxqMVk0OVNHekd6cmZobDBBemhVRkZwYThkMVVSSTA5UnRnckNqcWxaZXpRZkVJcmY2NzJaZkxXZ250M3QzaTJyS3gwN3ZfZEJ1VzVKQ2l3cVVudnQwYmpTN3RTZmpaOXZaQ1daTmtfOWxHZ0tKQmtRT29hTzE4WW9L?oc=5",
+      "source": "Warta Ekonomi",
+      "publishedAt": "2026-08-08T05:12:00.000Z"
+    },
     {
       "title": "Deretan Saham Boncos Pekan Ini, BACH-TCPI Jatuh Paling Dalam",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGY5TE5ybEdydHM2WFJRanpLdDZvaDhJZHNodU1ocnR5NEktSU5ZejdWczhvLTdYR09ua28tV2FDTVpESmNBT3RoMm1uRHdyUE54ZGEySTVTbzFGMXFBNnlQdHFBc2tOT0p4WDZLcmg2THJQMzlFdnZua21Tbi1JUVNpaEFVNXEtaEpPdVpDMXBBMHMtelpmWENCN3J1WWZJeFBRUVlaTWF0WUxjTWc?oc=5",
@@ -66,7 +90,7 @@
     {
       "title": "IHSG Naik 2,78%, Volume Transaksi Saham BEI Lonjak 32,98%",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVy1SZ3FMTlVvWHV0OHI4NTdvcU9lVTJtV0gwQVRYUGRiX2NaZ3Y5MnppVDZGVVNyNzA2aW1wQVRYb1lsdXU0SVVHdmJ0WnJ2VXBTZGNzUTE2Nkg4QmJzY1pGdTZCcHFFbFZXLW83RFJRdmxXMEt6NFVoSWlKRTNVbmtBcVo0WkpoSTNaek9BY0dELWIt0gGaAUFVX3lxTFBwbzdha0dvSFhqcURwSjFZUVl3LUVYOHd0T25XZk1NMDFJLWVad3NhVUlaNWVVV3lwQU5JaHJrWnhEeWlteTQ3bWNZTFB1QUVPUnhhZGpnejYwUGJuRUlKNVh6bGlhS3U1NUZCbHIwZk5ZNWp1YjNBQlV2eGpkMW42Y2RTd0pnSzR1WVdQMUxxczFDNFBpeTJLSnc?oc=5",
-      "source": "wartaekonomi.co.id",
+      "source": "Warta Ekonomi",
       "publishedAt": "2026-08-08T03:35:00.000Z"
     },
     {
@@ -74,30 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUEVra01zMkZCWU1hU1J6bjhIRzROOHRWZGVsUWpLckZ5MzZpNnJNSGlIQUFtUzJLYWxFWEhxQ2xkMEV1cWg3dDRrQWhvdm9iZUhramNBZ09tdkI0MGx3cXZKcjFiTTJWM184alZzUDAxTHpVemVwZUpHTnhQZTdRakVfb0JicG4yWEk4UTVKVFZCNmZO?oc=5",
       "source": "Media Indonesia",
       "publishedAt": "2026-08-08T03:33:33.000Z"
-    },
-    {
-      "title": "IHSG Naik 2.78% Pekan Ini, Kapitalisasi Pasar Capai Rp11.212 Triliun",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDZtZHdIMl85Z00xb0tqX19TdUI2Tm9xVmlxQ3dwOEFuaDhwNzFIa0xuSHNUVURzWHZyRUs3LVcwRXB3MWNIdzdWM0hlLU9RblBPeURMZU9lNjQxSTRrYTd1dU1mb0RQZ2J3d3FmbjJzQ2RrN2Q5MGF0dU9pVjN0SXZvdURweXZyWXh4NElxY3lvQXJST1VZRF91X3BmUDU2ck5GZTl4WVMzdzBL?oc=5",
-      "source": "MetroTVNews.com",
-      "publishedAt": "2026-08-08T02:43:45.000Z"
-    },
-    {
-      "title": "Intip Jajaran Saham Raup Cuan dalam Sepekan, CBPE Melonjak 71,2 persen",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLV81clIwTzBhNnhZN0dKeXFNUXJ3a0huTkNuaC14X2RVcmwxNDNLN1I3SmlkYmNKNzZnd3ZjOWp6eUFKd3N4VXlLSzNWY0dRVHp1UFhZd28weXpjWk9hYjhEOFgtMUZBLXp2Tl9KbVBFN0FBVkg3NFhlM0MwU0pfMVU4TmZfdkNOdEdlNTk0ZGhtOGQ1SksxSGVtMmZXWGZvYWdtSHRGazFONE5QM2hHatIBsAFBVV95cUxPLV81clIwTzBhNnhZN0dKeXFNUXJ3a0huTkNuaC14X2RVcmwxNDNLN1I3SmlkYmNKNzZnd3ZjOWp6eUFKd3N4VXlLSzNWY0dRVHp1UFhZd28weXpjWk9hYjhEOFgtMUZBLXp2Tl9KbVBFN0FBVkg3NFhlM0MwU0pfMVU4TmZfdkNOdEdlNTk0ZGhtOGQ1SksxSGVtMmZXWGZvYWdtSHRGazFONE5QM2hHag?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-08-08T02:05:00.000Z"
-    },
-    {
-      "title": "Market Cap BEI Menggunung, Naik Rp 289 Triliun",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUpwZzZlUFNYVTB6TDQyd1V2V2o5ZEw1dVJkZlE5VXktODdOX1Q5b0hYTWpvUTFfNm8yZXE0UE5Jd2dtbF9zNG1POUxlUzVmNXBzcTJMMldPMmQ1eUtQWVRZMGlab3pMTnlLYm9LNEYxUTNPSTdKaFBNTmJ6amNMZnU5RjdFUQ?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-08-08T02:00:00.000Z"
-    },
-    {
-      "title": "Jumlah Investor Pasar Modal Indonesia Tembus 30 Juta SID",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVBuQ1o4b2RwLTUxZEJSUlQ3U25ucnNUaUVXVnM3OEVwTk40cjVlNHZvLWJjejN6ZHREUV8wM3V4RXFLeF85UGtTMlIzSV9nUnlkX2VrcDlTNF9tRUVkQVVwOFNXLXdXdV9QOThxRXB0U1NOQThjTF9TYjZYb0lPaHJST2x6bTltUGRLV9IBjAFBVV95cUxNOVBuQ1o4b2RwLTUxZEJSUlQ3U25ucnNUaUVXVnM3OEVwTk40cjVlNHZvLWJjejN6ZHREUV8wM3V4RXFLeF85UGtTMlIzSV9nUnlkX2VrcDlTNF9tRUVkQVVwOFNXLXdXdV9QOThxRXB0U1NOQThjTF9TYjZYb0lPaHJST2x6bTltUGRLVw?oc=5",
-      "source": "Ibukotakini",
-      "publishedAt": "2026-08-08T01:22:53.000Z"
     }
   ],
   "macroNews": [
@@ -106,6 +106,12 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDFQTWxTQUdjb2F0dktUUG81SHBuaVdLaEZyaWVmc090aloyOUV4MnBqSVV1R0VCZFVPenZBMWJVZUhSbVpDdl9OUXBXRzVlbUd2WXFjTDNNSjlOTThHWjhtOEZFTEdtWkFnUW5VaDJnUUFNY196MVJ4WmFmSm83bzQ4a3Z4d3lhcUgxNkdOb29YWmNkX1ZvTEt5WU1lOEJwQ3Y5ZUhGNGdKMjBDLWc?oc=5",
       "source": "MetroTVNews.com",
       "publishedAt": "2026-08-08T01:37:33.000Z"
+    },
+    {
+      "title": "Wall Street Menguat dan S&P 500 Cetak Rekor Usai Data Tenaga Kerja AS",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wa002NEJuakRHd3pZRW9CdF94bFFOQlI1c3Juakk3QW84S1k5NUMzOFJEeEFMTTlSMjBFY0MzZkxyOXFVSW5vUVBoMkRacUdVWE9aN3hlUHhhdV9FWTdIMGlxVnJJSS1rSHlYdkxiOE5YMnd5VHoySFFWMXg?oc=5",
+      "source": "achmadnurhidayat.id",
+      "publishedAt": "2026-08-07T22:23:00.000Z"
     },
     {
       "title": "Wall Street Menguat Ditopang S&P 500 yang Cetak Rekor Tertinggi Baru",
@@ -132,22 +138,16 @@
       "publishedAt": "2026-08-07T14:48:15.000Z"
     },
     {
+      "title": "IHSG Dibuka Naik 0,45% ke 6.372, Diproyeksikan Uji Resistance 6.400 pada Jumat 7 Agustus 2026",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPeUpfVlBsQmNlZ1ZyRU9SSnBRSERIQTBPR2JmX2MxRjR5dzdNME16cGxHOVNtZ1dpY1d4SDBFOG01NWNvUmFYaElBYnczUWFvX2NaQlRHcEpnaWF4cVhWZ1hzckY4dTBtY0Q5RkM2Q3M5UW9Lb1BXRkpGRHVjdWhYbktBdGc5ZHZlbDBvdmp4MHdibE5Ia1RhYnhkUEFjaC1DMkVhOFI4M1BPdDZ4S1RiUHpWOVM4NGZEN1pTZlo4djQwX3VkUG5jOVJSRWpGZ0tSbzQyRXJud1dqZXExcmVKdVZLU05yYThtTkVua1NWZnlwdUFfRF9PUnZSa2tyX2kweEFMRGNyVzNSNXNwSkRYOWZ4MG9CNHlmUHBkWnBMXzlSSDVNZHhnakNqRDhDQzJtNVc5MHM4ZENwWW9DckpkanVkOXl4bHpVd2daRlNkLUg2NVVMQUpFUlRNTTVHUlBvU1BxQ3Z5ZXZWRzRiZVY5QnNfLUdLTjQ?oc=5",
+      "source": "Indo Premier Sekuritas",
+      "publishedAt": "2026-08-07T14:33:11.000Z"
+    },
+    {
       "title": "Pada pagi hari tanggal 7 Agustus, Bank Negara Vietnam menetapkan nilai tukar sentral pada 25.463 VND.",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFJVeXNUOG54NFlzNlJhX3V1ZUVoS1RfamtrTFZQdGlBV3hFY0M3QmttMnM4b2hYeGR3SXhjM0pnM2xUT3NadG52V2xvR242OERTMmhNU3BRazktQTdKN3BKRTBkN09PV0piZzdwV3l3bFFGQ05SeFVQMGpOMTFDbEhXM01SOThpQ29j?oc=5",
       "source": "Vietnam.vn",
       "publishedAt": "2026-08-07T08:25:28.000Z"
-    },
-    {
-      "title": "Sejarah Baru Wall Street! Debut Alphabet Bawa Dow Jones Tembus Level 52.000",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWRJcUhnQzExeGc4QXhKMWFFZkZScVEwTk5sUjI3cVE2RXdTQVhFdTRPUWdVRW04WDFUOXlHaDMzd2lNNU8zSHdWX2hYSVZ3bzVDbjNsTU1kUlZDVEVMWi02NnZIUWtRRGNkcGg0TUVPYmhfa3FJSVJqaFFPNXpNRmlTYVk0d0ZJcU1vUGNaaGxGeGJkXzM0cjAyNWzSAaIBQVVfeXFMTlhONDZQMVN1U2RMclVZMWt2eTdVUDNyTHlwU3pPS2hDUFI4U3JWNGRiMWlFaFFHVHJGN3FXWnZlOWdVLVNSYnNJblFBN2hRYkdDUjNrdWZSYWZhV2sxa00tS0FCbEJIdjM0cVU5QXNjOHRrSmFVbUNaYkxPTjVBRV9GX1RSWGJuVFJSaEdnbV9qd0piLVVGWmh3X1VzVTVCV2hB?oc=5",
-      "source": "Stockwatch.id",
-      "publishedAt": "2026-08-07T06:55:22.000Z"
-    },
-    {
-      "title": "Asing Net Buy Rp343 Miliar di Sesi I, Terciduk Kompak Serok BBRI",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbU1vajJkNnlQNFc3WlV6N3pCSDE4ck8xNjRpNGVqaG9OWEMxMDlTMVZIUnItc0VhdXB6N09SNDYxY0NXNVh4ZkZTTjdoSm5VY2JPamx0cEtoOVZoYTZJT1JZaFdObndWVnB4UXZDejNVVFM4YncyREVJRkVEbTh0S0tmbE1FNHdIX1FEZGxnUDNhbmI5eUhYSjdWb2pGS1pQX2VwZjdyMGUwUmJsa1Z3Y2FlX0FyVlF3amFwOEo0cjJBWkJlV1lXctIByAFBVV95cUxNbU1vajJkNnlQNFc3WlV6N3pCSDE4ck8xNjRpNGVqaG9OWEMxMDlTMVZIUnItc0VhdXB6N09SNDYxY0NXNVh4ZkZTTjdoSm5VY2JPamx0cEtoOVZoYTZJT1JZaFdObndWVnB4UXZDejNVVFM4YncyREVJRkVEbTh0S0tmbE1FNHdIX1FEZGxnUDNhbmI5eUhYSjdWb2pGS1pQX2VwZjdyMGUwUmJsa1Z3Y2FlX0FyVlF3amFwOEo0cjJBWkJlV1lXcg?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-08-07T06:40:34.000Z"
     }
   ],
   "errors": [],
