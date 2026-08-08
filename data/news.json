@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T17:23:32.497Z",
+  "generatedAt": "2026-08-08T18:27:23.871Z",
   "headlines": [
     {
       "title": "IHSG Menguat 2,78% Sepekan ke 6.409, Cermati Proyeksi Analis untuk Pekan Depan",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CcVNGNHNtNHhaRVQxLWFlc0dISE5RekFxdlpxcU0zRktVQmFweUNoTFphdTBJYi1xUkV6blBTdjg1MldfX2FEa3pvUDBlbkZDUmZGYUNyWk56MS03TzhPMS01ZGhZdw?oc=5",
-      "source": "id.tradingview.com",
+      "source": "TradingView",
       "publishedAt": "2026-08-08T08:24:12.000Z"
     },
     {
@@ -52,6 +52,12 @@
   ],
   "stockNews": [
     {
+      "title": "BEI catat investor saham tumbuh 16,83 persen capai 10,05 juta SID",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPY1o3ZXNSZUFpYkVWbHhIU08ySUEweW1jWWQzd0ItcDBMTHk1UVpzclVGXzJmaG83R2s2SlNlWGxMSHZrS19BaXJWeU9CQkF2ekF3NlY0LTM3SEZKZ1JoNS1saVN1Yk5EeXlIUEhNMkdiYlUtOG4zUDlVLXdPSDFKWm9GeWk2SGNtc3plUXNLTHFPY2R4QUkwTmg2WGxBVmJjSUhjeDVpRjFMUzhZNThGeHJJeTJYUDQzbEswSzRVa2djbEl2a2t3YUd3SkMzOVJxS1F5Mm9Fem1fWWVHcmhaelo3T0xnaDMzWHZiWS1nN0dyZmp2OFFzWG50UG9IZlNDbDd30gGrAUFVX3lxTE8yUm83V2J4YzZGNGVfODRoSi1mUVFuRGxTOEhkMExoZ013c3Bra2JRbVRQOWlTWkNucDFaT3otTTlCVFhmbWcySUZ0VUxncXEtMHpIMFZTZ0Q4TFVJenItUTB4a0hLUDFmSGtVLUpqcno4c2NBdTFQNGRPWmhWUGZDSFM1eVhibC0yM1htMVBweG5sbFd1bFE0LTVqWDh6VHEyaElKYVYxUlNZUQ?oc=5",
+      "source": "ANTARA News",
+      "publishedAt": "2026-08-08T18:18:31.000Z"
+    },
+    {
       "title": "ASABRI Punya 'Saham Gemuk' di Bursa, Ada yang Nyaris 30%",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdENoY2taMG5xNzNkQjliM1hfSGN0VE9UOWEwVFpsU1Z1Y2NiZThPaDBnLVk4ZFdlQjJOV3pKQy1fcnlxZG12QWo5RWVrZ1JhLXZtX2pxR01aQ01uNjZOZUdUaTlWdDlhTG5ibDdOMjFoU0MwVjdOTHJuN3V0cVV4Q3Ffc05HMnppRGpvZFJTTm9RVFhE0gGaAUFVX3lxTE45aF9LZ1VfNzJrTnlIZ2k2aVlpS2JLeEhXSnJqWURhRnYzXzRBNS1kNC1ERnZ5SUhKU3RPS3N1X1U1MVFJS2g5eGJUOXZzS3lMYi01SGpXRzNaMWQ3SHpta29vM3JObFFSZHNBamQwTVo0MkFPbF9fdjIyckdFRHp3S3U5YjRoUU44SFFfdm5xcnA0QVhvRFU2MkE?oc=5",
       "source": "Warta Ekonomi",
@@ -92,12 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWpCblR0R2xNcGtTYjZQUkRWZ1M3d1hsaklpbWlTNng4U2NtaTN6VS01c3JpNVpyRng5dGdzellsc0sxVVdmOVZWaWFWOVFwUmFZb2RQWklHN0l3LUhOLVMwRENFeGk0VlBEb0J5TjVDWER6a3ByeFBPN0JFeGgzVzY5Zw?oc=5",
       "source": "investor.id",
       "publishedAt": "2026-08-08T09:00:00.000Z"
-    },
-    {
-      "title": "IHSG Melonjak 2,78% Sepekan, Transaksi Saham Tembus 39,95 Miliar Lembar",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRYWkJzYVJ4QVZTSGw1WjZTVWVqQ3Y2VENfalVILThLSkpPTmo5YlFMZ3RpZ25ybVpILU5nT0xiVnFRMlFBdlIxUzM4Rkg4RU1UdjZRbWFuWXVtWlp1V3prVHFPRWtfWDJSU2tfZmNGbVlNaU1XU2c3Nk1IdURwS1JhQnEzSFhoSWRxWmhaVGtTVzdjeFhKRWRuZ2s2TE9zaXFSUkxsWk1YMEhac3FWVW9USFPSAbQBQVVfeXFMTkktRkJTNzMzMHNjMDZtQllva3JwQzZaVkg2NTRqcS16LW4yVkFvNFFUSkhBZUhITV9ZMmFyNkpHR1kwNFlYRmg0THZLTDJ1TkNRc3R3eC0tUGRGTEFJa0ZzWlJwaEE0SnVlbFlVZXpwSm12dTB6dWpMd21ad0Juczc5NnJLWjVwcjBKSWJZcS0zYkpUSVVkWWpxUF9tWEtwQS1WSWFMUG1qc29OTjNhRjJZQWZ5?oc=5",
-      "source": "Suara.com",
-      "publishedAt": "2026-08-08T08:05:00.000Z"
     }
   ],
   "macroNews": [
@@ -134,7 +134,7 @@
     {
       "title": "Wall Street Menguat Ditopang S&P 500 yang Cetak Rekor Tertinggi Baru",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91aUMxQ3VBRk1ra3VaZWFRcVBhOEF1VWJHQXduakozcUVMVjJtWEpYSlhwV1pJQm1Fazh4aUUwS3pzUl9kQXlzZHhrcjJWejJHNjl0YVJKUzNoOTdDQTltUHpDeGg1YUMwdnI2TTN3?oc=5",
-      "source": "readers.id",
+      "source": "Readers.id",
       "publishedAt": "2026-08-07T22:23:00.000Z"
     },
     {
@@ -146,7 +146,7 @@
     {
       "title": "Harga Emas Dunia 7 Agustus 2026 Tembus 4.300 Dolar AS",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPdE9vY2NmY1I2UWtKaUdwcWhYZXVhR096aE5PVHA5QlB4SUsyeHJlVC1KaU5wT01OX0NkS3NmZ3dULUg5eldrR2M3ZFk2MDFNci1zWXo3YkZJY3B5NVc3LWU3MzA?oc=5",
-      "source": "readers.id",
+      "source": "Readers.id",
       "publishedAt": "2026-08-07T22:10:00.000Z"
     }
   ],
