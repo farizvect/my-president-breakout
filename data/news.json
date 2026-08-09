@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T04:58:24.926Z",
+  "generatedAt": "2026-08-09T05:48:15.207Z",
   "headlines": [
     {
       "title": "IHSG Naik 2,78% Sepekan, Asing Serok Saham Rp 1,24 T",
@@ -52,6 +52,18 @@
   ],
   "stockNews": [
     {
+      "title": "Investor RI Tembus 30 Juta SID, Volume Transaksi Saham Melonjak 32,98%",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1RhZ05RX2JWZGhlRFprQ185aXFaMzhONlRaSy03a0xRQWZaQ05zVE1veDNWMkhBRUNFOGl3bWVRc1FvaFZ2RE1TYlJzTEFnSkZFamlOaS1aaEp3NXYwaXJ2RGo4LVNDcl9vTUdpR1UwazQ3ZXppVXpQTVZuTURuVTByRzg5Y3BWTnBXdUk0VGNPTEIyMkRUdzIyd1VTTUFoREVMaDhn0gGeAUFVX3lxTFBnZk9ReTZBenFRU3NvQUtHMzVGSWpiYkVCUDBzWEw0T0ZHOFpKRmVHMVJTUHVhZTVQSzVsd1NiZ3p5bmlkdmx5emdZWEVnRm9mU2g3elMxXzRmOWt6Z2I3MzVjVVRiMzFXa2xRUXotdW5kUURzRWVuVlk3THJIdVJEX213RkhKeXlTM0ZUYXFCU1ZQMWw2N3l2Q2FxUzhn?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-09T05:36:22.000Z"
+    },
+    {
+      "title": "Investor Saham RI Sentuh 10,05 Juta, Naik 16,83 Persen",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk11N2hGRjlCOUlZUjM4RExacDEwYnB5WTVNWEFUelZzRjVtWXFlVXRvVWR6MjVCajAtaC03T2MyYjZBRUw1Q3F4NUcyWTZLWXhhZDM2bnY2NVNBb2VGQmhTVWExYmhwQXU1VEtqTHdQZE9TMkRPMWdzYVRZemdaemNn?oc=5",
+      "source": "Infobanknews",
+      "publishedAt": "2026-08-09T04:30:00.000Z"
+    },
+    {
       "title": "IHSG Naik 2,78% Sepekan, Asing Serok Saham Rp 1,24 T",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmdmaWJ2dVJvakZOOVVOMWg1WmZNZUE0YXFlUmtiSUlmdDg0d0J2UTRrNmdtRUtaUnlPdk42ODFwVzVCQ2xZWThHa1pqSm5GS28xZnAzTzBrTlRuSEdZZmp0ckwwRjVpaW04azhwakk1ZUplQVlLZU1adVNneWtzYnpOamhzdk4yT3o4VWdQcUxQNzVrOXhJNHpVZkdlYWk4MXBKddIBqgFBVV95cUxPYUVBNDltZlVyRnlsU1ZaNUVDV1FKTGFfeGVLN3VBLXJ0WXhDYTk1TTUxNzFONmFJZXUwWE5wLUtTVVR6TjZpSUdzZUhFYS1jSm1nemlJX05QMGFlMm1TMnBuNmRHVFVSQXhoMW8xamQ5SVBRXzVtNWpfZTZ6MmhpZGVtRUdob2MzQktiM1c0MFhjUXVNZFhfY3Fwb3VuMjR6bFBLQnREOHQzQQ?oc=5",
       "source": "detikFinance",
@@ -86,21 +98,15 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTdHVlVWQ0lHLTVncDRYMU1lU3B2OEd1Q1RCSXA5bC1uNGJBcFN6cFVuLWdIeGU1LWZYbFhFQ2h6WVhNT0tmNkdYdmpEMnVVd3FYa1pNT09SZWVBWkZjdENRVE5zYndnSjkzeEsxSWpRMU1kWk90dHZ2SjVRNW1IcmkwMW5GT2M?oc=5",
       "source": "Emitennews.com",
       "publishedAt": "2026-08-09T01:00:00.000Z"
-    },
-    {
-      "title": "Berkshire Hathaway Stop Timbun Uang Tunai, Belanja Saham Rp370 Triliun",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVpNVVN3ZmFsaWxCWl9NSHRrOTdwdUxEcElYaVFyU0F5TDJfbXhiUU5TQmdsZjMxT0lHUzRMWVRBRjgxaEtQeEQ0MkZ6QkpiWFBPT29XLURWQ2JfLTRTZDZjSkQzMm5WWi1IMEdoRWRyT1Y0bFl6X21ydVpQZk5hX19nbzQ3WFFQaXU3bHJaRmpEQWR1U3JhZENwd0F2bk5KYjBuajJzelYzS3VzMHlzbnBR0gGyAUFVX3lxTE4tWk1VU3dmYWxpbEJaX01IdGs5N3B1TERwSVhpUXJTQXlMMl9teGJRTlNCZ2xmMzFPSUdTNExZVEFGODFoS1B4RDQyRnpCSmJYUE9Pb1ctRFZDYl8tNFNkNmNKRDMyblZaLUgwR2hFZHJPVjRsWXpfbXJ1WlBmTmFfX2dvNDdYUVBpdTdsclpGakRBZHVTcmFkQ3B3QXZuTkpiMG5qMnN6VjNLdXMweXNucFE?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-08-09T00:30:00.000Z"
-    },
-    {
-      "title": "Investor Saham RI Tembus 10,05 Juta, BEI Catat Pertumbuhan 16,83 Persen",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0lmc2dnbDl2M1lnZ3V2M2NRRjhTMmFtb2toWEZiZkNpWkZGQmh6SGdzeER5ZVNCWWpCQnI0d05NenQtelZFc0hDUzFIS0pIQzdpR1cxbXdRYUJVMUV2TC15aWpBQ3VVQmc1SkZPby1waWhLSFdVMnV1aVhZWUpsYmZ3RGpBUGFJdFBXQjM3X0VEQTNUd0dLMFhPM2NQOWxsYkhmc2oyVGhkYnEyODBvbW1nVmFvUF9Ma0E?oc=5",
-      "source": "republika.co.id",
-      "publishedAt": "2026-08-08T19:31:13.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Harga emas naik hampir $300 dalam seminggu; apa prediksi para ahli selanjutnya?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM1drZkRWdkItTmNHR0JVSEtfLVFicHJhTGpkcHo5VWJvbVdlWWQ0MUtwc0gwWnRBQ29DSWRCUS1feF83a21YLVNzOFBZZ3RXYXdzNkxLQzdROFhFODI5cmtFc0xfeE5RWm9IR2lfQU5LNEttbXZJbmFQay1OZVp5V0s2SUxvcHFLdm4wYUNSTGlIWUY0YTdWQW9kZnVGZw?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-09T05:45:47.000Z"
+    },
     {
       "title": "Harga Minyak hingga Inflasi Jadi Katalis Positif IHSG",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnVhbmRUQnNwQW9GdU1pUlR3eGdIeWViVTNPZVkyMk9kZVhiamJQNmNfX0s0ZWtBV3NNb3FXRGJ3YzhKMUQtRENaVC1tX1pVczRkWlg1OTluZUpYa0tlYzNRT2sySWhNd29iOVhoQWt5cVRhbzBrVVM1eWswaE5SdHRFamNpdUJxX3pzRHd1X2lnOXBQ0gGUAUFVX3lxTFBOdWFuZFRCc3BBb0Z1TWlSVHd4Z0h5ZWJVM09lWTIyT2RlWGJqYlA2Y19fSzRla0FXc01vcVdEYndjOEoxRC1EQ1pULW1fWlVzNGRaWDU5OW5lSlhrS2VjM1FPazJJaE13b2I5WGhBa3lxVGFvMGtVUzV5azBoTlJ0dEVqY2l1QnFfenNEd3VfaWc5cFA?oc=5",
@@ -132,22 +138,16 @@
       "publishedAt": "2026-08-08T11:51:39.000Z"
     },
     {
+      "title": "Reli Emas Hampir 8 Persen dalam Sepekan, Ambil Untung Mengintai di Dekat US$ 4.500",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1N0NG1OaGJuWmN3UEFjTFFoMUszbmVxTUJ0VmQxWHp0SHBLaktEeWp5bzR0X1BrTXBIdDFLXzhUNDhPTGNzTGJsZ1dBVGN3bl9kUGZ2Q2lCRktadjhTa0FFZ1lXNjJtZVBYemlBQ0pCMEU2QjJJN1ktQV9KOFlxZjB1dE1PZFU?oc=5",
+      "source": "Qoo Media",
+      "publishedAt": "2026-08-08T09:35:40.000Z"
+    },
+    {
       "title": "Harga Emas Bersiap Tembus US$ 4.500 Usai Pasar Kian Bullish",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11cDFTd0xHejNDZ3RCN3QtSkM4bkRtMW1UaGNub0xadHFmQXc3MHJ0Yzk1TVFodGwtUGMzZkRieWFQWGZSNWxqVndfaUR6OEtKZm9DMTJpcS1YTFVRVlRHcnBudDNNbFBUeVE?oc=5",
       "source": "achmadnurhidayat.id",
       "publishedAt": "2026-08-08T09:24:26.000Z"
-    },
-    {
-      "title": "Prakiraan baru untuk harga emas",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Oc1hoM085OXAyQjY0T0Z0U0RmSEhnTXlYNzRkSEJFdjJPd19QX0hYaFpvT3NJbUNLbk5aSGNUY3hOWVlzYlhMM2FpNE5WT2lVMWt2UFVZek05UG1j?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-08-08T03:46:29.000Z"
-    },
-    {
-      "title": "Banyak Sentimen Positif, Wall Street Cetak Rekor Tertinggi Pekan Ini",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDFQTWxTQUdjb2F0dktUUG81SHBuaVdLaEZyaWVmc090aloyOUV4MnBqSVV1R0VCZFVPenZBMWJVZUhSbVpDdl9OUXBXRzVlbUd2WXFjTDNNSjlOTThHWjhtOEZFTEdtWkFnUW5VaDJnUUFNY196MVJ4WmFmSm83bzQ4a3Z4d3lhcUgxNkdOb29YWmNkX1ZvTEt5WU1lOEJwQ3Y5ZUhGNGdKMjBDLWc?oc=5",
-      "source": "MetroTVNews.com",
-      "publishedAt": "2026-08-08T01:37:33.000Z"
     }
   ],
   "errors": [],
