@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T15:54:24.615Z",
+  "generatedAt": "2026-08-10T16:47:33.659Z",
   "headlines": [
     {
       "title": "IHSG Hari Ini Koreksi 0,69% ke 6.365, Simak Daftar Top Gainer & Top Loser LQ45",
@@ -34,7 +34,7 @@
     {
       "title": "IHSG Turun di Tengah Penguatan Bursa Kawasan Asia (Senin, 10 Agustus 2026)",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOckJydTZXbXlBckZjNGc0U2ZBLUNTeDNIcHhuS3N2Si1DM3g2VmNEMmNzTlhLU1ptc1hCOHI2S2ZUUzVPaEFtbGZLRk5lNzhiTlZ2WVZPN1ZsaVpGWVJwSHIxVFFkODFlRnhwc3V2SkFpcjNPNU5HOU9VQzFnVXZkMk9tNm1pbzY1SWZOY3VMMzYwN0dmemV2akFqLUVyeTVYYTFQbTkzSXA0dnoyQ0xGdmJsM2ZFczNiTjlNSjNTYnYtRkJBTjNFZzNWa0FWdw?oc=5",
-      "source": "Databoks",
+      "source": "databoks.katadata.co.id",
       "publishedAt": "2026-08-10T11:02:31.000Z"
     },
     {
@@ -51,6 +51,12 @@
     }
   ],
   "stockNews": [
+    {
+      "title": "Hati-hati Pasar Saham Banyak Penjahatnya, OJK Bongkar 89 Kasus",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblItcjlfci1xZExzdndiM0hUbnZrVDVoTmhORjVVelBSclRpekMwNzl3dU11Y2FfY29fLTlSQmlQUEVGa0ZJbUpZMlROUTJWd3JPTUdDeFNkQmJFMDBsM3VJMDJncUc1WXVXNG10Y0dWc1ZVUWRlYnhWXy1GMzJiOTZrQmJvZHRsbm9POQ?oc=5",
+      "source": "Inilah.com",
+      "publishedAt": "2026-08-10T16:09:00.000Z"
+    },
     {
       "title": "BEI Bakal Tampilkan Status Afiliasi Pemegang Saham di Atas 1 Persen",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQQjRmMExrMkVNQ0NNWG42T2RaSENyM1lKX0pUam5oY2FYam1qWTF2SDVzbFItTWE3Y19mb2pQV19VaTFZcUdHT0JGUDY0SDh4RndLREcwakxBVHh1WXNCSGRNajlFUjdwd2ViVWw3UHBPVnM5NWZzblBKMklxOEFFWFVpemFMYVZCUFJYMkxxMzl2VV8wUXpFUVpMM1pBbHYxZndBMXYtTFl1ZFppbFFycW1aSFBpYUU4dkpLVjRxbmphd1RnVUpzZl9jLXlNTmxJVnRlcFZvTmEzcFlmMzJraHVGX291cTZkb0hqbXNVbC1hS25Ia3NMbWxDX1p6TDhpUTI4ZjdYdk84S2MxUWRaelNsYnMwSWQ1akRRTWozZw?oc=5",
@@ -71,7 +77,7 @@
     },
     {
       "title": "Danantara Masuk BEI, Negara Perkuat Cengkeraman?",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDIzOXV2T1VueDg3VDVNNXd4STBub0pPWXZXWEMtUHFDWTJjbG82bU4zWm5TamdSXy11cm9CRkF4c2lhTE9vYzBqVWRiWHY3RFVZNDZ4UkxQa1RiV3FHQ3FkdVhZcjJOdHFkR2dWdXRYWEFtNzNIdjU3QWFHWVUyS0RZblZaZEFEUE5N0gGQAUFVX3lxTFBYdGhpc1JkRTJyMUlqQ1JNSWF6MU5NWVhRbHJNMXpSdE1SVmJRSmQzRWNrVmJ0M3RTU2NwQlJCX296NDZQRzJySEROVFpIWDA2czRUc251ZWwtZGFKNXAzYkVsdmRRUUtOX3ktWHJ5eWhBQ2x6WmwyQmgwVTBEWUpUbmQtVldwUkI0Z3ZwLUUwaA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHRoaXNSZEUycjFJakNSTUlhejFOTVlYUWxyTTF6UnRNUlZiUUpkM0Vja1ZidDN0U1NjcEJSQl9vejQ2UEcyckhETlRaSFgwNnM0VHNudWVsLWRhSjVwM2JFbHZkUVFLTl95LVhyeXloQUNselpsMkJoMFUwRFlKVG5kLVZXcFJCNGd2cC1FMGjSAZABQVVfeXFMUFh0aGlzUmRFMnIxSWpDUk1JYXoxTk1ZWFFsck0xelJ0TVJWYlFKZDNFY2tWYnQzdFNTY3BCUkJfb3o0NlBHMnJIRE5UWkhYMDZzNFRzbnVlbC1kYUo1cDNiRWx2ZFFRS05feS1Ycnl5aEFDbHpabDJCaDBVMERZSlRuZC1WV3BSQjRndnAtRTBo?oc=5",
       "source": "Koran Jakarta ®",
       "publishedAt": "2026-08-10T14:00:00.000Z"
     },
@@ -84,19 +90,13 @@
     {
       "title": "BEI Sebut Pemilik Saham di Atas 1 Persen Wajib Cantumkan Status Afiliasi",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZE90bzF5MEllZ0hQZmQzZHRaODJRYUdBNV9fVFotSEdJZ1hXSTlZQ3ZNNHNUaG03MjJVcUFvSlE5V1VsV1UybGtuRnZrYzY5OEpvZzdiMm1sM01WRTJKNDkzLTg0WHFOQlZhZnpfLXRzYjR6M3MzOE9BNkVVS2RVNmtwYndlR1BXelJqQXd5MklmNlJrT0gw?oc=5",
-      "source": "aktual.com",
+      "source": "Aktual.com",
       "publishedAt": "2026-08-10T13:25:41.000Z"
     },
     {
       "title": "OJK Buka Opsi Danantara Jadi Pemegang Saham Mayoritas BEI - Market",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVoyQjJTTWR4Vk1aWDF4aFJxaDBMdkMyTXdlSjNUMHdXVklXQ2NzNThRYURjaHRBcy1qN0FSMHBtSC1uVkZuTFNUN29TYmotS2FlSDFvN0NSQjY5dDl6X292T1lRZ2NLN01rRDR5MkR3QW1zeWpzd0ZacGxhUm55OGJoZllUY21ucWo3c25HcHhkeTY3c0NOZ1pRRUxYQXFJYTk2ZnZVU1k3MWpfYUE?oc=5",
       "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-10T13:25:00.000Z"
-    },
-    {
-      "title": "Jumlah Investor Tembus 30,2 Juta, OJK Ungkap Bursa Masih Punya PR Ini",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTE9iVzNxZHlrbnNDYzgzSTZzSjN2dDU4RVU3Mi1yVGhNWjBmMEt2NzVFWURCZU9NSi1sMHJaWTJkaWJZbUFBRmo5bHN6OW1SZjJlNzNRNzFvYldYdmRjX05pYlY2cWZBVUJBMlpmNUo3Z1NvdGVCclJYd1hydEZEZHl5Y1h2b2RUTG10UnFhMDJUbWU2eGRrSnBFam5ZMmpSOFNveWhaUGpha2JodThJ0gGvAUFVX3lxTFBMT2JXM3FkeWtuc0NjODNJNnNKM3Z0NThFVTcyLXJUaE1aMGYwS3Y3NUVZREJlT01KLWwwclpZMmRpYlltQUFGajlsc3o5bVJmMmU3M1E3MW9iV1h2ZGNfTmliVjZxZkFVQkEyWmY1SjdnU290ZUJyUlh3WHJ0RkRkeXljWHZvZFRMbXRScWEwMlRtZTZ4ZGtKcEVqblkyalI4U295aFpQamFrYmh1OEk?oc=5",
-      "source": "IDX Channel",
       "publishedAt": "2026-08-10T13:25:00.000Z"
     }
   ],
@@ -144,10 +144,10 @@
       "publishedAt": "2026-08-10T11:06:05.000Z"
     },
     {
-      "title": "Bursa Asia Hijau Cerah Tetapi IHSG Merah Sendirian, Cek Sebabnya - Market",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc21XUFU3THlfckIzTWlLM1BTUEFjMHhFbkczZDFwdUVXWC0tUjRPd1VJc1BRbGJWYVFMaUk5S25LN0ZGbkkwdWpDNklpSk5QU015aUVOMWdLQW1QUnJaOEx3VFFFYXplQkpfSThyRVZUa3N6UDB5MmJUX0ExUUhkN194S3dDUG1kYkVKT3U3Tm1sSTAydjJsQmt0WTE1a2t3MmdmV0NkSEZPN2lBdFVHb1BHREc1QWVl?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-10T11:03:03.000Z"
+      "title": "IHSG Turun Sendirian di Asia Perdagangan 10 Agustus 2026",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kWFlDajVUbF94elhpblJsMkR4OFRfMkl3R2c0QTVkc0pIcEpUR2stb3NhV1dzLXFiYzlLdmxQSS1tZnBPQVJqWjhjcDdBTzNaZzMyNEpJMVFyVVRQQzJWVGZEcm94YTVlSXRmLWJycVdpcHB4UHFmbE5TV29zUQ?oc=5",
+      "source": "mediakompeten.co.id",
+      "publishedAt": "2026-08-10T10:31:22.000Z"
     }
   ],
   "errors": [],
