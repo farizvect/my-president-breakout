@@ -212,5 +212,68 @@
     "precision": "daily",
     "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-pimpin-rapat-kssk-perkuat-sinergi-jaga-stabilitas-keuangan-dan-kepercayaan-pasar/",
     "marketContext": "Official Presidency record: President Prabowo chaired a KSSK meeting with BI, OJK, LPS, and Finance. Acting BI Governor Destry Damayanti stressed exchange-rate stability as the priority and said BI would remain present in spot, DNDF, and NDF markets while continuing pro-growth macroprudential policy and hedging-cost incentives for capital inflows."
+  },
+  {
+    "id": "ipdn-xxxiii-2026",
+    "date": "2026-07-29",
+    "title": "IPDN Class XXXIII Commissioning Address",
+    "location": "IPDN Jatinangor, Sumedang, West Java",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-lantik-1-204-pamong-praja-muda-ipdn-angkatan-xxxiii-tahun-2026/"
+  },
+  {
+    "id": "kpr-akad-massal-2026",
+    "date": "2026-07-30",
+    "title": "Mass Subsidized Mortgage Signing Remarks",
+    "location": "Batang, Central Java",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_akad_massal_62000_unit_kpr_rumah_subsidi_dan_kur_perumahan_sebesar_rp880_miliar"
+  },
+  {
+    "id": "semarang-tawang-2026",
+    "date": "2026-07-30",
+    "title": "Semarang Tawang Station Revitalization Remarks",
+    "location": "Semarang Tawang Station, Central Java",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_peresmian_revitalisasi_stasiun_semarang_tawang"
+  },
+  {
+    "id": "thailand-pm-visit-2026",
+    "date": "2026-08-03",
+    "title": "Indonesia–Thailand Strategic Partnership Remarks",
+    "location": "Istana Merdeka, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-dan-pm-anutin-perkuat-kemitraan-strategis-indonesia-tailan-dari-keamanan-hingga-ekonomi-asean/"
+  },
+  {
+    "id": "brin-researchers-2026",
+    "date": "2026-08-06",
+    "title": "Remarks to BRIN Researchers at the Palace",
+    "location": "Istana Kepresidenan, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-bangsa-maju-dibangun-dengan-fakta-sains-dan-keberanian-menghadapi-realitas/"
+  },
+  {
+    "id": "mpr-annual-session-2026",
+    "date": "2026-08-14",
+    "title": "MPR Annual Session State Address",
+    "location": "DPR/MPR Complex, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/presiden-prabowo-terima-pimpinan-mpr-bahas-sidang-tahunan-mpr-dan-pokok-pokok-haluan-negara/"
+  },
+  {
+    "id": "hut-ri-81-2026",
+    "date": "2026-08-17",
+    "title": "81st Independence Day Proclamation Ceremony",
+    "location": "Istana Merdeka, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://presidenri.go.id/siaran-pers/ratusan-ribu-masyarakat-berpartisipasi-dalam-war-undangan-upacara-hut-ke-81-kemerdekaan-ri/"
   }
 ]
