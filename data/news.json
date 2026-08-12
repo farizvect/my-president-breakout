@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T20:48:08.216Z",
+  "generatedAt": "2026-08-12T21:38:43.628Z",
   "headlines": [
     {
       "title": "IHSG Hari Ini Ditutup Menguat 1,69% ke 6.373, Simak Top Gainer & Top Loser LQ45",
@@ -20,12 +20,6 @@
       "publishedAt": "2026-08-12T11:30:00.000Z"
     },
     {
-      "title": "IHSG Naik 1,69% Hari Ini (12/8), Saham-Saham Prajogo Pangestu Paling Banyak Net Buy",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVFQcnRMaEN2N21BS0dfaFJQdjdEY2ZUTG1MQWQtcXBaeGRYNDEyOU1QRUhvWkZrU29jWTdmSThkLXpsRnFQX3JaWllPc3pjR3MtR01VQUJ1SHNCVERIOHh6bWJ3VkY0TjlYNHM3ZWkxcjhiMUx1UkVpbDJkekVYdDdVRUxtWS1iVENJelNFN3liNndmSVEzX280NkVSWDItakd0ZEM1VTRKOWxtYmdvdnpYcw?oc=5",
-      "source": "Pusat Data Kontan",
-      "publishedAt": "2026-08-12T11:18:32.000Z"
-    },
-    {
       "title": "IHSG rebound 1,69% jelang rebalancing MSCI",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOTFQMGwtS2lUdjFFa1JTZ0FaaE55SnNMcjFBUW5xSWxtRUdSODlSeE5DOFdqek1jUGZYUWZyX3Z3M0dkTGQxdEowcHYtV3RNUkRfV2JHSEdQcDFpQmM0NGU1Wm5NMTVzWlVLVkdfQzVVZkhiSlBBQUdyY1A2ZXQtdVZfLXlDR1U0OHRhR2V3?oc=5",
       "source": "idnfinancials.com",
@@ -40,7 +34,7 @@
     {
       "title": "IHSG Ditutup Menguat 1,69% ke Level 6.373",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUcwcm5zMjRMNUxDVWt5VlhkR1pBUmhYOFpNMlJCS3hQcjZlWGozeUxQM2cyeWhibmMyajdlcGI0emk1VFRkeDJaSDdtOEwwSXU5Q1dOelVJeG9ISFpqLWtLZzBSN1VXWGp0Wktkd3RNakNwa3RhTHdnU1dRN01zUGJyQ2J0ZzBvU196S2t4NW5hc3djV2lr0gGcAUFVX3lxTFBVUl93ZXlxNmVlbmR3dHllVEZfT0VsczFBdHh1ZlJrbVFmWWY1Y21kNmNkWnFRU0pPdTVTY0QxSnFUQnlNSTJ3bUF2MVJ6bWJTd21vVUVGSDVfemRWNkN3dWtpcFRGcUdYLU1HX295eEg1MnpyNWpVMW9HdzZsb0ZtME5UdGVueldzNEZCNEJDeThYMEFmZHloQzEwQQ?oc=5",
-      "source": "detikFinance",
+      "source": "finance.detik.com",
       "publishedAt": "2026-08-12T09:54:42.000Z"
     },
     {
@@ -48,6 +42,12 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmRVbWJ3NmE2cVkydi1Cc0FEZzU3Z2VVTmtnV2FnUGdwNFV6WnNVY0F2SmFVU3Q4QkgwQTQ1VUJzd18tYzg0NDFNTEl0QVR4X2dBNTdlTGJDWmJQclkzSlk0ZzRpaGZEN1JITWI3c0JOV1k4dzdhc3QxanRoNUtiU0FlWk55eTk2cmR0bmFkbmpDdnZsQkRYcENDZU9CZw?oc=5",
       "source": "pasardana.id",
       "publishedAt": "2026-08-12T09:38:00.000Z"
+    },
+    {
+      "title": "Laba tiga broker saham terbesar melesat kala IHSG terpuruk",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSEI1MFJWVnJXTElmZDJtYlpZZjRSM2RFQ0dmYkRIQXBpZjRqekZ2MllVV21PdW1tU2ZGY1p6c3Rwb3FpeHZ2SGI3VDFlWE9Sd0huN1NvNTZhX25Reno5TGRwUXhrX1huMDdrdW5yeXZGSXVvZUVEWUdNS0FIeXNpM2hjRk1NMS1TMlZmZXdlRmhuby1rNTJPTHpKWEVUdXZUdklobw?oc=5",
+      "source": "idnfinancials.com",
+      "publishedAt": "2026-08-12T08:10:00.000Z"
     }
   ],
   "stockNews": [
@@ -66,7 +66,7 @@
     {
       "title": "BEI siap lakukan private placement hingga IPO guna investor baru masuk",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3lfNDJxR3JlMENkRTg1dnl1YzZQbnV6d2xkX3FxRklSM3dRNkNiS05meEtha1lnOVdNNFY3VnVoazR3MHFpTXc5TFY3cWwwTWlhN0d1aGdJbjk3TVlrMWxMSzgtVUxQWVlHdlNUWFI4b3Z3MUI0YWtMX25MZklTclRieFNOTy1FdU1aS0Jwam8zd1Itd2l6LUdObF9yVVFSTHl0dUREaXlmTmUtbEN6TEN30gG0AUFVX3lxTE41UnZsRzlDdEF5YnBiNVpxZDhFa1I0bnNWd1owYW5TaDVRbU1NWEJyTGs1b0tPTlduREE5Nk8wTW93UHZ0c1FrNlJ1U2NudkF4ZURDeThyZnFKdWpFbjk1aHNnMUhVeVNTOTY3aTR3ZHRjOXhCTXlQV3FYWGFxamM1Qnl2Q2xrMFgtMC02YTh6aDhYTEtONDByMlIyY1RreHlnWU9rLVphSHdoZ0h3T1pfbjQ4Zw?oc=5",
-      "source": "ANTARA News",
+      "source": "antaranews.com",
       "publishedAt": "2026-08-12T14:17:04.000Z"
     },
     {
@@ -114,6 +114,12 @@
       "publishedAt": "2026-08-12T14:11:31.000Z"
     },
     {
+      "title": "Wall Street Menguat, Investor Cermati Data Inflasi dan Laporan Laba Perusahaan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xN3FRTFF6ZGtnVU9hN3JLRFk3T0M4R2MxekplcHlkeXlHRUNCbm1HOXUtbXNpaTIyRkJ0UTdIT0JPRkFPZ21wMnNJNE81YjRqaDFQZnVSUXhrSHltTHhmODIzY2FDdw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-08-12T14:06:16.000Z"
+    },
+    {
       "title": "inflasi AS Juli - Peluang Kenaikan Suku Bunga The Fed Menyusut, Inflasi AS Naik Tipis Sesuai Ekspektasi",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hal9adVVMQldUbFlOTC14ei03bFpGRG1OYW9yZkw3UTRlWldIenF2aVA2Q0ZEZ05uTUI4Tm15bEdlXzluR2Uwb3hqbVBSS19oVVRIUnVMdw?oc=5",
       "source": "kontan.co.id",
@@ -128,13 +134,13 @@
     {
       "title": "IHSG Dibuka Menguat 0,16 Persen, Investor Tunggu Pengumuman MSCI",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVZPZm1DYjViZVRqb0F0LVBBTHZibl9RMDhSazduaGhmTlhzQXJYb1dvenBYSE5teGxvcDhNM09hakEwbUJoMnBNS0NoSjJuVWJDQ1RQZHJhcm8tYi0xenJ1V29fZ3NEbEFkS2JfMm5RNUEzYmNsQTIyOGdxR0o0NE5rS1VjNkh2RGp5aVh3VWtEcmF4XzF3VXo3bmJqVTdEemVDemNTdG1hMDhoUzEySUVvVWZ5N3PSAbcBQVVfeXFMT1FWT2ZtQ2I1YmVUam9BdC1QQUx2Ym5fUTA4Ums3bmhoZk5Yc0FyWG9Xb3pwWEhObXhsb3A4TTNPYWpBMG1CaDJwTUtDaEoyblViQ0NUUGRyYXJvLWItMXpydVdvX2dzRGxBZEtiXzJuUTVBM2JjbEEyMjhncUdKNDROa0tVYzZIdkRqeWlYd1VrRHJheF8xd1V6N25ialU3RHplQ3pjU3RtYTA4aFMxMklFb1VmeTdz?oc=5",
-      "source": "Suara Surabaya",
+      "source": "suarasurabaya.net",
       "publishedAt": "2026-08-12T04:20:14.000Z"
     },
     {
       "title": "IHSG Dibuka Menghijau saat Wall Street & Bursa Asia Tertekan Harga Minyak Imbas Konflik Iran-AS",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjVQa1J3WGRjMWVWanNTZXJFQzBHaXdaeUFHbVFmUjFwNTJDbGlOS1pNaDZhc3RQSmJsVGdFMG1lU0hkNXZrTG9mNDA3MXZLZlJvTDhIVFVJNkcxaWM2Vlc4WFBEUjl1a2cxTWh6a3FLY28waEpKdEhmWHl1TC1heDVkazNwWk9qem1uOEZwX2M3Rk5XQVlvZ3JSaHh5T201STVzcTNTMElhcFV0ZERGSnNVWG5HdlBPRnlwMUNab2JWeVo2MDhWcjYwZ9IB0AFBVV95cUxPSFVsRzZsWkpfeG5MOWYyTDJ0Uk9PVjRZRjhzTTBQelpYN3A5dXBNMHB3NDFTLUhkeC1sVG5UN2N1OGtHZDlFcFFwY0FxMkM3bDlSUldUWE1JTHpSS0J6UnNtYlJnV1NmLXowSm5GN0lkUFNBSzBqcjBQSDM0SVZWQzlDSzg4RFFUMDBRM2ZQUGw4cWVQSzJNRXVqRk0zVTZ2MFllREY3dmJydGFhWFUzM3J1QlBCd1ZrU0NmeWVNSjFBcHpNM3NYeGpiblp1WS1j?oc=5",
-      "source": "VIVA.co.id",
+      "source": "viva.co.id",
       "publishedAt": "2026-08-12T02:02:21.000Z"
     },
     {
@@ -142,12 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjByeml0aXRjV091WWtULVhaZlJPa2RCdjBBR3FGMGlTODlBSDhYcENIZU50YlFGYlNPWUlfZzRJWGVad1FnRFZIZEplMGFlVjdkTldka2V3WjVscGR6dDRHYU1TVTBLZzBJZW5yZEl5cVlodE1ORUJTRDhQQndJVHZ4QnhLTEMwVnU4?oc=5",
       "source": "Qoo Media",
       "publishedAt": "2026-08-12T01:42:25.000Z"
-    },
-    {
-      "title": "Wall Street jatuh seiring berlanjutnya ketegangan di Timur Tengah.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmtfU1FqV1ZLb2MzUFhUSl9wZmlEaEU0V0dVTXE2dE5hVTVaeFBDMW5HYy15NjJ1elRhVkg0Uy1jdUU2NlM2bzZNN0kwY19aM09WaXFENThiWm1tcV9ZTXFucUg1cDhLQ0hSMWdKamlDdll4S09kQ0VnWnFDZmswaU9ha3pyNVByTFl0c0JadDl3VFE?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-08-12T01:39:25.000Z"
     }
   ],
   "errors": [],
