@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T19:58:13.485Z",
+  "generatedAt": "2026-08-12T20:48:08.216Z",
   "headlines": [
     {
       "title": "IHSG Hari Ini Ditutup Menguat 1,69% ke 6.373, Simak Top Gainer & Top Loser LQ45",
@@ -10,7 +10,7 @@
     {
       "title": "IHSG Rebound ke Level 6.373 (Rabu, 12 Agustus 2026) | Pusat Data Ekonomi dan Bisnis Indonesia",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDY1Q1BCSGtaTDhsZHpraVlSTVhJV1VNQ2E3TG5WcFBWWDlqN0JiSUpDZHZuYWM2V3JEd3dFcWtLM3ZmT1pCRERwbEJ5OWtwX2Vhd1dBQzd5SFZ0Wi1QSzZ2UzlpMlRLWWU1MkxLb2VzZUhuQ0hWRURtWkJzaFhDUFprV3ZncGhkbjFmMWxIWTZLU2lUOTNVb28wVFJsR0FxeW9HdkdjWGtrdUxfaEE?oc=5",
-      "source": "Databoks",
+      "source": "Databoks Katadata",
       "publishedAt": "2026-08-12T11:38:08.000Z"
     },
     {
@@ -24,12 +24,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVFQcnRMaEN2N21BS0dfaFJQdjdEY2ZUTG1MQWQtcXBaeGRYNDEyOU1QRUhvWkZrU29jWTdmSThkLXpsRnFQX3JaWllPc3pjR3MtR01VQUJ1SHNCVERIOHh6bWJ3VkY0TjlYNHM3ZWkxcjhiMUx1UkVpbDJkekVYdDdVRUxtWS1iVENJelNFN3liNndmSVEzX280NkVSWDItakd0ZEM1VTRKOWxtYmdvdnpYcw?oc=5",
       "source": "Pusat Data Kontan",
       "publishedAt": "2026-08-12T11:18:32.000Z"
-    },
-    {
-      "title": "IHSG Melonjak 1,69% ke 6.373, MSCI dan IHK AS Menjadi Fokus",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0UtVEZmT0RMQXUxSGNvdldlVlg0UFA2Wkx5MGlWQUt5STB6aVFtUUVJOU1ReHZDemhQaTZqTks1SDVhM0FZM0xEMTk1d1luSFhFUUtpSzByYmdia1JaZTJjdFIxQy1KY3N6X1dSLUl3ZDFjaXI0OVhnUmxVWUFaWXNFcjBPNlVhc280SzZmQUhValFSLWVXWThWeERNWXRMQWtKdNIBqgFBVV95cUxObHNJS3ZJUTZVdE9qTTlWeVRrcDMyTl9JQzMza0VsVm9NU0RLVlNiWDhkeDdHTjh0RndxZnNPazBUV202dDNBS2d6a3FmRk04SExpQ0d5Tks1bVREXzN5OVVoUGMxYjBTUmFUd21hQlZGMmFiV29TcFlkUk1MSExfSVRJcXlBSWt4a3ZudFBhczN3RXBOVUpEcHkteXFSbkZFdjdZR2ttVDNqZw?oc=5",
-      "source": "fxstreet-id.com",
-      "publishedAt": "2026-08-12T10:56:22.000Z"
     },
     {
       "title": "IHSG rebound 1,69% jelang rebalancing MSCI",
@@ -48,13 +42,19 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUcwcm5zMjRMNUxDVWt5VlhkR1pBUmhYOFpNMlJCS3hQcjZlWGozeUxQM2cyeWhibmMyajdlcGI0emk1VFRkeDJaSDdtOEwwSXU5Q1dOelVJeG9ISFpqLWtLZzBSN1VXWGp0Wktkd3RNakNwa3RhTHdnU1dRN01zUGJyQ2J0ZzBvU196S2t4NW5hc3djV2lr0gGcAUFVX3lxTFBVUl93ZXlxNmVlbmR3dHllVEZfT0VsczFBdHh1ZlJrbVFmWWY1Y21kNmNkWnFRU0pPdTVTY0QxSnFUQnlNSTJ3bUF2MVJ6bWJTd21vVUVGSDVfemRWNkN3dWtpcFRGcUdYLU1HX295eEg1MnpyNWpVMW9HdzZsb0ZtME5UdGVueldzNEZCNEJDeThYMEFmZHloQzEwQQ?oc=5",
       "source": "detikFinance",
       "publishedAt": "2026-08-12T09:54:42.000Z"
+    },
+    {
+      "title": "Ditutup ke Level 6.373, IHSG Rabu Berhasil Menguat 1,69 Persen",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmRVbWJ3NmE2cVkydi1Cc0FEZzU3Z2VVTmtnV2FnUGdwNFV6WnNVY0F2SmFVU3Q4QkgwQTQ1VUJzd18tYzg0NDFNTEl0QVR4X2dBNTdlTGJDWmJQclkzSlk0ZzRpaGZEN1JITWI3c0JOV1k4dzdhc3QxanRoNUtiU0FlWk55eTk2cmR0bmFkbmpDdnZsQkRYcENDZU9CZw?oc=5",
+      "source": "pasardana.id",
+      "publishedAt": "2026-08-12T09:38:00.000Z"
     }
   ],
   "stockNews": [
     {
       "title": "BEI Konfirmasi Belum Terima Dokumen IPO Empat BUMN Inisiatif Danantara",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOalNwc1JpcjVBaUVDNzQ3aEk1TTdncDdkcHJ1NVJsOTdyZXUzX1NhTm95elpjTkRXT0VHZjFOQjVtRE9JajJ0SU1sSDdWWHRWUGFlNnA5ZGpRMndkelBJSTBqRWVfb1ZaUEpTU1dHYUlreXMxdDZhOW11OWlobDJiLUxRX2FfcEFKcHZQMnFWc0FpYlFDVm5oU2d3bEJhcjhqb2tFSg?oc=5",
-      "source": "MOST 1058",
+      "source": "most1058fm.com",
       "publishedAt": "2026-08-12T15:29:22.000Z"
     },
     {
@@ -96,7 +96,7 @@
     {
       "title": "BEI Buka Data Pemegang Saham di Atas 1 Persen - Perluas Tipe Investor",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXNvSzJESmFWdVlNRlF6R0FfNldJV2RiOGN2WDhJaWgwampEYWcwVU1aVTYzcHRKUEhJRzdhb2IzeDJ1c0FuNk8yTGw5Um02SWxDcm9tZGdRTnU0c2Y4MzhNTFhKbzJIZjN1cmt4WER0Vm1aSU01ZFlVZ3llbUwwTkRaeDNRMXhfV2tjRXFyWWM1VG5qVkZxVUMyZTAzbVRCRkhRc1hlMGlfNnlpX2JoRDJaeDltWlBYajlXNGIwZTdKQnJIRkJrTlVR0gHPAUFVX3lxTE1ER1N3UW1zejVsY2EzOW8wRlpldy1XNUl6aVdtaGhtZkFaVmlaa19zVEhjVVJxd0VWVU42OWtkOGU0V3plSGF0SVFhYy0zNWRoRkhJZkJLRzVWRW5RekNZS0Q4a0dDSlVoX3pYUXQxUk9IZkpkazYzREhPc0JHVTUyZGZhc1J4MEdIMGlGMjZxMG5MY2NWenc3T3FEdVZLX0RwZUZtT2xLdUJTY2U2WWNHWHdZUzI4XzJIcDJLN1FrNG12a0NQRDNVak03SjlNcw?oc=5",
-      "source": "cnnindonesia.com",
+      "source": "CNN Indonesia",
       "publishedAt": "2026-08-12T11:20:35.000Z"
     }
   ],
@@ -116,7 +116,7 @@
     {
       "title": "inflasi AS Juli - Peluang Kenaikan Suku Bunga The Fed Menyusut, Inflasi AS Naik Tipis Sesuai Ekspektasi",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hal9adVVMQldUbFlOTC14ei03bFpGRG1OYW9yZkw3UTRlWldIenF2aVA2Q0ZEZ05uTUI4Tm15bEdlXzluR2Uwb3hqbVBSS19oVVRIUnVMdw?oc=5",
-      "source": "KONTAN",
+      "source": "kontan.co.id",
       "publishedAt": "2026-08-12T12:53:58.000Z"
     },
     {
@@ -146,7 +146,7 @@
     {
       "title": "Wall Street jatuh seiring berlanjutnya ketegangan di Timur Tengah.",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmtfU1FqV1ZLb2MzUFhUSl9wZmlEaEU0V0dVTXE2dE5hVTVaeFBDMW5HYy15NjJ1elRhVkg0Uy1jdUU2NlM2bzZNN0kwY19aM09WaXFENThiWm1tcV9ZTXFucUg1cDhLQ0hSMWdKamlDdll4S09kQ0VnWnFDZmswaU9ha3pyNVByTFl0c0JadDl3VFE?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "publishedAt": "2026-08-12T01:39:25.000Z"
     }
   ],
