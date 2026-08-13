@@ -1,17 +1,41 @@
 {
-  "generatedAt": "2026-08-13T06:11:57.517Z",
+  "generatedAt": "2026-08-13T08:14:37.199Z",
   "headlines": [
+    {
+      "title": "Bursa Asia Hijau Berkat Inflasi AS, IHSG Merah Sendirian",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjRzWVhXODN1bzJQdFY2T0FOUTAxcTI5ZEVtb2RGRVNGR3lIWnFyVktka0o5TDhrM1ltVmZ2N0dWMzVPUjFsb0s0TFhIS2tSWm80SnBZaFFBTExDRVVoTGFYUnAydDM0WkEwQ0lWVFhSOVRfc0h1ZUU4dGVNcE4zcTJxUkVGMjNyYVNQUWxwTlcycHNRVURkcmhCQnY2U3BLb3AtUlR1aVZhX0U?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-13T06:42:42.000Z"
+    },
+    {
+      "title": "IHSG Sesi I Ditutup Tertekan 1,14 Persen ke Level 6.300",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdC1jQXZoOHVLUDZQbnh1SFlNZWFOekJsbWc4YmpNU3FSZmFiUnJfelJUeVFTUE94VjJTMWNhMHBvcnB3ODhaZS0zNzJtZGVscWtWQWFSdHMzanIyYkRWdTJhQnRuZkFMdTJtVEJuSk0xUHVRUV9CUDR6LW1naUpJMFFUcVh4Zw?oc=5",
+      "source": "Infobanknews",
+      "publishedAt": "2026-08-13T06:27:00.000Z"
+    },
+    {
+      "title": "IHSG Turun 1,18% di Sesi 1, Asing Net Sell Rp1,18 Triliun",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmx2OFIwQ2Y4di1Lc2lLbC1XWlllWUdVekhKS0dSakVfcU8ybE83NFZVTG1HbFlRTGptVzhmSkJieWc0V19nRnJsUWZrNlJXX1RGU183ZnpQdGprYmtHTzZhYzE3Nlhnak1ydmdla2pvQWVLZ1pzTGNEMEhKRW1UOEt1SURJeW5wWmpqMndhS1l2VjB0VWZxSDg0QXlOb1pNTUxhSXlTbC1BV2ptR3BSaFZhSDZIQdIBuwFBVV95cUxPUWxTWFFDS2czRXlPNUdIeVJhZ003RmxsNUlLeUxzSEl2djJNUjE4ODZBb2pEcWJ3Y3Y3Njg2b2VrTnF1LXVBMjBaeUV1OV9TWTRQcWVDR1BBNUQ2cWtQel9HM3JidkJsS1pXVTVvTW9tRzZ1V184bDhkWHBjajF4QW91b3R0b0lhVlRCSnZ5RUwwZGMyd2lhMW93TWZZU2o1RVNocmRKUGlialhQTlRROVhoeXE5WjVSOW5z?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-08-13T06:26:42.000Z"
+    },
+    {
+      "title": "IHSG turun 1,18% di sesi I, asing jual saham Prajogo Pangestu",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1BpWTRES29oeXJjNHpGMUx0RzMzdU5NYWE1QkVDTHh2UGRpMzRBa282RlFoNHB0UlQwbU11WjFPZ0dwQnJjd2ZsckZkemkxLTVUd3VnNzJ6bl9FRTBiaXd4UkFqeC1CaVkzRFFZLWMtUXM1UGJPeEs0M0g5OFotWk5PbHE0ektINUVLaUlCYUJkQkJKdERTR2YxUUNpb29XWld5b0dn?oc=5",
+      "source": "idnfinancials.com",
+      "publishedAt": "2026-08-13T06:10:00.000Z"
+    },
+    {
+      "title": "IHSG Turun, Saham ESSA Jatuh 7% Imbas Didepak MSCI",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbklqRXZkcjY0NF9hSFlQV3FZZkNla252Qms5dG8zc1ExVHBLT3pDRm9wX3ZqdjF0Vkd6S0dFUVFFZGhTLUtkRW1tbWVLT0pObzdDb1J0Njc1MkpxMV9hX2JHTVpLZGpBSGhWZFlGUFlJOFRrMU0yYTFGUWV3MGxsYjdwZ1FMc1VXeTNJMDBtM3RwVDAxenJIRlFXN3RydjNkSVE?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-13T06:07:00.000Z"
+    },
     {
       "title": "IHSG Sesi I Anjlok 1,18%, Saham Bank & Komoditas Jadi Beban",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSFcxbEY0TEZnV1o3WUZnUlYtN1Vka2NRbUdBdDBWRXBVYW9SU1dZM0l2Mk9XSVFTNG5LNERITFJ4Q3Y2NUJDRnJrSUVrMkFTR2dSY01KSDhTQW0xTXZEdVNFeVZRaTctV2l4Q25BTDJvS0pvb2piMlY1Mm1rRmtOVV9ha3RVbmwtbF9jVkNHbHl1cU84WnkyMFp1dmRuMHVjNG1RWHBreGVSNHFsSnF4NXZpOEcxcjDSAbwBQVVfeXFMUDBlUkpONEpNM3dMeDdVSzhtcWpiVG1aZkR3Y2tHZkdKSW5uSDVXMzV5dmNDZTNrQjl1dWFRUTlLeWpsRlQ0QVZITXdVQkNVUndVcmg1TXdoTGJPUTY5d3hSaktMVF9GbjFQQlBhV3lucEVmX0hXdHAyLWZaYXNTQW5IQ19ncWFuR2tEVFhBSFNzenhWcFJKemk1alVac1ZjZkE1YkFxUEdBMG5GRG9ucm5KblZuSXNlbGZBVWI?oc=5",
       "source": "CNBC Indonesia",
       "publishedAt": "2026-08-13T05:35:14.000Z"
-    },
-    {
-      "title": "Bagaimana IHSG ke Depan Setelah Pengumuman Rebalancing MSCI?",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTElTWmtkWXEwbGVwdDdtR2VPN3Q2Zjc4TE11SEVncWNkSkNrTUR4dzAtWnd0QnV6cTh1UTZ3NldUdGdvTFA5Vm9vbG44b2hvREwxQ25ubzMyZ2pLcVlLcTV4TG9HdUVCbmNXMlh4eFVyNVJUVVluWHZ3UmYtd011elBodUM0TEJoNHgyM0Z0djVxZGR1dXM3ZGxHX2lNdW5HRE9uUVhoWmZybjZsMmRVcWtyUEliR1dZWFdzRnJpbVBLZw?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-08-13T05:20:12.000Z"
     },
     {
       "title": "IHSG Sesi I Melemah -1,18 Persen di Level 6.298",
@@ -22,85 +46,67 @@
     {
       "title": "IHSG Hari Ini Dibuka Menguat, Lalu Berbalik Melemah Usai Review MSCI, Rupiah Tertahan di Rp17.867",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0x2MGRrVWVEMkRiNmYzdFdncS1Ic09uM2pXSGNadW1XdE5fQjQySThfQ1drenUwZVhSam5xMDVlYmdoY3BNZnRTNjVrSnlab2x3MEFraGJiUHlkSFVaV0I3b04wTmVlaGt0c0VQNVZvdExTeldoRTBKaEQ3MkQ3SQ?oc=5",
-      "source": "ajaib.co.id",
+      "source": "Ajaib",
       "publishedAt": "2026-08-13T05:00:13.000Z"
-    },
-    {
-      "title": "Nihil Kejutan dari MSCI, Nasib IHSG? BREN & BRPT Naik? ISAT Rally, Emiten Lain?",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclVTZ2dURHA3OUlBeGtENzQ5MXNDZUNuSGRkVWNqM3RfYks4UGRtdTBTYWlNMFo1cEFxOXFUNXh4VnJQeUpyNGFNbG1FNlRsZXhlYzhwZWM3ajNhNXZueXFURGVGUDJUOWhRbWlVVW5XcXJVUXZUMXVhczZVb0xTWGpQRlFySHFNV3BiR0ZOM0ZNYzd4TVNSRXFfU3VjQ2ZqYWUwdDFrQ3EwS0ZBcXZNM1Fn?oc=5",
-      "source": "maybanktrade.co.id",
-      "publishedAt": "2026-08-13T03:52:52.000Z"
-    },
-    {
-      "title": "IHSG menguat 14,38 poin ke posisi 6.388",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTd5WUZseXdXTXJKOUtaU1JXOVRmcHFxUTVVbW50eGdmMGFRYkJfZjBKLVhNU19yN3BWdU5xazdXc1hkRU85ZlNQbUdTTTFNWXN0YXBPSXdjOEtRZURBSE9rYW92MjB6Y0dabEdQQzdkamNBcXhFZUhWNkN0NE1MaTAzR2xYWG8?oc=5",
-      "source": "ANTARA News Yogyakarta",
-      "publishedAt": "2026-08-13T03:51:19.000Z"
-    },
-    {
-      "title": "Video: Hasil Rebalancing MSCI Dirilis, IHSG Anjlok Lebih Dari 1%",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejkzN1JOS3NpQ3BjNTZHRXdCRFZrcDJXMWM4VkE4SlJZcC1zNzc5SHRLclZoaTcxVmVWWTB0WmpJX2dzdzRfd25ONGdqR2M3akRvUFJ2N1A5eDFhLXNUVGFzZFJTazNWZG1NNnp1dThwRmhYSXhVT3ByU1djcnlTZHJkSnJTNjBlM0xZWGtEZUJseEpNblBzbmxDNTVwaS1YRVB0ZmJOTk1GbEplZmRaTVFHczBMRjJvdHZaN3VzS2Q?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-08-13T03:50:56.000Z"
-    },
-    {
-      "title": "IHSG Jatuh 1% Lebih, Ini Penyebabnya!",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGlPckdNWG9lbzdDV00waEFBRzRPNzlIaGdEaUFHUS16VVNZMERWejhDNVdDdHhSbFhiVDZld0pMNEJ2clozQVB1MzU2RmRQdTVpQWZGRHFpZld3bWNrWTY4M1ZDSGdDOGp6b2tiVHlzTmJUdFg0em5mbUFRN0luTnBaWTQtX292WEtiSEZaME5MZTRzc25Vd3hqVE5JaVdK?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-08-13T03:47:01.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "BEI Buka Komunikasi dengan MSCI Usai Review Indeks Agustus 2026",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR21OTFE3XzlwN1JkcFY1ZGVBdkh1X21wQmhWdmxRZWxhUWVKZkYta1dIV3k5dXBaWDZJQ0d6ZlRCOUllclR2Yk03ZGx1YWNPUGNKdThEdHF6V3lzWWpNamFkWHhDRklUUWtJZGpKeTl1UnNLaWVlR1h5YlRvaWV5MGp1Q0FsQUNnTW9KUXAtUDEzYUkxTmNwczJUOUpac2hmUXo2QWM4SU12ZVE?oc=5",
+      "source": "TIMES Indonesia",
+      "publishedAt": "2026-08-13T08:03:00.000Z"
+    },
+    {
+      "title": "GOTO Keluar dari MSCI, tetapi Masih Bertahan di Indeks Utama BEI",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkZtMWVvNTNXYnp5SXgwTktBYVRPVlN2bXdpeHF4TFB4a3RQaW1wWmVWR0YzWF9Qcnp2Z1dFZkYtdnJpT2hRMERiYnZCblYtakZmMW1CLXotMGVaMkJwVWtaSW9lVTVKRk5EV0VsYTV0dUk2MTNtZ0xSMW5iWXRTcFl3dXRtSlE1eldobnVEaGM2WmxNa2ItelFDd2tYcG9r0gGYAUFVX3lxTE81OVU1SmdjMjFodkZaWWpyWXVITHFMUWRta3dyVXJjQ3RsamswRGMyY1QtOHJnSVFRSE9jZzkwWm52d2M1N1pHT0FGSU81X25feU1La1poQ0JweTlyR2pJN2dxcG9nTlN6bEphU3Q2dkJNVjRfQ19IbTZMdnhQY09fanVhZHBHek9URk5rbVZRTndHVjV3cWpt?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-13T07:37:27.000Z"
+    },
+    {
+      "title": "Respons Review MSCI, BEI Pastikan Komunikasi Jalan Terus",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0VhOTFhR2M5aml4MXJJTUhudXJFNVdYWjlnR0RVMmNrOFpSajRJN2lkUnlBNlpjeExDanFSYXZ0ZUhTckhZWWJ1QTUzcFpUX2NZV0pwTklNczJSSHZKckZQMFJWVUhKd1NDekY2SS1YbWdaRkpDMk9VdlVLMlFnWDI1bndsTWNscm11TDFNLVR4RkdsZTV5a1ZTem51UQ?oc=5",
+      "source": "MetroTVNews.com",
+      "publishedAt": "2026-08-13T07:24:17.000Z"
+    },
+    {
+      "title": "Aksi Jual Asing Saham BEI Capai Rp 1,18 Triliun",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qU2Jqal91VG16ZklTb3h3c3ZpcjV5MFh2ZEdKSEV6RXhxR3dzaElmQlJNWTlaY25KUzRDYzFCLWNWeDMyUElGVmlkaGthYk1RVlZ4VHpBTldaYnRleXlUTERqSQ?oc=5",
+      "source": "achmadnurhidayat.id",
+      "publishedAt": "2026-08-13T06:27:28.000Z"
+    },
+    {
+      "title": "Pidato Prabowo Disebut akan Turunkan IHSG, Ini Kata BEI dan Pengamat",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0pQRGkzaVNydk1hWmU3NjNranJBMWlpZnJlRDB0R09HbWZYNDgzNnRURURYYUlWOXdmQWRhSE5aNU5zck50Wjc2S05CU2poUzJlaXVtNjVkZ2hCLUlkWVFBdGR6R2xDejZKd3lZOE9IdmZoZVNCNkowLWpTSy1INFlwenVKNGRIU2pxSEFyV1dRc3R6M0N4RnlZbUw1bnVi?oc=5",
+      "source": "Emitennews.com",
+      "publishedAt": "2026-08-13T06:19:00.000Z"
+    },
+    {
+      "title": "Asing Berbalik, 2 Saham Unggulan Dilego",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50RVFSOGNfZEhJaE5WTG5NTFpKSGRURXBOZkVocUp3ckZ1MjNTUE5pLW5ZRmR1X1VJdG9xaEF2Mjg5MXo4UlVYVzhzS1FHZUhGZ1BYQ1B3RTNtTFN4UmtocFZsWmtDaWd1WDd6eXZGb3FYc01BanNQZk5lU2c?oc=5",
+      "source": "investor.id",
+      "publishedAt": "2026-08-13T06:07:00.000Z"
+    },
+    {
+      "title": "Jadwal Libur BEI saat HUT RI, Bursa Buka Lagi 18 Agustus",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmhRakt5UnBqX3QyX21UM2JlRFlURVNkOHZUNzFmOWU5OV9KZDYxZVlDZ0l3QzdYZTNqUklRRGI0bmZhNXYwaFNnbFlZQWtJX2ZxVFI1OFRxcng1Ni1WZ2NfTHgxTlJFS3BfSlBZN1YtRWhlRWFTWlkxcFlMN2F1STBLdnZXUDRubEtSQlJ5NnNvWEJNajNZdzZNbkpmQQ?oc=5",
+      "source": "MetroTVNews.com",
+      "publishedAt": "2026-08-13T06:04:36.000Z"
+    },
     {
       "title": "CPIN dan GOTO Keluar MSCI, BEI Buka Suara soal Langkah Berikutnya",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk9WYnc4RDNYMFBUZ1RwSnlKa1ZkN09GSzZ1RWtyZEFBVmdoZXhpRGhEaV9BbW1HeGRlUk95UFF6VDd0TTdXMG9IN2pXamlUU0xoRm1nUEstQWN1MDlXc0RkclVZSUhPVVhrRDdVS0puOGJNdksxTm5SWUYwRkNPV09yZ3NfZE5DQW14NkJUak1weEstdWNteWI2VXotNnNLemxsQVFRdjJrV3M?oc=5",
       "source": "KabarBursa.com",
       "publishedAt": "2026-08-13T05:54:10.000Z"
-    },
-    {
-      "title": "Bos BEI Ungkap Upaya Pihaknya Demi Merespons Hasil Penilaian MSCI",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVFBNGZnbkxKcHhzS3puQWtpSl9SUTU2QjJSVmFOM2lMOEVfQi1vZVRKR3ZaYVZYXzJKZ0FheUxld0VtX2RqaTJ1TWVNVVFSRUZMQ2tvY25aNzg0UVZPR014ZE4zUWlsZEs3MHhHWUJwSklJRWN0bHVOcU90ZjVBcnRXaEpsVjNuMGNzTmoxSGJ0a0xWNkNLV1F5eGIzWFlQNllURG9n0gGrAUFVX3lxTE92aVpaYWRfcnRrbXM2RU1RWldoMFozOE91S0ZRaHZOc09ITWtrck9OZjJOZjlLcWFQb2pBS2F0QnU0ZnMzM3ViZFM1dXNvNnRNMG9oRjBfdGZybHlWX1A5UzFKXzVPNXduRnY4SFU3ZkpEU2NDWDFBbTVSNlk5ZW1RS2V2NklUXzlvWTR1bW80YktiNnkwR2h5NmFuc0hKb0NBUmRuRGRieVRrWQ?oc=5",
-      "source": "VIVA.co.id",
-      "publishedAt": "2026-08-13T05:24:35.000Z"
-    },
-    {
-      "title": "IHSG Ambruk 1,18% ke 6.298 Sesi I, Top Losers LQ45: ESSA, MBMA, CUAN, Kamis (13/8)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEJwOWdtZXZSUnY5VENsLUNiSWYzazY4U2lRaTNKNzNxdldQVlpPQ1p4UlZGTXpBRm0zNC1nYWFYaU1ZRUI0cF9vSVl0M0ZFbTFzYThFUklTQjBOZFBmaDQ1NUV2WWJNOE5mV2tsaEVXTGVaaUJQRWIyTDNQQXdTT2U5cTJWblczc3M1UDlQakRRQ1U3U08tWFdKNnA0VTVCc1k5dHcwTEdFdnBfbmthZ3prMG5rQ1M3dDFuOVAtQjFqNlcxVXlR0gGjAUFVX3lxTE01cjNIYjVRbzZJQkU2aU44LWIzY2VMYzVxQXRRWmNHX3h2VmxFWFctd1Q3WmJIdF81Qmp1MjhadHVka3oxZ2NYRmhJSVZYWTVFU3RIVWJQSkcwRlhVNTBSelVYWTlkZG1XSmNQQ1B3OHlQMWpSY3NYTkFqTDd4ak5sVzltOGlVcnpEaDgwazlQRzFBbUdya1JrdktPb1RvQ1RheDQ?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-13T05:12:25.000Z"
-    },
-    {
-      "title": "GOTO dan CPIN Keluar dari MSCI, Begini Tanggapan Bos BEI",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVVlnZ21TQkFqY1o5TnkyMXNvQWZGZHZVNm9iUGowWkNvZVB6YzFCLTEyQkd1dEUzSzBJUDV4UlZ0TTZybzdqZ3BTc2huaHY4NXUyOFVhWkRJSXplY19obVBtX1FwekQzd1VsakxMcW5YSXVGV3UwWjFFbGwzVHZDcDdGRXIyYUk?oc=5",
-      "source": "Infobanknews",
-      "publishedAt": "2026-08-13T05:11:21.000Z"
-    },
-    {
-      "title": "Proses Demutualisasi BEI Jaga Independensi Bursa di Bawah OJK",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGVudlFtRU96clJJMzFtMEdpeVVWcEdERXg3cEw0cG9WN3l0NjI2S1duUjU5MzBJR3pxNTMtNHZnXzV1cWJkb1ZyTXdTMFpUZS1rTTZlUlR3WDRUelk2NkZ6UG1uT0I1VnpHcVkxc0d0MDByRG9WaVZIWW1vczI5MEpLdGJUTlE1Z3FLbk9Ld3BQaVV0bWw3Y3dVSHhJMTlBNlRzVUlxNHdkZkViVUNzVkdwYzdVM25n?oc=5",
-      "source": "Pikiran Rakyat Koran",
-      "publishedAt": "2026-08-13T05:05:17.000Z"
-    },
-    {
-      "title": "BEI Buka Suara Terkait Rebalancing Indeks MSCI Agustus 2026",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSSVJIQ2lxS3NNSXZqVEZpTHQwZ2Q1UENKZm1IODBqQXc3eWJMQTVUTkxEWWJjU29GWEpZX1NYTTVRNWNPaFB3TnhPNWZRVTB3bGNWUEJwLU5wa2xFYTZEcVZXMVhoT0lwSU9lcFMyUFhTMnlP?oc=5",
-      "source": "achmadnurhidayat.id",
-      "publishedAt": "2026-08-13T04:46:18.000Z"
-    },
-    {
-      "title": "BEI Mulai Berbenah Jelang Demutualisasi, Ini Perubahan Strukturnya",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWx3TnBlQURzcnFyV2lSSXd4S1VmNGhkbmdqODJxR3ExT3RpWVdlYkpGRno3TmRUUGQyams1STFSUzNxUk1qak5UQlJiZVRDa21SODJMaXZ6em9XU2ZNVTd6THNZVjBDU0NRV3V2SGs2NnlhM3ZYalZBSXBTSUR4ZENBcFlEWlRoTThsMUFiTk9OaUFpZkt6bzJkQ0VPTk1RSGRjamFGQQ?oc=5",
-      "source": "Industry.co.id",
-      "publishedAt": "2026-08-13T04:45:00.000Z"
-    },
-    {
-      "title": "BEI Buka Suara Usai MSCI Rombak Indeks, 10 Saham RI Turun Kasta",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmstVE9DckJfNVQ2WEZsajZPVlhVNUo4S282VXVRUEt5LTdxcFIwY0hpUE41eFd0dVlWby1JZmM2cVdZcmRJOFFfOThUSXB3ZVV4dzJoeWxBS2Foa1kxSHRKdG5fcnprOGs5TVpHVDBoNDB0VlFhblR4UjhGUGdySWVzYVdZM0lvT2lqNmdQUWJYcExOMk1GT3ZqLVI1dEY1NjhJSDl2cGNiZWVUQkHSAa4BQVVfeXFMTUhlcmlVTVlYakE0ZWs1YXRpeVdyOFNnV1k1ZnAxR0RYa1duSk45VDd5alBhdDFFb0lEbjBTanpTMWx1TmZGZHFIVkF1YTNlQU1YcVQ5ZnhZZEtGUS1XT0ZTYzRqaDJBZXY1eXBmV1FjM3J6MG1tZHhwMHFGbVVzSDRqdlh3UGpRY210N2tITjJKNVdidVRaS0NNNU4xMmJ1cE1icnBZdVFjOUhGalJ3?oc=5",
-      "source": "Suara.com",
-      "publishedAt": "2026-08-13T04:40:39.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Bursa Asia Menguat Pascarilis Data Inflasi Amerika Serikat",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZTHJzbHdPRkdrQUpnU19EUUxQLU96TTRORHJQcy1VMExQUHJKdEs2bk5RZDZYczhuLUJ5SmM4d280NlVzdHlGcDk0aVI2SmFqNlBDUXpoeXpFMWtvbmdVY1AzNlJkbzB3ZUZiZUtuVC0?oc=5",
+      "source": "Readers.id",
+      "publishedAt": "2026-08-13T07:03:23.000Z"
+    },
     {
       "title": "Wall Street Bergerak Tipis, Emas Tembus US$4.500 di Tengah Tekanan Inflasi dan Utang AS",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY28yeDNtaVNGNUJzSjdsMnF4LWZtM0owUDYxMXlPbm5oTllBZkd6T25XeUJ6SVFqckhPZFFrRGJucGhBM1JjaEZwd0o2dThpSUlEN0tNcVNZeWwwNjIxVG1ueUhZUlI4aHl6dUU4RXRoOEYxUnJGMW9DbkN6SnlnekpFZEo4dS1sSWtQOTg3WkZTdzhEcnAxa2RsM0N6Mm9hbzJuclpQMGk0Zk9KZE9NUDEyQ0VVSXcxVVYxandHOVlaZ1FDeHIwVHR1LWVLbXNqRTN2QVVsQlU?oc=5",
@@ -142,12 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQblVQUU05X1FBWTN0UFhYa3kwc3dzVXB1VzB2TXBkMTd6b0xjZ0JXNS03M2JCdlh1d2FGQURzLVI2RkF3aGhsMXVKdEpTUndXUUVfUmZ3aGFOZGFRRVhVWHhSWC1hSkR1dEFPVHhDLThNUWk5WTI5Wk1pemJrS3hGSmdoZ05zUElta3o1SS05QVZuR19BZzNMaDR5aTc1Rm9rXzVNeE05cEp0bjYyZFo1ZXJTekJrbGlTcXRHLdIBvAFBVV95cUxQblVQUU05X1FBWTN0UFhYa3kwc3dzVXB1VzB2TXBkMTd6b0xjZ0JXNS03M2JCdlh1d2FGQURzLVI2RkF3aGhsMXVKdEpTUndXUUVfUmZ3aGFOZGFRRVhVWHhSWC1hSkR1dEFPVHhDLThNUWk5WTI5Wk1pemJrS3hGSmdoZ05zUElta3o1SS05QVZuR19BZzNMaDR5aTc1Rm9rXzVNeE05cEp0bjYyZFo1ZXJTekJrbGlTcXRHLQ?oc=5",
       "source": "IDN Times",
       "publishedAt": "2026-08-12T16:40:00.000Z"
-    },
-    {
-      "title": "Wall Street Naik saat CPI Reda dan Saham AI Melonjak",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1lCeTNtbnBRVFJOcWNELXUtdTI2VjFERzVzTm5yV3lrWE5sYmJqN0tjZS10bC1OQm1zcEhFRHJRajAxaHcyY0FndTUxSm1XOXE4alh1VjF4c0ZROHZKbkNuZjRFVWhESlFlN0h0WndsdlF0Qk1DLW1nYTRnaWNMOXp0bEJ6clJJZjN3U3UxSkxXWmJybDFucW5nMFh0TkZtdmhZTVE5X2g0dk5QY09SWU9naw?oc=5",
-      "source": "XTB.com",
-      "publishedAt": "2026-08-12T14:42:49.000Z"
     }
   ],
   "errors": [],
