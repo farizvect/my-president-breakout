@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T21:38:24.628Z",
+  "generatedAt": "2026-08-13T22:34:58.028Z",
   "headlines": [
     {
       "title": "Bursa Asia Berubah Merah Ikut IHSG, Konflik Timur Tengah Jadi Isu",
@@ -34,7 +34,7 @@
     {
       "title": "IHSG Diproyeksi Menguat Terbatas pada Jumat (14/8), Ini Proyeksinya",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemtYdHBmcXA4N3lOZ21kT2VDaFNTdkpLRWVaQ01vcW9SdEhMSFRRNWxlMkFValRIRThzUElZWjFaSE5MRnFzNm1ZU0stdmJGblpFQWNRWDBpLUlhcUhla2MtTmNJMnVwQUFjM2FVNVoxa0FOblV5X3RQSXhNRUY2RkMzaG5NLUhacnZPTDdmNVR4TTdrc2cyOVd5MGxGZ9IBmAFBVV95cUxOOXVCLXBhYVBzSVRUaFVuYlhJV3dYbkM5MHBGNm5rVjB6bkc1dlVaMWRJa2VNMTBwREI1SENBRmY3SlFDVmIzMi1mY2ZycG5pakhQR0ZpcnVNTjU2VHdRSVlad0tEdDA0blZoRkhuck5vWHMySzdlcWhOSE5VcjF5MVdpODF2VHlaWE5CM3JtVWdrUHc1VFduOQ?oc=5",
-      "source": "insight.kontan.co.id",
+      "source": "KONTAN",
       "publishedAt": "2026-08-13T10:33:11.000Z"
     },
     {
@@ -52,10 +52,16 @@
   ],
   "stockNews": [
     {
+      "title": "Daftar Saham Top Losers 13 Agustus 2026, DART-BIPP Paling Boncos",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhuSTJOdy0zZVlwMnRWOFh4MXVnSDk2dm5YM203azBQVkQ1TzNqMV9vZmp3MVhtNTE1MlJlM2Jtb2lxcU5UazdFb1hPX3pWaUlBc2RueWtZVkp2bVhRamJJRVlNcFRqWGJ4WTRzbVJscFZ4VUdwT0sxOFg1TWRUSHZCRnVjMGlmMmxVaFR0aXp5bm1QaXRxblpVaE5kMWF5T2dibUR3cmNwM1pkLU9xc3pTQnBXQQ?oc=5",
+      "source": "Bisnis.com - Market",
+      "publishedAt": "2026-08-13T22:15:00.000Z"
+    },
+    {
       "title": "GOTO Dicoret Indeks Utama MSCI, Kenapa BEI Justru Pertahankan di LQ45?",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1R3c012SFhzb0RrcTVTMUozS05RdlZwUm5YbkwxVTVVVms4VWloTi1oTlB4TnhURlZPNVlIRUhXdUxfZENxUmtrV0dXV2QySmFRekFhRFB6bWkzTlEzalYxcWhac0hOQ2FHcUNubUc5RVJrRkFtRW93b21LVkstOVJYVGxGeVJzTjB2RW5jN2tQWVpET3RtSVZfdzNNb3FxWGc?oc=5",
       "source": "Emitennews.com",
-      "publishedAt": "2026-08-13T15:42:36.000Z"
+      "publishedAt": "2026-08-13T15:37:00.000Z"
     },
     {
       "title": "Danantara Incar Saham BEI, Porsi Kepemilikan Menunggu Harga yang Pas",
@@ -92,15 +98,21 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjQyLXZzYjkxY0NURjJqdWgydXZNTUdIc1VCNEQ3RXhfYy1RQm9senRQZGsyUjB5TWVMRVdOU0FKTXVjUFN5NEVYbExOS2g0VFdZdTJEZ0pjYXMyM0p2ZXBCZzVBY0YyT003emVGdklNUjlEbjVOSUI2dVFfNjVpV19NLTBtdDRhdGlEeUZheGFjSmlPaVhZSUtR?oc=5",
       "source": "KabarBursa.com",
       "publishedAt": "2026-08-13T12:22:00.000Z"
-    },
-    {
-      "title": "Efek Rebalancing MSCI, BEI Prediksi Outflow Capai US$100 Juta",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLU1XSlpGRllTNWJycUZCOWM0THBJamFaVnI0WnpaeDFTTWpGclUyYUQ0Snd1NkVzdW9MQVZaZ05Kb2Q4MGFhbHNaVXlpbE95cUJZeGZaY2NxUEFJX05XSjU0SHNxRVRnVzNJeVVYOVkyeW9BdzlwNFFoLUdMVVVqQ05vcV9MbFJmcnF5VDhPekR5UTVHal9MRWdKdjBmTTFJV2RsWVQ5UUU0UERXQ2c?oc=5",
-      "source": "Bisnis.com - Market",
-      "publishedAt": "2026-08-13T12:00:17.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "S&P 500 Cetak Rekor Tertinggi Baru Usai Inflasi AS Melandai",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNjJ1c2xfUloxZ3hNYWdNbnZFcVFzNjlDQ3M2SzEtNU5rU2pRRDZSLUtXSS16RXQxWXVsVEJpeTJyd1Rhdlk5SWE2TVlndl9INlpWdFBKQlRJa3NBazN6SVM0dTlQTlVDOTRjYzBB?oc=5",
+      "source": "readers.id",
+      "publishedAt": "2026-08-13T22:30:00.000Z"
+    },
+    {
+      "title": "Wall Street Menguat, S&P 500 Cetak Rekor Tertinggi Setelah Data Inflasi AS Mereda",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uV1NJZTZ2dnYybjRhRTdoSnNCaW1aUE9QUVp3d2VYMVpFS2F2cHNYcEJwNFJCZWw4X1MzMzg1YXI0Ym4wbWpfTFd5WTZZaVBkOXJSMUZkalJmN1lheFpZNVBBTkF0NzdHNW05Vg?oc=5",
+      "source": "achmadnurhidayat.id",
+      "publishedAt": "2026-08-13T22:20:00.000Z"
+    },
     {
       "title": "Wall Street naikkan target harga ASML seiring l...",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sR2J1TGFUNFBDLW0yMGNQOEZQdTdVUHF6WFNGYmc3R05mR19SNXhNNUJkQ0hjNnRPTzBfbVhZbDY4cXBldGFQdkNyakFKR0kzVi1SUzIyLVZuN21Zbko3ZXhQWTRYRGROcWFhTW8zQ0gzRDlfV1Vhaw?oc=5",
@@ -110,7 +122,7 @@
     {
       "title": "Bursa Asia Menguat Pascarilis Data Inflasi Amerika Serikat",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZTHJzbHdPRkdrQUpnU19EUUxQLU96TTRORHJQcy1VMExQUHJKdEs2bk5RZDZYczhuLUJ5SmM4d280NlVzdHlGcDk0aVI2SmFqNlBDUXpoeXpFMWtvbmdVY1AzNlJkbzB3ZUZiZUtuVC0?oc=5",
-      "source": "Readers.id",
+      "source": "readers.id",
       "publishedAt": "2026-08-13T07:03:23.000Z"
     },
     {
@@ -136,18 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY28yeDNtaVNGNUJzSjdsMnF4LWZtM0owUDYxMXlPbm5oTllBZkd6T25XeUJ6SVFqckhPZFFrRGJucGhBM1JjaEZwd0o2dThpSUlEN0tNcVNZeWwwNjIxVG1ueUhZUlI4aHl6dUU4RXRoOEYxUnJGMW9DbkN6SnlnekpFZEo4dS1sSWtQOTg3WkZTdzhEcnAxa2RsM0N6Mm9hbzJuclpQMGk0Zk9KZE9NUDEyQ0VVSXcxVVYxandHOVlaZ1FDeHIwVHR1LWVLbXNqRTN2QVVsQlU?oc=5",
       "source": "Monitor Indonesia",
       "publishedAt": "2026-08-13T02:12:55.000Z"
-    },
-    {
-      "title": "Eksekutif BofA Masih Serukan 3 Kenaikan Suku Bunga The Fed setelah CPI Juli",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tYkVlVTdhTVNsSkFCd21mWWRMeUkzM25hcEgwZ1hONUkzUkNFM0MzeHVVSGYtNGZYSXo5cEZuZUJkLTVkSi1JQzJmU1ROS2FscldFYkZzbXF4bTEtMVQ3aU9Lbi1va0xBbk4tNHpqYw?oc=5",
-      "source": "BeInCrypto",
-      "publishedAt": "2026-08-12T23:13:00.000Z"
-    },
-    {
-      "title": "Saham Wall Street Menguat Didorong Optimisme AI dan Inflasi AS",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Kdmx6MTRHVmJOSE9NWnlHNU1UZDFHUnpja3hxaXUyYnpjSk0tOXBGaHZWNnpZcHdBMFJTSEhwTldKR1M2Q1RiaDVyYTRiME9lM3JPOWF3TWZ3eFk4Ymx6Q3VWelZWTUtSeXhPSFBR?oc=5",
-      "source": "Readers.id",
-      "publishedAt": "2026-08-12T22:01:00.000Z"
     }
   ],
   "errors": [],
