@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-08-13T09:50:24.703Z",
+  "generatedAt": "2026-08-14T04:11:14.791Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
     "currency": "IDR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
-    "price": 6301.77,
-    "previousClose": 6267.88,
-    "change": 33.89,
-    "changePercent": 0.54,
-    "quoteAt": "2026-08-13T09:00:07.000Z",
+    "price": 6283.39,
+    "previousClose": 6373.85,
+    "change": -90.46,
+    "changePercent": -1.42,
+    "quoteAt": "2026-08-14T04:01:14.000Z",
     "exchangeTimezone": "Asia/Jakarta",
-    "marketState": "CLOSED",
-    "date": "2026-08-13",
+    "marketState": "REGULAR",
+    "date": "2026-08-14",
     "points": [
-      {
-        "date": "2025-08-13",
-        "close": 7892.91
-      },
       {
         "date": "2025-08-14",
         "close": 7931.25
@@ -904,6 +900,14 @@
         "close": 6231.78
       },
       {
+        "date": "2026-07-21",
+        "close": 6340.02
+      },
+      {
+        "date": "2026-07-22",
+        "close": 6334.48
+      },
+      {
         "date": "2026-07-23",
         "close": 6315.31
       },
@@ -926,6 +930,10 @@
       {
         "date": "2026-07-30",
         "close": 6186.36
+      },
+      {
+        "date": "2026-07-31",
+        "close": 6236.13
       },
       {
         "date": "2026-08-03",
@@ -962,29 +970,29 @@
       {
         "date": "2026-08-13",
         "close": 6301.77
+      },
+      {
+        "date": "2026-08-14",
+        "close": 6283.39
       }
     ],
-    "fetchedAt": "2026-08-13T09:00:07.000Z"
+    "fetchedAt": "2026-08-14T04:01:14.000Z"
   },
   "fx": {
     "symbol": "IDR=X",
     "pair": "USD/IDR",
     "baseCurrency": "USD",
     "quoteCurrency": "IDR",
-    "price": 17863,
-    "previousClose": 17871,
-    "change": -8,
-    "changePercent": -0.04,
-    "quoteAt": "2026-08-13T09:36:38.000Z",
+    "price": 17828,
+    "previousClose": 17877,
+    "change": -49,
+    "changePercent": -0.27,
+    "quoteAt": "2026-08-14T04:07:35.000Z",
     "exchangeTimezone": "Europe/London",
     "marketState": "REGULAR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
     "points": [
-      {
-        "date": "2025-08-12",
-        "close": 16248.2
-      },
       {
         "date": "2025-08-13",
         "close": 16109
@@ -2018,11 +2026,15 @@
         "close": 17822
       },
       {
-        "date": "2026-08-13",
-        "close": 17863
+        "date": "2026-08-12",
+        "close": 17853
+      },
+      {
+        "date": "2026-08-14",
+        "close": 17828
       }
     ],
-    "fetchedAt": "2026-08-13T09:36:38.000Z"
+    "fetchedAt": "2026-08-14T04:07:35.000Z"
   },
   "errors": [],
   "sources": {
