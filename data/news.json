@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T12:51:43.479Z",
+  "generatedAt": "2026-08-14T14:12:27.181Z",
   "headlines": [
     {
       "title": "IHSG Hari Ini Ditutup Menguat 1,59% ke 6.401, Simak Top Gainer & Top Loser LQ45",
@@ -34,13 +34,13 @@
     {
       "title": "IHSG Meroket, Ditutup di Level Tertinggi 6.401!",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWpTaUNsVUJJMVRKanQ4eUhrYXpfcVpRcHh0Ymd6RkFxaGhVa0o3Tld6RkV3T0wxc3J3RDFkMFJSUW5oM05GRHlmeExGZEd5TWFaY0dkZEJkSTlaTmotQktyS2dqRzBmaXMyTzZTU3RqeGJhRFd6cEhMbGdMZ3NMR3MzUWpTaXhrdHA1V2JfU1VhWTBRaVk5T0dvZHJZQdIBowFBVV95cUxPU0d0WTFtaUlTRVpZcmZaRWpkQlF2SGkxS1c4cndjbU4ybThsV3M5SzA1OThreEdFWnJETUFBVm95SXA5WkFkWXJCNEo2UU1JTFlqd05tTS11ckwyRk92Ul91aXJqUWlTcHFyRDZRUnNzemcxaU5lbV91M2tGQmozMGxuZWV6VjV5dFhNYjNqSlJ1c015Ny1wOW94azBjMDFWQlBv?oc=5",
-      "source": "detikFinance",
+      "source": "finance.detik.com",
       "publishedAt": "2026-08-14T09:30:14.000Z"
     },
     {
       "title": "IHSG Ditutup Naik 1,59% Hari Ini di Tengah Pidato Prabowo",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW5CQWNBZmZmNmRJSlRyMWhqNFB0bl9uZVU5NEN2NnlZT2NXV1VENUZ6YmdxaVJYN3VPb2tuZk9UYXBWNnhVbFd3d29ldlVWQW16bTZBaEYwVTg4VUN0UnFmN29ldS1zMEd4OVdDQndxRVpKdXFrREFFOHNPTjgtSFc0T0ttZDZ5ODRrejdXdWVHOC1lcmRTZ1FId3lMTFdqUjRzaHJlOEtxVjM3S0tlX2gwekd3NE450gG-AUFVX3lxTFAtSzRGejZsY185ZUlaaFlRUlRfdjRmYWc1RmRZSjlrUDNCLUZUUWJCOWl6OHhhbUFfQXo0NThvRWRSYllUcEdDTHlQTVprNDVuenJNTHBxUEY0TTQ4YWFLZVpYeDdEX1FVaVBLdHdjSTg5UDNoekNKUTR1b1Y0Q3M1TGVDMzVsMzl4VXVDR3FXT1pVaS1DbTZHWW9YZjBsZWxSTUdpNU5ucmxOVXVoNlVtX3dOaFM3c2FwSldheXc?oc=5",
-      "source": "CNBC Indonesia",
+      "source": "cnbcindonesia.com",
       "publishedAt": "2026-08-14T09:19:27.000Z"
     },
     {
@@ -51,6 +51,18 @@
     }
   ],
   "stockNews": [
+    {
+      "title": "OJK Sebut Demutualisasi BEI Bisa Perkuat Daya Saing Pasar Modal RI",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLW5IOFRpMnBXZmR5SHZLbXpZU3NwRXp3Sk1OSFV1amhVRXRGQzdtVlpPbm1kLWJqN2JzaGc3M0JfUHJ5bnRCYXhldnZDOHpvYzFxXzNfODNmQ2xIZDJ5eERDVlVXZnY3WmV0aWNSN2pyRzFocG9RczJRZFZidnBKUlJ4RFFINjQtNXVBcHhkbFhFZW5sUm1faVpKcGQyaG9lbWdB0gGcAUFVX3lxTE1zSDA3WXRZbG5IZkdSOHVvWXJxWGVNRl9nSkFQeUZpN3hDZFQwbHlZVnNMU0FZS0JOOTFDUFE0aU05RkszMkx0bUhXLXFaU28wWWhpWjZRellObEJZZDdDNVkwMkZoNHo4WHprVlFiWi1XQVpOQk1pVUxpazRCS0NYQTJlR184Q2huZXRscUsydUl0UkF5Q3BheDVzMQ?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-14T13:28:42.000Z"
+    },
+    {
+      "title": "Saham Bursa Bisa Digenggam Danantara-BI, OJK Tegaskan Independensi Dijaga",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVRubGlWd2FyTXhxaW1lM2VYYk9pcmoyZENWNmJmUDM1cU80VFNtaWQwWUZBTDRpWnFUcXZrVG9JNmJ4OVZSakwtTjdNZnFYWXdydHpiM2FZYlZzWTZtOWZyaDNHMVFhWkktbHQ0ZGw1TmRSWGNyeWpIZlVocTFKbFdmbHZVcUZJX3EtUWg5ZlR1NHhwNVRPU2NtbDFmbTNteGlndC1ESFl6TzlHUDFTVlA0ei1RMkZzN0VjRWVMaXh4QdIBxwFBVV95cUxPR1FCZTVKRlQ1Y083eTE5MnlvMmpPSXhZY3JNMG1ManFjUEM4dXU1NGF5RGtsdUQ2cU9uWEdJMU1rMWF0WWFhRHByQ1JRQ0RaOHhMVnkybTNuM09vdGZMeHVoV0JZY05pd2RQNUVKdVF5aHlWVTRVOUtDNFRveGdyWVdvRHpmZHNlTnhwcXNmZUdvaFllakE3aWU5VjcxakxrS1p6V1VraUZhRmRFNXpKbDRMa1BrWHFOWi1BVTIzdHVpeG1rME1B?oc=5",
+      "source": "finance.detik.com",
+      "publishedAt": "2026-08-14T13:00:50.000Z"
+    },
     {
       "title": "OJK Sebut Demutualisasi BEI untuk Cegah Konflik Kepentingan",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObU55OWZsR2YzYXM5RmxMLUpRVnFtbmJDeGZfS0RmM251dm93TnhfeXVSQXp3YlJHTk5UN2toZFVxSGdrNnJkbkZTcGZ0VXZYdE9Gd0xCX3ZYWWVIUk02b0VqZnJ2YjB0azVienhfUHNTZmJBWnN6eElOT3B0MXZzTXNzZzRtWGNDQXdQNFMzRWkteTBoUkw5cnV4ZkplZkcxS0RCT2lCelZ4Q09LWmlTb2E3a3I2aDl4cGJ6aHU0TUNCaG5DeVJCTElHbU9yZXR4RGtwRGFicUJQVURjM2lkdzNCYmdGaHlfeUNXUjU0Mjc2MzdzWWNCMUdUTDlZQVJvYUl3UWpXWXdKdXU5ZkNnU3pweTZNX0U?oc=5",
@@ -84,23 +96,17 @@
     {
       "title": "Ada 3 Saham Bank HSC, Bos OJK Ungkap Dampaknya Ke Nasabah",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVjdTRXJYOEtBMlV0UTNNMUpEZ0JobDZILXhYbUNvNXVYQTducm9CZHhnZEpiczB2Y0tIWGl0WnBLdmNvSUdkRjAweGxjekxrdmVEb0daSk0tM0ZqOUt3MHJuV25BMWFJZzJVX3RRekRoTEpLeEVkVXpHSFdhZkRtYm42UnR5V3pRSXVCMnk1UHZOSm81NWhRN29YWUVEX1pja192a3JsSnZma1VOSHlWZURfblBuZjkxRnfSAb8BQVVfeXFMUGt5RWZYZEJjcHNjbnlrclZLc0FGbTlLM2VkeVdnRFNLTnFpUFgtbUxFcWFPWHlUTTVDSDBLZkh6VDJTaWM0cHJHVG00cHJHdmRIT29TOVB5b0luVGVybG5Rd3BJNzNqN0J3ZndFd2tWVGFqOHpSX255bE9QdEVfWTJPOExTeWtVZmtRZWMxaThpYjdmeS1tUGFCTnZab19VMGNheHM4bUh4c09vOThPWjE1ZXNkRnNzck1QbjFTeXc?oc=5",
-      "source": "CNBC Indonesia",
+      "source": "cnbcindonesia.com",
       "publishedAt": "2026-08-14T10:50:58.000Z"
-    },
-    {
-      "title": "BEI Libur 17 Agustus 2026, Cek Penyesuaian Transaksi Saham, Reksadana & Emas",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTVFKYWVkNUx2cVl5bkxCV3cySUpvUmxwZzZGQ2xPMDh2c0d4YWdtZkhBMVpOcHJIeDZkeGM0QVhsQzFsdURJUngtZktfeUtxeWstODJBN19XY2ZSUjRfdU5ueno4ZWtsNHFaVW1HSGJSenU1LUt4R210anlmQ1J2ZlZPSlB0akdFYVVmMWR2ODR4NnF1ODJFLU03T0pEckJVN2RHc0QwSHNvaEZydGM4NzlHMnR6TlpyVk41b0c1NHJKMkhuRGZwTFVzN0JEcEhCY1E?oc=5",
-      "source": "Bareksa.com",
-      "publishedAt": "2026-08-14T10:44:37.000Z"
-    },
-    {
-      "title": "Prabowo: Demutualisasi Bawa Pasar Modal Indonesia ke Standar Dunia",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNnlUckRNNEgwSXZ2N2xsbTh6ZkxGSV9KdVdFb3dwZGo3LWl2M2w1NnVZZ2pyeU5KejRQWHl1SGh2RjdYWHFBSlF6ODlfdV91SU1SODlUcnhnUHpMX3RrNHJXa3pyUDNaczFXZzFIZGNuUEc4MTZKSWJGR1QxOEtYcmtCakxhMFdKTzQ1S05ZVVVYMXhZOGpmOFV2YWpFWHd0Mmh3Rk1uZHhsS3c?oc=5",
-      "source": "MetroTVNews.com",
-      "publishedAt": "2026-08-14T10:29:56.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Wall Street Mixed, Investor Cermati Ketegangan Timur Tengah dan Rilis Data Ekonomi",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ09vWEtsOUVJODBCSWlWWkJ2ajN1N2RsSHFXYzJZSzJFdjVsODNieGdGMTBZZ0ZDRjNBNkhiaHFXRGNlV0ZVbjB2YTEwMm9HOElGaWw1bU1nN2U1STVSeTNYcEVpNThTOHV1RGxwMVlGVkRaODRxUEtqeTgwejN5WU15N0g3QUJzcUJPeGNxYUNLUmp4ejVkRk1yZms1T0pOcXRrZnVRTG9BNXczMDh6b25rdEUwTkh20gGwAUFVX3lxTE8wendkLWRaVFNoLVFucTZlamlCUmZWTkRvdC03RlhlOGJvYU5oNkpaa2JXbXFucnhFalhvYWpTYmM1TFZ0b1h4MzhZN1VsOWlXZEVEYmh5RmVSaFdHVG5TZF9WQzlSZWRGd3IxUVlGbGpVN2JITnBHR2lwa1E4TFRXeEU1d2dXZ3I5NU81ZjU0VUFpWXhVZURtZFJQbF9lYTJLWFFXNkRldVcybjhsSEJa?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-14T13:58:25.000Z"
+    },
     {
       "title": "5 faktor yang membentuk harga emas dari sekarang hingga akhir tahun.",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91NEVpa2ZsblB0U3VENEpidGxBc2VpYlY4REY3Zl9NNmMwSjJadGc1ZkZ6YWl3YnRBbGNhejlwTUYzM1RKZVZzUkxwYVotSG96TVFZVXVENDdVVnc4VGhJWVctdnJsRkxDQWNaM3VsY2huX0hBLTU1VUNsYk9rQQ?oc=5",
@@ -110,13 +116,13 @@
     {
       "title": "Wall Street Naik saat IHSG Tersungkur, Perubahan Indeks MSCI Bebani Pasar",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS0RpcGRvaF9ld1RVU3dGRjZqakNvVjFMdUsxeHhGTU1CcWxLQ3lXS0RreTZoOWRXWmFXVUJoUVRFZkhpcmpLMUVROUJKclIzNGRCSlhOVmdnd0ZwTXhaRFJrcktyOGt0dUdTTzMxUkhmWldRMnpneE9PRDZfY0VzMHJsNW5yUGVZZTRDMw?oc=5",
-      "source": "Qoo Media",
+      "source": "gadget.qoo10.co.id",
       "publishedAt": "2026-08-14T04:34:08.000Z"
     },
     {
       "title": "Di Tengah Jual Bersih Rp1,41 Triliun, Asing Pilih Akumulasi BBCA dan Bank Besar",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGhJdWdWMEZSWTY5YmpYSmxySVpna3RudTRYbEZjYm4ySWE0a0FHcmw1NFp4Q3EwZXZ6M21RSVg1UlJzcUlyVDJLZFN6andjam1WZlhlUEtPQlZSNW4xVmFKTjN0dDNHcTBDNGx2OEhsSGxkQmszNGpyT1dBdG4tT2FZbS1SYnBnNmVPMXpLbXo?oc=5",
-      "source": "Qoo Media",
+      "source": "gadget.qoo10.co.id",
       "publishedAt": "2026-08-14T04:04:14.000Z"
     },
     {
@@ -128,7 +134,7 @@
     {
       "title": "Emas Berbalik Turun dan Hapus Kenaikan Mingguan, Pasar Cermati Sikap The Fed",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS3pKSmhMMFVJdXhycTJON1RReFN6akk5UnJ1azFwdk1KVVgxdnlSVW9yRUVzR21XcldSM1FKczRyY3RUUFotR1BYejhyWWlab3FidXhGNzl3b0Q0RFVYMWIzcjZUTXV0ZTBmQ2ZCakNldmdsTUVkSE1zd19ZZkdJS1otUm1pd2VONDQxMDVZY0g?oc=5",
-      "source": "Qoo Media",
+      "source": "gadget.qoo10.co.id",
       "publishedAt": "2026-08-14T03:32:22.000Z"
     },
     {
@@ -142,12 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVdGS1o0YVcwa2g5MnQwWUdJblhqVzVSdjJBXzFVSU5kRk1lcVJLUEZUNXNaVExpQjRZNEpRZWJCMWdVVFVwejJJX1FUWE5ud2RXUS1zU3hRNm1DUHVzMHlwelRxb2JLYkNsNEFJQjZzQjFiT0lWdmZFd2d1VnhSeWtzcXk1R3hsdkV1U3FObTZmZi1aNGNmWFpxVV9vWjV4dGFuS0Nfci1vR241TzZ5bGxNNW54M3JvcHNWWUlzWVhucTR2ZUs5Zm5qVTExcTBqZ1A5NmVKbi1NOU9E?oc=5",
       "source": "Monitor Indonesia",
       "publishedAt": "2026-08-14T02:10:00.000Z"
-    },
-    {
-      "title": "IHSG Dibuka Melemah Tipis ke Level 6.295, Ini Sentimen dan Rekomendasi Sahamnya",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT21WdG5vZ2xlemV2UU1jQmNGN2ZXa09UU0tNa3hyVnJua284T3BVZ28wUFA4Sk94TEFXc0lXTjBFVU5oMHQ3RFVLMXhLaVp1bVB5N3hqMERnN3kxR21sYUFMbFl6RGxxVURxdUhqTHZnQnJxSGZTN0J1NVhLeEVOWnZPVG14anp1R19IbmRDTzA4dVFZaTFYTi04WFhDRlZUNlpmYmtR?oc=5",
-      "source": "Infobanknews",
-      "publishedAt": "2026-08-14T02:06:00.000Z"
     }
   ],
   "errors": [],
