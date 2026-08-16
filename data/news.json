@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T10:16:34.534Z",
+  "generatedAt": "2026-08-16T11:14:44.631Z",
   "headlines": [
     {
       "title": "Ekonom: Pasar Sambut Positif Pidato Ekonomi Prabowo, IHSG Naik 1,59 Persen",
@@ -52,6 +52,12 @@
   ],
   "stockNews": [
     {
+      "title": "Jadwal Libur Bursa Saat Peringatan Hari Proklamasi & Maulid Nabi",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUdtYjBjZE5tQW5vbUE5TXRVOGhMdmpIYUQxelh5dUJoZVVMOFp1bTFmSUExSXFwTHdSemVJd3dOczNyQlZ3N2x5aXEzSmljcnE3dnZrZV9aQjVTc2pDTUpMdGhNdmtDM0FvNm1FbkJkZEI4OWhwTTkyOWFrVGFVYnZtVjNaMGlBNGN3anZzSUJfNlo2U1FaS0dkUVNiemVBbEVlLWQ2UHVMY3VoUnpKdl81aEE?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-16T09:30:00.000Z"
+    },
+    {
       "title": "BEI Buka Suara soal IPO Persija dan Persib, Ini Penjelasannya",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVBCYTNJd3J6eHVWelpUaG5CY0E2UGFOdWJjZ1NJbTNDQVlQcVp1c0htWE1DNVc5RlQ1OGt5TlctNlp2YjJleE1VUF9JVnJKMUE1RkZHUW9hS3hLTE9DY0RFMHZiNko2TmxoTEtiSFNDR1FKRGc0VjU0VFZNcUFTeEd5d2VwZFBqTmtWbDh3?oc=5",
       "source": "Infobanknews",
@@ -78,13 +84,13 @@
     {
       "title": "SFAN Alihkan 99,9 Persen Saham Mitra Usaha Indofund ke Pengendali",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzFwa05nRW81NlFPTkVqTm1mcy1FcEQwUWdqYnNZbU8tS3ZnS3VSSmtXUFJBNWhlMFdTRkVmU2NkTnlFbnB2dEEwOEFESVdkOFJkVTFEVmZpSGllT0tHTkthMWU4b0tUOGZMOHlYN2k5UUY1ZkpySUh3anVJeXlnVVZuaVAycTdBVEV1ZFI3WEVxdlBHRWVIQl9odXNHZ2Fqa2pHclBRSHI3MzDSAasBQVVfeXFMTk8xcGtOZ0VvNTZRT05Fak5tZnMtRXBEMFFnamJzWW1PLUt2Z0t1UkprV1BSQTVoZTBXU0ZFZlNjZE55RW5wdnRBMDhBRElXZDhSZFUxRFZmaUhpZU9LR05LYTFlOG9LVDhmTDh5WDdpOVFGNWZKcklId2p1SXl5Z1VWbmlQMnE3QVRFdWRSN1hFcXZQR0VlSEJfaHVzR2dhamtqR3JQUUhyNzMw?oc=5",
-      "source": "IDX Channel",
+      "source": "idxchannel.com",
       "publishedAt": "2026-08-16T07:03:00.000Z"
     },
     {
       "title": "Batavia Prosperindo (BPII) Bagikan Dividen Interim Rp3,54 per Saham",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3hVVGlLWDk1WkxnQzRmR0VEU3lhYmlBNV9qdnNtVFVaNThpdTRvOW9MODJqRkxacFZZanl5bklwR2dEVy1Gc2dPNjdvQTY3TlhzakZESWR3TkxJWlN4d3BHNkd0bFNERzZRQ05HenJCWTEtSjVVM1R6bU9EbXJuTGt0VThXSldBODkteHhvUVphWFpNSUFqMXpVRV93TnpNbkQ0T2toVVliNEHSAasBQVVfeXFMTl94VVRpS1g5NVpMZ0M0ZkdFRFN5YWJpQTVfanZzbVRVWjU4aXU0bzlvTDgyakZMWnBWWWp5eW5JcEdnRFctRnNnTzY3b0E2N05Yc2pGRElkd05MSVpTeHdwRzZHdGxTREc2UUNOR3pyQlkxLUo1VTNUem1PRG1ybkxrdFU4V0pXQTg5LXh4b1FaYVhaTUlBajF6VUVfd056TW5ENE9raFVZYjRB?oc=5",
-      "source": "IDX Channel",
+      "source": "idxchannel.com",
       "publishedAt": "2026-08-16T06:33:00.000Z"
     },
     {
@@ -92,15 +98,15 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEEwZ2p3TVJnbXVnc3l5TEtPbXZ0VW4wMkp3N3pQV01wTEYwbENTaEN4NHpZbmtRZlc5Nk1HZi1VMlN4bE5iLVp2aG05RDFhQk1yXzFnX3FROUFONjhhOGg1STVLbnlselA5bjdOMThIeTBKNkRJVVN6QS1oRnp6RW4tYW1KLThYLUZHYng3RUsxWEhyc0lkbUtSV0tPSDhfWk5yTjVzRTN5MFFybVBhdHJNNNIBswFBVV95cUxQMU1PT3ZDb0xsdmVpSG1kZVoweTNTV2lBU3RlSjBiS0loT09vd0l2TFhRODhITzY1OFAwRFRGNUYtZmphZ1FWRFhLaWtkMi10cENqOG9fWVNzeWZmY1ktTEdXZlVmTlBweDBZaU1nME5pTy16VzlfZ3NXdDlNVll0aXZMMVhaY3ViaXo5d080YkxDaUdneEZVWWFOZVdQM3RpVVkxTFBVc0tHTlRqdk1Sa3NLUQ?oc=5",
       "source": "Suara.com",
       "publishedAt": "2026-08-16T05:52:36.000Z"
-    },
-    {
-      "title": "Kenaikan Saham FAST Tidak Wajar, BEI Ambil Tindakan",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXVpZkpXZGRvZ2ludEdIUnRhSmlSZXBLSWNGRWd4dWJ6RlpaeTJYSDRYUTRZU1oxSWhULXhZQ3dpQ0F5Wk9SbkxYU3AtTklldzQ4b3pJT196RlhyUVVNQlVnaGh6VlJOYTFYWXdKTmNLZHREa1k2WW1qOHNCaFFLWnVVeWVWbVE5ZlJ3N29peFFYNjEzQzhpRkhBUEdjZ9IBngFBVV95cUxOaHFwWHdqTHdTOF9FMnBGeUd4bUhSWXNjQmVBZjBFdmxXUU9GZll1bDdKMV9wNDFmcW5CVkdEOEpqV1ZFLTdmYVRlZEM2ZE1seWVuS2tUWlJTU3VtREoxZEhuTFB0U1VDRGI2VnRzWXlBWENjY0tldldWVlRFb3JQT3Nad3BSclBId1RHSXJoRFB4NmludTlIR3RpcTRUUQ?oc=5",
-      "source": "Suara.com",
-      "publishedAt": "2026-08-16T04:19:39.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Harga emas siang ini, 16 Agustus: SJC Gold mempertahankan harga jual sebesar 144 juta VND/ounce.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkdOaGRGbXplMS01TWpjY2Utazk3eVpFbmUxTGp1eEdMRE1pa0xiWC1oejFveW92OTd0NnpYZTYwUjk0OWJ2TEphcWY4UmR4aUFkMDZlaERSWjR3Q2Y4WUlQV3NhRWVOaUNPVzdRS0dCdlRZa0hUVlpoYU00WUx0alJ5TFp5X1dhTklxSXpTaHJ0NnF3TDZxeFhNTm5GUQ?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-16T10:09:20.000Z"
+    },
     {
       "title": "Perdagangan emas relatif tenang pada pagi hari tanggal 16 Agustus, dengan harga berkisar sekitar 143 juta VND per tael.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWS1PSS1xYU1jNUZ5MXZaeVpiSzk1aGQ5TFNCbHBxZnRBc2pvTmJxd1A0WXJjdmlsVW5aY2VuT2pPVzBmNVdUem9aS1JleTdlN1pPblQ0c3ZYSXY0OGJ4dmpaekpYNWNpRGJYNnNjcDIxZDNPUmZqTUJFNS1Kb2VRYzZPallyMEZIeEp5TkxRS1puYWZnM2xrNHIwMW40Z1pjcUE?oc=5",
@@ -118,12 +124,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYjRWaWpjZW9abDdvSko4eVRzbDRTaDV0LXBNeFBfaGlDU3lKbXZBbk1lQ0I4Z214Z0Z1dDJQM0xJeHhUZ1ZZTzBxLXRmdEZHaGttanNwR0llWXBYbzkwN1RvMXR5c0tmREwxamdwYVhkY3ZzTVVZaDdVbXFPaWVqSmprUkFZR1l3dFJ3UHNvRXhIZUE?oc=5",
       "source": "Vietnam.vn",
       "publishedAt": "2026-08-15T18:10:12.000Z"
-    },
-    {
-      "title": "Binance Daftarkan Tokenisasi Anthropic Seharga $1,800",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGFuakpqNDJ6WGJWNW5STENtQ19BSk91cm5xUEQwUTV2MmlKbGwyeDdVMDRLR2JVaXJhVnd3YmI5LU0zekJYNHF1eDBYSjFUTFZjLVQzZ2RqQkhnS1FGcjI2MUwwcEdXWVVFNU1haTljai1qeEtDV2g3SndJaHpfcEh3bnpFT0J6Ym9rdTJ3aw?oc=5",
-      "source": "Coinfomania",
-      "publishedAt": "2026-08-15T16:50:24.000Z"
     },
     {
       "title": "Harga emas hari ini, 16 Agustus 2026, berada pada level tertinggi dalam sembilan minggu, dengan Wall Street bertaruh besar pada kenaikan lebih lanjut minggu depan.",
