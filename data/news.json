@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:29:26.015Z",
+  "generatedAt": "2026-08-17T06:40:54.970Z",
   "headlines": [
     {
       "title": "Laba 3 broker saham terbesar melesat meski IHSG terpuruk, siapa saja?",
@@ -52,6 +52,30 @@
   ],
   "stockNews": [
     {
+      "title": "IHSG Turun 0,12 Persen Sepekan Kendati Kapitalisasi BEI Naik",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NQm5IWnFaUHI3TW1aOVVXWUZCaU4yX1JkUFNQYkwxRjlVcjFKc2Z5RnB3b1NGWWdtaUtWc3FWUkczeXd3NXYxSENUNHdNQmV5S2IteGR0OXJzN09naUI5ZkVLcEl0M0l3cjVaZWxYb1c?oc=5",
+      "source": "publika.id",
+      "publishedAt": "2026-08-17T06:17:53.000Z"
+    },
+    {
+      "title": "Indeks Saham Bahan Baku Tumbuh 9,39 Persen Didukung Kenaikan Harga Emas",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IempMQWQzeU5aMHZmQTFQV2tqdHJ5OUQ3SlhMdFBTSEFHSVJCMi1uQ29Jam1DT05ycGh4b0E4clA0NDN5ZW50NE9keU9od2JES0VrTkNDWGFIREZZZ202RG1IMFpJZENsQ2hTZmRJQQ?oc=5",
+      "source": "mediakompeten.co.id",
+      "publishedAt": "2026-08-17T05:55:14.000Z"
+    },
+    {
+      "title": "Indeks Bahan Baku BEI Melonjak Melonjak Didorong Tren Harga Emas",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51TDMta01YcVNHM21rWVNoNWZhdjVNX0VjekV4SXZtUmZwT0Q5bGFIUDNPOEs5Wk9nWGEyUkhYOHJzV01iUDlZeDdRNkZhZnl1eFNzRklEd25iNUliRnAxN0NGcw?oc=5",
+      "source": "Readers.id",
+      "publishedAt": "2026-08-17T05:53:15.000Z"
+    },
+    {
+      "title": "Saham Emiten Bahan Baku Tumbuh Signifikan Dalam Sebulan Terakhir, Simak Prospeknya",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUh6ekVkQ0xOVW1kUkVBNEdaS28xeHE0Vk1PQUNtWGs3Nkt0WmQ0VmFXUlhJYndrclgtMWdyU25BbExRNGI3b21HcHVBVEVvMmRuWHVIYTdLcmRUNGIwTERxYzJFOG0wdXM0RENqOF9sUUt1eWJBX1Vab3gxRTdDVDROenlnQU5QOTV3WlVMVnpYSmdoYXZGQWxKakw4NE12bjJsU1hEZTNRV3F1UXFBaFhVYk9MT1Jy0gGwAUFVX3lxTE1SVmhnLS00TVhpcHBINmFRQTdIZ25ZeEdZNHVxV25KUkFBUjMyTXEzOUVsOEVhQUxZQkNDWktvQWcxOXhOclFuNmlhSTRDQXV3aWdwWTRyZVNNQkxWamlxMjJBbGJNYkFCQ1l0cGpyTGpNQ3RxN3VhZWJVRWF0dW14TVlhVGFLdUxFQ2hCdW5iejFxVVFISmd3YUt6OHBBbld4ZW9rQlZveDFGYjQ3UkNf?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-17T05:50:13.000Z"
+    },
+    {
       "title": "BEI Menghentikan Tiga Saham, MDIA Terkunci Usai Harga Melonjak Tajam",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQUdlSjlRR0JqMGhKRll5Q09QcWFDMjVheGJFcDRJT1ZocTVfbWl6SFUxTnhhbzd4ZktzVE1zWXJIb0lUb3NQYmlCS0VrVzV4TmRJQWlsSzl2X0RUc0Q5QnJMUzdhb0otMGNNM1JwUQ?oc=5",
       "source": "Qoo Media",
@@ -74,30 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QSE9yTXE2NTlHT1AxUGI2dFF2Z0ZIZGpoanVWOXBlVTNTWDRjSnhzeUJweVZnazdMUGpjVDhwbWlyZ3lGSm9LdS1HNV9ocHNRbFhXRWJWRlRKSmRva1ZRVnRmaDRyTFRzYmp3MU5aLW1vUUlDM3owYkpnNFBURVk?oc=5",
       "source": "mediakompeten.co.id",
       "publishedAt": "2026-08-16T23:35:00.000Z"
-    },
-    {
-      "title": "BEI Hentikan Perdagangan Saham 17 Agustus 2026",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRZ0NrSWl3OVFoQnQ3SThlWmF3UEx6NlhVdGZsOEhlazlDOTh3UjVjbFNIcmM1VnU1RF9ELUJsYUhvRXR2QVpGdEx0dW9MNXp3VlFNU2FSaVg4RVE4SVlZUzNTRThOMW5MaDlsNQ?oc=5",
-      "source": "Readers.id",
-      "publishedAt": "2026-08-16T23:28:00.000Z"
-    },
-    {
-      "title": "Selamat HUT Ke-81 RI, Apakah Bursa Saham Buka? Ini Jadwal Transaksi Di BEI Agustus",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmVFekNDQ1pCX3VBdnBWRGxieE5ZQ2EtRkhPVnczV0k1RXhfRU00SFBERlZHQ2JPZ0RiZ3pWYnpHT0hCQ08zdDdYY2pkeDBMTjRsM1ZYR1l2TmNVaVlFNVdYT0tlaVRDY1pTaVV2em5rVGI5WVNQOExQNXluaWRkaUUzUWxNNWZlNEtFcWs2RVRadFpfV3kxMzZJc3RtR3FVemRKZm9ycnFuZFFCZ2NKUFdMY2dyTEnSAa8BQVVfeXFMUFRmLTBsb0Zsa1lIbUtQTUFZRmpVR3BJVWloVjZrUXY3aGtnSWtCYkFHam9qaXhvcHVPNU9PaWdXRVNVM2N3MHJ4cmh6aVM2MFFtTXVSdVg1OGRzTXI5VGhaTy1sUGo5eVRNcXgyOTVONTVNblFtZXJOWUhVakowOUFuZlFFUG1EUjdIT1QzMzJPRkt3U19lU3BTcXdfbjlOaDk3Xzl3SVJjZHhBT0lKaw?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-16T23:22:16.000Z"
-    },
-    {
-      "title": "Saham Sejumlah Emiten Bank Masuk Daftar HSC, Begini Kata OJK",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT0dpQXU0M2pyZnhhWjFiTkFnSXhYb1BhS2hwQUVqX3dGMy1aZGVTMjdZdEhFODNCNEd4Nld0bkJpNjRMVWo1V0t0aS0tTVd4WEhad1c1WGdLaDZ6Qk5WTGRYaS1vcUd0WnJfcGV0NWRjOERudmMySEMyeVFwVFNnaEZVTWZPV1M3ZnhkQnFrdndnUWRKdHR5WW1B0gGTAUFVX3lxTFBxNnVDeVpJLVdPdWsyOFBKM1RnRGg1bjRtZFlZa2JSd2dBYWpmeDBNeVg1VUVaTnlieEtCQWIyRmxudUZzOC13bWNDNjZVNkRyT2d0YUE4MzRzMXJRYm1vT0lKUEVhNTJvT1A0Rnh1aU1iMWVNbkcwT0FDVVpZWDFpcWZKcXp1Q1pGVWNVY3l2OEJGWQ?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-16T22:45:29.000Z"
-    },
-    {
-      "title": "Masjid Istiqlal Masuk Bursa Efek, Ternyata Ini Faktanya",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGxNVjRQbTdDc1dyWGx1eTJKZy1oX1dPM2VNejUtSUVLaEpQVlBOdkRNTXpQa0h1dlNlZk1VWEU3WTY2ZnpfZlNfOEUzU3VnbnJ3eXJSdHZoMERXOFVYc1QwdzNHU0NjT0FZSEE4UDV2MFNYVU5zNzJGYlQwa015eHFMV1ptY3otdnM5dGdqeWxpUThRTE9kQnJjTU9pZXB2VzRvT3hlbUdMQmp0ZkHSAa4BQVVfeXFMUHhsTVY0UG03Q3NXclhsdXkySmctaF9XTzNlTXo1LUlFS2hKUFZQTnZETU16UGtIdXZTZWZNVVhFN1k2NmZ6X2ZTXzhFM1N1Z25yd3lyUnR2aDBEVzhVWHNUMHczR1NDY09BWUhBOFA1djBTWFVOczcyRmJUMGtNeXhxTFdabWN6LXZzOXRnanlsaVE4UUxPZEJyY01PaWVwdlc0b094ZW1HTEJqdGZB?oc=5",
-      "source": "economy.okezone.com",
-      "publishedAt": "2026-08-16T22:11:17.000Z"
     }
   ],
   "macroNews": [
