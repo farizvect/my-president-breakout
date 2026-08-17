@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T17:21:02.268Z",
+  "generatedAt": "2026-08-17T18:29:13.150Z",
   "headlines": [
     {
       "title": "Laba 3 broker saham terbesar melesat meski IHSG terpuruk, siapa saja?",
@@ -18,12 +18,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkVMVzFvWWhEMlVQbTNqUUM5UzBOeXpwX3lpdTN6TlJUWmlXYU9zYXByaHRLUzVyY3JoQTVURU9IU0NGN0E2TXlyUFp5cTd2Qk5ZY2lxd1daVlliN0ZlOXgxdDgxY3lfZzJzNTNJcUh3blVmU0p2UU9lbmJFNWRmRG9zOWYxVjVjcnFrVWgweklReUJjVnY0?oc=5",
       "source": "investor.id",
       "publishedAt": "2026-08-15T13:00:00.000Z"
-    },
-    {
-      "title": "Bursa Sepekan Susut: IHSG Turun Tipis 0,12% Jadi 6.401",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWUVnNERON2l5dU5Cb2t5ZllhS3RKR05DeER3cExwczl0TjNmSWpORDkxMHpDQmhmVHJsMFd3SVd1X0pEN0RUTnR4dTdFM1V5R2xQQzM4UzdobmYzT0luVnB6TlktdE00NzBJSXdlakVfbHhkTGgyaUhoNV9FUDlGZFZTWENrVXVRdGVNSlVUU1kxS0c5QWRtZmxmdnpNMVpIMHc?oc=5",
-      "source": "Validnews",
-      "publishedAt": "2026-08-15T02:21:30.000Z"
     },
     {
       "title": "Ekonom: Pasar Sambut Positif Pidato Ekonomi Prabowo, IHSG Naik 1,59 Persen",
@@ -46,6 +40,12 @@
     {
       "title": "IHSG Tembus Resistance 6.400, Saham-saham Ini Jadi Pemicunya",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaTkydFdDVUtMOU1mcF9XU2FSSHRVWHlRMkZxNHBJX0hBcHd6M1NHU09NSGJrR1NUUDFwYVo4dFZNa0xrWFBrMGJGeEQ4emxVSHVHUmdHY2ttcUtqSzV5Q2hlQXBXdjBaejlGejVkc2xWaDEtNTJZdEdGQmFrVzRnMXY1Q2w4VUZETGt1d0ZmRDVkNHJHOFhsYjlUd3hUQVlKeVFmc2VXMGdCN2dEb19tTQ?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-14T11:00:03.000Z"
+    },
+    {
+      "title": "IHSG Tembus Resistance 6.400, Saham-saham Ini Jadi Pemicunya - Market",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXgzUElta3puWk1VRm1Kczh3bkpDOFp4Q0FfdHBic0FzUmdJUXhMV0hMLWp3UVFGNzdRWkJadExDN1Y0MWUtcGl4bmIzVk5VM1JZYUVHWjRBWDNPWklnN0psc3NlV2lTeWc3cVVpRzhfMjZmMDhodFV3MXpHd2w3Vk90Wjc2M1QyRFk4Qk55NzFHamtEb1VXWXhhUkZWdzhLTFgyQ0ZBM05Sb21DNU02YWVsWQ?oc=5",
       "source": "Bloomberg Technoz",
       "publishedAt": "2026-08-14T11:00:03.000Z"
     }
@@ -114,22 +114,28 @@
       "publishedAt": "2026-08-17T15:58:23.000Z"
     },
     {
+      "title": "Wall Street Melemah di Awal Pekan Karena Ketegangan AS-Iran",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1abUxBLUJZZzZyX1JnZk5hVk43OFpCVXFnQXdKNG03MG9hZ2NmR3RsYzRYTGpiSnlPYlBCX0Q5Vk1pRkJSQzdKTE92MXh2NVFVcERGeEh2MzhqYVprb3RYbjZPY2pibUtkd2wxMzN1WU1VZw?oc=5",
+      "source": "sekbernews.id",
+      "publishedAt": "2026-08-17T14:33:26.000Z"
+    },
+    {
       "title": "Wall Street Lesu: S&P dan Dow Dibuka Melemah Usai Iran Kembali Ancam AS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2F0eGJ6ZEt5ZDN3Yk4xRXlYQ3VfRUIzdzdBRTkxMnZULUh5b280TmdOZ1JiX21ESWp6VFh5cnQ0b1dOaC1VaE1XVlJNNUhZQWtkUTM0ZjlOODNrdkVKZ2xzNUJLWFRud04tTFVOR0N2bHI0N3pWYW1nMEdlYWJTeF9vb1pkSW4zQW9faTJUcUNReG5pRmNVMHhxQW5BUHpPYnNoZEZVZTVvZF91N2fSAaABQVVfeXFMT1dPRDlScXA3QnJ0OGlUSHBJd2gtYWhtNk5DSzJOS3VtTUxFa0VmWlAxRXJlZXpqcTU5VFBKMERLcnNpZFRpd0NXamtlYzRCclFDa0Uwazl4UWdjSGNkcFpJb1dnMjlNUUhWQTdTMGNpZkJGS2FudlduU1NmMFQxcS1TWk9pdmNaVU1KVDd5WU1vRUNWeDdKaTVUWkhPZElHQQ?oc=5",
       "source": "kontan.co.id",
       "publishedAt": "2026-08-17T14:28:55.000Z"
     },
     {
+      "title": "Data Cuan Anthropic yang Fantastis Dongkrak Bursa AS - Market",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPams4cU9VcTllVlR5RGR1VWQ2d1l3NGI0MXBiR3NJM0p6VDE1V24zc0IzZUlrZDVTTUgtM3hJMlB1R1BXSXZaWnNKckctOUlNWVRpV0lYUERPUFR0WTVTV3Rwc3VxTTZ3VEdiLTRuaEpaRkFNcVhyNDY1dVZ4eVZyQkRMQzdnUDdVSG5wdGNLSUFFX3N0TTh4M1ZYNlFDZTBfenA2dndIQThDQQ?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-17T14:22:32.000Z"
+    },
+    {
       "title": "Nasdaq Dekati Rekor, Forward P/E Masih di Bawah Rata-Rata",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFNsc09sYWxKMTZQV1pUbHN2dV9xRnRRcGtFR0RtVDVSUGpVZ0lQclNVdlllR2VQQVNfODRHbzR1WlZzd2Z2My1neHQxcENrQjZpT2JYdEtwSV9iY2xPUE9SUm9RVU5SeU1CU0FjcnNMd0RxekFlRnh5dUFVX1BENTRwMVo4b0lnQnREMVRUaG9ybC1RNDB0X09MYlJOZ2J2NHk2dHRQTVRId1NXOWNlaQ?oc=5",
       "source": "XTB.com",
       "publishedAt": "2026-08-17T14:07:37.000Z"
-    },
-    {
-      "title": "Data Cuan Anthropic yang Fantastis Dongkrak Bursa AS",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzJ2ZWpBRnBhLUNudVFjWXB4V0M5ZEF3ajYzSk1mdUtxdldnX2FYWkdkMW9DUWZ6OGdteEJrVUZCdWtOZG5Ya191RGEwRWVLV3VJVk42S1dWQVRYWkRrdDZpNXh5d0dKTkZkdDBpRm9hVUlRQkpNUmFCVHBjbjFnOGE2blBEQ216S0Z4Zmlrc3hjT2wtSEFQRkJDSjJzS1Y1X2VGY0tCTQ?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-17T11:12:52.000Z"
     },
     {
       "title": "Harga Bitcoin (BTC) mengikuti reli pasar saham sementara arus keluar ETF sebesar $390 juta dalam minggu ini membatasi para bulls",
@@ -142,12 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlNaVHVEbUNZdU5XM1pCNmEyOTlVYlJCZ1dpYy1jLW5SUmtXRzZhYndFZmVLV3hyVnEwaVc4YXFJNDhLMTdqVUlfSmhuejZsTUZTT195TGJIYzlwdllEaXVTOHoyczZwcDRrNjkxaVVmcVFHRDNEUXFnd01DOUFKenpmOA?oc=5",
       "source": "Vietnam.vn",
       "publishedAt": "2026-08-17T10:42:42.000Z"
-    },
-    {
-      "title": "Mengapa Copper Squeeze Mungkin Menguntungkan Saham Tambang Ini Lebih Dari Nvidia",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZdUF4Vm0yb2RUWVZhVVM3dzlrR3dIOWFHR3picEJoZFY2cDRPblN6Z25QRnJ3akdxbmszMTVGdjFUckFwYUlYM2wzbzF5ZmRxcnpnM2Zzc0NUSnNYS3BHaWFIVlVXTVZJek5QYnBMREVWQ0l0bVZKRUhjMGdfQQ?oc=5",
-      "source": "BeInCrypto",
-      "publishedAt": "2026-08-17T10:29:00.000Z"
     }
   ],
   "errors": [],
