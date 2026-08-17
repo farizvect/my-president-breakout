@@ -1,12 +1,6 @@
 {
-  "generatedAt": "2026-08-17T20:18:53.047Z",
+  "generatedAt": "2026-08-17T21:19:57.174Z",
   "headlines": [
-    {
-      "title": "Intip Proyeksi IHSG dan Saham Pilihan Untuk Perdagangan Selasa (18/8)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUpLUHM2b09TM2h5UTZHVHhiZFJzcFYzZksyYkxYNkxqOGN1dXlJd2VaZmJQOVpVTlZyYzF6dEVpVzM3NWtqbU5iSC1VOWp2SmRFU3NPMldoc1gxVk4wbTdJU3E2cWJIaFFwYnRxVTlubjVjRmtFQUpnZXJTTlZTOUViMVVPUVlNa3hvZDNrbWxGYXlXNDduVXZSa01zUGd2emstdNIBnAFBVV95cUxQRmpBLTRJNE5JUUpmQTNyaW9IQ09nSzg1Yk5zcVctc1BoU0hVQ0RZdXd4M2Q1SGdxRm5QNG1IQmZTbl9hd2I4VmJyc3EtY2wwbmpMSkZreTlvNk5leVBfbEFycHNmTTEyUXRUYzltWDB0bVFoZjdKenNVUzFwVXN3WWFNOVdWQ3p2aXVuZUpUZFowUFJOWUZoTzFrVjg?oc=5",
-      "source": "investasi.kontan.co.id",
-      "publishedAt": "2026-08-17T09:22:33.000Z"
-    },
     {
       "title": "Laba 3 broker saham terbesar melesat meski IHSG terpuruk, siapa saja?",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVVuZERJZkFIV0ttSy1uSm9TVlNmdU1DOVB6cDE0QTJEUFplRVduRFdjeC1PczZBTEd6RDBYbHJpaWEybTZFeFRIZ3Y1VEVIZHBmM1I1MzVyMm0zcG44MVA5RWhQOVR3R1A3R19jQVczeEFUOGJIWEFNQ3BzdmxnWHVJd1BrbkpBeHV6ZHp1clljQU1BOVE1c1A5WGNOMEE2TGhpWFNaQ18yNkY0VnZRbHE1MjA3V05jQ2c?oc=5",
@@ -18,12 +12,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnRQaG84NVBUZkd4RFBxU2ljYjl3Y0Vtb1lTYnRROFFoWVlEcmJVOE41MURIZlNucWhGV0dfWUFrYjF3QXVQNUFNd2NsUXp4eHRtdEM4TExfWV9oZnlualFSR25IUnJodkxtNFYtY09RRFZNMHdpMzJoRHhPanp0ZUJVa214UWE3ZzdpbmdTaw?oc=5",
       "source": "Infobanknews",
       "publishedAt": "2026-08-16T08:05:38.000Z"
-    },
-    {
-      "title": "IHSG Melemah 0,12 Persen Sepekan, Transaksi Harian BEI Susut Jadi Rp15,21 Triliun",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVdObmJ1YnZxTnBpN1JvUFBYWENNZjkwYzg1bzZmZVBIN3RRU0dORWZURmV3cW1oQVFlcEh1R3Q0dVFtR2NWbjc3TWZXd3FfeWNCNjBvNVpDZlBmWU5tb05lTWpFbmRkbURfaGJnOEF0ZW5aN01xdkI0MWlkcmt5VUh6cnZ0TFFEcnVWMnl4TW52eWtJckctS3BOQUs0dDJDNzA4ZXNR?oc=5",
-      "source": "Infobanknews",
-      "publishedAt": "2026-08-16T07:27:00.000Z"
     },
     {
       "title": "Prediksi IHSG dan Rekomendasi Saham Selasa, 18 Agustus 2026",
@@ -38,23 +26,35 @@
       "publishedAt": "2026-08-15T00:32:00.000Z"
     },
     {
-      "title": "Pasca Pidato Prabowo, Apa Kabar Pergerakan IHSG Hari Ini?",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVo5bm12cUZOU3pJV0NNNWVVejFmUzJyZlhBTnItQ3paUW1EUFU0SzVXNGJuOC0zMkduUEZ2U1RZWkEyd1J5ZlpjVUVyTjBTUnY1X2FzSmZDS21CTkpxdTNNVEZXRFVUMUktazVodDlVbDRmVFdVcDZvY0x6Vi1yVEkzVXdLLVROVmZNS2hnV1JGR0xxdUx1bEJnazhSZw?oc=5",
-      "source": "Listrik Indonesia",
-      "publishedAt": "2026-08-14T20:54:09.000Z"
+      "title": "IHSG ditutup menguat 100,12 poin",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNYzZZd1g0SHRiejZvNTVhclJKQlJJOHZUQ2dva3d0QlFkNEN5Z01BOW5Wa2JOVGRIS0pfZGhYbFVtWkNxTlNPR05VRnRGQWJuTHpzak15aTN3MzlSQTV2V0YzUzMyakZOOWgyZjU3RC1Ma2tXekQ5N1lsNWQtNk3SAYQBQVVfeXFMTS1lbVdzdU5KTmh0blBxa2tVc3JudlNzSlhUT1gzLUdvQVBMbG5TNmVJRzM2c1VNMUhrNTQtZmhsYW0xZ05vbm9HM3UtNUlqX2luR09NR2JfMVRGY041Z0hkMUdYNm90YXZqbXp6Z0w0cjczVHpaVjJHclRQN2EzM3ktR1dN?oc=5",
+      "source": "ANTARA Foto",
+      "publishedAt": "2026-08-14T12:35:00.000Z"
     },
     {
-      "title": "Meski IHSG Melesat ke Atas 6.400 Hari Ini (14/8), Net Sell Asing Tetap Tebal",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEpyejB5bUZzZ0UzNE1FR3lUT2Y5aFNXV2J4bG1TUTRMVzdZQW55TnQ2NldQYWpMd052dmhLeTAxcjdFVElfQnpXNUtvLXFlXy10VWpLWS1BeHpLam54bFZEOVhfOTYtMUNsczN1VTVpcGVJNVVzQjJ2c3lTUlpNLTM0d0Q3U21RVW1oMDNVVWlmaWNqcWEza1R4aWVsNUZYUmhxZ1hOR1Z5eG8?oc=5",
-      "source": "Pusat Data Kontan",
-      "publishedAt": "2026-08-14T11:55:50.000Z"
+      "title": "IHSG Hari Ini Ditutup Menguat 1,59% ke 6.401, Simak Top Gainer & Top Loser LQ45",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkRfaW5qaUROY2RiejhuUXM0YUhTZW1SZ2E2anVnQUI1cTktREJRU1dzd3lzVkRfemRxYUVEZDZsa1VjOFZreDlBemdRbjNqdXc2R09aV1pQcnUwZ2pVX2dXd0FqajNndG5NeFRvemxBeUlOM3liMlJBYkVVREVLak9qSnBvMEh0d1RJNml5SlhyaDNlUEcxQ250Um1zZEw3UVlRNWhiTldfdkxhYnc?oc=5",
+      "source": "Ajaib",
+      "publishedAt": "2026-08-14T11:37:08.000Z"
+    },
+    {
+      "title": "IHSG Tembus Resistance 6.400, Saham-saham Ini Jadi Pemicunya",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaTkydFdDVUtMOU1mcF9XU2FSSHRVWHlRMkZxNHBJX0hBcHd6M1NHU09NSGJrR1NUUDFwYVo4dFZNa0xrWFBrMGJGeEQ4emxVSHVHUmdHY2ttcUtqSzV5Q2hlQXBXdjBaejlGejVkc2xWaDEtNTJZdEdGQmFrVzRnMXY1Q2w4VUZETGt1d0ZmRDVkNHJHOFhsYjlUd3hUQVlKeVFmc2VXMGdCN2dEb19tTQ?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-14T11:00:03.000Z"
+    },
+    {
+      "title": "IHSG Tembus Resistance 6.400, Saham-saham Ini Jadi Pemicunya - Market",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXgzUElta3puWk1VRm1Kczh3bkpDOFp4Q0FfdHBic0FzUmdJUXhMV0hMLWp3UVFGNzdRWkJadExDN1Y0MWUtcGl4bmIzVk5VM1JZYUVHWjRBWDNPWklnN0psc3NlV2lTeWc3cVVpRzhfMjZmMDhodFV3MXpHd2w3Vk90Wjc2M1QyRFk4Qk55NzFHamtEb1VXWXhhUkZWdzhLTFgyQ0ZBM05Sb21DNU02YWVsWQ?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-14T11:00:03.000Z"
     }
   ],
   "stockNews": [
     {
       "title": "Kapitalisasi Pasar BEI Naik Tipis ke Rp11.243 Triliun",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQakpxZDZYZkFzRGphSnNjb3liMzd5VlhHTHpjZDl2ekh5Y0J1TF9rY2lZQU9JZWZ3aDUydXVreTh1NW5KUWhwNzBkVnlZVVhSZGg3Yy1Hdmp4dUpyRXJSQnlKbDU5MDdZcWNvZHc1T1FxQnR2QXd2XzdXeS1yOVM0d1RVLXRqQXZKZlE?oc=5",
-      "source": "swa.co.id",
+      "source": "SWA.co.id",
       "publishedAt": "2026-08-17T15:50:00.000Z"
     },
     {
@@ -78,7 +78,7 @@
     {
       "title": "Saham Intermedia (MDIA) Melejit 318% Akhirnya Disuspensi BEI, Manajemen Buka Suara",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNnItOXNuYUpKRGYxbEFNZ2Y2VzRvVGZ5MVVyYUNxcmE4SXliRXhIVzBQclZ3WXZLQUU2TGpEVHBycFFtamUta3lXcjJFTGlITnFWREpiSU54dkJNc3J2bzZmb2Z3bkJwZEp5eC1hTWphYlZZdGVfbW5nNDhhRGJEbVFnY2FxenRJa0kwQ1hRSXhCaFJYV2plZFFFY3Fzdi1JMGtwdjE0cjdzZ2ZFSkdWUTBab1LSAawBQVVfeXFMT1RPWVl1SHlaaURhd2ptZGpmTTNkSmxzNnJlZjdWM2d4bDNuTkF4UllwVy1Renk0UmVGVW1GUnhKZkl6eGhoaFZkNENEQUphb3gzN3RzODkyRGFCNkVwelBSajFfRkU0YmtyeG9wQkJNUnM4bWc0b1pkTlFMSjhOdTlSUFVrRUJLNjVka0pGMnJhZ2ljM1h2NUJSREZXa1A4SDNNQnBuSFBCOWFUdA?oc=5",
-      "source": "investasi.kontan.co.id",
+      "source": "kontan.co.id",
       "publishedAt": "2026-08-17T13:53:00.000Z"
     },
     {
