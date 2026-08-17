@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:17:09.544Z",
+  "generatedAt": "2026-08-17T03:43:25.890Z",
   "headlines": [
     {
       "title": "Laba 3 broker saham terbesar melesat meski IHSG terpuruk, siapa saja?",
@@ -52,6 +52,18 @@
   ],
   "stockNews": [
     {
+      "title": "BEI Menghentikan Tiga Saham, MDIA Terkunci Usai Harga Melonjak Tajam",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQUdlSjlRR0JqMGhKRll5Q09QcWFDMjVheGJFcDRJT1ZocTVfbWl6SFUxTnhhbzd4ZktzVE1zWXJIb0lUb3NQYmlCS0VrVzV4TmRJQWlsSzl2X0RUc0Q5QnJMUzdhb0otMGNNM1JwUQ?oc=5",
+      "source": "Qoo Media",
+      "publishedAt": "2026-08-17T02:48:07.000Z"
+    },
+    {
+      "title": "Harga Saham Tak Wajar, Emiten Grup Bakrie Digembok BEI",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZTRONXFHNG44Y2hlUUthTXktRFIwaWFtYVgtd0FMOWFMelRwZlFqdDl5TDdPMTZ1Q01vVXFib0xQVFM5WVQzN2oxODd5SkVWNEROMVVxdl9ndjZjMnZDMDlwbW9wT3diSXFGVWxuZFREV2drLUZIRVBEMEVNenFmT2lObFBmZ1dEbldoM2xHVW5QUVRPeEJ4UlNnYXN0S2xJMUHSAaIBQVVfeXFMTmFsTzd6ZmZpblFBcUNHYTlwa2JYeDg5LWtlbDloSTRoVmxUVVlIYVQ3VG1sWTZHc0Utbi03WFR0cFhLbW9CNVZWbF9heTFScG9uZkZQLWt1MnlndmsxOEhlWmdZTVJNcWZobVN1RUZua0tJSElFU2lzZ2RPcHZ6NHowTWFUT0EydUR0ZDR4eE02QTRwNzEyZW5xUmNRMUN5R1J3?oc=5",
+      "source": "suara.com",
+      "publishedAt": "2026-08-17T02:35:00.000Z"
+    },
+    {
       "title": "Demutualisasi BEI vs Freeze MSCI, Ke Mana Arah Reformasi Pasar Modal?",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZEZoTlNHYkpJZ3dOWUhQRG5OeUtwWFZUX1I0NUxmY2dhXzFIaTVRMmp1dDJSRFpUWExIa2ozTUFWRUwwR0lMTkNhRF9ORHFYalNtT25RN1dYcUhOdW82cmVDdm1rTUxjc3NESFZrSTVDQlNTNExvS05NeEZFZEtrUWwyaVItMDFZRlZDQTc5cjUtand3ZWtGMzAtbFZ4QkVM?oc=5",
       "source": "Emitennews.com",
@@ -86,31 +98,37 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGxNVjRQbTdDc1dyWGx1eTJKZy1oX1dPM2VNejUtSUVLaEpQVlBOdkRNTXpQa0h1dlNlZk1VWEU3WTY2ZnpfZlNfOEUzU3VnbnJ3eXJSdHZoMERXOFVYc1QwdzNHU0NjT0FZSEE4UDV2MFNYVU5zNzJGYlQwa015eHFMV1ptY3otdnM5dGdqeWxpUThRTE9kQnJjTU9pZXB2VzRvT3hlbUdMQmp0ZkHSAa4BQVVfeXFMUHhsTVY0UG03Q3NXclhsdXkySmctaF9XTzNlTXo1LUlFS2hKUFZQTnZETU16UGtIdXZTZWZNVVhFN1k2NmZ6X2ZTXzhFM1N1Z25yd3lyUnR2aDBEVzhVWHNUMHczR1NDY09BWUhBOFA1djBTWFVOczcyRmJUMGtNeXhxTFdabWN6LXZzOXRnanlsaVE4UUxPZEJyY01PaWVwdlc0b094ZW1HTEJqdGZB?oc=5",
       "source": "economy.okezone.com",
       "publishedAt": "2026-08-16T22:11:17.000Z"
-    },
-    {
-      "title": "IHSG Turun Sepekan, Kapitalisasi BEI Naik",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mSkw2d2N6RG54bUN4akotelJzTTZpclpINkhVZlFrUjJGSDRETkFDZkJxbHd4TlB6SWJncmVudzZqZlN1MUJTVmFmSlZibWlwdDdZMXRQZUdoSWtnQnNGQ3JGUTE3MGFoaDFNQ1FVZTd0YWRreGZjVUdn?oc=5",
-      "source": "faktakalbar",
-      "publishedAt": "2026-08-16T16:28:29.000Z"
-    },
-    {
-      "title": "Profil Alex Widi Kristiono, Resmi Jadi Anggota Komisaris BEI",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS09pRVFmRVVHanc0Y0xyYUo0bnRxODF2Ujh6OG02Mk9mUjA1ZkVfVkpyOGhmejNTY2FCRXNxLUludXJMZ3ZYTF9fSW5TYnhNLVBQY0ZjbTFwTUtsc0lNZDQ4bGpEZml1Y2VDVVJnanlNSlJXblRGcm1pMHRfaEJBSllac1pULVhMdGc?oc=5",
-      "source": "FORTUNE Indonesia",
-      "publishedAt": "2026-08-16T14:35:00.000Z"
     }
   ],
   "macroNews": [
     {
-      "title": "Bursa Asia Bergerak Sideways, Investor Waspadai Harga Minyak di Tengah Perang Teluk",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ1VOT21TV2VFTmJNSkpMQWZubXRreEFscHBxeU5kUE1CVEtEQThNSDRLUUtTY3cyeUtIREZlckZpUjA5eHFmdUplcF9tNk94N2tYRk50SHRoTWh5YVA3LWFxdUduZlozb0pGNTF5U1h1eXBsRzFoSWw0ZHFfZkZIa2YxSmNRdVB0bldfWHFFY21fX1JXSlZUTTVreEF1ZkZhOFpoTDZNdG8tNmxEZnh3UkUzam5ETl9VTXk4X05uNNIBsgFBVV95cUxOd0NhTTBOZWZnRVVNaW9YWXpIVlAxWThpd3puU0hLUUpRQVpEcF8zdGZGSDN5OThPV2NvR0RrSXlKOVk1MmczNkZ5ek4yTmQwU2oyZFhfa3RTY0NwUG1fdmxLVWtURjJINFhzY3dTMjBCVEJkNHU2RWhaRk92aUt2elI4WFVLZ25hWmp6cVBlVFJ4Qlpteld5Z25IeS1HVjBkd1JKdW9QWUxmX3c2X3F0c3lB?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-17T01:55:14.000Z"
+      "title": "Harga Emas Antam Hari Ini 17 Agustus, Naik",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HQkJNLVdtNmhHN1BxYm5pZ1ZvaWgyOUtPWTd1S0c0dXBucXJTVy05NjJCQzBzT0xFbDhlZm9qajBCa0lNbGt2ZnQxS2s5NXRFamNBcFMyRDNFSE1oZ045NjAwQ2w2SVVxMktwYktGd2pvVnk2ZlHSAXhBVV95cUxOTlNJbVloRXNqZVpPQjhUQVRmOFdCLUxSNDdic3ZSbDlzeDBPU3o5di1uN1hSZnVaUVQyMHRkZ0NoQ2U0d3NVSDFqWndhUXN6LWk1VkxGMTUyVGtLVjJVdHdDdzR0WktGNm5JblBZeHJaVG9vUmpZQng?oc=5",
+      "source": "JPNN.com",
+      "publishedAt": "2026-08-17T03:00:00.000Z"
+    },
+    {
+      "title": "Bursa Asia: PDB Jepang Meleset dari Target, Nikkei Bergerak Datar",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3JhNkI3NG1ubW1JZE90cXIxWUg1eGNZME5XQ19IZS00d3lyVXBLenlVYjhaRVJabjNZcHIxbnYwQVB5UzgwUGl1T0hKOWN4RXVIV0NpZ2E5OTVTbURITXlIQlhKZ0RTZERQSHV2V0I5TlY2VWZlbTFnQktkU3ZETG5NUGo3VU9WZ2RuLWROMTgyaEhEOUhud1J1VUFBSkQ5WWp5YTdIZVQ0dw?oc=5",
+      "source": "KabarBursa.com",
+      "publishedAt": "2026-08-17T02:35:00.000Z"
+    },
+    {
+      "title": "Stripe akan Mengakuisisi OpenRouter senilai $7 Miliar, Valuasi Melonjak 5x dalam 3 Bulan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU05IUDE1WDZ4MWUxaEd6ZlFjU3BFU0J2eHVaQkFaWHRHajJqZ19yc0JGclFUNy1SRVlfQy1wRVZXeHQ2Y0l5QjNHMHAxeUdkTENtaktvWUl6Q1RkRlBlYi1LNEZrYXZpUFg4eXBER1BjU3RSLVZlcjFhb0hQbGZtTGliQUZ2VHU2RlBEWnlQcmt1dzV6NkJYb0h2czk3MVJBeGNCTVJBTGR4ZWZkeXpBVw?oc=5",
+      "source": "KuCoin",
+      "publishedAt": "2026-08-17T02:29:02.000Z"
+    },
+    {
+      "title": "Prediksi Harga Emas Sepekan, Lengkap dengan Faktor Mempengaruhi",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHotT1lRWmRhVTBFdGVMeGFQcURDRlhmVmw3eDh3Y2ZSWHUxcUdTb0JPTTZ2VnNtNEJGVEFER1hWZnpWS2RJNTlhQXV6bEhaemhucGtIUkgweWd1R3JlRmx1aHpKMWFsam9oY2FacVZSdWR4cTJoNjlfWFB0S1VMMGt0ek9nMUdUMF9HeDVqNm1ObWVRa2YyQ29kR3dxajBWWWdsVU5PWQ?oc=5",
+      "source": "merdeka.com",
+      "publishedAt": "2026-08-17T02:26:47.000Z"
     },
     {
       "title": "Wall Street Terlihat Tenang, Risk Appetite Mulai Muncul",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdElGWmY0dFhRbjY0YTh4TGp0NnZXN2o2NG1mNmNLM2ZFcHlaQzlTNDAwTzNERXpuYnVrSFZlQkpPTjVBenQ3bzJ4NzBaOHJjWENlN2tPVTdkbm1xYVlLbXdHcWtYdGhCS2R3VjFmdDdCTE5ZLUduTEk1eXhkUzN3dVU2VQ?oc=5",
-      "source": "beritakota.id",
+      "source": "Beritakota",
       "publishedAt": "2026-08-17T01:03:00.000Z"
     },
     {
@@ -120,34 +138,16 @@
       "publishedAt": "2026-08-17T00:41:55.000Z"
     },
     {
-      "title": "Melihat Prediksi Harga Emas Sepekan, Naik atau Turun?",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMVQ3NnNaOE1SMUF0Z19pZlJEdTFrdF95dFJweURlaFY4WldUYlZibkJINWVlZ0hGVVNNVmxRa1Q4UklBMG9sZ1dhdGM5clpremFsYVZOYVNhZWRjSW0tUmYxb3VrTG9URHdzWXhDR1Y1dEExRlpiYTZibnRQNWM3WWNDRGJzeUlGYzRWQzlNRmZHcGdHZ3BuY1F5VmXSAZIBQVVfeXFMTTluRFdBSXNtU2xZTU5GZVZvZ0JXRU44Tm1WbGdyamItZmlVRUpkR1F0RldSNDJST0w3ZGcyLTFILW5RYUY3Sm1QVGVLNzdEZHdjdDVScDlzekF1aUJVbVhPVHFiUUNsc2RJUS1JRThWckFoVG5CNld3SUhtY1dxRHNIamxUc2F3N29xSU1aN3hOWVE?oc=5",
-      "source": "Liputan6.com",
-      "publishedAt": "2026-08-17T00:30:44.000Z"
+      "title": "Stock Futures Wall Street Flat, S&P 500 Catat Kenaikan Tiga Pekan Beruntun",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWWF0aTRtU0lKdTk4YmdDQTZPU2ZNRkM1bHh3TXVhYXJlTDAwV3Zmam45bzBrYktHM3ZpcDU1ZjEwLWN1QXlkWVFGQ0xTeDJLUnU1M2NTLVNqdTM2YlMyNFFBNlIxZ2I2Z203X1JUVDRrX3NrTW9mT01fMzZNeEIza3Nyb21MVUtEaVk5YmQwaF9CODBRRkZ3cEo0dWR0N1XSAZ8BQVVfeXFMTllhdGk0bVNJSnU5OGJnQ0E2T1NmTUZDNWx4d011YWFyZUwwMFd2ZmpuOW8wa2JLRzN2aXA1NWYxMC1jdUF5ZFlRRkNMU3gyS1J1NTNjUy1TanUzNmJTMjRRQTZSMWdiNmdtN19SVFQ0a19za01vZk9NXzM2TXhCM2tzcm9tTFVLRGlZOWJkMGhfQjgwUUZGd3BKNHVkdDdV?oc=5",
+      "source": "Stockwatch.id",
+      "publishedAt": "2026-08-16T23:45:56.000Z"
     },
     {
       "title": "Di Balik Tenangnya Futures Wall Street, Pantau Risalah The Fed dan Rilis Ritel Raksasa",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3Bma2x0QXVvWUtXcTQ2aDBVOVNDZGxpOUtsZExsNlRwQk1QQzNvc1YyanlFRmp0ODlyVGlxdmRZZlh2eW9qOXBhNTBJM3FfUWctaDV4c1gxM1I0RUIxWS1ZMzNQR3E2Y0dJd3hId2IxaEQ1VldveF9Gd212WGN0aWgtdmpOMlRzNi1fX0l6SnhxdnlRLXhUOG82Y2NYX3FqQm5QTGJScDFGczJVMkN3RTVvLVg3Sl9DalE?oc=5",
       "source": "KabarBursa.com",
       "publishedAt": "2026-08-16T23:07:00.000Z"
-    },
-    {
-      "title": "Dow Jones Tertahan Akibat Cisco, Peluang Kenaikan Suku Bunga Meredup",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYUpXQlllSzFkd1RSbDNZYjVqeTZXWnNqcy1wTElZVEFKZ2VsS3doTzZ2UlFGd3lQa3ZHcFRGOWFOV1Y5ZWdXSWJjbThieWxiUXZLSTZaNHQtSHA1NzVQX3dfUEYxZG00dHk1NU9yX3F0WW5zSkttVVAweUhjM3ZVR3V2aHI5alJzRmluUUJjQzR3d3ZMeVgyWjA2bTNPaElRX3c?oc=5",
-      "source": "cetro.or.id",
-      "publishedAt": "2026-08-16T22:24:17.000Z"
-    },
-    {
-      "title": "Prospek Pertumbuhan Ekonomi Jepang: Menakar Dampak GDP Q2 dan Data Inflasi terhadap Kebijakan BoJ",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3ZJU2xtWVJSdHNiUWs1TEd2WEdlOWI5OWNWOGkzZXd5VjZGUHh4bGZ5YnNTYlIyTUVfTVhHdkRvb00xcVk3UlNDM1VCSHEwOF9BY2FiZ3ZrQy1hMUxudXZ0U05aaDV1bDBsOE1MTzZwbFJpWFNpeElITTRoQjJjZFdsNWZDYjBHR2tPd3E5TGdtdEF2Y3dhVzE4cjQ0RzVDdDRtVWFLUjdZdHRRaVF2WHgzRXBxVWN6bVgxV2NRd0ZZUQ?oc=5",
-      "source": "cetro.or.id",
-      "publishedAt": "2026-08-16T19:08:40.000Z"
-    },
-    {
-      "title": "Dow Jones Futures Menguat Pasca Penundaan Serangan AS ke Iran",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUFYb2hqVUE3Wk9rU0I0VVo1MDNMX0R0ekxZVW9RUWh4MG5rcVlhWUQ3ZG1Ja1BDOE56RTg4ZUx5Z1lzUkZ4LW0wQzZpMk1Sb2ZRLWFUREVtWEdtSHlBY0Q0dlBISzdKai1ZZjJSMmVMMDVfb1Z6UHdOQmw4emRTRkowdFJ4YUdvcFdFTnlxREZzVmNxMzhvUmVGYThXaXdLYkFnR29OV1U?oc=5",
-      "source": "cetro.or.id",
-      "publishedAt": "2026-08-16T18:23:56.000Z"
     }
   ],
   "errors": [],
