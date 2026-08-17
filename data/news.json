@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:31:25.038Z",
+  "generatedAt": "2026-08-17T13:34:58.963Z",
   "headlines": [
     {
       "title": "Laba 3 broker saham terbesar melesat meski IHSG terpuruk, siapa saja?",
@@ -34,7 +34,7 @@
     {
       "title": "IHSG Hari Ini Ditutup Menguat 1,59% ke 6.401, Simak Top Gainer & Top Loser LQ45",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkRfaW5qaUROY2RiejhuUXM0YUhTZW1SZ2E2anVnQUI1cTktREJRU1dzd3lzVkRfemRxYUVEZDZsa1VjOFZreDlBemdRbjNqdXc2R09aV1pQcnUwZ2pVX2dXd0FqajNndG5NeFRvemxBeUlOM3liMlJBYkVVREVLak9qSnBvMEh0d1RJNml5SlhyaDNlUEcxQ250Um1zZEw3UVlRNWhiTldfdkxhYnc?oc=5",
-      "source": "Ajaib",
+      "source": "ajaib.co.id",
       "publishedAt": "2026-08-14T11:37:08.000Z"
     },
     {
@@ -52,9 +52,15 @@
   ],
   "stockNews": [
     {
+      "title": "Demutualisasi BEI, Transformasi dan Tantangan Independensi",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYkVtQ2VjbV9mbWhhTGRoMGlRTm9BcEJ1UEJ1MERFaTJTVnVxMEJfMFVWeHJOa2JSUU1SdTBpU29QQWo2NmsyNFV2eXZwQk9NV2FuZ0xBdFZXVFpFTjVqU29mWlVsRUd5MXFmZ2NmMnhiSWZ1ZjFmUkRmMTE5bFlOeTRZMXI4dEdraUMwdWRrVm40ekE?oc=5",
+      "source": "RRI.co.id",
+      "publishedAt": "2026-08-17T13:12:00.000Z"
+    },
+    {
       "title": "Wakaf Saham, Tren Baru di Pasar Modal Syariah Indonesia",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY051UDdnZUwyVmNqeW1PaERJRkprVjlXTUk0TjF3RkpweTg1WndCR0VUWlpKazg3TWM0alc4QXJjd3psRkU5Q3F0U0dlRlhNQ0JfWTFVNzVpZWcza3dVSzJxYVhxUDJNRFNvRHg5SEVVb2pHbGJralotT1NpMFI5OEVkRXByS05neHU0MnZPaw?oc=5",
-      "source": "emitennews.com",
+      "source": "Emitennews.com",
       "publishedAt": "2026-08-17T10:15:00.000Z"
     },
     {
@@ -90,14 +96,8 @@
     {
       "title": "BEI Curigai Insider Trading di Divestasi Saham RUNS Milik Pengendali",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWdZUDFmSnV0ejBQbG1DYmV2X2M3ckdFbTNnQkRTc3pCOW1YMDhxNTY4YlVhRlhyYld2YnhuREthTVRyT2FPM05iTVpNaVhoc1ZvSWcybDJkYmhLTUNwZmMxQ2tCdEJBTzNhR3NkbDVhNkZKcG1TN3RPSU1mXzcwSGUzVEVfY1J0TG8zajdRZnlfYnZ5UThzSVRFZkdWTVhjT1E?oc=5",
-      "source": "emitennews.com",
+      "source": "Emitennews.com",
       "publishedAt": "2026-08-17T05:00:00.000Z"
-    },
-    {
-      "title": "BEI Menghentikan Tiga Saham, MDIA Terkunci Usai Harga Melonjak Tajam",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQUdlSjlRR0JqMGhKRll5Q09QcWFDMjVheGJFcDRJT1ZocTVfbWl6SFUxTnhhbzd4ZktzVE1zWXJIb0lUb3NQYmlCS0VrVzV4TmRJQWlsSzl2X0RUc0Q5QnJMUzdhb0otMGNNM1JwUQ?oc=5",
-      "source": "Qoo Media",
-      "publishedAt": "2026-08-17T02:48:07.000Z"
     }
   ],
   "macroNews": [
@@ -144,10 +144,10 @@
       "publishedAt": "2026-08-17T09:31:45.000Z"
     },
     {
-      "title": "Bursa Global Menguat, Dolar Tertekan karena Ekspektasi Kenaikan Bunga The Fed Mereda",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONXI1MHBFQS1GSWJrSFlOYTRUWEFSa0VTSmgxN3VBejZJR0JwQ0J5VnRnNUdYNk1QNlZuUl9rWFI4bGJDTHhhbE9xTUlpVHg5SHFKdlV5QVFWc3otWGF0dFFNMHB1R1NhTE1RZy1OeTFPTjZ3emJ6Y2JRSngwYWZ2NUprM1ZtM1YyUmlaR2tDNFIzeS1pZ210Si1sd2YxWHdValQ1VHNxNXBKcm9oR3diQkJiQ0JmOTV6NzZ5bGtTT3TSAbMBQVVfeXFMTk9nNGVFc2V1LUR0NE00MDNzbFppT1J1WkZrOXV5bERUUmJzMTlNbUFZTVNrM3pmclN5VnpkQWVyb1E3ZDd2OWxndnZpNWllMEN5UEY4dWNJWHZwMmVTUmtBc1pUN1NFRklNemh1WFFOeUtKbG5kUlhTZm9ONFctRWVFUUJoVGFzOGQzbHBnWjJGVGlZZDJCUG5XZ3BCQnRTZElUbXpIM0xhUTU0QTVCRDR3cnc?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-17T07:54:29.000Z"
+      "title": "AS Klaim 20 Juta Barrel Minyak Keluar dari Teluk Persia",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXFTZ3ViZjJ0aDBvVU5FWngySVBVVnNiTkR0T2IwRml4NTdncExUV25rTXhTQmZTbWtWN2ZBWTJtaGp5M3FUSEhaRVVOM0t5U1JOcy12bWd3VXhqTG9Ja1NCOGYxQ01yMUc4c3lNRkxUREhsTERKbEVNdU5LOVhhUWc3c0xJT29DbTBNVzBnV3VFZWdvZkctbEFpMVNkdi15Y3NmeUNKdW1QMGxOOXdTQy1KRlVmQQ?oc=5",
+      "source": "Kompas.com",
+      "publishedAt": "2026-08-17T09:31:00.000Z"
     }
   ],
   "errors": [],
