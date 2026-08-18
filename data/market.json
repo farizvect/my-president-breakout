@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-18T07:09:32.203Z",
+  "generatedAt": "2026-08-18T07:54:11.754Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
     "currency": "IDR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
-    "price": 6470.01,
+    "price": 6474.05,
     "previousClose": 6401.89,
-    "change": 68.13,
-    "changePercent": 1.06,
-    "quoteAt": "2026-08-18T06:59:31.000Z",
+    "change": 72.16,
+    "changePercent": 1.13,
+    "quoteAt": "2026-08-18T07:44:10.000Z",
     "exchangeTimezone": "Asia/Jakarta",
     "marketState": "REGULAR",
     "date": "2026-08-18",
@@ -892,14 +892,6 @@
         "close": 6231.78
       },
       {
-        "date": "2026-07-21",
-        "close": 6340.02
-      },
-      {
-        "date": "2026-07-22",
-        "close": 6334.48
-      },
-      {
         "date": "2026-07-23",
         "close": 6315.31
       },
@@ -922,10 +914,6 @@
       {
         "date": "2026-07-30",
         "close": 6186.36
-      },
-      {
-        "date": "2026-07-31",
-        "close": 6236.13
       },
       {
         "date": "2026-08-03",
@@ -969,21 +957,21 @@
       },
       {
         "date": "2026-08-18",
-        "close": 6470.01
+        "close": 6474.05
       }
     ],
-    "fetchedAt": "2026-08-18T06:59:31.000Z"
+    "fetchedAt": "2026-08-18T07:44:10.000Z"
   },
   "fx": {
     "symbol": "IDR=X",
     "pair": "USD/IDR",
     "baseCurrency": "USD",
     "quoteCurrency": "IDR",
-    "price": 17852,
+    "price": 17855,
     "previousClose": 17830,
-    "change": 22,
-    "changePercent": 0.12,
-    "quoteAt": "2026-08-18T06:53:16.000Z",
+    "change": 25,
+    "changePercent": 0.14,
+    "quoteAt": "2026-08-18T07:20:17.000Z",
     "exchangeTimezone": "Europe/London",
     "marketState": "STALE",
     "delayed": true,
@@ -2027,10 +2015,10 @@
       },
       {
         "date": "2026-08-18",
-        "close": 17852
+        "close": 17855
       }
     ],
-    "fetchedAt": "2026-08-18T06:53:16.000Z"
+    "fetchedAt": "2026-08-18T07:20:17.000Z"
   },
   "errors": [],
   "sources": {
