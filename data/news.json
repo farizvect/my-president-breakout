@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T11:19:16.336Z",
+  "generatedAt": "2026-08-18T12:32:44.696Z",
   "headlines": [
+    {
+      "title": "IHSG Naik 0,75 Persen ke 6.449,83, Pasar Tunggu Keputusan BI-Rate",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU14Rm1iMUF3cHVETklGcWg4em13cVFKRVJhZTZzT2FEMGdKX1Z5ME9TYk84bXBPYXphYzNxTVZRYlNsTHNHQzU0YU0ySlpsS08yMXFUQ09PelJTQS0zcnRDQzlUcm5Ydlh0NTRTWXJGQU9oSW1lbzBaTVRqcVl0bEJGMFFab05qbVg1Sm4xZHJmWi1scDd1VXk1elM0WWJsZmprVUh2c1B0OGhzYVZGWG5n?oc=5",
+      "source": "Suara Surabaya",
+      "publishedAt": "2026-08-18T12:00:19.000Z"
+    },
+    {
+      "title": "Penyebab IHSG Ditutup Menguat, Jadi yang Terbaik di Bursa Asia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDNWNG5ON0dhODZHRFA0bFIwdTZZTUR6VU8zQkdYVThJUnlObFQ2VEhoelE2QWkxT1VyMHBxazBEcEpaVzRyUDFrS3VkcFlCWnlvSjhhckVIQzZ3RDZCcFFTdVhJS1J0cXdPZkVnbHFhaHdLNFdrNG9FVUY4QkZrYV9taHJiNUdjNW16dlVWYnoyd2RMRUc0dkxET2dUS2hLcjRrU3FpWTdkb2pOMGRabWRBMA?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-18T11:25:19.000Z"
+    },
+    {
+      "title": "IHSG Ditutup Menguat 0,75% ke 6.449,83, Pasar Nantikan Hasil RDG BI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTA4Ump3X2czd1FLVjdoV1B2dlBOVVRlQzVpS0RkZTlPSU9pQkJDRWY1UzBiUko0VnpRZkxxeUxsYmVod2ZSdy1INDR5NmgtSEFyR3pCQ240Q29wMEVmRFRpV2QxTnZUSVlYUkx1cWJNQzh6SHFTbFB3N0dqc1ZRMnlUVW1QcDFvdDhVRFNqQkNHWlpXT3Bv?oc=5",
+      "source": "SWA.co.id",
+      "publishedAt": "2026-08-18T10:55:00.000Z"
+    },
     {
       "title": "IHSG Naik 0,75% pada Selasa (18/8), Saham-Saham Ini Paling Banyak Net Buy Asing",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHZpMC0wOGxhbVl4ZHEzZTJLYjRPNTI1elNqLThUOEk1LWFwOFNHaFMxdGQ1UUFUMGNGdGdBYUxGOTl4d1VkOTN1TEFwLVlQYlBDVWZPa19WY0d4MFM4eHppU0poOVVFWF9CemZBSXBVSy1zTjRVQjRWYmRvdjFPWFhRRzZzejdGMFFNNjBiRmNPMmVSSk93Z0NpUHdzMVA4STRRN3UwYzktWmU5NlE?oc=5",
@@ -8,9 +26,9 @@
       "publishedAt": "2026-08-18T10:48:09.000Z"
     },
     {
-      "title": "IHSG Menguat 0,75% ke Level 6.449 (Selasa, 18 Agustus 2026)",
+      "title": "IHSG Menguat 0,75% ke Level 6.449 (Selasa, 18 Agustus 2026) | Pusat Data Ekonomi dan Bisnis Indonesia",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVVWNlFiRDNYbE0zTUxTMDBBYjd5RG9rMXpQanlldXR3SVkxYlFKME5FSDFKS3pVYkdveThwSzA3WVRiMGxrMXMzSGd4UjNoQVhIRTlyeTF6Ny11OHRuVTRwTm9MQnZpdDJZRUNIZlBrMzdvVXVlT3F6ZGxKY25fNDBfUDFtMmM1YjRLY0Y3VWFKM0xNWmQ5TktmN0dDeHRyaGN3b0tmY0dSMXE0ejJZaXZkWHVSQQ?oc=5",
-      "source": "databoks.katadata.co.id",
+      "source": "Databoks",
       "publishedAt": "2026-08-18T10:26:43.000Z"
     },
     {
@@ -20,37 +38,49 @@
       "publishedAt": "2026-08-18T10:11:14.000Z"
     },
     {
+      "title": "IHSG Ditutup Menguat 0,75 Persen ke Level 6.449, Sektor Energi Pimpin Kenaikan",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdDl6MkpYYkZXaEhJaW9RS0JNLTJmQXhISWJsTGZSbkx1bGFRZVRmMTdQcDdFbkxLSE9uYTlzcWxiVXBYRjNIRGNKYjNjNmFmMjlWWkVUVy16ZjRRbHFoMmZ0enA0dkxRUUJFWHU2ZmZFODVoWXJodHVpc2NKNXFpRDdiTXZ4Q1RLd012THV4SXJuVTVoT3R0X3FHNjQyWThGWU5R?oc=5",
+      "source": "Infobanknews",
+      "publishedAt": "2026-08-18T09:56:00.000Z"
+    },
+    {
       "title": "IHSG Ditutup Menguat, Sentimen Positif Dorong Optimisme Investor",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3NGd0Q0bC1wU1h2MEYyVTR0OGdaeExFV3lVZURqVld0MTBLMExHdGVWbFM2WVFEb0NRRk1KQ2dOSm5MNlRjZ3NSTWxMM3lXUmZMSE5XeDhCd2p1MEM1S3FfSU9xd2dRMmE2bGs3S1hUYmtjaTV3TEhmdEZRZFBYNV81aGV1c01ZeGhEcmZOZnJ1bXBWQjI4NVdOMTNVNVFjS1FsSg?oc=5",
       "source": "TopBusiness.id",
       "publishedAt": "2026-08-18T09:47:00.000Z"
-    },
-    {
-      "title": "IHSG Naik 0,75% ke Level 6.449 Digendong Saham BYAN",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnZMbTdyc2FzS3NqZ3FMeGlhUzRGTmlmVkRmaWI0eFRETHZ2QmRyWk9Id0FaMW5BZTlzYmZmSFUwVXREZ1BzSFl0UHhVdlFPOVRFYVNlZEhUWHJnVmZ4czQ5VTROeVJSUDdTWDY0R0MtV0p6TXoyR0N3b0dpblllejVlOUV4bHFGaU04TXVLaENSLVV5bzdjVWhBaUhaOGQwWHZuU0F2NWswZ1BTWFFZ0gG0AUFVX3lxTFB4RmJUa1NYbFZkR1NISUJqZlQxSnVpcDczcW03dkhVbHhBUEZWWE9SM05uSFM4eFc3MlhEbHZTSnZJSlQ3MUl0WG8wZzNkdWhueXhzOHRFcU5xNmJsbXdUYUlpd1k2LXVzU1Z6WVdZNVhzdzh2VlQ1NTZ4cldvb29DX21lcy1wRkVHekJGU2N2dVNPWWU1b3pOeWZrWGdBLUJNek1vY1Z3WkFEdW1sV0lJZnZlWQ?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-08-18T09:45:06.000Z"
-    },
-    {
-      "title": "Video: IHSG Melaju di Zona Hijau Tapi Asing Masih Sepi, Kenapa?",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlJtQnB3UGZBZTdvQl9DZ2IxYUllT21QaU9qWmo0aVdYZWM2a0N5aTZIbjlydzJ5TnFRNnNNOExJVk05VEx3dDN1TWtET01PVkRwbUppTi1JNlVwOFoxZmt2Qy1QbkRlYlNyVlpzQVhoUmRLT1NqZ0lacS1YZlI0NHlDcWN0R1hFZjBwYWlaenRmV3l6S1ZabnFyUnJ4UnhVZ0xVNlV0WU1vM2VGMkpsUW5ZanpTNkc0eDdXTmQ1QQ?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-08-18T09:06:31.000Z"
-    },
-    {
-      "title": "Efek Pidato Presiden ke IHSG dan Saham Kendaraan Listrik",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUhVaHNLY0xqQnhWLWlGQkw3UzZGT25iQXZLb21XdGE5ZkVINjh6TlFJNE8yRUhRbGlrWmpvZmE0aDk5NTI4dndKbnRfMVZnUDI3WDFtdXJSaWRzdV94a2NiTnlEdjlIZmZxWGhleDU2eFA5WTRENFdHRFRYaG83SzQwUWRkd19jWUl3LUJVUUt4T2pnTEdKMTJmaw?oc=5",
-      "source": "maybanktrade.co.id",
-      "publishedAt": "2026-08-18T08:56:00.000Z"
-    },
-    {
-      "title": "Investor Bersikap Wait and See untuk Merespons Volatilitas IHSG",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXpoQ0Q2TVFuYkhPUXY3SVUzTUh4YnYySlhiSmlSN2VRanRkRHNLWTNMeDlwdUFRNTFoYkVMZGVYeDg5Y0ROUjJHYjY3b1hJa3VqU3RaTDJPdDZUV1lMb1lCd1ZNeWNzalhsaUFadDh1Z0Z1ejZ2eWtoUC0tcWtyc0ZhSkhoRXlWZlBma05pT1dvQWk2amZlZw?oc=5",
-      "source": "swa.co.id",
-      "publishedAt": "2026-08-18T08:20:00.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "Saham Waskita (WSKT) Terancam Ditendang BEI, Ini Kata COO Danantara",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ1RfTlF5UEVRWUJGQnN2YnZQT3ZmOE52WlMwRmt4OVBoUWhEU29XbkhydW9pNnVCc0lxSDlfdFdjWjhsTE5FZHUwOExHUy1KTF9faWxLVVFoZE5Ed1FrMTVYNVM1bUNZdS1PRndYOU1EN01zTk5EQ29EbFBFckg0U0lYWXBfSXFzQWRYWDM4djJHMWwwUUpYelBWckxSaUNZUUN0elRNOE1zY0hvcDBNZktkaS11SU95akVyNUp0bWJGdG90T0pF?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-08-18T12:20:02.000Z"
+    },
+    {
+      "title": "Demutualisasi BEI Didorong, Ini Tantangan Menuju Bursa Kelas Dunia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnVPZGtONmcwaFRqTmZUS2Z4VVlSeWpmdmlJLXRXenIwLURyZ043VnJjU3BqMXliSFpybFNaWU1xSUZZcnYzc05uZ3pnTktCSnJXNVVWMEx5NzFOQ2l3SWhOejBadXIzbllOcm00ZkJkTTMzSzdEMkZrbUo5MnJSNWFqbUtFNEVHVFc3ZFBGVUV0QWZQeUM0VjNOcktsWmltNW9v0gGbAUFVX3lxTE8zeG5EdTJ2N2xTREdEcFhJME90Y1F5bzlEbGJacHVtemJ4NkpXeWFhQnZ4aWxkQ0dfMm56S2tNY1E0eFEzZmd0MGFON2QzZ0FrX2c0VkxWYlBMalg3Vm9yWDFGejNpaF9UaTlDdHR0T3hHWTNudURIMHR4TEpmV3F5NlVpb0g4WVk2UDB6UE55SThEdDlpSnE5NWJN?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-18T12:19:12.000Z"
+    },
+    {
+      "title": "IHSG Naik 0,75 Persen ke 6.449,83, Pasar Tunggu Keputusan BI-Rate",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU14Rm1iMUF3cHVETklGcWg4em13cVFKRVJhZTZzT2FEMGdKX1Z5ME9TYk84bXBPYXphYzNxTVZRYlNsTHNHQzU0YU0ySlpsS08yMXFUQ09PelJTQS0zcnRDQzlUcm5Ydlh0NTRTWXJGQU9oSW1lbzBaTVRqcVl0bEJGMFFab05qbVg1Sm4xZHJmWi1scDd1VXk1elM0WWJsZmprVUh2c1B0OGhzYVZGWG5n?oc=5",
+      "source": "Suara Surabaya",
+      "publishedAt": "2026-08-18T12:00:19.000Z"
+    },
+    {
+      "title": "Target BEI Jadi Bursa Standar Internasional Dinilai Ambisius",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXVSbVN3NTZMTFI2dS02V1pGRjk2VV9PMVY3cTY1NHpSdjFQRHZXc25ZUTJpaktmalVHNndwMjRoS1cxdV84dl80cnhMSFlZSURNU2NadExiUHFUdmdQR2V1emFORWNDLXlFSk9DT21QeVNmYXdDTFB0NXZwa202OGQxZTRST3R2dXlQVEdxbFdWSHFDazAyQmNaZTDSAZQBQVVfeXFMTVlJMGhJd0g1a25MWk9EQ0pUUWFsZlFHNkQ5OUJfTG5CLWdDQ3M5S01xcWFncTRTWW1seVZ1YW12ZlowVmZBdndhdnVjWVpSV1Q3cW9qcnFDTmhjdi1vWWt1aUtSUmdxREp4NENwbVVVSC1vYzZhaDVpSFR6WjFmazN1Rm9GMG9oWVpTSXdpNnBQQnZkMA?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-18T11:56:47.000Z"
+    },
+    {
+      "title": "Kuartal III-2026, Ekonom Proyeksikan IHSG di Level 6.500-7.000",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVBibXhEVnRyUE9UNnBid0hzcHU1Ul9VWnVkUFM5Yk5tUGhCd1ByVlV0VVllbnNiMFNsRDZaamVhOWtzaTAwLVJVZ0JtSV9MNFZYZ3NtLTMzTlUwdEVNYmxkc1dtQjRvc002UnNIWWJpOW5fTXZ1dkxlTXo5YU83WW1rcFB3STJNTEFSVC1vLXpBa1FRRVRNWmlNc3g1RW82NmkyYg?oc=5",
+      "source": "jawapos.com",
+      "publishedAt": "2026-08-18T11:24:35.000Z"
+    },
     {
       "title": "Analis Minta BEI Transparan Soal Rumor Akuisisi BYAN",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1S0xUd240eE02ZkthX1YtaFZydXpLeGZUQnlrZzJEbGpMaEFGWjgxRGI3NE03QXh3VnlWYl9pLWF5ak5Xa0dPTUhCZTB5Y05xZ3gwaERkWENweHVOZE5rcHR5TXVHYkY5VzFZM1Y3NHVpSkJTOWQ3OC1lQ2NSakU?oc=5",
@@ -66,38 +96,8 @@
     {
       "title": "Analis Minta BEI Buka Suara Soal Rumor Akuisisi Saham BYAN",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc3p0a2RnVzA2OUFnU05lZlpLRDFnMnpuTDVJdk5aNkhMQWZGM3FGYnBOX25GRnJwaUxNazhmbVRUM29QbTlhdTRBNGtrUjYyR25ZLUV5eEpFdTIwY0k1Q1VZRW0xMjlNRTB1WFdNUUFPTHRfdVpSazlvY0NWOW56NFB3?oc=5",
-      "source": "Readers.id",
+      "source": "readers.id",
       "publishedAt": "2026-08-18T10:33:53.000Z"
-    },
-    {
-      "title": "Analis Minta BEI Transparan Soal Rumor Akuisisi BYAN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX19XNjdNcjhMRTdCNGJTZS03V2NWdEp6N0FJZE1GcVljRExKRnQ4RnlGUmE2Q2F5Nk9Gd2lVM3ZxYlhGakJRSlBjVkpCbW45QkpNcHMtU0U4R2tNQWtsVDYwajdvQTlYY1QyaHpEY1FLdHIxcUc4U0xuQlRWcjFSSQ?oc=5",
-      "source": "achmadnurhidayat.id",
-      "publishedAt": "2026-08-18T10:27:48.000Z"
-    },
-    {
-      "title": "Mirae Asset Ramal MSCI Kembali Buka Rebalancing Saham RI Tahun Depan",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUtfSndMWTFJcGI2Qm1UdHo3THJibkcwMG1nNHRCV2Vsb0IzbkcxLS1pMFRjTVdmaUlDanZNanNwNjFDYkJnSDFqSXpZSlNFQmZNVC1KVnVsYUYyajdJNlRhR285LXJYRC1nanZGR2ZDN2JSOTYtX0gwajJVQnVyYy1pY19CeUhTTWR6eVdZQWRLdjF1QnZjbg?oc=5",
-      "source": "Infobanknews",
-      "publishedAt": "2026-08-18T10:25:09.000Z"
-    },
-    {
-      "title": "Ekonom Optimistis Rencana Danantara Kelola Saham BEI Pacu IPO BUMN",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdkNTdlZFFET1d0eG5YZ0I0XzV6TXNBeXdvMUtRc2dFZTlrc20tYjd3dGJGczBxVWF1S19hNTFUcXR0TFhtbkx0RDZZMnMzMnpxRmNmMXZYU0dtLUktRHE2T2dueTBKOU1UYThFc2t3SWxFYWZ2bXVkVG1jVGkxQy15YjNJS2lYaUlvLU8zZHRadFB0RHNz0gGaAUFVX3lxTE8zSEpGYnNNTHlGdnozVUFmLTYyeUhvX183MzFQMjZ5XzJpMEVobElDalh1eURubEVVeUhfcEhJNmZtay1jUUQ4VGVnaGdDYW1uWkhOQVhHUVRoN1E4N1FfQU9VV1AwOFk0UGVHcXB5RDdzajRXQ1QyQ183cGRYUG9FOFBKMWZVaE5EZU01OU5Sck9fUTU3MnUzN0E?oc=5",
-      "source": "JPNN.com",
-      "publishedAt": "2026-08-18T09:51:25.000Z"
-    },
-    {
-      "title": "Mirae Aset Sekuritas Memproyeksikan Dampak Demutualisasi BEI, Pelaku Pasar Menantikan Laporan Keuangan Danantara",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVXlzNEM4VXRBa1ZMS2xIT0VmZFFXLUlTbUNMVzB6ZmdMVm5JN2s3NDBkUjQ4UFFtUGVSWl9LU0h2NUlfeFhoS1o0TFJZQnBKTkl4Z05iV2ZiWlliU3dldUlIeGlLc2xsWkhFeEVXR2lKMzdpaWtrQ0VCZ1F1Z0ZkUmpIdWZKNm0zSUhIVmhpOHdERFMyOXd4c3d6U0pvWnNRN1Zvem1sSUhhdVZQYmJkUlBUVmVvQ3B2aU40a3Q0RlljRUNYci00WWZjMWJnYkFZbG5oSVpIYXg?oc=5",
-      "source": "swa.co.id",
-      "publishedAt": "2026-08-18T09:30:00.000Z"
-    },
-    {
-      "title": "Suspensi Dibuka, Saham BAJA Kembali Diperdagangkan 19 Agustus 2026",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVWVMNUVSX3NwQ0FSOHRmQnVJX1MyLS1rTmZGT215VzB3cjFQTkZmMFVYM01vdE90b3FDTVVtSERPMVNBMzUwT3Z6RjdTZDZXTGttVHU5aC1GRDRrWFN6RjZVLXpzbExUcGJCSnF0SWR5VHFPNHJTS0ZFc3dWOWthU1VLYzJPRWMyUU1ZZ29ZZk5uWi1kMGfSAZYBQVVfeXFMTVVlTDVFUl9zcENBUjh0ZkJ1SV9TMi0ta05mRk9teVcwd3IxUE5GZjBVWDNNb3RPdG9xQ01VbUhETzFTQTM1ME92ekY3U2Q2V0xrbVR1OWgtRkQ0a1hTekY2VS16c2xMVHBiQkpxdElkeVRxTzRyU0tGRXN3VjlrYVNVS2MyT0VjMlFNWWdvWWZOblotZDBn?oc=5",
-      "source": "Stockwatch.id",
-      "publishedAt": "2026-08-18T09:22:40.000Z"
     }
   ],
   "macroNews": [
@@ -110,7 +110,7 @@
     {
       "title": "Imbal Hasil Obligasi AS Sentuh Level Tertinggi, Harga Minyak Melesat",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTloNngyd3hqUE13WUZncE8zbUlwTzRMT1ZQLU14OFRWc05VWDktVzVBcjZpSFZPYUUtaXQ2cWtteFhweFptdkh3ZXZjaVNmaGlkTllacjZjMlRPXzc4a2FMLXJxNWZuU09tX0szRzZVYmRxSE0xWG16UjhWM1A2U3Z2dGp0NXA1Q2xXU0ItMkNiWnMxeFZRNW5oaDd3eENDUGVsbEJTZHJRYngxdUNMN2130gGnAUFVX3lxTE1hejNTMUY1dUN6cmhTX0JjMjZFM0J1TFFCQVFZaVRCcTJWM21NckdOX0dMVm1NZG9xWk9oRjVPMlAwU2wxWnllbVhpazd6a2RaNmgzOFF2a2t5azd3ZXRHT0RPcUhEUmkxTGZ0Q2tJX2o5NFhIYmxUVG9nVW5mSnMtYzR3X21RRzFWTWhXVXNkcHk2TzgtVVBEdTBiTHg2Szk2eWxBUEtZ?oc=5",
-      "source": "Liputan6.com",
+      "source": "liputan6.com",
       "publishedAt": "2026-08-18T08:45:17.000Z"
     },
     {
@@ -144,10 +144,10 @@
       "publishedAt": "2026-08-18T04:35:30.000Z"
     },
     {
-      "title": "Langka, Pemerintah dan Oposisi Venezuela Bersatu Ingin Ambil 31 Ton Emas dari Bank of England",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSkxVZGI2amoyUGYxYXluOG5jbzdjYVVZMVppYTVLMFFTcWxyakRnc3VQUWY2dkQ3b3JCNi1uZmRxeXNLUUsxSXViZTBqd1VlNXZQTkFYTGFNc2RoUFYxN1duX3JGZl9vWmVKUGxtWmxlSkhNTTdwbVEzLW1uN0VfeE1ieWFEWWhEN2ZGWnQxd0o3TEhOY0JpTFhmZk12YnlnQVk5U0tBOUxUTGJiSVpvSmdYOHRGTWtzZU5vMzN5UTZxMDQ1RFdlR1RPeUhKS1g4WHJnWTZiTkZFajM0SjN5ODk5Y0Zqbi12RGhITVNB0gHwAUFVX3lxTFBUVmo4WTNRLUZLRDNrcGNobnd3RWw3bE44SzUwQi11ekV2NmR6Vl9nMjk5ZWdzYVYwckhYWWQwcGZSYWdPajdXX3BNUFN1NXI3UDBqLXN1UmFhRWppMFNOVFVLaFhxcnpIckJValJZOU5EczBrNEtkTEo5X2lvbzlLck9ocW5oaTBtUlRLSDdaRXI2NVVOenVaRnVKN3BtUGQxb1hiT2hPTkw0OXF1Mkt2dHc4c0tkOFVHU2RORjJRNjhidk05eVo4eFlfVTV2NVQ3TEFqQ0FmbzJkZlgxNFVhZ0kzYmhWWHNNaEh3R3gyeA?oc=5",
-      "source": "SINDOnews Internasional",
-      "publishedAt": "2026-08-18T04:35:00.000Z"
+      "title": "Harga emas dunia melampaui $4.400, harga minyak mentah melebihi $90/barel.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHJURjA3NTlFWVpUZEx1WV9aTV9GdzUzNlRvejVwUkxFUkdUVC1xQVpldmxrY1BYYk1RQU1SSlVvQnV0Qnk3VE5sSzlkN1lUOTNWaHRIT3N0RGNYQzdhRjRacFB6N0JuTUpYdWN6VGdpR2JETlB2V2EzNWJKaWdpZEZqbGVaSmhPLU1Rag?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-18T04:05:49.000Z"
     }
   ],
   "errors": [],
