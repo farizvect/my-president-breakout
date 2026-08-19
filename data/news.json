@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:24:33.266Z",
+  "generatedAt": "2026-08-19T19:19:40.781Z",
   "headlines": [
     {
       "title": "IHSG Hari Ini Ditutup Melemah 0,86%, Simak Daftar Top Gainer & Top Loser LQ45",
@@ -20,22 +20,10 @@
       "publishedAt": "2026-08-19T12:04:30.000Z"
     },
     {
-      "title": "IHSG Turun 0,86% Hari Ini (19/8), Ada Net Buy Asing Jumbo di Saham DSSA",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQS1oeWw3WVBsd3dNaUlTRVF4QnZoeTJHcE9UN01oX1JsSi1uVk1Wd3Utd1NvdE5RZzRPM0FsT0lZdHprVHR2QUF4MC1naHYxR2I0YXQtTjgyRUhxa3poX1N2emNaaTVBRHlkMktxb2liOG03NXZ1c0ZPRktKX2xWVXRveHhwNjh3YkRtLUgyMm9aMW44eklNSmVoUWRtbEtQYVhn?oc=5",
-      "source": "Pusat Data Kontan",
-      "publishedAt": "2026-08-19T12:01:50.000Z"
-    },
-    {
       "title": "IHSG Ditutup Merah Saat BI Rate Tetap 5,75%",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUVEQ3NrZU1RdU44UjR5cVhTTDZGWjhOOTY5TUhwTnZIZHZ3MV9JeXZKLUNxcmEtSFhXc3lnci0tNVM1bjh1ZmczYkpMOWpseVNwYnpMaGM5aFV0dU1ZVjdCZS02cjJCZXhhVlBFWjZvZERkUkpUZ2lUM2ZtaGxLbGVhVmdqVlpFb0ZkWF9jdFNyQzd4Ym1jWG9n?oc=5",
       "source": "Bloomberg Technoz",
       "publishedAt": "2026-08-19T10:36:11.000Z"
-    },
-    {
-      "title": "IHSG Rabu ditutup melemah ke 6.394 ikuti bursa Asia, dipicu geopolitik",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHllZGo5LVVSM1ptSy11dkdlaGh1XzQ2YmlPLVVnZzNBcU4zMGliN1FWZEg4Q3ktNmZ3TVN1ZFpUSUU3bWFOUHNSdGIwekhiU2JjR0UwZ1ozUFRhRzBpV3dUbzRfLVlNZ1FEeHUyQUNDa3V0c2xEbV9qNGNodEk1Y3pCNlZuY2hQWXVwVUFGenN3dnptYmlPZWNLU1N6dkFNeU5nNXVzUTBleC1oNTg40gGyAUFVX3lxTE4zVDVZYXpuM0J5cHdCQzNBRU8tcEJpeHhIdE0zLWFBOEtyUUhESFVWTUxtZ0lDbVFWVjV4b0JQMEZBS2FQZk5adVpjX1pnVm8xel9Idk5STWdXcGhoek0wRjNfUThxZ01COWJyVkQ0d1ZuN3p6b3JVc2hjMmFnTDVOd3hQMzA0ZW8tQjFXcldISEhBcHc2czJ4eUJkaXpPMXBtQTRaRFBIdkd5VkFtQ1ZVR1E?oc=5",
-      "source": "ANTARA News",
-      "publishedAt": "2026-08-19T10:08:58.000Z"
     },
     {
       "title": "IHSG Turun 0,87% ke 6.394 di Tengah Tekanan Bursa Asia, BI Tahan Suku Bunga",
@@ -48,20 +36,32 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXFSNXdoQVYzMHgwRUpIdjJINHpiN0szdmdHdkNsRzd6Yy04NWhXXzZLdk1oRlFVZmVXZmNTUWZYQTRuNnQzS09hbkhxSnc5aTA1VmtGcmlwd29hb1JmTl9RaVRLVFpqR2U0SlhCakJwdEd1VzQzUWlFM0J4UlJHZTF3X1UzLTVZM3ZBLXhQWVpGTWlPc0h5QWNPTE1hOFl5czlsNzV0VlFlM3hJSmZmdjVkRkFGcF9CLUhGZjhxcEtucXFXbnVr?oc=5",
       "source": "Databoks Katadata",
       "publishedAt": "2026-08-19T10:06:39.000Z"
+    },
+    {
+      "title": "IHSG Terkoreksi 0,86% Terseret Kinerja Saham Bayan Resources (BYAN)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZHlaNlZiVVpGUFlVZGoydi1ZLVloa09VTVJ6UlhWWUNjdzJEeGE5elRjcjdmbHplejVKVnpQTHY1ZmxzSTk5dXVrMkZXbldFcXVCR0dHUVdHcVZuWlF1SUIycVBia2pWVklaZEZJZmhka1gzMjhfVXB1Z0VQOXpHSzAxMDJseEhMelZ1ZjFQU0lxZ2s2ajBIeGZSMzVvVW5WeFpTb2g3aHZJdXktLTdUR2cxdUNBM1NaOEdsaUtGd2FJbE9VRFHSAcsBQVVfeXFMT3VNa2RyWHk2N2JsLTBjZm1QY1B0LXJ0bzJ2TG93ZVRUOXVDeFlSRE00elZXbnJXbEhUQS1lZkM5dlBtTjkyWE9sRVB2Q2U3VV9tYVViNVNYeEF3WGdVZGU4dF9la3RqMXBERTZmc2VBWFc5S1FOWWhqcXRPeUNPZXpCc1ZvaXBjYTE0ZGVwYnkyS1RZazVlRW1IZHAzcVNYWHlyc0ZEWXdxZHJkb2ZvMG1sa0FPeFluaTV6ejAwWlhFaDdGYnltVW56cTg?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-08-19T09:39:33.000Z"
+    },
+    {
+      "title": "Ditutup ke Level 6.394, IHSG Rabu Melemah -0,86 Persen",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSU5LYjAxMWFiS0RjZGs4REt1endLNjZqMFU4LWJBa1lCeVQ3alhVcGRja195NUdrU1BnYkEwN1R4c2FJMGNxZ3hyNlhhRkhxVVlxMHVpVVJ1dzNvVnljQ0gtV3VGVjJYR1daUm9aUnlWcnQwM2xRREI5M2VtUzF2SFdSTHFTZ2w2T0UyenZqQndOZw?oc=5",
+      "source": "pasardana.id",
+      "publishedAt": "2026-08-19T09:33:00.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "Hentikan Sementara Perdagangan Lima Saham Ini, BEI Ungkap Masalahnya",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmNBQVJod0NLNzRRWHluZmhaTzFYcXdFQ2F2V3g4ajQ1eThDVm1SWGdfN1B5c0NOTkFSSVE4MlJGajJ0QmFIUmxYbnZkano1UGIyczQ3c0FGZDQ0Uy1GREotc0gzaE5tMEgwc1ZRUFBNRTFNbU8xV3VvMnpvQjRCLUlZakR0X25pNVlka2xVUXpPQkRGUWpSVjdVbkRGTW8t?oc=5",
+      "source": "Emitennews.com",
+      "publishedAt": "2026-08-19T18:12:59.000Z"
+    },
     {
       "title": "FTSE Tunda Keputusan, Transparansi BEI Jadi Sorotan",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BYzdXV0czYmZDZnB6YlNTYTJwQkpHYVR1NHdSRkZRdC1qVzYwQzJFeDZaYUR4RjZUZ2NFdWFUVmI5eEc5dDQ3Sjk4THNMcGVTMVFF?oc=5",
       "source": "Kontan TV",
       "publishedAt": "2026-08-19T16:52:49.000Z"
-    },
-    {
-      "title": "Hentikan Sementara Perdagangan Lima Saham Ini, BEI Ungkap Masalahnya",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmNBQVJod0NLNzRRWHluZmhaTzFYcXdFQ2F2V3g4ajQ1eThDVm1SWGdfN1B5c0NOTkFSSVE4MlJGajJ0QmFIUmxYbnZkano1UGIyczQ3c0FGZDQ0Uy1GREotc0gzaE5tMEgwc1ZRUFBNRTFNbU8xV3VvMnpvQjRCLUlZakR0X25pNVlka2xVUXpPQkRGUWpSVjdVbkRGTW8t?oc=5",
-      "source": "Emitennews.com",
-      "publishedAt": "2026-08-19T14:31:00.000Z"
     },
     {
       "title": "Asing Net Buy Rp 933 Miliar, Intip Saham yang Banyak Diborong, Rabu (19/8)",
