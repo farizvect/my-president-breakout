@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-18T09:26:17.187Z",
+  "generatedAt": "2026-08-19T03:00:28.952Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
     "currency": "IDR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
-    "price": 6449.83,
-    "previousClose": 6401.89,
-    "change": 47.94,
-    "changePercent": 0.75,
-    "quoteAt": "2026-08-18T09:00:06.000Z",
+    "price": 6441.28,
+    "previousClose": 6449.83,
+    "change": -8.55,
+    "changePercent": -0.13,
+    "quoteAt": "2026-08-19T02:50:27.000Z",
     "exchangeTimezone": "Asia/Jakarta",
-    "marketState": "CLOSED",
-    "date": "2026-08-18",
+    "marketState": "REGULAR",
+    "date": "2026-08-19",
     "points": [
       {
         "date": "2025-08-19",
@@ -970,29 +970,29 @@
       {
         "date": "2026-08-18",
         "close": 6449.83
+      },
+      {
+        "date": "2026-08-19",
+        "close": 6441.28
       }
     ],
-    "fetchedAt": "2026-08-18T09:00:06.000Z"
+    "fetchedAt": "2026-08-19T02:50:27.000Z"
   },
   "fx": {
     "symbol": "IDR=X",
     "pair": "USD/IDR",
     "baseCurrency": "USD",
     "quoteCurrency": "IDR",
-    "price": 17850,
-    "previousClose": 17830,
-    "change": 20,
-    "changePercent": 0.11,
-    "quoteAt": "2026-08-18T09:18:18.000Z",
+    "price": 17851,
+    "previousClose": 17851,
+    "change": 0,
+    "changePercent": 0,
+    "quoteAt": "2026-08-19T02:37:06.000Z",
     "exchangeTimezone": "Europe/London",
-    "marketState": "REGULAR",
+    "marketState": "STALE",
     "delayed": true,
     "refreshIntervalMinutes": 5,
     "points": [
-      {
-        "date": "2025-08-17",
-        "close": 16196
-      },
       {
         "date": "2025-08-18",
         "close": 16205.4
@@ -2026,11 +2026,15 @@
         "close": 17830
       },
       {
-        "date": "2026-08-18",
-        "close": 17850
+        "date": "2026-08-17",
+        "close": 17824
+      },
+      {
+        "date": "2026-08-19",
+        "close": 17851
       }
     ],
-    "fetchedAt": "2026-08-18T09:18:18.000Z"
+    "fetchedAt": "2026-08-19T02:37:06.000Z"
   },
   "errors": [],
   "sources": {
