@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-08-20T20:21:18.217Z",
+  "generatedAt": "2026-08-20T21:21:56.460Z",
   "headlines": [
     {
       "title": "IHSG Naik 1,68 Persen ke 6.501,59, Seluruh Sektor Menguat",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajNLQm1fZVRfbVJyanRONGdkRlFWWWloRkNBNHNILTNXRkd3ZWk2bTlHYzB0SFhBN1gwdnRsR0ZpUUxYX284NEZKaXU4eWdGN2pBMnNmTklwX0xDWW82bW1tUE1ZVU52MGZDRkpsdDAtRmtsQVVWUEgwVzdVemdoNU1iWS1Ca3o4eFpJaEJuYVV1SGViUnBIMU1EZXppSnRVcGs3bmxma9IBrAFBVV95cUxNUFBsU2tYaDBqMkJRdWlmYUw1WUFBSmNPZWZTbVBGNDZwYmRKdFg5T1k0N0ZmSHhlVHRXak1ySWhHMFlBT1lUaWdRR3IwY3dCSmNRSWMxbkhIV1lxSFg4UnpmU3A0enNPLXV3SzZDZ203X3FKdjhRcTByVENsUHdlbVp2WHh6WF9JQnNBTnJrY0ZoZWlPU0dHN29SZ2hfVFlrR25XN3Y4MmZURFYw?oc=5",
       "source": "Suara Surabaya",
       "publishedAt": "2026-08-20T11:40:27.000Z"
-    },
-    {
-      "title": "IHSG Tembus 6.500 Hari Ini (20/8), Ada Net Buy Asing Total Rp 680 Miliar",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS2FJMF85S2t4TW9Ua0RBRDBYcFhBOXFUSkpRaUx1WE5WUEduYWY0QVpUcTA3NXlpaUYxRENIcl9PRnVWYzR6LXg0Wkl3cmI5b3pHMXM0MVE1cHpmdEYzb2lORWw1TzROdWROZGVtb2kwZThKSDdGN3gtWHFzSUNLOGowU1Zra2FnSTFMM3ppdWQtVWREX24tS2NTMnl5dk1DcXNRYmNB?oc=5",
-      "source": "Pusat Data Kontan",
-      "publishedAt": "2026-08-20T11:40:22.000Z"
     },
     {
       "title": "Prediksi IHSG dan Rekomendasi Saham Jumat, 21 Agustus 2026",
@@ -48,9 +42,21 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDNCNklUY3l3S3lYTU5JTnJjUFVGVExCNmROaXJHWDM3OGtHNVRVcFRxUV95UnJScjd4RUVJTkh3bGd0Z292Mmh1QTdYb21TLVZTdUh5R3o1X3FpMG52SHUwbmlfaG16S3czM2VHcGcyZEJubE82MlI5eDBLNTFmWE1tX3dHSndsaDdUOGRsUHlwcEc3b09UM3dncHJ5WERwSk11SUNjbC00cG9rNVZpeFZoY1U?oc=5",
       "source": "Databoks Katadata",
       "publishedAt": "2026-08-20T09:59:28.000Z"
+    },
+    {
+      "title": "IHSG Lompat 1,68% Tembus Level Psikologis 6.500, OTW Reli Panjang?",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU3VsZm5mM1U5U3E3dmhNdzVDOEpvdF9iV1FadEF3QWhkb1o1SHhRZmd3SFVjRjZkVVN1anBKendGOS1HeS0xZjl3SWJ1NGppQV9nQXlwWncwcjNfeU81Tk5IM25FdmJuV01IRGxDdC1IVXVKSl9qS3EydXU4NXpaMWVyTHZhNHFrakRjNWN5bzhGa21zS0swc1FIb2JIeDZfOFhNT0piTVV0YnUwLS1xZVhEd01pWE8zRzZOZHJCUWbSAcYBQVVfeXFMUDEzcXZZQml5bUVEVTEzOXNXbXkxVHpkNElOOUtMc213WVdleGFMaHFoeXFVdFpfd0NzTUlIN3VxaHZkOGRLeTVqSFNCN0NOajV0cTZweE9YQU04THdCbVA3TlVhNkQ4S1VzOExkNnZHQV9id3VKQUJtcnBGYjJhRGlrQVQtNjVjb01hTkl1TERVVjdXNmRnTEkzckxDTXgyVDVLLUhaeDcwSURIV3Jvc0QwR2FmUWVFT2oyZndFRV9mZ0RQUXJn?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-08-20T09:55:58.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "Pengamat Buka Suara soal Rencana BEI Ubah Batas Minimum Harga Saham dari Rp50 Jadi Rp1",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR3ZTYUZSdm5JVG4yY2VjNmV6RXV6cXd3d1lGdEoySnhaM0F1S1FrNUI2eDNLejNMYXVfZXRUTEtJYzBjdXJSTXh4WE5uemZsY29iSmxBcE1sbVc3aFc4M1pFMFgxTnZZT0Y1Q3lHQmpGLXFBRFpIQkFTbDBZeXJCLTViZGphbVRia1pFTUxWSWNXWWFfcDlrOGNhLWNyR05YZlQ4WHVWSGZicUNnOG1jSUZhMnhPS0diM0dOU2MtblM2a0HSAcgBQVVfeXFMTVdBYU5saEZRUlB5NS1qWEs3b0ZLV2tHZERxY0lZUU9lM3djUmFJUTBmM283eFdIV2RZTkdIbS1oM21UeEhNRTE4M1FRazJ2TWdtV1o4VDRJcTlVWFVaLUpUMDZEcnlYZGhoODdZMzJRWWxyMTcya2Nsb2xvcE5mTkFFWmt5WVcwdzNhZDFHR0l2ZDVRRFU0QWg4WHdlVnFZcERVYWtyN2Y2Rzd0ckJjaFM0LWc0X0xobUNsVFk0ZnQ5OHUwamlBUDA?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-08-20T21:04:00.000Z"
+    },
     {
       "title": "Foto : BEI Gandeng Alpaca, Broker Lokal Disiapkan Jual Saham Emiten Asing",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2dGS0V1bERjTDFvd1NobmNDeThfQk42M1hVcEs5ZURwcGtSR2NOREctZ3hwVFR1RlIxd1BzTzFmN1MyTVlfU1pkanJ6STNEcXprVE0yc0hSbDhxTWwyeVNMS2F4bERtOTdiQmE1TTRaTEM1OVB0Uk9SbXpqUmdwZlRITGdOaFQ5eHlNQ2d3NURseC03V3o3bmFHcEVSYXk5V1oyUmZrY1Y2bU9rdm9jeHFOa3JYNWNz?oc=5",
@@ -92,12 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQUFDLXhmYWVfUXl1RkJhNUJ4ZllwZGFwM3RIY081c2hBUlVraVNJdHNUTFd2cEFOOUdldmszN2FJWWpEbmVJYjd3cXpvanhyTEEzeTN2MEIyeHU0NmcxTy1RUlBacE9fU3BhTVdkWVU1bUdFLVJoN3ZyZmlVa1hNaVhFajM3UC14TEFVSnZkQ1p3VDh6dF9kZDVNMm80dzRSUHRUZ3VFc1JIWWVRbUZ5UFpidklBaXpxanc?oc=5",
       "source": "Kompas.com",
       "publishedAt": "2026-08-20T14:27:31.000Z"
-    },
-    {
-      "title": "Saham WSKT Disuspensi Sejak 2023, Bagaimana Exit Strategy untuk Investor?",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1ZkNmt1eG0xbmY0dDRnd0NKbTI4OU1Xa1RMS2hscjRGQXIyTmE3bDNaZFlUQ0JZcDUxaHZ2SEpxdFh6YU5GV2RmclRaU1UtX0FidF9CMTdBR2EtWGNYQ0JtcnkxbmY2MVBYalVqYWFiWHR4QzZuc2J3X3JWV2ItMnJRdjJ0QnJNWWpjVHVaTDJMaWQzR0wwZjlMcmFWSE1Ma252YlBlcFhRTEHSAaMBQVVfeXFMTVI4em1XTGlQZVpNVzRpSmhKbEQyM1pZLWFPRjNHMVVINnhkdVA3NDVBdGZ1c1V2WUlYS1NzTzFTMXBuR0hBN0Z6dlpJZ0twT2JETi01d3BiN2ZobDhiQmc4UXhPdDE3b0s4SXpUNzRfMnZhUHRoanhleENwYVB2RWhrZ0hwb2RBU2pVa0h2LW9RcklOQXJSZzB0cW5BVDUtazZhZw?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-20T13:27:49.000Z"
     }
   ],
   "macroNews": [
