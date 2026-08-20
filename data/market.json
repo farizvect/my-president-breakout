@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-20T04:35:15.082Z",
+  "generatedAt": "2026-08-20T05:09:37.280Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
     "currency": "IDR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
-    "price": 6477.01,
+    "price": 6488.24,
     "previousClose": 6449.83,
-    "change": 27.18,
-    "changePercent": 0.42,
-    "quoteAt": "2026-08-20T04:25:14.000Z",
+    "change": 38.41,
+    "changePercent": 0.6,
+    "quoteAt": "2026-08-20T04:59:36.000Z",
     "exchangeTimezone": "Asia/Jakarta",
     "marketState": "REGULAR",
     "date": "2026-08-20",
@@ -888,14 +888,6 @@
         "close": 6231.78
       },
       {
-        "date": "2026-07-21",
-        "close": 6340.02
-      },
-      {
-        "date": "2026-07-22",
-        "close": 6334.48
-      },
-      {
         "date": "2026-07-23",
         "close": 6315.31
       },
@@ -918,10 +910,6 @@
       {
         "date": "2026-07-30",
         "close": 6186.36
-      },
-      {
-        "date": "2026-07-31",
-        "close": 6236.13
       },
       {
         "date": "2026-08-03",
@@ -973,21 +961,21 @@
       },
       {
         "date": "2026-08-20",
-        "close": 6477.01
+        "close": 6488.24
       }
     ],
-    "fetchedAt": "2026-08-20T04:25:14.000Z"
+    "fetchedAt": "2026-08-20T04:59:36.000Z"
   },
   "fx": {
     "symbol": "IDR=X",
     "pair": "USD/IDR",
     "baseCurrency": "USD",
     "quoteCurrency": "IDR",
-    "price": 17755,
+    "price": 17763,
     "previousClose": 17839,
-    "change": -84,
-    "changePercent": -0.47,
-    "quoteAt": "2026-08-20T04:31:40.000Z",
+    "change": -76,
+    "changePercent": -0.43,
+    "quoteAt": "2026-08-20T05:04:07.000Z",
     "exchangeTimezone": "Europe/London",
     "marketState": "REGULAR",
     "delayed": true,
@@ -2031,10 +2019,10 @@
       },
       {
         "date": "2026-08-20",
-        "close": 17755
+        "close": 17763
       }
     ],
-    "fetchedAt": "2026-08-20T04:31:40.000Z"
+    "fetchedAt": "2026-08-20T05:04:07.000Z"
   },
   "errors": [],
   "sources": {
