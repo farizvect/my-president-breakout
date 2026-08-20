@@ -1,106 +1,112 @@
 {
-  "generatedAt": "2026-08-20T10:23:02.026Z",
+  "generatedAt": "2026-08-20T11:20:29.491Z",
   "headlines": [
     {
-      "title": "IHSG Intraday Sesi II Lanjut Terbang ke 6.500, Level Tertinggi dalam Tiga Bulan",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZmFKNzBPUEVkQUJHTFBPbHBzSTg4bGdJZTBxVTV4cE5ZNHpSYVBKc2VGUFJhUENRRDc2MGF5UVI2dEVqb2hGUHVWS3VGNy01OWZHZkk5Znp3WXJKa09YaG5ZUDV2SlJCWF9nWElWTHM4V2xPT0lmVkxkUDlTRWJPTjE3NVo1SEw3ZmgtY09wUjRYd092QTZLWTh3bFdpRE9sbnN6N3YtczdOVEQwUl9XSU1Kbkx2dGs?oc=5",
-      "source": "InvestorTrust",
-      "publishedAt": "2026-08-20T07:01:00.000Z"
-    },
-    {
-      "title": "IHSG Dekati 6.500! Asing Rebutan 10 Saham Ini, Gelontorkan Rp648 M",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWRzU0hWYWxPQXhFcXlaMVdyajFPRjRtY1ZQRERxaDhHNzU0Z0VDV1lTQ0g0anFTcTlZUGItZ01CVHNpTVNxRllLeklWbHZaODdjYk05aVRZdW9RZ3RJSXNDTFFUSVZyVldjNjZENmFleklsOFloUXJOYTluek0wT3pOMW05T0ZHVm5Wel9jcmk5OFF2UnhJVWw5R0tsQWJzS2p6XzV6Z0gzOXl5UWdBcEs4SmNTbVB1YkhLT0gzYVFGWEnSAcgBQVVfeXFMTnc3ZGlwTFpUTTluakJ3WlY4NTVPZWZ4ZEtyay1TbUEzUnhsbU5wamR5M0kteWhvdjVFX1lDNXNJSGwzT05YRUZtWEZ5M0E2cy0xWkVVN0s2YUNFaUJFSFRfUDN1NXJ0a2NxR1JDUEZpR19pQ1F6Z0FKd25kUkotUWJRR1hrS3dqdEI2YUh3SS1naWFoTm1QZEFoXzdnZlZaMGswMVZsWURYdWtXTVFtWEtVZkhvX3NiRDZURzNmRWhIS3g3OEhHMm0?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-08-20T06:55:11.000Z"
-    },
-    {
-      "title": "IHSG Menguat 1,47%, ANTM Jadi Salah Satu Pendorong - Market",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXllbkJkQVp4eWx2WVdhX3RxeWRaakJ4aXItdGpwUGltbmQySjl4bU1Lb1NpeDlaeUhfLXRXd2tFdklpcXFDcFAySzVKLUFfMk4tanh3cmoxcy1HLVp1c2c3NWpmaFlxQ0ZpN3hMMHdJVjFIdGRQbmZzQ1ZNNE5BbjV2VjdUOXFYblRDcjBXWExiS1dPWG9OZHdub1U4T0tRcUE?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-20T06:15:27.000Z"
-    },
-    {
-      "title": "IHSG sesi I naik 1,47% didukung inflow asing Rp648,22 miliar",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONXVPU0dEb25QZ1ZZTlJWcEtWMUZQM0NlcmJOWXlicEFMSUZJSnJnV2d1RnRESEtseG40ZklVX1Jxa1l4Q0gybVk0T1lXaWk5NUtxU2ZhRmpYUjF6RVkyT0JjeVc5OGxiR0ZuSUV0U2Z3ZUxlVGx2VUpUVWl1SEQzQW5uZXNaX3RSa0FiUnB0LUR6aDducGtuNzJzajRTMEZuZHltdnRn?oc=5",
-      "source": "idnfinancials.com",
-      "publishedAt": "2026-08-20T05:45:00.000Z"
-    },
-    {
-      "title": "IHSG Sesi I Melonjak 1,47% Dekati Level 6.500, Ini Penyebabnya",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ20wZDF5RmltYTM3WDg4MkRMLXd5S3RRN1dWSFdXMFNOMWNZQlVydUw5WDlaS1FCOUdBNHJGWktUWmgtNC1ob3BpSVJjQVBQdGhHYUtreEMxbnM3VWluaG5GbWdrX3IwSWdmaEc4SE5HYWpyUnZmcHM3THJLcVFsQXR5Uzc3Rlc0eGIyR2dtQ0gwUEl0R0VEdFR3Q3Q5UGhreDdjbUE1RzdYcHdQTm5jZEJ2aXVaRHFrQzdiTtIBwgFBVV95cUxPc3VIVEh0NldJTEdwUk9tbHBoeXV4MTFDb0NqVnJoOVJQd1Jaa3FUYk5FeEMyb3I4SXFLN05sSmdJMWV2eVZGN1BjMFc4VlR3Rl9KUGo5OXRfSzVMYlVEdDFOTWRHaGYzUWd6cWtnSkVrcEpHQXBTZ0EyTTB0dEU3QmFQN2JJT1NzcEpXOC0teWNyRl9hdF9XSmNJSnZ2b0gtMDdxMW9mMFZKNkZKMnNUYWJUT3dQaC1JZnFXSklTSFRXdw?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-08-20T05:33:40.000Z"
-    },
-    {
-      "title": "IHSG Sesi I Menguat 1,47 Persen ke Level 6.487",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1BnMVhJM1l1QTU1VkZOaTdWeGhiMXZ3cDRPNlZ1cUp0dXJ1VzJyR0g1bVZaemZucUJ1Q3hZaEk2T01iSDJ1cFRuWlNLX2tub3podlhlclBFOVBadU9SVnlvRDdjbTZRWGpmbGQ4OHdNRFJmQ3NMNDJuTzZsNVNBVXB1T2tMZ3pYVkE?oc=5",
-      "source": "pasardana.id",
-      "publishedAt": "2026-08-20T05:29:00.000Z"
-    },
-    {
-      "title": "IHSG Dibuka Naik 1%, Rupiah Menguat, Ini Saham yang Jadi Penggerak!",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzBUOElwU3FEcWdKc0xPbzBWa3NPMGRkTUVRS21lRkJzX0NmcVVVZ0hncy1BTl9wT25PclI3ZmxyeVQzZzVVNVA3ZXpoLVo1UzFjdS1MTWg3X3B3dDlodzNBMVlXSTFudzRPeHRpUUlURVNCMTJNMThoZGVmbnJuS0xhMW5ZR1F0ZTdXRUxVdERuNzBVVGRNZ09YU1k?oc=5",
+      "title": "IHSG Hari Ini Ditutup Menguat 1,68%, Simak Daftar Top Gainer & Top Loser LQ45",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGNjRXNxcUxBYk0wVzNqaUQyQzRPdG45NHJoUjJkR0cyRWtTcVg1YjloUVY3dmViWUMwVGFMOE5xYUVRS01ZWmVCbUE0VmdhZlp6bzk0bXFZSTZzdFMxOHFKaFcxelBOYTZON0NhR1RtOEgtN3NaeVhueF9QX09GY0RPWF9vVlFrOFZhOFVoRmthVi1UNlMwTWlmY096cHBPdGRxQWRvOFdYMDQ?oc=5",
       "source": "Ajaib",
-      "publishedAt": "2026-08-20T04:00:23.000Z"
+      "publishedAt": "2026-08-20T10:55:37.000Z"
     },
     {
-      "title": "Rekomendasi Saham Tim Analis Bareksa Hari Ini: ISAT & TINS, IHSG Diprediksi Sideways",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHFvbUdMdWhpZWFuQ1VidkpOUF95ekR1bWNCV1gzRVJTeWFBdFFQeE9TYmRqeWk1QngtVkhFVy04eVYySHByb0oxWHVuTEgxRnlydG9RQ19FQVZDWlJyWVlXbzlEQS1NM0szU0g2aFN2N2dQdEFJMDlfOC1tTE5mQms3U2ZQeFBMa2czTTVITmdQWHVFSVNrUDdOdnJ5Wk5jaFhIS2p3ckRRLVZSWGRrbGtYb1lNOFByZXRGYUJjcXNzM1R5TXlRWXpzaHc?oc=5",
-      "source": "Bareksa.com",
-      "publishedAt": "2026-08-20T03:00:45.000Z"
+      "title": "Saham Big Caps & Rupiah Menguat Jadi Pendorong Penguatan IHSG",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGRUQXpfajhrb0ZINnJYSGlyTlBCUkZTSW4zV0pqZ1BieWcwQ3hzck9PSVZ5Q3FlQXV2b0ViVkpMMTZPYUdGZm9TTVlyclZtTnZaZklOb3BFQlhKR0syVm5JUmI1RE8wSXM4LWJfMU45bl85QUJPYlZOZmhGMWhBT1JKT3Y3Qmtna0lQM3pTZ3hKMUI3M3p4ZUdwRkE1YXpzM0NUNTMxYlY0WTFKX2VsUw?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-20T10:50:05.000Z"
+    },
+    {
+      "title": "IHSG Melonjak 1,68% ke 6.501 saat Imbal Hasil Treasury Turun, Asia Menguat",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDc4RGQyZjA5cHZOLWxSNjNTM1ZDTXBLUE5IU1VrdlJTeGFhQmpXVE1qODU0NmwtcDkxR3BUVVFpUWxkVUtxUThNM0c5b2trMkhvVmgtS2dXdWR1TUlTOE9ycW51UTJkUGpBZXJ1MEtXMlVoOWlHY1NVQ0hkYTlScEpTTzlZaE1PMVBjYkFtbklrSHdHOHltQ0NydnRVQnBxVjZINXlYMmxiMDV0QTJlWDVDM2c5VEE00gG-AUFVX3lxTE5YN1E1Tms1R2F4R0x1UnAwMkNJVkFSTEczYW5LN0Jqa0RVN0Y0S0REMnVOMlBlWS11cjZEV2d1d1drNHJob2RObkJSUFB0QXVldHRRQ2NOdkF4czZhUEtPV0FpRkw0dlQ2cVFnc3Z0TllrUC14YVVLSFhYckRnSHk3Z1B5VHQ0UFEzQU5oOVpPeHpxdVV2ekE4QWR3Sm5FUktqU2dKZVM4dFlieWttOTJYTXc5Ynp6YWl4UkxUNFE?oc=5",
+      "source": "fxstreet-id.com",
+      "publishedAt": "2026-08-20T10:11:29.000Z"
+    },
+    {
+      "title": "IHSG Menguat, Tembus Level 6.500 (Kamis, 20 Agustus 2026) | Pusat Data Ekonomi dan Bisnis Indonesia | Databoks",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDNCNklUY3l3S3lYTU5JTnJjUFVGVExCNmROaXJHWDM3OGtHNVRVcFRxUV95UnJScjd4RUVJTkh3bGd0Z292Mmh1QTdYb21TLVZTdUh5R3o1X3FpMG52SHUwbmlfaG16S3czM2VHcGcyZEJubE82MlI5eDBLNTFmWE1tX3dHSndsaDdUOGRsUHlwcEc3b09UM3dncHJ5WERwSk11SUNjbC00cG9rNVZpeFZoY1U?oc=5",
+      "source": "Databoks Katadata",
+      "publishedAt": "2026-08-20T09:59:28.000Z"
+    },
+    {
+      "title": "Rupiah mendorong IHSG naik 1,68% ke level tertinggi tiga bulan",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVWhsNVB6c2hVQTNibWY4T2xWaGJ3eEplamwxNTFCNUtsX29HNGxjYmxManFlSHdZYnU2RnR2RUUzdGVXUXdTUzZERWpzQXRYX3NELUJsSDhsekl3Ty1Bd0lWQ08xUzVmeGZQallZaUV6dWU4bGo3RGlUMWJ0dC1UZWFkeU15ZEVxX3AwNE55MElHc0R6U1RGdzEyM1ZPVl9WTmgxSDRQVUM?oc=5",
+      "source": "idnfinancials.com",
+      "publishedAt": "2026-08-20T09:47:58.000Z"
+    },
+    {
+      "title": "IHSG Ditutup Menguat ke 6.501",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWUpRMnNYU0RVUEJIbm4tT0FVLW44MHgySmR2eHRuR3FFNk9aT3VhdktlQzNzYzV4UjBFT0MzWnVXVkV5azhIems3RlY0a3U0Y3R0S3dnVXdsTWVFbjJzRWpzOHZNTWdBMXlibFJnb0lzUllNaVlrVGdJaUhjOW1yVHpZdVU0YnNQ0gGOAUFVX3lxTE1sNDNCMk40YmoweFMxb0JfYWhaN1lkU2x3bFJqbnF2bTlvWnllUDVoU3ZpMmxNT1c5STBvTHZtQTJJemUzMzhhQWdwVzdORzdpal9TS1gyUlFCME1Kd0hQOU53ekpPeVYzV29zY040X0ljeHVweXRfS010TWp0dnVOMXJYMHpNemU0anNuVGc?oc=5",
+      "source": "detikFinance",
+      "publishedAt": "2026-08-20T09:27:00.000Z"
+    },
+    {
+      "title": "IHSG Melesat pada Penutupan Perdagangan Kamis",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHVNOUNVZ05uRWx5cmxzTGx5bnhjdnB5NlRPaTFwLUpOdHRqRmNUcjVLeldFY2JZd1JuYVgtZm1MOXFvOHIxYUZTdGppbWEyMVJ5Sno5ZWhCM0Q5Xzh6dlgxd0FTTmw3djA1VEhDRVpZLW12VzJEcWFyWkdJTVozb3JZWWFTR1ByRlNZMw?oc=5",
+      "source": "TopBusiness.id",
+      "publishedAt": "2026-08-20T09:25:00.000Z"
+    },
+    {
+      "title": "IHSG Ditutup Melesat 1,68% Terdorong Semua Sektor, Saham ALKA hingga JARR Cetak ARA",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUJfYl9IQzk3enRxZmtnWUVNcEVuVUdJazY5WHFnVUxJM293eXRoQzhRWW5vX2RuYzhyeDZNcnRpZmRoTUw0MGVIMmZyU0JIVGdncmQ5eHhOTGEySWlaQ3VfWHRtUzkxY0RXcU1FZDBFZzllbzJ3dnJ6NjE5M3oyQ09rczlwRHhjelJkTEJydEEzSlNid1I3OGhVdWhKVmhoNEVjMTJQczVUWmVsVEFzR0t6azNma3VRUlVRag?oc=5",
+      "source": "InvestorTrust",
+      "publishedAt": "2026-08-20T09:13:00.000Z"
     }
   ],
   "stockNews": [
     {
-      "title": "BEI siap turunkan batas minimum harga saham jadi Rp1",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXQ0UlJfc1doZ0E2REdPbU94UmdrdGxZMGQ4OXE3RmdXOEJnbXJrdzR3RVhwakM1OGhWUGk0dUZaOFhZRjdPX3ctN0k1QkdoX3QyQ1cwRWpjLTdGc1E3dVZlV2tCc0FvcWlzOU5xdWNnRHBfYVVkUDVIWlpLTGtwakNWOWlVLXc4VkJ2eE05TENjTGxUbXBzNzFR?oc=5",
-      "source": "ANTARA News",
-      "publishedAt": "2026-08-20T09:15:37.000Z"
+      "title": "BEI Gandeng Alpaca, Broker Lokal Disiapkan Jual Saham Emiten Asing",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPanBpQlc5cVJxWmlzSTdMRlVjVEpOUlJTTi0ybWxTd0EyZzh5RjNydUtXc2NUbVV1cjYyUGVkcVdXMjVSRFRLYnVlejAwWVJUc0I2Ym1WWU5LeWtZNVpBazZoOGNhVlR2a3d0UmV3YnZHeFFHYkZGbUhjX2p2VUZXdXVMajZrQWJjSFFzN1FQaGVOUVliMGFrbWNpajB3MW1na1loQWpWenh3WGtjaXIzSHVvb2Noc2M?oc=5",
+      "source": "Kompas.com",
+      "publishedAt": "2026-08-20T11:12:00.000Z"
     },
     {
-      "title": "Harga Saham Sempat Terbang, EKAD Beri Penjelasan ke BEI",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGlBbjhMQndEVGZ1MzZPOEI5ZEVQSkY1NHRQS04yT0VreHZLSkZvZkJPMHRCcTRlNUVjUEJ2UDBmdG1WQjB5UVZBUGxTTjJJMTJJNWJrVktDRzVpcnBXRWUtbWR0R1RFWnBkRmxidnVOLTM4cTlrNEJJUnB0azlhc2RGejJEXzBGUi1QcVJKdHZuVFFQUENMc1NhUVViNnlwWWVFRWtyYw?oc=5",
-      "source": "Bisnis.com - Market",
-      "publishedAt": "2026-08-20T09:04:45.000Z"
+      "title": "BEI Siap Hapus Batas Rp50, Saham Bisa Diperdagangkan Mulai Rp1",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVExJUDlrdTZrODlzeXBpelpWS296aGJiRXoxZGZCSmszaDFac0FLU2lsdlFucVJZWDgtUTRoQ2Rad3BPV0JWN1d0czlXRkFhRkx4MlR5WnJWZjBBYk9GNDFKalN2MmNCcUdaN0FuclM2VHlMTFRPWTJQLWhVakxBUVhDWHZIcm5NUVNVU1d4cU91Wi10clBIM0xyMXdwWXNrZXJXQzNuTEVRUndBRXZpS0pTZXhyZmZRWDVYRDB3amjSAcYBQVVfeXFMUDhFOW5OSFdMdE9QLUc0ZVRuZnpwNEh3MDBQTUVwNXg0X1dJcGVzaHc2Y0JRMGRoZmlobEloWGItbjhkeGk2cUpaRHV5eVk3X2xYcnBfX29Mdm5MUnBzY0wyc2twSU5zLTgxelJMdFlVYmpfRGJuV1JMTE1KNmlOMFBsQVdtQm1MeS1hYWI0M21KNE9yaF9mTGdfSEJhdUJmZ3BNeUM2RTFTU1hsSUVidTN6bG5Ja2hCamN0cXY4dGRTeVR5YUJ3?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-08-20T11:10:02.000Z"
     },
     {
-      "title": "BEI Siapkan Aturan Baru ARA, Saham Murah Bisa Melonjak 35%",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTdiVnJOUzUzMTZjdVAwSS1EX0RFNnk2TXhHcl84aGRXRE5STGVTYjFwRkF5VklMRTBXOE1ORm9tX2ZMT291VVJhamJIcXZKNExod2ZaWkdkeGw0dWpOT2F3WHZlMmUwdFhfYU5iaTFYVDdnWUtQcUFTU1hQdkRQTXdsZEt4UFlqMUhEZWNhTTBuUFBWaEVyenExZUdCZzhRdTUzMUl30gGmAUFVX3lxTE53d2ExZHJaNjdDUGhldlZpMGd0N2RpUHBHWm9hNDkzUFdQWmJKZ0RxTjJZakp1amFfLXRBTGQ4Y0hFendIUVRSNm45LVBiVkZsekQ0bF82aUVCWXd2YWtORkg1a3RCZDJBak5uMFB2a2o1Rmh4UHdVSkRxbzZxTXBDT0NxOXdIbE5CNUpncGxLSV9nd01sS21EekpJWmxnWnZSdGFhb1E?oc=5",
-      "source": "Suara.com",
-      "publishedAt": "2026-08-20T09:00:51.000Z"
+      "title": "BEI Bakal Ubah Klasifikasi ARA dan ARB Saham, Kapan Implementasinya?",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVGplejE0a0t6dUlqd0lyTjFxaXBrU05KdVpKcnBzLXp1RkdPT3NnY1JQWWJCVDJwZGd0bk1xMW15TWVncW85ek9wSkppSXRydGpnNVRycmFkaWtfOHhuSmxCeS1yWXRxSkUzT0t5bkh2Q3ZFb0ZQQ29vNURSQzR4VnFVVF9OR3J4YXNicVpyRUJjQV9FWW9KazdvQ1p5bXJCRVZwT1dKNnBvdFBzX1gxRWVYc1NaRmZPRHc?oc=5",
+      "source": "Kompas.com",
+      "publishedAt": "2026-08-20T11:00:00.000Z"
     },
     {
-      "title": "FTSE Tunda Keputusan, Transparansi BEI Jadi Sorotan",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMGZabGRLdER1ekpPWmhfTTNPRXdBb0F1Sjh6cW9nc3hBX2tQTGZGX1ZoelV6c1UwQkJZQXdmQUhKOHBuYlY4a3dyd1d1alFWUVlubk53RE1hWE5ZVjg4UHF6U3FyZUk?oc=5",
-      "source": "Kontan TV",
-      "publishedAt": "2026-08-20T09:00:17.000Z"
+      "title": "BEI Mau Hapus Batas Minimum Harga Saham Rp 50",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3ZKcmVZZzhkYUhWVHY0YXEtNEhwLXhmNXdDWWR1WGkzX0tjd1pEWnpEbHpZSFVRVUVJOFdoaVFBaEFyanM2bFZPaUZvV2RsODVkRDRvODNwYkF4a0VmZHh4MEgwZzdkNmRlZ1dCMTFnUVVqNXpVMXpfS2JmVVRmZ1loY041MG1NcXc?oc=5",
+      "source": "Tempo.co",
+      "publishedAt": "2026-08-20T10:54:56.000Z"
     },
     {
-      "title": "BEI Mau Turunkan Batas Minimum Saham Jadi Rp1, GOTO-DADA Bakal Lebih Mudah Ditransaksikan",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlRDX1Frd1FMcExLaHQ4cThpSF8tQ1Z3N0szR1dOam9XTG8wZE5OWXI2MDZmN2VaejBBMnRRLUJBZllwZ1hOSG80alNQdXpza3Ridy00cTVvTTBRRkx5X3RUak13SmxHQnlOc09Fd3dGNnFmVXMzbk9fLXRwalpacGQxQUxTTVd0aFhaSXVvbzA0TldtbDJQR20zM1pzTVkyTTJoZXp0Q0tRWmhYTTNQZ1NYUERWaDE2UEdfNWE0T1hXQ0NLY3fSAcsBQVVfeXFMUERqN3RWOGFPTDJMVjZEVTNia0g1V2d3YTBqSFoyc2YxVVRPTHpYUTNkUXMyOXpndkxIbW1LTkVZUXQySTlVc3VMT0pHZEhGX2FINGtuc1lkeFQ4NmdYWGhpVVh1X1Y1TDctZVA5cDl0OGhzdmVVWlo5WkdHX0ZyeS0wbHUzWDNIMEQ1T1JJdWZQWkZpN1lqWHV4QmNSLWEyZ0xiWDU2WE5rUXM0R1A1WGZuZVFJNGE3SU16RHh1OEgtdldaN1RZTDVibWs?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-08-20T08:55:00.000Z"
+      "title": "Bursa Efek Indonesia Siap Turunkan Batas Minimal Harga Saham hingga Rp 1",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTTJXUjFOMHlYaUpLWEdPTFRDcnREYXVFaGE5UjlabVlPMHZFdnB4ZVlUMDBLX29rd0lkNmloZU1hTmRQRjM0eTZCdlk1MFFuRHhJMy15ZHRfMDlXWVNLX0hQMTd2SEVUeFZ2VmNoMTZqaHZSZnk3LV9JcUQ2ZnJnV0o5SlROU3dwSnAyR0hxaEZRSko0Z1pJQzgwX1dtZGZyQWE5Nw?oc=5",
+      "source": "Kompas.id",
+      "publishedAt": "2026-08-20T10:37:19.000Z"
     },
     {
-      "title": "BEI Mau Ubah Batas Harga Minimum Saham jadi Rp1",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtTDVfQ1I1Tm43Rm1mS3ZsLWJIQ1JiSzF0dXlnbW8zN3NweGh5Wkk0dVNnUnVPUmFoT0JhdTRydHhYSmVwWGJxRjNCeHk4T0ExcDUzbExTeEpWX3k5UGV3UnNxc0Z3TWd0MGRwQlhCNVBucXF3cWVnR3pkUDI?oc=5",
-      "source": "Infobanknews",
-      "publishedAt": "2026-08-20T08:53:17.000Z"
+      "title": "BEI Siap Turunkan Batas Minimum Harga Saham Jadi Rp1 per 7 September 2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQekR1WVdDNDNTc1UwMUR1MkdDeVQ0TmxGbDYwMU1ULTNMUkNHajdMUkpoQ2Z4a2ZjQk9NMFE4SjFTLURFbWFIeGlEUnNHeGJIbDNNaFNxSXJVNU45cl9mOUFnaXZsN05YMHVTOWhLY05LMXprdWhfSTFtT25IaUQxT05yMmpQcXNraEQ3TUM0NjlNamRVUDhqdFIxZnRqS1V4ZDdFUENQUFp2bVBQNDNjU1VmbUMtZw?oc=5",
+      "source": "Media Indonesia",
+      "publishedAt": "2026-08-20T10:11:49.000Z"
     },
     {
-      "title": "BEI Berencana Turunkan Batas Saham dari Rp50 ke Rp1, Simak Daftar 46 Saham Gocap",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmRUS1NQY0JIRDl3dUFHdks0SC1vWExSNFdkQTBsNUxFMTRCOHp2bnZJOW5FdUVDUkhlcEtHV3g5eTBhX0ZkLUZkdVVsTUFObE13Z0pVWTRoS01yR0JETUJ4amZPMUxBRldzRl9pTGxjOFFtSm95LWlWWUVQVW9pWkpqc1RETEN3cVpoSXppNDQ5ZFJIajN2dThjZ0R5OWd2ckpLLW9icjViTldwTzFGTmhDZEZ1ZF9PRlHSAb8BQVVfeXFMTmNWaDl5VEJPeEVkQ2JhRGVoMzljRmVEcDFSQkpaSFhTYmx6NlhKQU5XUHVIcG4wMFVyVDNGdURRUUM1M2RUQU96bWZ5b01uMHBoRUw1UW9uYWdDeUxBR09HdzJQOUdPOWlBWFZ0cC1BOFFfZkFUZTJ3bTJNQTB0UlNFeUFrbEhXa1d5dC16dlQ2YUI3bmo5RW5VSFJIR1o0UGJRM0ZNSXhfc0VRUC0yeVFsQS1Ib3lFR0xnckJMQzA?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-08-20T08:49:00.000Z"
+      "title": "BEI Ubah Harga Saham Terendah dari Rp 50 Jadi Rp 1, Saham Rp 11-Rp 200 ARA 35 Persen",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOajNmMGFBNkJXMWkxcnZzOHFlQ3FkaHd5MjFJeE1aOVVqVXVfRFdVVTFLN0FtT184Q3hqY0RadU80bUlzWTRNOXhvNjhNMmVUOVFxcldCRVpxOGlva0laUFlNOUxVNkpnbW5PY2dBeWxIMFVmY0NNcjhKbTdDdEpvV0psQXdESm9PM2ZwUHBNbEUyd1Y4YWFNcU5pem1LYmlSUjJYS2wySXByZG5HcmF3a2t0bk05a1NuT1pjcjlMX25CS0JOa2xPTEtmMA?oc=5",
+      "source": "republika.co.id",
+      "publishedAt": "2026-08-20T10:11:12.000Z"
     },
     {
-      "title": "Bye bye Saham Gocap, Harga Saham Paling Mentok Rp1",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaUd5OWpQQVlBa1RDZHV0VW1kRjlqMFpVcWwxcV96Rk5sSmtOMkVSeXlqVlRPUUlfMVh2bjZmMGk1aVJXSWZFd2lvQW5nbTh1OThIbzZZTmRPMVk0SjVVOUg0dkxvRjRKeGR5YUlBQlFadjRZLURQVUM1OWNJWWxmXzNYbVNZUjhlR2N6dXA1RjBBa0VLU05tVU9nT3bSAZwBQVVfeXFMTkRyZGg1Zk5vOXRIZVhoLUlLay1DOFpZOG1QdHI5ZGk2Qm1FVVhDa1RsQ3JrYzV2Sk8wQU1ZXzBMSDM0MkJ5OS1uMnhUT1hsZ2hOZDVaaV96Zk1rUUtIMkk1YXBwNUQyQmFsczMwZnRkaWtmU3ZOVUZ1YUt0Znl6WXhZVDJtTmJsVF9LVEwzdlNPVXozX2E5S0ljdWNG?oc=5",
-      "source": "Suara.com",
-      "publishedAt": "2026-08-20T08:44:38.000Z"
+      "title": "BEI Hapus Batas Harga Minimum Saham Rp 50 untuk Perluas Pergerakan Harga",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zeG5TbkdOUTNIdlh3VEZPQk8zcXREdDUybk91TVpGTy1iX2NFQ2pGUEZjOGNrM252dmxuR2ZlT1psVHRqMTB2R1VVY0hIbnMxSEV2TEwzRFhxa3JtbEJSMmFrQUtuejNK?oc=5",
+      "source": "achmadnurhidayat.id",
+      "publishedAt": "2026-08-20T10:06:04.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "IHSG Melonjak 1,68%, Semua Sektor Menguat",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTVR4YnNqWHMzckY1cnFSRWhUVGFUMGVLM1dsc3JWWDlNbFZ4SFJ1TDN2aXBpMnZ4MVdGN0dxbDZlWGhSMm9sUFRxcFVZa1VURW9kbGhoZ2VTeEJpWjJFZFF3V09GQzBqRGc3dkIxN0JseDc1S0l2emd6OU50SV9ZR2ZWRUJvNElu?oc=5",
+      "source": "MetroTVNews.com",
+      "publishedAt": "2026-08-20T10:20:41.000Z"
+    },
     {
       "title": "Wall Street Diguncang Yield Treasury, IHSG Justru Rebound: Investor Mulai Berburu Saham",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbU1FdkdwdUl0Y2Y4SDFiS1lzT19uc2tmWG5oMFRyRmxQZW4yTlB1ZGZVYXJRdVh3MUd6TzlLZHpySTRFREp0U0JoTU9wZW8zTjY3N2U3c3lqYlAyb3Zhc3RjdlJQYi11cHNkY3J6cHhXT0ZIR1I1TDVYNEFmX3dpQWg1S1UyT1dOeFJPVFVWYXl2dDVVU016Z0xWUTE1b1dGUTR4ckNfYkVwTnFuNU91VHAtT3NRODFLaVJWZUtha0E4OTdjZE1laUswczBxMVVOUTJNRm90SDdRdw?oc=5",
@@ -142,19 +148,9 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44NVNjdXBzV2NNemNTYWRhMUtrRVh0MC1Qal9BelgwNG9ESHJ2NUpBUFpoOUpJM3MwZzZJc2pRUENVQ1owdHJjczg0LXRaa19VRWpKZXl1NjQtMmQyVDV2SENqdUpvdHUzeFVJTWF4Zm9Kd2FM?oc=5",
       "source": "Ajaib",
       "publishedAt": "2026-08-20T01:54:54.000Z"
-    },
-    {
-      "title": "IHSG Diprediksi Fluktuatif di Kisaran 6.300-6.450, Ini Sentimen Penggeraknya",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnZYQXpyUjhZUlBXcU9jWmEtazFWNmxObW5TX0lzamViQXdxeHVjamZOejVGX18yUlh1ZHdPSkdxMVUxb0R6VnpHTVhLb3ZJQzJ0Z0N6SXJ0c0FoZUIyU2YzUGZVSjVJMEVGeU9wTmVlVG1US2ZGb1BxUlRxanRvMU9ad1Z2Nno4bUFiemttWVQ4RnNZWVlmQmhiNG1FbWlkX3k4RHF6WGNGX0dPM1BvStIBtgFBVV95cUxNRzFRZUlSTTJiUElyaEhtN05aNXk2UVBDeXpPX3poS1ZkcldkWU1rVVRYODRkMHhqMVZvUHBfTnNibGVyZ1M2UDh6MXlPdjE2Nld4cnRyUTdsZmFkYkk3dzYzQTVQdmpMaEpRVWphMDJmeWlSRmVhRzQtNkplWGl0MW1ONmVxTmItYW8tbkZwZHdLWGhvdldkWUxrVURSbUZqMU1RN1JYWHFKc1lTdzRvSGZFalRBdw?oc=5",
-      "source": "Warta Ekonomi",
-      "publishedAt": "2026-08-20T01:35:50.000Z"
     }
   ],
-  "errors": [
-    "news: 503 Service Unavailable: https://news.google.com/rss/search?q=IHSG%20when%3A7d&hl=id&gl=ID&ceid=ID:id",
-    "stock news: 503 Service Unavailable: https://news.google.com/rss/search?q=%28saham%20OR%20emiten%29%20%28BEI%20OR%20IDX%29%20when%3A3d&hl=id&gl=ID&ceid=ID:id",
-    "macro news: 503 Service Unavailable: https://news.google.com/rss/search?q=%28Bank%20Indonesia%20OR%20inflasi%20OR%20rupiah%20OR%20harga%20minyak%20OR%20harga%20emas%20OR%20Wall%20Street%29%20when%3A3d&hl=id&gl=ID&ceid=ID:id"
-  ],
+  "errors": [],
   "sources": {
     "news": "Google News RSS; articles belong to linked publishers",
     "stockNews": "Google News RSS stock and issuer query; articles belong to linked publishers",
