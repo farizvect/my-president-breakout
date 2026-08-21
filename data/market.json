@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:20:09.424Z",
+  "generatedAt": "2026-08-21T05:54:21.055Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
@@ -987,7 +987,7 @@
     "previousClose": 17774,
     "change": -69,
     "changePercent": -0.39,
-    "quoteAt": "2026-08-21T05:15:47.000Z",
+    "quoteAt": "2026-08-21T05:45:43.000Z",
     "exchangeTimezone": "Europe/London",
     "marketState": "REGULAR",
     "delayed": true,
@@ -2034,7 +2034,7 @@
         "close": 17705
       }
     ],
-    "fetchedAt": "2026-08-21T05:15:47.000Z"
+    "fetchedAt": "2026-08-21T05:45:43.000Z"
   },
   "errors": [],
   "sources": {
