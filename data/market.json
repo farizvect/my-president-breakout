@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-21T03:05:56.559Z",
+  "generatedAt": "2026-08-21T03:58:56.563Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
     "currency": "IDR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
-    "price": 6525.48,
-    "previousClose": 6501.59,
-    "change": 23.89,
-    "changePercent": 0.37,
-    "quoteAt": "2026-08-21T02:55:55.000Z",
+    "price": 6541.51,
+    "previousClose": 6394.12,
+    "change": 147.39,
+    "changePercent": 2.31,
+    "quoteAt": "2026-08-21T03:48:55.000Z",
     "exchangeTimezone": "Asia/Jakarta",
     "marketState": "REGULAR",
     "date": "2026-08-21",
@@ -884,14 +884,6 @@
         "close": 6231.78
       },
       {
-        "date": "2026-07-21",
-        "close": 6340.02
-      },
-      {
-        "date": "2026-07-22",
-        "close": 6334.48
-      },
-      {
         "date": "2026-07-23",
         "close": 6315.31
       },
@@ -914,10 +906,6 @@
       {
         "date": "2026-07-30",
         "close": 6186.36
-      },
-      {
-        "date": "2026-07-31",
-        "close": 6236.13
       },
       {
         "date": "2026-08-03",
@@ -973,21 +961,21 @@
       },
       {
         "date": "2026-08-21",
-        "close": 6525.48
+        "close": 6541.51
       }
     ],
-    "fetchedAt": "2026-08-21T02:55:55.000Z"
+    "fetchedAt": "2026-08-21T03:48:55.000Z"
   },
   "fx": {
     "symbol": "IDR=X",
     "pair": "USD/IDR",
     "baseCurrency": "USD",
     "quoteCurrency": "IDR",
-    "price": 17774,
+    "price": 17690,
     "previousClose": 17774,
-    "change": 0,
-    "changePercent": 0,
-    "quoteAt": "2026-08-20T20:53:46.000Z",
+    "change": -84,
+    "changePercent": -0.47,
+    "quoteAt": "2026-08-21T03:34:20.000Z",
     "exchangeTimezone": "Europe/London",
     "marketState": "STALE",
     "delayed": true,
@@ -2030,11 +2018,11 @@
         "close": 17807
       },
       {
-        "date": "2026-08-20",
-        "close": 17774
+        "date": "2026-08-21",
+        "close": 17690
       }
     ],
-    "fetchedAt": "2026-08-20T20:53:46.000Z"
+    "fetchedAt": "2026-08-21T03:34:20.000Z"
   },
   "errors": [],
   "sources": {
