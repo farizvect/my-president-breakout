@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T09:20:57.258Z",
+  "generatedAt": "2026-08-22T10:16:39.792Z",
   "headlines": [
     {
       "title": "IHSG pekan ketiga Agustus 2026 menguat, dipimpin saham BYAN dan BBRI",
@@ -150,7 +150,11 @@
       "publishedAt": "2026-08-21T10:29:02.000Z"
     }
   ],
-  "errors": [],
+  "errors": [
+    "news: 503 Service Unavailable: https://news.google.com/rss/search?q=IHSG%20when%3A7d&hl=id&gl=ID&ceid=ID:id",
+    "stock news: 503 Service Unavailable: https://news.google.com/rss/search?q=%28saham%20OR%20emiten%29%20%28BEI%20OR%20IDX%29%20when%3A3d&hl=id&gl=ID&ceid=ID:id",
+    "macro news: 503 Service Unavailable: https://news.google.com/rss/search?q=%28Bank%20Indonesia%20OR%20inflasi%20OR%20rupiah%20OR%20harga%20minyak%20OR%20harga%20emas%20OR%20Wall%20Street%29%20when%3A3d&hl=id&gl=ID&ceid=ID:id"
+  ],
   "sources": {
     "news": "Google News RSS; articles belong to linked publishers",
     "stockNews": "Google News RSS stock and issuer query; articles belong to linked publishers",
