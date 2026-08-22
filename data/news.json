@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T21:15:17.918Z",
+  "generatedAt": "2026-08-22T22:15:16.661Z",
   "headlines": [
     {
       "title": "IHSG pekan ketiga Agustus 2026 menguat, dipimpin saham BYAN dan BBRI",
@@ -32,6 +32,12 @@
       "publishedAt": "2026-08-21T11:24:21.000Z"
     },
     {
+      "title": "Bursa Saham Asia Kompak Menguat: IHSG Ditutup Menguat 0,37% - Market",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEFTNzF6dnFsamR3Zl94emJPWVhxa3EwazNOdFlnZVJjV1lIWENyWjkwVkRjQUQwcHA5YUxEX1h3U1ZHV1M4LUplUWg2QlVnaEp2QXlTSzNlQXhqOUs0YjJwRE5HTG9MZHNoWWZ5ZUZXRFNyS2ItdWFTTEl2TjdRbEJWMHR3dkpaQmNDckdKbDNmZ08yd3YwZlJtUDZlc2dsc21fTl9KMkpaS3ViWGV2RQ?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-21T11:24:21.000Z"
+    },
+    {
       "title": "IHSG Lanjut Menguat ke Level 6.525 (Jumat, 21 Agustus 2026) | Pusat Data Ekonomi dan Bisnis Indonesia | Databoks",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamV4dHlDMFdhMkxGSkVRZG5HekdTbGFSZ29IeXdnLU80bkZnNlBPVkRJRGczQVNVLTQ5Qmxrc3pHdzdwdnZ0N1p0LWROS3RXNm9kZEVheEdkV1ZaTE9GVjBxNWlkRWlWYUFKQzdLenZXeDJaS1lxMUppODhocUI3el9uYW9PaVIzT2NuX2ZVVGdVd0ZycnRaTl9qT1hJMTNwcmJZQVh3VG5vSWJRUGpfTlhmUFFVV0wz?oc=5",
       "source": "Databoks Katadata",
@@ -42,12 +48,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHNkUTlSdmVROVBVUGQxLVRkYloyRTNvSGxKVl9TU3N0WnVydUdfZmN1dWp5SkRSNk9sbTdhLWlLclBZbEowQ3JRbEo0VXhZSzVNeDRhUmd3Qlhnc0FkSjdJYjNTeUhJSEIwTkFjcVFWX09iMFkxTXdodkNjV2pjc3YyallCMkoyenJLWDVRbHJFeTFBVjBZMUM4VTBBU3Ft0gGmAUFVX3lxTE5QWUM4Q3NvSGJCS0ZlcEdSb09mTHdmWGsxUDB4WXlaSG0zamxkbl9jb2NuSTRCMW9YVWNZUGxnMzROa3lWYjlyU0RDMHBlcTRRMFcyZkVabkJheGQ1Nk0wMm1qNjhnajhRU3ZHUHVINnhDNGNYQ3UxWFBlX2N2ZHRzWE1SOE5tNHlJNHFmWEFOTDJJYVVQMzQyRU1vNHExSFoxdFFKcEE?oc=5",
       "source": "Suara Surabaya",
       "publishedAt": "2026-08-21T11:09:26.000Z"
-    },
-    {
-      "title": "IHSG Menguat ke 6.525 Ditopang Saham Bank, Pasar Tunggu PMI AS",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHZKbVB1RFpxSzJCRDhpSVo4MWZSRndmVUo5WGw5WXQ4M3ZoZjV1SFhaNkVzYWpJbDFvWkt2ZEFkMjlrNHYwSlNHcWczQmp3eWpmM3h1Z2ZBWVpRRE1zeExfTWxiWTVXOUQ4Q19pNWVWQnBsT0NoODJKNFRBdVlyTTJyVHJxNWVQWnVacmhES1Q0a1JlOE1jX3VteXppdzNFTFZUZVgzUHFqUdIBrwFBVV95cUxQOUJ5VWRqQ0djLWxXMVpRS000RUNvU3F2MXB3Yzd6MFZOaHp4ZnFDbXBCdUY1eTE1X0lXeVAwakNsRUdjTXJTUnpqd0JHTUMwSl9IZFkzQzFVRS1lRHhvcVU3TlJaWGZFdUlPQVZuQW1QbjM3a3BRS3NUVFR3WXBFbGRBY183Ml92MU5ETU1zTFJmOXRxUkYxZUw2U0Zsd0dIRUE4bDQ3dzBKbEV6Nlow?oc=5",
-      "source": "fxstreet-id.com",
-      "publishedAt": "2026-08-21T10:29:02.000Z"
     }
   ],
   "stockNews": [
@@ -144,10 +144,10 @@
       "publishedAt": "2026-08-21T15:01:01.000Z"
     },
     {
-      "title": "IHSG Menguat 3,55% dalam Sepekan, Ini Pendorongnya",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUMwZlk0VjluMXhMd2VXaE95VW1XRm52QWwtQXUxd1RjZG5EUjludW01bXY2VnplaE4ybnFFNUw2UUQzOEpzQTRvV25jNlhzcHBFcmlqejAwQnpTOXJwbXJ6b05rR191elFhdHhQNm1WU2tHZ0ZyTlhtRnhjSHE5eUdScDlEaHk4R3dz0gGDAUFVX3lxTE9uVFBSUUlkMTJWMnBOUlp3clkyVWZwUlhjZWh6MlRIV0VJYXYtWmNGdVJEdUxEaXVVODJad0NKUzU4R1c5Q1Q3Qmg0Y0ZZSkhPX2V0cjJiQzZYRHhlbnVUd3dhYjVwMVdnYnFEaFZac0N1RHhqYkV5YkF2VEozNm5WdzZv?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-21T13:18:32.000Z"
+      "title": "IHSG Menguat 0,37 Persen ke Level 6.525 Pada Akhir Pekan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JV0M0ZnBoTC1kalpTdFBwR3V0YnFmRnB6eTRfanZ5YlJQNDNXa2g5bjdENWFPeThyQklnakZYZm5NNzk2VU5yak5PdjNpMzNYWW1uSHA1U3FQdFZmRHg5UHJNSG1IZw?oc=5",
+      "source": "Readers.id",
+      "publishedAt": "2026-08-21T13:24:15.000Z"
     }
   ],
   "errors": [],
