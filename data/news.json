@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:26:04.595Z",
+  "generatedAt": "2026-08-22T08:21:29.621Z",
   "headlines": [
     {
       "title": "IHSG pekan ketiga Agustus 2026 menguat, dipimpin saham BYAN dan BBRI",
@@ -39,7 +39,7 @@
     },
     {
       "title": "IHSG Menguat ke 6.525 Ditopang Saham Bank, Pasar Tunggu PMI AS",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUJ5VWRqQ0djLWxXMVpRS000RUNvU3F2MXB3Yzd6MFZOaHp4ZnFDbXBCdUY1eTE1X0lXeVAwakNsRUdjTXJTUnpqd0JHTUMwSl9IZFkzQzFVRS1lRHhvcVU3TlJaWGZFdUlPQVZuQW1QbjM3a3BRS3NUVFR3WXBFbGRBY183Ml92MU5ETU1zTFJmOXRxUkYxZUw2U0Zsd0dIRUE4bDQ3dzBKbEV6Nlow0gGvAUFVX3lxTFA5QnlVZGpDR2MtbFcxWlFLTTRFQ29TcXYxcHdjN3owVk5oenhmcUNtcEJ1RjV5MTVfSVd5UDBqQ2xFR2NNclNSemp3QkdNQzBKX0hkWTNDMVVFLWVEeG9xVTdOUlpYZkV1SU9BVm5BbVBuMzdrcFFLc1RUVHdZcEVsZEFjXzcyX3YxTkRNTXNMUmY5dHFSRjFlTDZTRmx3R0hFQThsNDd3MEpsRXo2WjA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHZKbVB1RFpxSzJCRDhpSVo4MWZSRndmVUo5WGw5WXQ4M3ZoZjV1SFhaNkVzYWpJbDFvWkt2ZEFkMjlrNHYwSlNHcWczQmp3eWpmM3h1Z2ZBWVpRRE1zeExfTWxiWTVXOUQ4Q19pNWVWQnBsT0NoODJKNFRBdVlyTTJyVHJxNWVQWnVacmhES1Q0a1JlOE1jX3VteXppdzNFTFZUZVgzUHFqUdIBrwFBVV95cUxQOUJ5VWRqQ0djLWxXMVpRS000RUNvU3F2MXB3Yzd6MFZOaHp4ZnFDbXBCdUY1eTE1X0lXeVAwakNsRUdjTXJTUnpqd0JHTUMwSl9IZFkzQzFVRS1lRHhvcVU3TlJaWGZFdUlPQVZuQW1QbjM3a3BRS3NUVFR3WXBFbGRBY183Ml92MU5ETU1zTFJmOXRxUkYxZUw2U0Zsd0dIRUE4bDQ3dzBKbEV6Nlow?oc=5",
       "source": "fxstreet-id.com",
       "publishedAt": "2026-08-21T10:29:02.000Z"
     },
@@ -51,6 +51,18 @@
     }
   ],
   "stockNews": [
+    {
+      "title": "5 ETF Emas di Indonesia yang Resmi Meluncur di BEI 2026",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZTNtMS1iQnJJeVlET0xrRFN6ekVzLUhDN3BnbUZtSjVJOU15bHE1RzYtQktjV1NWcmJUNjk5c1Z4MzZzb1REeHRISTVPMUNxTU5DcmtmUW16Z3RrUEhVSDZtYW90NDlMWXJSWVB4YlZpejFHbHFhaGwwaTkxdkloblZzYnkxX1lzTzVWUXRuc2k?oc=5",
+      "source": "Pintu",
+      "publishedAt": "2026-08-22T08:14:34.000Z"
+    },
+    {
+      "title": "10 Saham Penggerak IHSG Periode 18-21 Agustus 2026 di BEI",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GTkpCSUI4TkVfdGtyTU1fMEZEcS1WVzVGQjRGaXJUc1FsQWVMeEYyaVVNZ2dBM2ZVZHdLVW9mRmtGX05QbFNicE1YUE1tWTBMaHhjZDB3Q2VHdzgzaC1hYmF3ZDkxV1pMSHZaTWtR?oc=5",
+      "source": "achmadnurhidayat.id",
+      "publishedAt": "2026-08-22T08:03:02.000Z"
+    },
     {
       "title": "IHSG menguat saat 10 saham mencetak pelemahan terdalam",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBWVhrZWpoa2puZVA4V293M2Z3ZFdMUTZjNjZGUEcwQ2x0aXo1M093QTRZelZMbVZlRnJHUHQ5UDZwek9QQjhtSGNCUkpBQnVmNzlYRUliM2l5VXhEbnVlQ01ndzFxMGdDSnc?oc=5",
@@ -86,21 +98,15 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUUVFndmVvT2U0T3M4ODJPa21IREdsSnFrcGNpMDVfMUdLSldzbUlRbEdndnNsSE1vSWtZeDZ3NW1tdFFUTGhSSVVlOTVScmRlaEZ2ZThHUHpIU1RtQVBWcU92WWFKRVFlcks3eXFlYjZnX0FEa2c?oc=5",
       "source": "achmadnurhidayat.id",
       "publishedAt": "2026-08-22T04:12:19.000Z"
-    },
-    {
-      "title": "Batas ARB & ARA Saham Mau Dirombak, Ini Bocorannya",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1hoU19CX2g2aHNjaDNFS0dGd2hVamIxdE04a0xna1BPODlyT1ZxdmRSX09GeVBqSUNzdFFxTjZGSnp6R3RVVUhxLUJ3Vk1neDdQTDNaRmRlYVFkc0VnRG16ZTJsOU9CbDJyZXN4UzU3WTBrS1FnOFZoRmpNMU1rZDBTbEJFVlZVSUF6S2hsY2xGbkVFSDh5cXpIOWdNVDBuY3l4M1lR0gGmAUFVX3lxTE43WGhTX0JfaDZoc2NoM0VLR0Z3aFVqYjF0TThrTGdrUE84OXJPVnF2ZFJfT0Z5UGpJQ3N0UXFONkZKenpHdFVVSHEtQndWTWd4N1BMM1pGZGVhUWRzRWdEbXplMmw5T0JsMnJlc3hTNTdZMGtLUWc4VmhGak0xTWtkMFNsQkVWVlVJQXpLaGxjbEZuRUVIOHlxekg5Z01UMG5jeXgzWVE?oc=5",
-      "source": "detikFinance",
-      "publishedAt": "2026-08-22T04:00:44.000Z"
-    },
-    {
-      "title": "Sederet Saham Paling Banyak Diborong Asing Sepekan, BBRI Teratas",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjZQdXV4QXdndG5BY1RYRGNvSGlZRkR1VlU0dDd2RF9QQ2V2QzFIaFZtVXBSeVI0ckV5dnhSeFp2dnRfbzh0em8tLTM1bU54Z1dGaWN5UlhMbFlLMFJTSWhtazF3eVVZeFp1bUc4QWx6Sjh2NzFZYmM3WjNDOF9KdkhzYzRwOWZfNVBJLWFobGIzM28zbURBWHRxaWNYS1M4aW9GYTlYQnB0QdIBqgFBVV95cUxPdjZQdXV4QXdndG5BY1RYRGNvSGlZRkR1VlU0dDd2RF9QQ2V2QzFIaFZtVXBSeVI0ckV5dnhSeFp2dnRfbzh0em8tLTM1bU54Z1dGaWN5UlhMbFlLMFJTSWhtazF3eVVZeFp1bUc4QWx6Sjh2NzFZYmM3WjNDOF9KdkhzYzRwOWZfNVBJLWFobGIzM28zbURBWHRxaWNYS1M4aW9GYTlYQnB0QQ?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-08-22T03:44:00.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Fed Hawkish & Tensi Hormuz Batasi Penguatan Saham AS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFVVenF2RkNXbXVWVTJReV9HczZOYmJDUTZpdHppVlNHUXB2cXBaU09CT2RjWEExajdBb19qTWpFcTBweU1wVUFleVJCb3VrX3BGUXRtVzlWRG9mcGtESl9sdmljWHd4ODNuMFhpQkZQb2lEM1hsWUFXU0phdVRubjFjaWVHQmFSa21zbVY1ZXhTN2xldklfU1dub21KSW1WZXZtTldyR3JRRnF3bUljTXp6VzZzT1FCaENDaA?oc=5",
+      "source": "cetro.or.id",
+      "publishedAt": "2026-08-22T07:12:48.000Z"
+    },
     {
       "title": "Bursa Wall Street dan Pasar Obligasi AS Melesat Turun",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZU1VNZjZyQUxxQjhnWkhzQ1JWMzVrdXlHcENlMXVuQmdiZjZpSVg1bmxVSy1IZzBJejduNWtvUjZGa2YtZUVYMXdsY2JPUjZ1YlE2dUs1cWRabnFqbzhBczQwRzF2TndxeXc?oc=5",
@@ -120,12 +126,6 @@
       "publishedAt": "2026-08-22T00:31:00.000Z"
     },
     {
-      "title": "Wall Street Ditutup: Nasdaq 100 Rebound, Bitcoin Melonjak",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTG9OZWVZU3NDYkRvcVhnQnE5UHJzVVREQ3hnM0FEcmtyaGFEcllWMEpFYm9HdUl0bnpWMm5CUVl0b0JSUVZ2N043WUJWZWVwZkdQamFfNHFEQjB4MlFnaVo0WFJXbzM2azg4NjVHTWNSQUFOdGpkTm51QVNtZEZXRk1adE5mcy1HYklCb2pMeTVrZHdOZS02bzN3TVZLV0lZWWFLLUFlQTloOVU?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-22T00:00:00.000Z"
-    },
-    {
       "title": "DZ Bank beri rekomendasi Jual untuk SpaceX deng...",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWhDeVh3bGhjeERoZmtRdzA5WVV3RkQyakpiMVlKUFZBdXV1M05xS0h4TTA4RHVveEhqX1I1WVhsYWFpb1R4NUNBWGstNl9reXZpYjNoRFZLZzRJVVkzVmFJSDRsY29uMjk1dF9qaWFUZHNaRS1QalBaNGVWQy1iOEFB?oc=5",
       "source": "Pluang",
@@ -139,7 +139,7 @@
     },
     {
       "title": "IHSG Menguat ke 6.525 Ditopang Saham Bank, Pasar Tunggu PMI AS",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUJ5VWRqQ0djLWxXMVpRS000RUNvU3F2MXB3Yzd6MFZOaHp4ZnFDbXBCdUY1eTE1X0lXeVAwakNsRUdjTXJTUnpqd0JHTUMwSl9IZFkzQzFVRS1lRHhvcVU3TlJaWGZFdUlPQVZuQW1QbjM3a3BRS3NUVFR3WXBFbGRBY183Ml92MU5ETU1zTFJmOXRxUkYxZUw2U0Zsd0dIRUE4bDQ3dzBKbEV6Nlow0gGvAUFVX3lxTFA5QnlVZGpDR2MtbFcxWlFLTTRFQ29TcXYxcHdjN3owVk5oenhmcUNtcEJ1RjV5MTVfSVd5UDBqQ2xFR2NNclNSemp3QkdNQzBKX0hkWTNDMVVFLWVEeG9xVTdOUlpYZkV1SU9BVm5BbVBuMzdrcFFLc1RUVHdZcEVsZEFjXzcyX3YxTkRNTXNMUmY5dHFSRjFlTDZTRmx3R0hFQThsNDd3MEpsRXo2WjA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHZKbVB1RFpxSzJCRDhpSVo4MWZSRndmVUo5WGw5WXQ4M3ZoZjV1SFhaNkVzYWpJbDFvWkt2ZEFkMjlrNHYwSlNHcWczQmp3eWpmM3h1Z2ZBWVpRRE1zeExfTWxiWTVXOUQ4Q19pNWVWQnBsT0NoODJKNFRBdVlyTTJyVHJxNWVQWnVacmhES1Q0a1JlOE1jX3VteXppdzNFTFZUZVgzUHFqUdIBrwFBVV95cUxQOUJ5VWRqQ0djLWxXMVpRS000RUNvU3F2MXB3Yzd6MFZOaHp4ZnFDbXBCdUY1eTE1X0lXeVAwakNsRUdjTXJTUnpqd0JHTUMwSl9IZFkzQzFVRS1lRHhvcVU3TlJaWGZFdUlPQVZuQW1QbjM3a3BRS3NUVFR3WXBFbGRBY183Ml92MU5ETU1zTFJmOXRxUkYxZUw2U0Zsd0dIRUE4bDQ3dzBKbEV6Nlow?oc=5",
       "source": "fxstreet-id.com",
       "publishedAt": "2026-08-21T10:29:02.000Z"
     },
