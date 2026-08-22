@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T19:18:24.925Z",
+  "generatedAt": "2026-08-22T20:15:27.028Z",
   "headlines": [
     {
       "title": "IHSG pekan ketiga Agustus 2026 menguat, dipimpin saham BYAN dan BBRI",
@@ -32,12 +32,6 @@
       "publishedAt": "2026-08-21T11:24:21.000Z"
     },
     {
-      "title": "Bursa Saham Asia Kompak Menguat: IHSG Ditutup Menguat 0,37% - Market",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEFTNzF6dnFsamR3Zl94emJPWVhxa3EwazNOdFlnZVJjV1lIWENyWjkwVkRjQUQwcHA5YUxEX1h3U1ZHV1M4LUplUWg2QlVnaEp2QXlTSzNlQXhqOUs0YjJwRE5HTG9MZHNoWWZ5ZUZXRFNyS2ItdWFTTEl2TjdRbEJWMHR3dkpaQmNDckdKbDNmZ08yd3YwZlJtUDZlc2dsc21fTl9KMkpaS3ViWGV2RQ?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-21T11:24:21.000Z"
-    },
-    {
       "title": "IHSG Lanjut Menguat ke Level 6.525 (Jumat, 21 Agustus 2026) | Pusat Data Ekonomi dan Bisnis Indonesia | Databoks",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamV4dHlDMFdhMkxGSkVRZG5HekdTbGFSZ29IeXdnLU80bkZnNlBPVkRJRGczQVNVLTQ5Qmxrc3pHdzdwdnZ0N1p0LWROS3RXNm9kZEVheEdkV1ZaTE9GVjBxNWlkRWlWYUFKQzdLenZXeDJaS1lxMUppODhocUI3el9uYW9PaVIzT2NuX2ZVVGdVd0ZycnRaTl9qT1hJMTNwcmJZQVh3VG5vSWJRUGpfTlhmUFFVV0wz?oc=5",
       "source": "Databoks Katadata",
@@ -48,6 +42,12 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHNkUTlSdmVROVBVUGQxLVRkYloyRTNvSGxKVl9TU3N0WnVydUdfZmN1dWp5SkRSNk9sbTdhLWlLclBZbEowQ3JRbEo0VXhZSzVNeDRhUmd3Qlhnc0FkSjdJYjNTeUhJSEIwTkFjcVFWX09iMFkxTXdodkNjV2pjc3YyallCMkoyenJLWDVRbHJFeTFBVjBZMUM4VTBBU3Ft0gGmAUFVX3lxTE5QWUM4Q3NvSGJCS0ZlcEdSb09mTHdmWGsxUDB4WXlaSG0zamxkbl9jb2NuSTRCMW9YVWNZUGxnMzROa3lWYjlyU0RDMHBlcTRRMFcyZkVabkJheGQ1Nk0wMm1qNjhnajhRU3ZHUHVINnhDNGNYQ3UxWFBlX2N2ZHRzWE1SOE5tNHlJNHFmWEFOTDJJYVVQMzQyRU1vNHExSFoxdFFKcEE?oc=5",
       "source": "Suara Surabaya",
       "publishedAt": "2026-08-21T11:09:26.000Z"
+    },
+    {
+      "title": "IHSG Menguat ke 6.525 Ditopang Saham Bank, Pasar Tunggu PMI AS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHZKbVB1RFpxSzJCRDhpSVo4MWZSRndmVUo5WGw5WXQ4M3ZoZjV1SFhaNkVzYWpJbDFvWkt2ZEFkMjlrNHYwSlNHcWczQmp3eWpmM3h1Z2ZBWVpRRE1zeExfTWxiWTVXOUQ4Q19pNWVWQnBsT0NoODJKNFRBdVlyTTJyVHJxNWVQWnVacmhES1Q0a1JlOE1jX3VteXppdzNFTFZUZVgzUHFqUdIBrwFBVV95cUxQOUJ5VWRqQ0djLWxXMVpRS000RUNvU3F2MXB3Yzd6MFZOaHp4ZnFDbXBCdUY1eTE1X0lXeVAwakNsRUdjTXJTUnpqd0JHTUMwSl9IZFkzQzFVRS1lRHhvcVU3TlJaWGZFdUlPQVZuQW1QbjM3a3BRS3NUVFR3WXBFbGRBY183Ml92MU5ETU1zTFJmOXRxUkYxZUw2U0Zsd0dIRUE4bDQ3dzBKbEV6Nlow?oc=5",
+      "source": "fxstreet-id.com",
+      "publishedAt": "2026-08-21T10:29:02.000Z"
     }
   ],
   "stockNews": [
@@ -56,12 +56,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlZTT2RleUF2S3MzMkR6T08tdDE1MnVlMkZmM0pzWFM5bzZZNnExNDdVbk1uN2JielNiZ2tSdnlzdTVybEIzV1ExMkdkekZSRE5ZS1RKeDliRHZXZmk1d05JSnlQMFRLbml1SVgtRnhhNGx1TTByV21UeTVWSVlma2Q2S1JWeC1IaUVmX0trSEFoQmxyVTMxNTc3TlZ1dw?oc=5",
       "source": "SWA.co.id",
       "publishedAt": "2026-08-22T14:00:00.000Z"
-    },
-    {
-      "title": "Saham Tak Lagi Mentok Rp 50, Sekuritas Melihat Peluang Transaksi Meningkat",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHBORENtX0Fka3NRYkVxU0dleXkyZk1kNmVXOWRyY2RDSjZhb3hVY29iN1UxMWNSVmlna21BVHNUcFNNVWV6TXNnR3FHbS0wS2RUSVFHc0JRNXYzcFJmTlkxSzgydU1aQjJWVzVFUW1yeEltUWRoMVc2dkVUOVEyNUI2OXozYU1HckRKZmh1SWFJVGpwYk9YSnJEUmY4ZVAyS1c5Tmw3N0dybmdwT0lTaGNaWHVKcV82T3I2cnl5YVFpZw?oc=5",
-      "source": "Kompas.com",
-      "publishedAt": "2026-08-22T13:27:00.000Z"
     },
     {
       "title": "FTSE Coret 29 Saham RI dari Indeks Global, Simak Daftarnya",
@@ -98,6 +92,12 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GTkpCSUI4TkVfdGtyTU1fMEZEcS1WVzVGQjRGaXJUc1FsQWVMeEYyaVVNZ2dBM2ZVZHdLVW9mRmtGX05QbFNicE1YUE1tWTBMaHhjZDB3Q2VHdzgzaC1hYmF3ZDkxV1pMSHZaTWtR?oc=5",
       "source": "achmadnurhidayat.id",
       "publishedAt": "2026-08-22T08:03:02.000Z"
+    },
+    {
+      "title": "IHSG menguat saat 10 saham mencetak pelemahan terdalam",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBWVhrZWpoa2puZVA4V293M2Z3ZFdMUTZjNjZGUEcwQ2x0aXo1M093QTRZelZMbVZlRnJHUHQ5UDZwek9QQjhtSGNCUkpBQnVmNzlYRUliM2l5VXhEbnVlQ01ndzFxMGdDSnc?oc=5",
+      "source": "achmadnurhidayat.id",
+      "publishedAt": "2026-08-22T07:03:11.000Z"
     }
   ],
   "macroNews": [
@@ -106,12 +106,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCcGZ4OEhCbjBlSTlwcTJtVWlCNEJlR2c2eC13NmhtclliMGxwRWFreGZZakVzMUp4UWdJZ3Y0cE15LVBGVTZqUGxkaUZrVUIzQWcxMnBBeHVILXdmd3hQamJ4OFJqNmdYc0U5Zw?oc=5",
       "source": "asatunews.co.id",
       "publishedAt": "2026-08-22T15:37:50.000Z"
-    },
-    {
-      "title": "Fed Hawkish & Tensi Hormuz Batasi Penguatan Saham AS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFVVenF2RkNXbXVWVTJReV9HczZOYmJDUTZpdHppVlNHUXB2cXBaU09CT2RjWEExajdBb19qTWpFcTBweU1wVUFleVJCb3VrX3BGUXRtVzlWRG9mcGtESl9sdmljWHd4ODNuMFhpQkZQb2lEM1hsWUFXU0phdVRubjFjaWVHQmFSa21zbVY1ZXhTN2xldklfU1dub21KSW1WZXZtTldyR3JRRnF3bUljTXp6VzZzT1FCaENDaA?oc=5",
-      "source": "cetro.or.id",
-      "publishedAt": "2026-08-22T07:12:48.000Z"
     },
     {
       "title": "Bursa Wall Street dan Pasar Obligasi AS Melesat Turun",
@@ -126,20 +120,20 @@
       "publishedAt": "2026-08-22T03:00:58.000Z"
     },
     {
+      "title": "Wall Street Ditutup: Nasdaq 100 Rebound, Bitcoin Melonjak - Market",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0lZdVlJY0VsT2RxZG1QeTJOaThYaFBGYjRCdExDNGh5am40Tmg2bnpyUjktUXJqdjZGQXpvOHBIeVUzalB5VzJEUF9fVVliZ011bUt6VmE5SUZhZnpyR2RSN0VDOV91YkJRYnZ5TS0tXzdjZ1FoLVBIXzJYYmJoeEhoemI2WS1BRG44bUdzOWplSU5pdjR1Smw2WmxzMm11UTRHOHM4bFU1T3hPYmc?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-22T01:09:24.000Z"
+    },
+    {
       "title": "Indeks Wall Street Hijau, Bitcoin Melesat 6,4 Persen",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd3VRcEpyZVg4UF9wNjhLYzY3MkVXbDc4VHR3dDZMUWpTako0QjVubVI3c2dqRW1yWFBTLXNuUnJZdVNqREE3cnI0cWtpOExfYTJqczlIZFhuSTVnOTlZeDI5UDFxRXc0LW1CVEc3OUhFUkNENjZzMFJhNlF1dmN2SXBVdkJwMjU2cUNR?oc=5",
       "source": "KabarBursa.com",
       "publishedAt": "2026-08-22T00:31:00.000Z"
     },
     {
-      "title": "Wall Street Ditutup: Nasdaq 100 Rebound, Bitcoin Melonjak",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTG9OZWVZU3NDYkRvcVhnQnE5UHJzVVREQ3hnM0FEcmtyaGFEcllWMEpFYm9HdUl0bnpWMm5CUVl0b0JSUVZ2N043WUJWZWVwZkdQamFfNHFEQjB4MlFnaVo0WFJXbzM2azg4NjVHTWNSQUFOdGpkTm51QVNtZEZXRk1adE5mcy1HYklCb2pMeTVrZHdOZS02bzN3TVZLV0lZWWFLLUFlQTloOVU?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-22T00:00:00.000Z"
-    },
-    {
       "title": "Pasar Saham 21 Agustus: MPS, Mediobanca, Banco BPM, dan Banca Generali semuanya mengalami penurunan, bank-bank yang terlibat dalam penawaran pengambilalihan Lovaglio.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcTduS0JhMkVCZ3RYMmFEd2laQzB2amUzaWZZM2E4XzdmUWxmUld2V2R6SkU4TTdBclkwLTYwM21GdjVjbnY3SXh6OFFkS0JpQ0c5N0taUE9LN2ozOGtLcDl0R0hOb3dFbEVnZGZSdEpQTm5lOXowQnRzMGJya1hHWFJTaUQ3SzRjTThUUWE3MmY0VzBabURoMDZhWE03SC0yV1BDeWtCaWVTYTJaMXRyZllUZkt4YjBadTFSVnRLQ25lNUdkUGx0U3NyMGs5VUZH?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZnd5SnpwNHFlOEs1VHptQ0wwbjhVZGR2SkctYnpNYW1jbFdkR2U1N1VnZ0NKUFNuX2JSUWRnNy00TS1Bejhya3NKTzg4QXBYNmhEajVUZHJ6Y1lhX1hiYjEzWkRBUzhxSHZRMW0wVFl3MmN1dFFPM3dDYlNVeFVEZ2FRYlc1TkxBWTVCUm85cVZWZE9jQzVFRHN2TE0tTjN6LXRPTDhidnBhdGJfVXpJQmN2eXp2T2lRUVJiTWhXVnI4ckp1d2ZsUUNiNWFPLVZrQjZENWpsOWJndw?oc=5",
       "source": "firstonline.info",
       "publishedAt": "2026-08-21T16:05:36.000Z"
     },
@@ -148,6 +142,12 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWhDeVh3bGhjeERoZmtRdzA5WVV3RkQyakpiMVlKUFZBdXV1M05xS0h4TTA4RHVveEhqX1I1WVhsYWFpb1R4NUNBWGstNl9reXZpYjNoRFZLZzRJVVkzVmFJSDRsY29uMjk1dF9qaWFUZHNaRS1QalBaNGVWQy1iOEFB?oc=5",
       "source": "Pluang",
       "publishedAt": "2026-08-21T15:01:01.000Z"
+    },
+    {
+      "title": "IHSG Menguat 3,55% dalam Sepekan, Ini Pendorongnya",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUMwZlk0VjluMXhMd2VXaE95VW1XRm52QWwtQXUxd1RjZG5EUjludW01bXY2VnplaE4ybnFFNUw2UUQzOEpzQTRvV25jNlhzcHBFcmlqejAwQnpTOXJwbXJ6b05rR191elFhdHhQNm1WU2tHZ0ZyTlhtRnhjSHE5eUdScDlEaHk4R3dz0gGDAUFVX3lxTE9uVFBSUUlkMTJWMnBOUlp3clkyVWZwUlhjZWh6MlRIV0VJYXYtWmNGdVJEdUxEaXVVODJad0NKUzU4R1c5Q1Q3Qmg0Y0ZZSkhPX2V0cjJiQzZYRHhlbnVUd3dhYjVwMVdnYnFEaFZac0N1RHhqYkV5YkF2VEozNm5WdzZv?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-21T13:18:32.000Z"
     }
   ],
   "errors": [],
