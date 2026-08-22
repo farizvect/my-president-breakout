@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T22:15:16.661Z",
+  "generatedAt": "2026-08-22T23:14:29.162Z",
   "headlines": [
     {
       "title": "IHSG pekan ketiga Agustus 2026 menguat, dipimpin saham BYAN dan BBRI",
@@ -32,12 +32,6 @@
       "publishedAt": "2026-08-21T11:24:21.000Z"
     },
     {
-      "title": "Bursa Saham Asia Kompak Menguat: IHSG Ditutup Menguat 0,37% - Market",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEFTNzF6dnFsamR3Zl94emJPWVhxa3EwazNOdFlnZVJjV1lIWENyWjkwVkRjQUQwcHA5YUxEX1h3U1ZHV1M4LUplUWg2QlVnaEp2QXlTSzNlQXhqOUs0YjJwRE5HTG9MZHNoWWZ5ZUZXRFNyS2ItdWFTTEl2TjdRbEJWMHR3dkpaQmNDckdKbDNmZ08yd3YwZlJtUDZlc2dsc21fTl9KMkpaS3ViWGV2RQ?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-21T11:24:21.000Z"
-    },
-    {
       "title": "IHSG Lanjut Menguat ke Level 6.525 (Jumat, 21 Agustus 2026) | Pusat Data Ekonomi dan Bisnis Indonesia | Databoks",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamV4dHlDMFdhMkxGSkVRZG5HekdTbGFSZ29IeXdnLU80bkZnNlBPVkRJRGczQVNVLTQ5Qmxrc3pHdzdwdnZ0N1p0LWROS3RXNm9kZEVheEdkV1ZaTE9GVjBxNWlkRWlWYUFKQzdLenZXeDJaS1lxMUppODhocUI3el9uYW9PaVIzT2NuX2ZVVGdVd0ZycnRaTl9qT1hJMTNwcmJZQVh3VG5vSWJRUGpfTlhmUFFVV0wz?oc=5",
       "source": "Databoks Katadata",
@@ -48,6 +42,12 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHNkUTlSdmVROVBVUGQxLVRkYloyRTNvSGxKVl9TU3N0WnVydUdfZmN1dWp5SkRSNk9sbTdhLWlLclBZbEowQ3JRbEo0VXhZSzVNeDRhUmd3Qlhnc0FkSjdJYjNTeUhJSEIwTkFjcVFWX09iMFkxTXdodkNjV2pjc3YyallCMkoyenJLWDVRbHJFeTFBVjBZMUM4VTBBU3Ft0gGmAUFVX3lxTE5QWUM4Q3NvSGJCS0ZlcEdSb09mTHdmWGsxUDB4WXlaSG0zamxkbl9jb2NuSTRCMW9YVWNZUGxnMzROa3lWYjlyU0RDMHBlcTRRMFcyZkVabkJheGQ1Nk0wMm1qNjhnajhRU3ZHUHVINnhDNGNYQ3UxWFBlX2N2ZHRzWE1SOE5tNHlJNHFmWEFOTDJJYVVQMzQyRU1vNHExSFoxdFFKcEE?oc=5",
       "source": "Suara Surabaya",
       "publishedAt": "2026-08-21T11:09:26.000Z"
+    },
+    {
+      "title": "IHSG Menguat ke 6.525 Ditopang Saham Bank, Pasar Tunggu PMI AS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHZKbVB1RFpxSzJCRDhpSVo4MWZSRndmVUo5WGw5WXQ4M3ZoZjV1SFhaNkVzYWpJbDFvWkt2ZEFkMjlrNHYwSlNHcWczQmp3eWpmM3h1Z2ZBWVpRRE1zeExfTWxiWTVXOUQ4Q19pNWVWQnBsT0NoODJKNFRBdVlyTTJyVHJxNWVQWnVacmhES1Q0a1JlOE1jX3VteXppdzNFTFZUZVgzUHFqUdIBrwFBVV95cUxQOUJ5VWRqQ0djLWxXMVpRS000RUNvU3F2MXB3Yzd6MFZOaHp4ZnFDbXBCdUY1eTE1X0lXeVAwakNsRUdjTXJTUnpqd0JHTUMwSl9IZFkzQzFVRS1lRHhvcVU3TlJaWGZFdUlPQVZuQW1QbjM3a3BRS3NUVFR3WXBFbGRBY183Ml92MU5ETU1zTFJmOXRxUkYxZUw2U0Zsd0dIRUE4bDQ3dzBKbEV6Nlow?oc=5",
+      "source": "fxstreet-id.com",
+      "publishedAt": "2026-08-21T10:29:02.000Z"
     }
   ],
   "stockNews": [
@@ -56,12 +56,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlZTT2RleUF2S3MzMkR6T08tdDE1MnVlMkZmM0pzWFM5bzZZNnExNDdVbk1uN2JielNiZ2tSdnlzdTVybEIzV1ExMkdkekZSRE5ZS1RKeDliRHZXZmk1d05JSnlQMFRLbml1SVgtRnhhNGx1TTByV21UeTVWSVlma2Q2S1JWeC1IaUVmX0trSEFoQmxyVTMxNTc3TlZ1dw?oc=5",
       "source": "SWA.co.id",
       "publishedAt": "2026-08-22T14:00:00.000Z"
-    },
-    {
-      "title": "Saham Tak Lagi Mentok Rp 50, Sekuritas Melihat Peluang Transaksi Meningkat",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHBORENtX0Fka3NRYkVxU0dleXkyZk1kNmVXOWRyY2RDSjZhb3hVY29iN1UxMWNSVmlna21BVHNUcFNNVWV6TXNnR3FHbS0wS2RUSVFHc0JRNXYzcFJmTlkxSzgydU1aQjJWVzVFUW1yeEltUWRoMVc2dkVUOVEyNUI2OXozYU1HckRKZmh1SWFJVGpwYk9YSnJEUmY4ZVAyS1c5Tmw3N0dybmdwT0lTaGNaWHVKcV82T3I2cnl5YVFpZw?oc=5",
-      "source": "Kompas.com",
-      "publishedAt": "2026-08-22T13:27:00.000Z"
     },
     {
       "title": "FTSE Coret 29 Saham RI dari Indeks Global, Simak Daftarnya",
@@ -98,6 +92,12 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GTkpCSUI4TkVfdGtyTU1fMEZEcS1WVzVGQjRGaXJUc1FsQWVMeEYyaVVNZ2dBM2ZVZHdLVW9mRmtGX05QbFNicE1YUE1tWTBMaHhjZDB3Q2VHdzgzaC1hYmF3ZDkxV1pMSHZaTWtR?oc=5",
       "source": "achmadnurhidayat.id",
       "publishedAt": "2026-08-22T08:03:02.000Z"
+    },
+    {
+      "title": "IHSG menguat saat 10 saham mencetak pelemahan terdalam",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBWVhrZWpoa2puZVA4V293M2Z3ZFdMUTZjNjZGUEcwQ2x0aXo1M093QTRZelZMbVZlRnJHUHQ5UDZwek9QQjhtSGNCUkpBQnVmNzlYRUliM2l5VXhEbnVlQ01ndzFxMGdDSnc?oc=5",
+      "source": "achmadnurhidayat.id",
+      "publishedAt": "2026-08-22T07:03:11.000Z"
     }
   ],
   "macroNews": [
