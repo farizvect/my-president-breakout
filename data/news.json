@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:27:27.837Z",
+  "generatedAt": "2026-08-23T13:26:53.889Z",
   "headlines": [
     {
       "title": "Emiten Emas Topang IHSG, BRMS Jadi Pilihan Agresif di Kuartal III-2026?",
@@ -12,12 +12,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazZiZTBaQnNLRGYtUDJ6RmlNSDlpOTlTY2swd0EwZ2dfTm4xM3k5dmFJUlVxdHZYdGVvZEF1MklqdjN0OWRocERjNkh3bHlVY05oOGNmTHI1Rzl6Z1BPRzljVFFwajZuMl9QTTZvTzZ4MWZXZ3VoQTQyRkJZYU1oS3BJNUxxV1Jabm9j?oc=5",
       "source": "investor.id",
       "publishedAt": "2026-08-22T08:00:00.000Z"
-    },
-    {
-      "title": "Bursa Semarak: IHSG Melesat 1,93%, Jadi 6.525",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT3pwdGZCa2dfbndKZm56Z3VMdkVVZlMwY3k3YkNHcXMxek40RENoU1pKNEpOck1LdTlMbTBvRVA5WTZHVzVkWWgybjNXeVlBWnFZNWdlZ05wOU1XVXM0UWI3NjF6VncxdUxGYW11bjczNWVNZ1RPc0p4T2o1cHFDTHdoeWM0djRkZDN5Wmo2OW43S21n?oc=5",
-      "source": "Validnews",
-      "publishedAt": "2026-08-22T06:55:00.000Z"
     },
     {
       "title": "IHSG pekan ketiga Agustus 2026 menguat, dipimpin saham BYAN dan BBRI",
@@ -48,9 +42,27 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbXVXRGpLVXViZ3VHMllXbDg5Tzl0NGxLd0RWUjBuVTc4V0JodnVJUkE3X3BmSVktZElWVWdTYXZuRUEyZHBOSHdlQTU5TzV5MHBGdUFtVjJrTzBSb2YxdDhta3ZkWlJVRFBiRE0wLUFrRjRpWS16WTcyZW1DTUttc3d0X3YyQk55UDFPdmZVcXVOdVdVN1FzckN1LUhWbzI5WmNIZHBNaFlSNVRSYW5NT29PUQ?oc=5",
       "source": "Pusat Data Kontan",
       "publishedAt": "2026-08-21T11:31:18.000Z"
+    },
+    {
+      "title": "Bursa Saham Asia Kompak Menguat: IHSG Ditutup Menguat 0,37%",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjlxdFAtb1NOdjM1MktqaW9tX1R1WHRENHl1MUlUTnRIM3hIWjZzN042SFdYUFpiTjFLT1FXdFJwSmtyZUlrY1BmYTFPMFdxQ2RtU1BLS3NDOGRPUGR1bUQ2bTV5UjFFZ1JBZ0oyTk40akhyc0hNeDZxSE8zRnRsWjF3T3YtRnptcFdwQm5sS0g4bzZ5c0RzOFUxYklBNVptN2g1WkNWZTBJX0pPbXc?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-21T11:24:21.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "Swayasa Prakasa Rencanakan IPO di BEI dengan Dana Rp 45,22 Miliar",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5Nm51VWpySVg3Q2ZEQUdDSUlvSEd3ZkNfS2dnZVdRZVp6Nnk5SDh1ZkxoUjVveUV4V05DWHdHd1djV09uWWVEaTBrb2RPdlpyWFJXOEQ4SHhsV1RLZ0g1UWJrbGlJa2RWd2ZzU1N5WEZkQQ?oc=5",
+      "source": "achmadnurhidayat.id",
+      "publishedAt": "2026-08-23T12:35:11.000Z"
+    },
+    {
+      "title": "Sukadana Prima Sekuritas, Underwriter IPO SWAP Pernah Bikin 2 Saham ARA",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HSndDY1ZuS0NkSjNmQVF6R2w3alR6WjVwc0cyMTh5TnhGaVZlVDFYbmVjUnNFcVFYMEloY291OGFDSE1HaWZBTUJRMENYRE1XMFhNVUhhQVRyQy15c2FnU2Nwc21nQzlQRk00?oc=5",
+      "source": "SERUJI",
+      "publishedAt": "2026-08-23T10:48:15.000Z"
+    },
     {
       "title": "Target IPO 2026 Direvisi: Baru 7 dari 50 Emiten, BEI Butuh 30 IPO per Tahun",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekFIdHI2YVpkbjdHUVpxVVJ4UENKWnZ3aUtHRWQwMmJDRk50Q1MxZXU4TmZqUnRxbllZY1FLVjZHWW5zSFZQV0ZPRm5PcXJaQlpob2lHRENMODJQLXl5YjdxcjRjdDJTOEZGb3lRbkVNMmhSeFRneGRqSjdNcmxGd19iVFZqdWpsNXdmWS1iYlNmZHRYa1labHpLeHI1bG5CUEVubE5xOVd0QmVqTTk0SVJGSWpaTzA?oc=5",
@@ -82,22 +94,10 @@
       "publishedAt": "2026-08-23T09:14:16.000Z"
     },
     {
-      "title": "Emiten Riset Kesehatan UGM (SWAP) IPO, Bidik Dana Rp45,22 Miliar",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUUZtODZOcmlQdkJIQjA2N0tUQWpLTmJwejJJZ1VDcmgwSUZyN2pTaG1DQUk2M2dfZlJVb1VMRU45a21XYmdPQnpfMGNVLVFOZ0NxUTN4QmpBdVdxLVVseXdLN1l5bndIVHBGcXVDUC10UDF1NHp0RTdQS3RJNHRHX3BrTTFwQW44MjVFMldJZ1dNZ3prcWR3?oc=5",
-      "source": "Emitennews.com",
-      "publishedAt": "2026-08-23T09:13:00.000Z"
-    },
-    {
       "title": "Swayasa Prakarsa dan Bitari Incar Dana IPO di BEI dan Nasdaq",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQm5PblF5bk95SXlQemR3SHVTeDhZamFJZlhMTzk3NjFjQzRsWDZyemFiZTVndXBMUndwR1JscGRuNEJHSVh0SlpRbjdYUDBpb1FVTDRzLUlQcXVoYVFhSThway1xM1JqLVA4dQ?oc=5",
       "source": "SuaraGarut.ID",
       "publishedAt": "2026-08-23T09:06:51.000Z"
-    },
-    {
-      "title": "Daftar Saham Penopang IHSG Sepekan: BYAN, BBRI, hingga BBCA",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDRnN1BzV3J2RVVIQWkzOGQ0N2Q2VndORUNReU9kQWthZnJkdml6UGRBNWs4YzJMM0czTThyc0ZKWkFtbFc4Z3JlU0ZUMkNEOTRTdnQ2a29WWmpOckFyRUstR1FXM21BM1pBZmtvSVBCWkVpQ1FvVjhIaXVPcnhVOGdfTDhUYWxx?oc=5",
-      "source": "Infobanknews",
-      "publishedAt": "2026-08-23T08:14:00.000Z"
     }
   ],
   "macroNews": [
@@ -118,12 +118,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCcGZ4OEhCbjBlSTlwcTJtVWlCNEJlR2c2eC13NmhtclliMGxwRWFreGZZakVzMUp4UWdJZ3Y0cE15LVBGVTZqUGxkaUZrVUIzQWcxMnBBeHVILXdmd3hQamJ4OFJqNmdYc0U5Zw?oc=5",
       "source": "asatunews.co.id",
       "publishedAt": "2026-08-22T15:37:50.000Z"
-    },
-    {
-      "title": "Fed Hawkish & Tensi Hormuz Batasi Penguatan Saham AS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFVVenF2RkNXbXVWVTJReV9HczZOYmJDUTZpdHppVlNHUXB2cXBaU09CT2RjWEExajdBb19qTWpFcTBweU1wVUFleVJCb3VrX3BGUXRtVzlWRG9mcGtESl9sdmljWHd4ODNuMFhpQkZQb2lEM1hsWUFXU0phdVRubjFjaWVHQmFSa21zbVY1ZXhTN2xldklfU1dub21KSW1WZXZtTldyR3JRRnF3bUljTXp6VzZzT1FCaENDaA?oc=5",
-      "source": "cetro.or.id",
-      "publishedAt": "2026-08-22T07:12:48.000Z"
     },
     {
       "title": "Analisis USD/CAD Hari Ini: Harga Minyak Topang Penguatan CAD",
@@ -148,6 +142,12 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSTlXNVhNYlhXRnl2U04zUmZSOXhmSnZmVlQ3ekZPMGRNVXVRTW5UMWszWEZLY3ExZ1lrWk5Iek52b3hlMGZqMUpXSFdFYXMtcFNUTVNEWGdoSEs4ZEFRbWJMWjdQYWlLdjJ6T3l3Vl9WWE9rb3FmeEk1S2RwZ0ZBWTJUWHZGUTRfUkF1Mi1ITWtuZUZ2bHhfZnlxNXRLOFpkTVhtS9IBnAFBVV95cUxOSjFrbXQ2eEg5MWNoZGRIc1ZEOExlLUk2Y1JFNWlkRmVUVDV5ckxCakdlX0xDQ2d6ZzNnc09XMW5CZC0xbC1JVlU4aGo5S2dtcFpqX05hUmNnR2lqVUVUY2E5UlRCVjV4ZncwRHIzVFJuZFp2TnRyQ0QzeW80NldiMGhsTlcxbk1xWFY3UXNkejZsbmxRQ2kwZTF6MEo?oc=5",
       "source": "kontan.co.id",
       "publishedAt": "2026-08-22T03:00:58.000Z"
+    },
+    {
+      "title": "Wall Street Naik Tipis di Tengah Tekanan Jual Pasar Obligasi",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEtkdlk2TzlSQy1TT0pGbFhtZmNxRzlhem5HR0J2RTdhNUk3ODdwY2cyZE1mdmR4Q19Gb0d3VkpKZ3lfQkxieW9VSnJhdDZ0UWRGdjJhQWE5WTlFZlZ4WFhRSm1pd3EwcGVWMElCX2VPN1VqR3JUbUxMUEZYUFgxUXdsUVR0d3dfNHZSQ1R2ODFHQlZSeFZ2MkJPd18zOFlYODVhYg?oc=5",
+      "source": "MetroTVNews.com",
+      "publishedAt": "2026-08-22T01:32:09.000Z"
     }
   ],
   "errors": [],
