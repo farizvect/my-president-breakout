@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-23T16:17:45.592Z",
+  "generatedAt": "2026-08-23T17:15:01.362Z",
   "headlines": [
     {
       "title": "Emiten Emas Topang IHSG, BRMS Jadi Pilihan Agresif di Kuartal III-2026?",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0dXYTdRdm1ZRWpBV0htdGZuemdYR1JKSy1Jbmg4cUJnLVUxSVFfNjVValJyTUJpcEIzUldEV3RoSVB5S3RrRW1kZjR0UW5kcXhnSHFmeVZtZktxSW1SSUNGSnVZYjc1S1lha3Q2M3dPSmpPTXV3clg5ZEloRGRXUWpoTnBPR0dfT1Y1ZUZzZ0JQLW5neXdEUGU4UkNXZG9lVnlzdzZn?oc=5",
       "source": "KONTAN",
       "publishedAt": "2026-08-23T06:30:20.000Z"
+    },
+    {
+      "title": "Rapor IHSG Sepekan: Menguat 1,93 Persen, Kapitalisasi Pasar jadi Rp11.449 Triliun",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXRtU3VyWWVmS0JCYW1LdEs0LU8tNUJOTjB0SUd1dG0zeUtvakNJWnJ0WWpYSU83WkhYV2d1QmpaekJNSE9tZUpHZWp5WHlOdzBmdHZNbHI5bmw3UWdmTGFDVDkyN2EyWEF6WG5ubnZtQUtfQmRLUGJZd1lycUVyTEdNcV9BVlVpUjhrcFB5b2VmNmF6cUJhb01zYklsaEFiVDJYNjh3?oc=5",
+      "source": "Infobanknews",
+      "publishedAt": "2026-08-23T04:03:00.000Z"
     },
     {
       "title": "10 Saham Paling Berpengaruh Dongkrak Kinerja IHSG",
@@ -42,12 +48,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbXVXRGpLVXViZ3VHMllXbDg5Tzl0NGxLd0RWUjBuVTc4V0JodnVJUkE3X3BmSVktZElWVWdTYXZuRUEyZHBOSHdlQTU5TzV5MHBGdUFtVjJrTzBSb2YxdDhta3ZkWlJVRFBiRE0wLUFrRjRpWS16WTcyZW1DTUttc3d0X3YyQk55UDFPdmZVcXVOdVdVN1FzckN1LUhWbzI5WmNIZHBNaFlSNVRSYW5NT29PUQ?oc=5",
       "source": "Pusat Data Kontan",
       "publishedAt": "2026-08-21T11:31:18.000Z"
-    },
-    {
-      "title": "Bursa Saham Asia Kompak Menguat: IHSG Ditutup Menguat 0,37%",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjlxdFAtb1NOdjM1MktqaW9tX1R1WHRENHl1MUlUTnRIM3hIWjZzN042SFdYUFpiTjFLT1FXdFJwSmtyZUlrY1BmYTFPMFdxQ2RtU1BLS3NDOGRPUGR1bUQ2bTV5UjFFZ1JBZ0oyTk40akhyc0hNeDZxSE8zRnRsWjF3T3YtRnptcFdwQm5sS0g4bzZ5c0RzOFUxYklBNVptN2g1WkNWZTBJX0pPbXc?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-21T11:24:21.000Z"
     }
   ],
   "stockNews": [
@@ -102,6 +102,12 @@
   ],
   "macroNews": [
     {
+      "title": "IHSG Menguat ke Level 6535 Pada Sesi I Perdagangan 21 Agustus 2026",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15Rmw2WFJaSzVyTl9sSGtvQlNjMTBPT0xISzVpUW1oTWNqZWQ0VURKdzZWZ3RfcDdaZlpnSVdQbEtpV1J1eEhqN3NoTWJZRWRlUk5DdHhadjFCa09XeHZjOVpyMWlIczc4NS1wVHJhTnY?oc=5",
+      "source": "pdiperjuanganbali.id",
+      "publishedAt": "2026-08-23T16:16:02.000Z"
+    },
+    {
       "title": "Harga emas kembali melonjak, raksasa-raksasa AS mengungkapkan target harga akhir tahun.",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXR1M0psemNGZ0Npcm9VSFhyVUJYSzFfSEVPbjUxbXhxOTNNYlA5S1puek56ZDVjWXR4WkxzZUszeFFPOXdyUks1ZGJjazNoTFU1NWZBSlVtNUwxdzhUb2o2NTJWYTZCYTlKNy1ZSXY0eHRsUmQ1d2prcWRrS3NPdEZnbmttMk0tV2c?oc=5",
       "source": "Vietnam.vn",
@@ -142,12 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXIwMVZCa2plM21IUE1UV3QxZk90dC0zWkRrN3Y1UnhfNUVwVzc5S2dtdVA4RERhMTRZejlKeTFlWVdsQTFUQ0pRZjNCTkdvVU9UNXBraDBJR2VXb2JvQm9QR1hqQkFqTURYTW96S2kxZ2Z2MXRjM2YtckduX2RkbEc0Q1lQTDRRY19ub3VHZEVzTUsxVDJSSVRRc25iRnRRdnZtTEdfV0bSAaABQVVfeXFMTzYxSFVSWVBTYmNVSm0xRUNmV2dpV1daVXhMSWpBcTNZbmVHaUd2TmRkbzhWdlQzYnlRWjZJNW9vWUdmOEhHN3NsSWlKZHhhVlV2VFlVc2c3UV81VU1Kb0dsN1Z2aXIyZ2NLMTdBUXVrWVR3VU9RalhIeUJDd3VtWU8zNVdDR2t1TS1XdGFUVlJlZ3JKX2QtYUlEeC11UUFVdg?oc=5",
       "source": "kontan.co.id",
       "publishedAt": "2026-08-22T04:30:35.000Z"
-    },
-    {
-      "title": "IHSG Menguat 3,55% dalam Sepekan, Simak Proyeksinya untuk Pekan Depan",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSTlXNVhNYlhXRnl2U04zUmZSOXhmSnZmVlQ3ekZPMGRNVXVRTW5UMWszWEZLY3ExZ1lrWk5Iek52b3hlMGZqMUpXSFdFYXMtcFNUTVNEWGdoSEs4ZEFRbWJMWjdQYWlLdjJ6T3l3Vl9WWE9rb3FmeEk1S2RwZ0ZBWTJUWHZGUTRfUkF1Mi1ITWtuZUZ2bHhfZnlxNXRLOFpkTVhtS9IBnAFBVV95cUxOSjFrbXQ2eEg5MWNoZGRIc1ZEOExlLUk2Y1JFNWlkRmVUVDV5ckxCakdlX0xDQ2d6ZzNnc09XMW5CZC0xbC1JVlU4aGo5S2dtcFpqX05hUmNnR2lqVUVUY2E5UlRCVjV4ZncwRHIzVFJuZFp2TnRyQ0QzeW80NldiMGhsTlcxbk1xWFY3UXNkejZsbmxRQ2kwZTF6MEo?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-22T03:00:58.000Z"
     }
   ],
   "errors": [],
