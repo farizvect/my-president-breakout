@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-24T04:57:38.344Z",
+  "generatedAt": "2026-08-24T05:46:30.016Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
     "currency": "IDR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
-    "price": 6483.02,
+    "price": 6480.65,
     "previousClose": 6525.69,
-    "change": -42.67,
-    "changePercent": -0.65,
-    "quoteAt": "2026-08-24T04:47:36.000Z",
+    "change": -45.04,
+    "changePercent": -0.69,
+    "quoteAt": "2026-08-24T04:59:59.000Z",
     "exchangeTimezone": "Asia/Jakarta",
-    "marketState": "REGULAR",
+    "marketState": "STALE",
     "date": "2026-08-24",
     "points": [
       {
@@ -969,10 +969,10 @@
       },
       {
         "date": "2026-08-24",
-        "close": 6483.02
+        "close": 6480.65
       }
     ],
-    "fetchedAt": "2026-08-24T04:47:36.000Z"
+    "fetchedAt": "2026-08-24T04:59:59.000Z"
   },
   "fx": {
     "symbol": "IDR=X",
@@ -983,9 +983,9 @@
     "previousClose": 17685,
     "change": 15,
     "changePercent": 0.08,
-    "quoteAt": "2026-08-24T04:56:41.000Z",
+    "quoteAt": "2026-08-24T05:26:02.000Z",
     "exchangeTimezone": "Europe/London",
-    "marketState": "REGULAR",
+    "marketState": "STALE",
     "delayed": true,
     "refreshIntervalMinutes": 5,
     "points": [
@@ -2026,7 +2026,7 @@
         "close": 17700
       }
     ],
-    "fetchedAt": "2026-08-24T04:56:41.000Z"
+    "fetchedAt": "2026-08-24T05:26:02.000Z"
   },
   "errors": [],
   "sources": {
