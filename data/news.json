@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:24:46.993Z",
+  "generatedAt": "2026-08-25T11:21:15.150Z",
   "headlines": [
     {
       "title": "IHSG Ditutup Melemah Ke Level 6501 Akibat Defisit Transaksi Berjalan",
@@ -52,6 +52,12 @@
   ],
   "stockNews": [
     {
+      "title": "Saham Disuspensi Imbas Tunda Bayar Bunga Obligasi Rp60,8 Miliar, Ini Respons Adhi Karya",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbk5PUDh6WGNyU29JQlk3NmFDLTNkZmpnZjhtemhtNXQ4ZTZBSzR6UFFxQ0NhaW5wdDR2aHRmcHJDZDFIMHY3OFNnMmpPczlFbWp3clhabVRvQ2d3WmRramx3SThWdXJiUlgyb0hJR1FPWHA2TXZ4Y1M2WU1RRnFiRUpta3JzenVTbWVmOXB1UlN4RWlTcmVSMzFUaThlbHlIbTI0MTk4X2tJZU1Lbm1USWZaQzNuM0ltYlc3S1ZLbWUyT2dhVG1N0gHHAUFVX3lxTE9uTk9QOHpYY3JTb0lCWTc2YUMtM2RmamdmOG16aG01dDhlNkFLNHpQUXFDQ2FpbnB0NHZodGZwckNkMUgwdjc4U2cyak9zOUVtandyWFptVG9DZ3daZGtqbHdJOFZ1cmJSWDJvSElHUU9YcDZNdnhjUzZZTVFGcWJFSm1rcnN6dVNtZWY5cHVSU3hFaVNyZVIzMVRpOGVseUhtMjQxOThfa0llTUtubVRJZlpDM24zSW1iVzdLVkttZTJPZ2FUbU0?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
       "title": "Saham GOTO Terancam Anjlok di Bawah Rp 50 Akibat Aturan Baru BEI",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTl4UkFQOVpabmZsYmVOLVlhRHQzdHRraGNyVlhYOGtHeThyMk1US0JaejNIbjl3VkNMa3lLVjRuTXZZTXgzaV9mSzljQVRWSExrZ055OUltYXhRZ0oteFNObFN3LTRZZ1p2dmt4VDBFdi1vWXBtTm1pUGVnOF9XTTRQVkk1c2pfeUhDNTFsSzVzck1XVXVpTVNuaXBKU0E?oc=5",
       "source": "topik.id",
@@ -92,12 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXU2OXk0Zi1pVTdkc2FQeEhrM0Y0bmIzS2xoYXhCUWZ1d1cybU1pZS1JZ2RyVE8tUEdDQWFkNFpXdTJneDcyODJSNm8waXZjTTBsV2ExaDZUWXBCR3NENDNnR2tXb3dLdmlrUE9TcUxYMmpfaWNNNWdmMkxMVzlSVmdNWE92UGdfZlprVkRXSVZ4VWxWQzNzUloyWlhGM1p0YTEzTlpqbFZvZktaNXFaX1lpTWZ1eHFoTnJSSTQyU2VYbDJqZHpTQtIByAFBVV95cUxOTXU2OXk0Zi1pVTdkc2FQeEhrM0Y0bmIzS2xoYXhCUWZ1d1cybU1pZS1JZ2RyVE8tUEdDQWFkNFpXdTJneDcyODJSNm8waXZjTTBsV2ExaDZUWXBCR3NENDNnR2tXb3dLdmlrUE9TcUxYMmpfaWNNNWdmMkxMVzlSVmdNWE92UGdfZlprVkRXSVZ4VWxWQzNzUloyWlhGM1p0YTEzTlpqbFZvZktaNXFaX1lpTWZ1eHFoTnJSSTQyU2VYbDJqZHpTQg?oc=5",
       "source": "IDX Channel",
       "publishedAt": "2026-08-25T05:15:00.000Z"
-    },
-    {
-      "title": "BEI Bakal Ubah Batas Harga Saham Minimum Jadi Rp1",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HbWFEZ3JJQVpJNGd6Y1VMQXFYR2Q5bi1GSHRvdDJFS0daOE5lVENBbVc2S19jbk9xSE11TzEyWG9PRTlFQS1VVGpGejBkSnBmWUdEbGNoYTVwY0Z6V2RKbWx5WGpUUDA?oc=5",
-      "source": "SuaraGarut.ID",
-      "publishedAt": "2026-08-25T05:11:04.000Z"
     }
   ],
   "macroNews": [
@@ -120,12 +120,6 @@
       "publishedAt": "2026-08-25T06:13:00.000Z"
     },
     {
-      "title": "Harga Minyak Dunia Turun Lebih dari 2 Persen meski AS Jatuhkan Sanksi Baru ke Iran",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRUJTQ1UwNEx6YTlSNzcyTy0wclVPQ0J6aGVKYmI1Nl95ejFzOW1yVUhTbmIzNE5sdDB2eVFFU3prX3AzWG5MQi16Y2ZTc1gwcWJfY2t6VUxfdFdsckhBazhrMmZYR2IwNFNfQkMtRk4xanZfZnVsZzMtcGtvaENTRzVJVFJkcS1WV043NkdZMEw1aC1xek41MXZWeEFQX2VhWXdtTjNNVFB3bzFPb0RZbWdadENWNEg4LXpBd1NUMnBrV0M4al9n?oc=5",
-      "source": "Kompas.com",
-      "publishedAt": "2026-08-25T03:01:00.000Z"
-    },
-    {
       "title": "Wall Street Bervariasi: Dow Jones Raup Cuan, Nasdaq Tertekan Pelemahan Saham Teknologi",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTHpubUZqS0JrRlVkaVl2RTdQR3BRdng1TWRFRk5fRDFKZXlxMkdHYzVZN21PQThTWVJiVXpHRTk2bi1JYlB5MjgybWUxTFhHZ3paXzA1UlhKb1NSNEh0Y2FZUFVSeUZjSTVleVY5OEVNdmhzUDlDRkFSbzNiNThQTEFhemcxNnd4MEhqQzJDcTlrYlJDTktucFZoWEFfV1ZiV2VXcnlJbERwb3NOVUZaNUIwOUtUeV91dGxSSkJVM214YXR4?oc=5",
       "source": "MetroTVNews.com",
@@ -142,6 +136,12 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYU10WmNqa0JXVnNESTBLYzRuVkNWM0dpT0dkTGFMclZyQlhvRDEyb2tteU9OUjExZE1aelJQckxPUnlPWlpKRFZycUpDS0FlQlg4NG9wMWVXd3NhV3JuMk5YVnNRM0gyZkppWTgtRDdGVWg5MDBlWHk3d2xBY1p5N0JCRTR0eGZ3VTNGaFBhanBRQmRlajRBczJfaGRzckk?oc=5",
       "source": "Head Topics",
       "publishedAt": "2026-08-25T01:38:00.000Z"
+    },
+    {
+      "title": "Bursa Saham Global Tertekan Jelang Kinerja Nvidia, Nasdaq Turun 0,76%",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmNCRVRxc2ktc3JDTTZkRDJUZFZfRkpONy1iUmpLWmxwS2VGWXI3eGc3bC1nUTBRa29FZE5fU3lCODlUNF9WNF9OWENqb1pndXR6QmZ4V3hweml6N2VtZnFCNzdIT2RRSWpkNGRjZm1makdiQlFZMW1FWkxiZ0M2ZXRxTFBFV2J0OWFYeUFVTTdYNTc0QUZVOEZGUlhvLTVKTllUZ9IBnAFBVV95cUxOQWc0aml0Wi01Y2JOQTFwUkNlcEN0eXNkcVBMYjlzTmViMnpzZGFJc1NRVHNSVlNIQ0dndThjdmtJYmhTQl9hdXhiSzJsSDFfcnRFc3d2VkFZMnBTb1E5R0FvY0s1Y1BrNmpqSVZUVWVOVTRSZ2lIeG16bkljMU5pWFlMaWt5MlNoQmFMSU9wMnVuNVU5aDVtZDdhOGM?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-25T01:21:16.000Z"
     },
     {
       "title": "Harga Emas Senggol Level Tertinggi 3 Bulan - Market",
