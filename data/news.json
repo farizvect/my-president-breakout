@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:21:15.150Z",
+  "generatedAt": "2026-08-25T12:35:33.505Z",
   "headlines": [
     {
       "title": "IHSG Ditutup Melemah Ke Level 6501 Akibat Defisit Transaksi Berjalan",
@@ -26,12 +26,6 @@
       "publishedAt": "2026-08-24T10:54:28.000Z"
     },
     {
-      "title": "IHSG Rebound, Ini Cara Tangkap Peluang dengan Reksa Dana Campuran",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFNmS3Nkc2w2WHFqc1h1YTJDcVE0bTlVWU1CdTBmSnVmVktNWWJnM2gzWjFTMnh0amhHRHZwSzhoS0FTeGJqcGx4MzBweUNKLVFLZHFKbVJ2WkZmUG1HbExjYzZrTTB0N09SZ3EtOElWdlp5TVVTQm5rWGVPbC1QSXFTV2lpSWtLTXZ2MTJRdDdfUWNHUUtTRWZnM0pfNV9tNFVDdmQtdGh4ZVg0YlBMZ0wyZ3AzMTd2?oc=5",
-      "source": "Bareksa.com",
-      "publishedAt": "2026-08-24T10:49:14.000Z"
-    },
-    {
       "title": "IHSG Ditutup di 6.501, Saham BYAN Jadi Pemberat",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1NBN0M0aWE3ZmZ4VEZ4X2I2STRsbGVGTlM1T2dObE1peXBKV3d5dVJKRE1YVGtfSi1xX3k0OFBKejUzU0Nuc2NTZEFxNGlmLXYtbkF0dTFVZmNSUl9feGNMbUpCSkRrUEtmZXhlNjNNdXktOUNSbVVSY2p3R2ZiYXpsVW9fa0NxTjRvYmdpNVhJUnRhblhocENRM1hfVTQ?oc=5",
       "source": "Bloomberg Technoz",
@@ -48,14 +42,38 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82SWFPZ0trQ0xScUxNbldfQTB1bGx3SjJKanEzVEtlSHhtR3piYzZOR1dLajdNUEUtODFuakY4cDY2bTBtckhzX25EcTJPQlJrd1F0SjFNS2FDM0JBX08xTGQ0Rnk?oc=5",
       "source": "SuaraGarut.ID",
       "publishedAt": "2026-08-24T10:20:16.000Z"
+    },
+    {
+      "title": "IHSG Ditutup Melemah 0,37 Persen, Bursa Asia Kompak Tertekan",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHR5TGVlQTFmVE5RR29FUW4wNFpnN1lGamN5ZkZBOUQ4Y2hKU2JGcWo4WFlWcDBDNWtIWTZNelZKWUVjNzlvZldrelkzQmFCbFJqMVdWeXhyRVlpeWNmMm00Z3R6VTRyRzdPUlFGVjVvMmVubVk4dF95TjR5ckxWQndhaU5ndFEwMjhxZkxmM2dqY2xsa1pDb0ZpS0dEUE5sRThVeDgyV1RMMHlH0gGyAUFVX3lxTE5QVGxPejZKRHN4c3NfekJvMTB0dFZHWGxkRTB4ay1FcVB4b0JKT09rT0h2a0VLTm56bjhpZ2QxdWxXLV9nR3ZzekRoTWpKb3dEbUE2LW0yNzBieEtJMzFOQ2VmRXJCUzRsaUl6Vi0zTzR1UUhneGlXdVM1a21ud0ZSZHotM0ljQUsxelQ4S005Zjdoa29PNkdkRlNyQWlMVjdJaWtvNXRUbTFYU0cxZzYxR2c?oc=5",
+      "source": "Suara Surabaya",
+      "publishedAt": "2026-08-24T10:20:10.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "Adhi Karya (ADHI) Menghormati Penghentian Perdagangan Saham ADHI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUTZkZWpGc3B3cHdmcllRRjlMU0pWckVtT3lsZ3p4elp5NU11Wjg0VVlYNzR6c2pkQW5UQzdWSzY0Ul93VXBVTEFMWTd3UzhFSkZzaHlQWkVDdE9FbzB1WGNqd1M4amQ5NEdoQmpkb1RZZ0UtaV9EOVpLUzVqV3pUdFVWaUJmekx5SGc3Z2F0Z2hSQWZNUkNB?oc=5",
+      "source": "SWA.co.id",
+      "publishedAt": "2026-08-25T12:20:00.000Z"
+    },
+    {
+      "title": "Saham Eropa Menguat, Sanksi Baru AS ke Iran Lebih Kecil dari Perkiraan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUxmZGlUZU1HM1BPcFMxcnE3TGhzemhUTUtGQTBEbmE3b0ZEcUNsSHFxa1Bja1p0eEM5UGRHdWpTeWt0Q2JySVJCRk9LRGJETVpud3pzS05JNW1vY1p5djhFTUxzMGZqeENiamwwalFFa2RlYUgyTGd5WWw3MXFOWUZfaXVFckVucEFaVjVOYUF0T3JHWUg4Y3BGdUNKU3dBcjA3ck16ZGFlcnREUm9UcFN30gGyAUFVX3lxTFBhTGZkaVRlTUczUE9wUzFycTdMaHN6aFRNS0ZBMERuYTdvRkRxQ2xIcXFrUGNrWnR4QzlQZEd1alN5a3RDYnJJUkJGT0tEYkRNWm53enNLTkk1bW9jWnl2OEVNTHMwZmp4Q2JqbDBqUUVrZGVhSDJMZ3lZbDcxcU5ZRl9pdUVyRW5wQVpWNU5hQXRPckdZSDhjcEZ1Q0pTd0FyMDdyTXpkYWVydERSb1RwU3c?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-08-25T10:55:00.000Z"
+    },
     {
       "title": "Saham Disuspensi Imbas Tunda Bayar Bunga Obligasi Rp60,8 Miliar, Ini Respons Adhi Karya",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbk5PUDh6WGNyU29JQlk3NmFDLTNkZmpnZjhtemhtNXQ4ZTZBSzR6UFFxQ0NhaW5wdDR2aHRmcHJDZDFIMHY3OFNnMmpPczlFbWp3clhabVRvQ2d3WmRramx3SThWdXJiUlgyb0hJR1FPWHA2TXZ4Y1M2WU1RRnFiRUpta3JzenVTbWVmOXB1UlN4RWlTcmVSMzFUaThlbHlIbTI0MTk4X2tJZU1Lbm1USWZaQzNuM0ltYlc3S1ZLbWUyT2dhVG1N0gHHAUFVX3lxTE9uTk9QOHpYY3JTb0lCWTc2YUMtM2RmamdmOG16aG01dDhlNkFLNHpQUXFDQ2FpbnB0NHZodGZwckNkMUgwdjc4U2cyak9zOUVtandyWFptVG9DZ3daZGtqbHdJOFZ1cmJSWDJvSElHUU9YcDZNdnhjUzZZTVFGcWJFSm1rcnN6dVNtZWY5cHVSU3hFaVNyZVIzMVRpOGVseUhtMjQxOThfa0llTUtubVRJZlpDM24zSW1iVzdLVkttZTJPZ2FUbU0?oc=5",
       "source": "IDX Channel",
       "publishedAt": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "title": "Evaluasi Papan Pengembangan BEI: GOTO Top Tier & 15 Saham Baru Masuk",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOG96cDBEWndtdW1PTEdmekZlaDg3V2VUVHhCZjJ5R0ZjWEJleE9vMUJKWnIxdk1JRVJYWU02TE5DbHJYY2wyZ3dwMlU0TWp0VzFHM2dCT01YU0FCMThUVjBvSlZfRUNFUjh6eVZlUHFJV0hPZW1MOW5WM0RXSEFoSTlxNlk4QzlIMVlyaHhGYVpRSlRfYUc5bHJnMWtNQQ?oc=5",
+      "source": "Emitennews.com",
+      "publishedAt": "2026-08-25T07:45:00.000Z"
     },
     {
       "title": "Saham GOTO Terancam Anjlok di Bawah Rp 50 Akibat Aturan Baru BEI",
@@ -80,27 +98,21 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMUxISFBRM1l3Q2dOcFFJTHNNZmxGUEUzTGdhRFN1clBsZzgtMmlLZE5rdnUzZm5MQ1BwRHEwdHg5M0lkVEJKQVhJX0R6dlFmRDUzZDJvbUhnSVJKeERtTWdLRDk0SDBtVVNUcHkydzAwSExSclRlb3RLTDJscXZnaWtta0dyZUo3cWVNYXdaNWxXcDRubjd0LQ?oc=5",
       "source": "Emitennews.com",
       "publishedAt": "2026-08-25T06:30:00.000Z"
-    },
-    {
-      "title": "Batas Harga Saham Rp50 Akan Dihapus, Bagaimana Nasib GOTO yang Masih Terkunci di Gocap?",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDVaTFBTd2VRVzlRSGpORENhOEFLbDVUdFZnNGMtMG0tT1ZCRzR5QXlsVGZOOWZUUWhTRGRZZFh1UEFoYTFmdGJRcDZ6RF9vb0M0aDdKRHNQN1FGendOQ3JOWXg0OHNhVjUwbUdHeXFCX0U4aDhFOTc3ZFhnN2xDUzdjOWFyZk5qWjU4MVBpUEVDNjQzOEtPT1B1SEkyMFh0SUM3SzVvTWJKMTB3?oc=5",
-      "source": "AFU.id",
-      "publishedAt": "2026-08-25T05:59:47.000Z"
-    },
-    {
-      "title": "ADHI Beri Penjelasan Usai Saham Kena Gembok BEI",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUo1QWdPdDF2OVM5WWFtT3JzMHo1SU1ZSzdFWDZQLWE3WW5KaC1RUnN0OHh3c1Q0ZXdEZEpuYW5nVmg1VVhfblRZd28zeDhoc2dkUlFjc3RZUzd3a3VVYmtieGRyWm93Tkw4U0w1NkJLZDl5V1Y4Yk1Qa2VpWnJQTlN2TlUtdjQxNndvOGY5ZWN5Y2E2SlJfaTVZMWtLb0FT?oc=5",
-      "source": "Bisnis.com - Market",
-      "publishedAt": "2026-08-25T05:48:07.000Z"
-    },
-    {
-      "title": "Saham Melesat 42 Persen, AI Factory Dinilai Jadi Katalis Baru Total Bangun Persada (TOTL)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXU2OXk0Zi1pVTdkc2FQeEhrM0Y0bmIzS2xoYXhCUWZ1d1cybU1pZS1JZ2RyVE8tUEdDQWFkNFpXdTJneDcyODJSNm8waXZjTTBsV2ExaDZUWXBCR3NENDNnR2tXb3dLdmlrUE9TcUxYMmpfaWNNNWdmMkxMVzlSVmdNWE92UGdfZlprVkRXSVZ4VWxWQzNzUloyWlhGM1p0YTEzTlpqbFZvZktaNXFaX1lpTWZ1eHFoTnJSSTQyU2VYbDJqZHpTQtIByAFBVV95cUxOTXU2OXk0Zi1pVTdkc2FQeEhrM0Y0bmIzS2xoYXhCUWZ1d1cybU1pZS1JZ2RyVE8tUEdDQWFkNFpXdTJneDcyODJSNm8waXZjTTBsV2ExaDZUWXBCR3NENDNnR2tXb3dLdmlrUE9TcUxYMmpfaWNNNWdmMkxMVzlSVmdNWE92UGdfZlprVkRXSVZ4VWxWQzNzUloyWlhGM1p0YTEzTlpqbFZvZktaNXFaX1lpTWZ1eHFoTnJSSTQyU2VYbDJqZHpTQg?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-08-25T05:15:00.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Berita keuangan terkini 25 Agustus: Pemotongan pajak untuk rumah tangga dan usaha perorangan; harga minyak turun.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdndKbGxmV3dEMHUyd3J2YXBQbncwa0ZhR0pKTGlSNHB1VDV1Q0JOZnlHN1M5NVlSOHZLeTFNT05JbUhkdkhNcVNJa2xuc2dfMmRLVTQza21lb245bENZaE5tYnFGTG5YYlBpXzJFVG04QnlDbzRKYi1oWktjZUxZUmdnZTlaTHh0NXFVYXBwcG5VajZEXzJQQ1pBYkNyZU1NVlpB?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-25T12:24:31.000Z"
+    },
+    {
+      "title": "XTB Indonesia Perluas Pilihan Produk Lewat CFD",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXE2MUx2VHNNTllZWjRPOEI5eGdfOW9kNEVnSS1BSVlGbXJsaU1DQTNvUXgtRE9HYVlWLWRaM25MTmdFX2dKVlhYejJNZWg0cG9DTmh0UmtDNFB1S0FZeG5ENHltSVdnamhRSmVrelRtcVRlcnUxUjM2bnZkd1dKTWlEbG80NUlmLWJtNUtQSzRRQTRZeTZLcFNwaFFIZS1adDJQRjFDRU1CYkdjQl9kelln0gGyAUFVX3lxTE5tcTYxTHZUc01OWVlaNE84Qjl4Z185b2Q0RWdJLUFJWUZtcmxpTUNBM29ReC1ET0dhWVYtZFozbkxOZ0VfZ0pWWFh6Mk1laDRwb0NOaHRSa0M0UHVLQVl4bkQ0eW1JV2dqaFFKZWt6VG1xVGVydTFSMzZudmR3V0pNaURsbzQ1SWYtYm01S1BLNFFBNFl5NktwU3BoUUhlLVp0MlBGMUNFTUJiR2NCX2R6WWc?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-08-25T11:21:08.000Z"
+    },
     {
       "title": "Wall Street mulai liput Digi Spain dengan optimisme usai IPO",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzBVdFI5RGpacjRaZU5GRGdkWDVsQl92SHBPTHZfUUQ2UjVib1FqXzNxLUt4czRXX3JkeDhnVGZ0ZGlMUGFUcUpoS0dEWHY2TXhLM1M1djhLZ0E2a3d3SmhCSDVsVWhxa0FiMkZfS0x6ZjlLQ1NwY2lTM1ZscHdPUkpMOHRmQU1yR3ZzT2lueUs2ZW5oSEZERUtqQkNEWTF4a3hkREVmRlBwU1IzRDJ3VFk5MmJxUXM?oc=5",
@@ -136,18 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYU10WmNqa0JXVnNESTBLYzRuVkNWM0dpT0dkTGFMclZyQlhvRDEyb2tteU9OUjExZE1aelJQckxPUnlPWlpKRFZycUpDS0FlQlg4NG9wMWVXd3NhV3JuMk5YVnNRM0gyZkppWTgtRDdGVWg5MDBlWHk3d2xBY1p5N0JCRTR0eGZ3VTNGaFBhanBRQmRlajRBczJfaGRzckk?oc=5",
       "source": "Head Topics",
       "publishedAt": "2026-08-25T01:38:00.000Z"
-    },
-    {
-      "title": "Bursa Saham Global Tertekan Jelang Kinerja Nvidia, Nasdaq Turun 0,76%",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmNCRVRxc2ktc3JDTTZkRDJUZFZfRkpONy1iUmpLWmxwS2VGWXI3eGc3bC1nUTBRa29FZE5fU3lCODlUNF9WNF9OWENqb1pndXR6QmZ4V3hweml6N2VtZnFCNzdIT2RRSWpkNGRjZm1makdiQlFZMW1FWkxiZ0M2ZXRxTFBFV2J0OWFYeUFVTTdYNTc0QUZVOEZGUlhvLTVKTllUZ9IBnAFBVV95cUxOQWc0aml0Wi01Y2JOQTFwUkNlcEN0eXNkcVBMYjlzTmViMnpzZGFJc1NRVHNSVlNIQ0dndThjdmtJYmhTQl9hdXhiSzJsSDFfcnRFc3d2VkFZMnBTb1E5R0FvY0s1Y1BrNmpqSVZUVWVOVTRSZ2lIeG16bkljMU5pWFlMaWt5MlNoQmFMSU9wMnVuNVU5aDVtZDdhOGM?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-25T01:21:16.000Z"
-    },
-    {
-      "title": "Harga Emas Senggol Level Tertinggi 3 Bulan - Market",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0JLU21MRFZ1bzZnU2lFM3F2RFRUWUtEdkFKOEdxYXptVVZLZDRtVWZFN3dzYjFTN0tYR0NUZzA2VFdXMUpzYTlvYlJIOUVsTFhkajBuQ1RzdXREc2hQUUZhYjlOaXBKSnB3VkkwMHgtNGgzWHRlcDRnTi1vbG93c1ZQTnB2OGJiemxfUUV1aFBoTkNSdC13MV9yZ0c?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-25T01:10:07.000Z"
     }
   ],
   "errors": [],
