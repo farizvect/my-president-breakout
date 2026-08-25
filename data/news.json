@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:33:03.575Z",
+  "generatedAt": "2026-08-25T05:25:51.726Z",
   "headlines": [
     {
       "title": "IHSG Ditutup Melemah Ke Level 6501 Akibat Defisit Transaksi Berjalan",
@@ -52,10 +52,28 @@
   ],
   "stockNews": [
     {
+      "title": "BEI Bakal Ubah Batas Harga Saham Minimum Jadi Rp1",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HbWFEZ3JJQVpJNGd6Y1VMQXFYR2Q5bi1GSHRvdDJFS0daOE5lVENBbVc2S19jbk9xSE11TzEyWG9PRTlFQS1VVGpGejBkSnBmWUdEbGNoYTVwY0Z6V2RKbWx5WGpUUDA?oc=5",
+      "source": "SuaraGarut.ID",
+      "publishedAt": "2026-08-25T05:11:04.000Z"
+    },
+    {
+      "title": "Menakar Prospek dan Rekomendasi Saham Lapis Kedua di Sisa Tahun 2026",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFVpNEpsNE84cDAtR3ZIN1Z5YVZpTURLR0U3UmFLdy1lc1k2SmlKT1lfai10alpjZjQ0WnFlV2RTVGZKNHNjM1NxOE5jNkhxSXFvWk9ocjBfV2xjS0dmeVkxLVVZbmoyWjdUVi1mRGw4T294dktJTmx0a2VxOTNfREFpN2l6cGxOQTR4THRPTmlGSmtzZElFaUxCaVBuLXkweVo3ZWNqUdIBnwFBVV95cUxQQUxkMHdRVWFuRThmaDBsZldFa3NtZDYyWkpwaW44Szh4ZS16OE8wdTNKNFFfUWhuQ3RZTEttalJ2WC1qZWtoOGxCOXVsVlItNWRKZTJfV0ZBaUtrb052ZnJWTGgzWlNuVERCY0k4RHhOSGNnQnNoZUJJUEJlV0p4MVo2ajMxTUloVVI3V2F1WEx1STN6bXBGMUc0LUwwQm8?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-25T04:38:05.000Z"
+    },
+    {
       "title": "10 Saham Terlaris di Bursa Efek Indonesia pada Q2 2026",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXMtV3dlNFZhNkh4OHZBakFGTFRYTFU2a1lfeUhEd0l0VW5qa2YxaUpmLXZsbldZZ0JhTGhSYlZhWVZCUGtvMWczWXBXcjJTQjdHemlvb0FfaWNqVGdJMUpZMVJZbXZmX09MTVAwUkhyM0xlb2RuUVBxV2w0dkMtOVdWZENPeWw2TUkzREUtTFBwQnB0TjByQUdsS3E?oc=5",
       "source": "GoodStats",
       "publishedAt": "2026-08-25T04:30:13.000Z"
+    },
+    {
+      "title": "BEI Terbitkan Aturan Saham Hijau melalui IDX Green Equity Designation - Suara Merdeka Surabaya",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTngzS2hUQWpWWDVhWUlnaDNqZWNBYW5IOWVFTlp6TndjTmo4cS1LdS1qWVV2M1htRWU2cWpQMUg3eTFDd1drTzBoTWp1bVNmUHJjLTdQMVhxSlRaYU5DR1dsdWxpbHdFQlUzV3hYX0FwbmdpYWVRc0dmUWczQWVhMDRhOGM3R0ZtTlhFN0luWUJqSmFhR1Y5QjlrM2dqek9MeDREbmFuU0FXUUFLQ3VjTG9LWTNqV1ExM1JRTWxiSDJEZ9IBxwFBVV95cUxOUllZOUN0NlNTWGpWS05tZW41V1UyWTdXMjBKMUJoMXVZdVBoUW9TZ3MyM0EtQXRRNmxMXzhFQWU0dFBQb2VjWjQ0bm9XMWl6b1YtRjJzMzF1M3hnVWRXNjlwcDl0bkgtVUtQWEh4Mk5hU190TGpIVmI3TTNDamZEa1ROTy13TGJjSnJqcUZMWGlFZDRFdG5sTTF1blZyLWE4TXNGUGJCYUo0X2IxcXVuLUJmajd1RUNla2lCTlIzNDRNMHlPWmRr?oc=5",
+      "source": "Suara Merdeka Surabaya",
+      "publishedAt": "2026-08-25T04:10:00.000Z"
     },
     {
       "title": "Saham TCPI Jatuh 83 Persen dalam 4 Bulan, Apa yang Terjadi?",
@@ -80,33 +98,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHVjc3E2VWV1NXE5NkFLNnhPWjh2ejM4SkV4bV8tX2lTS1J0UWhJcHhCb01MaEs3Rm5EdUZlU01lcE9nZ2JVU1M0UzV1bHp0WGZCXzFEN1NCemlHWWc3UTZpZmVxNEt1VjlJTkQxX0x3Rm5Ra1RTV2JMZjAxaWYwbVZKNUc4Y1pPX2ltOXc4V2EzVV9vbC1hWVhndzFLaDZod1FvSmpXQXp1NnFQ?oc=5",
       "source": "SWA.co.id",
       "publishedAt": "2026-08-25T00:30:00.000Z"
-    },
-    {
-      "title": "Segera IPO, Cermati Prospek Swayasa Prakarsa (SWAP)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHRZMWdNcC1oNHBJaU52XzZGX21kOWVFa2dXLXVJQW44V00wMjZDYnNLU01qbUI3Tl9JNE1fQW54T1ppeEhXNlVMOXhIY1NLSTlQZUJNaGZIc2NKNU9ZeDVBd3lWWnRCTGFXRDVxU1dFNFNlekZSLTZTV241MVp4aHJHQ3lfMml5eHc1VNIBhAFBVV95cUxPcWo4a0VlbDlEY3B2YXQwSFVmZl84eGd5VEJlSjFhblhxVGJROV9qRWtWM21ONnl3R0ZwYWVKcE5jUWVNSFp2TTg5UTkwOGVidEtERkl1V3ZQbXhTb0xIRTRCcGNHX0hJNFpjUDR3NUZDZVBxV28tUEQ4OHlZbUlhU190RG4?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-08-24T23:31:22.000Z"
-    },
-    {
-      "title": "IHSG Menguat 1,93%, Transaksi Saham BEI Makin Semarak Pekan Ketiga Agustus",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzdQS1NMV0JWSFlCMTJHa3V2ZEhPXzZuLXdLRHA4Tk1aSFQ4M0dHSU9ieVNEYk9IbkZ4TzhmOEpxNzB4S190SDVNbXRNMlpGbGhQeV9PTzI5SE5UM3J1TnpUanhUNUJHeDd6TXpGZE9kNldyTnF2aGhCVl84LUd2dWJycFJseDRVcEJfNHIzRWJscUxHSEdpOTU4ZG9IeFpDYXZsOHM0N2RvTXZ0OFJV?oc=5",
-      "source": "Industry.co.id",
-      "publishedAt": "2026-08-24T17:05:00.000Z"
-    },
-    {
-      "title": "BEI Pantau Pergerakan Empat Saham Akibat Transaksi Tidak Wajar",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GbEdIakN1WlU0UzVBQnI5UEpJYjlIODhwLUhUVWpCa3RTZzU3dS1nUWhLQjUzdHRQWjVvdDZ3d1pQYnJaZlpwcGl6MndWZExXY1EtVWt1SGhvNkdM?oc=5",
-      "source": "SuaraGarut.ID",
-      "publishedAt": "2026-08-24T16:01:29.000Z"
     }
   ],
   "macroNews": [
-    {
-      "title": "Harga Emas Tembus Level Tertinggi 3 Bulan, Investor Tunggu Jackson Hole",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1RNeEZCbjNhV1BubHhFRW1vdkRXNkJaeW5JOTBodXF3S0pBMHRJMUNOd1BqWnhNa0FramxPR0V5Q2dzRFBIZWdNRVZIWjJrLWlERVZTNHVyR2tJQ3lZb1R5dTBsYzUxUG9fUk51al9NNk1XNUtOVEZQZlJxbDJPTi1Ua1lEUlFFc1VWRk5aSTdmSDB3a2l6OThaRVlETHhxZEhscG8zT2lUekRmRFUxVmZCa0I5YTN0MDhldUNB?oc=5",
-      "source": "Kompas.com",
-      "publishedAt": "2026-08-25T03:08:00.000Z"
-    },
     {
       "title": "Wall Street Bervariasi: Dow Jones Raup Cuan, Nasdaq Tertekan Pelemahan Saham Teknologi",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTHpubUZqS0JrRlVkaVl2RTdQR3BRdng1TWRFRk5fRDFKZXlxMkdHYzVZN21PQThTWVJiVXpHRTk2bi1JYlB5MjgybWUxTFhHZ3paXzA1UlhKb1NSNEh0Y2FZUFVSeUZjSTVleVY5OEVNdmhzUDlDRkFSbzNiNThQTEFhemcxNnd4MEhqQzJDcTlrYlJDTktucFZoWEFfV1ZiV2VXcnlJbERwb3NOVUZaNUIwOUtUeV91dGxSSkJVM214YXR4?oc=5",
@@ -132,12 +126,6 @@
       "publishedAt": "2026-08-25T01:10:07.000Z"
     },
     {
-      "title": "Harga Emas Senggol Level Tertinggi 3 Bulan",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM29jSzFocWpjalVSRzVwaUltLWdXY1RmQW81YWNwYVVJZVdFNkxPeVNvaTUxMFhDTFRNUWhXTEhVZG9RaHdkZ2dxeV91ekduaWozUU5MUzhldW45M0FHQW1NalRDSHphSTBXNmxjOE41czdwWW1nYW5rV3hydUFaa3FwSFhPVzhVcnJULUJBeXVRazV6U3A2WXBn?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-08-25T00:50:10.000Z"
-    },
-    {
       "title": "Wall Street Bervariasi: Dow Jones Naik Tipis, S&P 500 dan Nasdaq Merosot",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTnpyYUc2anVQY2ZpYVJXeDNnME1Ea1pURGUxak5XXzdraHl3bTc5dWpvLVNKanZhbkNkS1l1cmdyWGh3ZmFBeGV6U3Y0cDFNZlN3UTdTd3R5S0NSM25vTm5ldlB6ZHktZXFWWW5QdmJqNDlYck5FM2RaOEV5SkRhM3VWWEN6dDBQaWRrQndqWEhMNENLLXlkbjNIcTZpTDRDbXk0SUhCdlJxQlN5SUxTdUNB?oc=5",
       "source": "KabarBursa.com",
@@ -148,6 +136,18 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTEswMnUzMWlzbFBoQ2hMWmVuZVF5b1V5M3BGNTdkQkt0aUs5T3dxYkljbTE1cWZqNHhDdF94S0l4Q3NkNlUtcEpQeWxUZ3lUX1NHNEZhdlcwVE5PMXJhdUMtV1hTRjJsaUpzZDZSdVNNUDM1bnljRGtrWEF5QXNLUDNqNVVNaWV5SWl2aTZvWTZCYUJhVUdHSGVnS2JMYTNQclBlX0FJbTFXUEZVcEJzY1p5Q094dw?oc=5",
       "source": "Bloomberg Technoz",
       "publishedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "title": "Harga Emas Menuju US$ 4.700, Ini Deretan Pendorongnya - Halaman 2",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWE0cTMtN1NZTU1PMy1XcmVGRDNHbVZjWTV2U2R2MlFGX0VUQTJZcDB5OWFleVVUYkNBRU56YWlrTVlEUk50a1J4d1hhSW5pUldqNnZ1X1BRTHNmYlFKQU1uRmpoTGg1aTNZM3RZamVNVW4ycUNTVXAweVkwelQ4ZFdudV9qajRiaDRhVm1rMA?oc=5",
+      "source": "investor.id",
+      "publishedAt": "2026-08-24T23:33:59.000Z"
+    },
+    {
+      "title": "Saham Chip Anjlok Kalahkan Pelemahan Harga Minyak - Market",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTkZKeEI2OElfZFN3a09FeUJMMEpXM0hndTdJMzE0YkpxLW5zaG1SNG1Qei1MWC1uRFV6YkJOakpXc1JKVGtJdkF5WGtDMkFvMTZDMXllY0l4TkQzQWtQcnpTdFFMR0R2REVZVUF6UDhwaUdiUFNCY2hiMFdzMDlkNlJ0SzZzSUk5SVJ4RWtQMEZhVWpRTEFQdV93amx0b3gySmI0?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-08-24T23:30:37.000Z"
     }
   ],
   "errors": [],
