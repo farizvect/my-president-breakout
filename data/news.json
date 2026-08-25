@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T14:38:12.961Z",
+  "generatedAt": "2026-08-25T15:36:32.411Z",
   "headlines": [
     {
       "title": "IHSG Ditutup Melemah Ke Level 6501 Akibat Defisit Transaksi Berjalan",
@@ -64,8 +64,8 @@
       "publishedAt": "2026-08-25T12:40:00.000Z"
     },
     {
-      "title": "Adhi Karya (ADHI) Menghormati Penghentian Perdagangan Saham ADHI",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUTZkZWpGc3B3cHdmcllRRjlMU0pWckVtT3lsZ3p4elp5NU11Wjg0VVlYNzR6c2pkQW5UQzdWSzY0Ul93VXBVTEFMWTd3UzhFSkZzaHlQWkVDdE9FbzB1WGNqd1M4amQ5NEdoQmpkb1RZZ0UtaV9EOVpLUzVqV3pUdFVWaUJmekx5SGc3Z2F0Z2hSQWZNUkNB?oc=5",
+      "title": "Adhi Karya Hormati Suspensi Saham ADHI terkait Bunga Obligasi Rp60,8 Miliar",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzI5ako3aVNMRnVCNDBwZXkzcTdKRE5aSWpEUGFScWI4T1R6S0ZMVDVLQ0RSTzc5ZTVqZ3FHbzFoN0VRN1czNEo5UHZVTERmbHA2Mjkwdmo1SXRDeXU3dFdkVVlQeHhuWnFiNjRCdlpRajZFMUtieUg0MFptSks1aFJGeTZFdC1PNnAyd1JxYWw1cnRVT0I3VVpoZnRNVUsteFhIUTZEOA?oc=5",
       "source": "SWA.co.id",
       "publishedAt": "2026-08-25T12:20:00.000Z"
     },
@@ -101,6 +101,12 @@
     }
   ],
   "macroNews": [
+    {
+      "title": "Wall Street Rebound Selasa (25/8), Saham Teknologi Menguat Jelang Laporan Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDZ0bFhkU2FQYU9rcXFnVmZlYUxFMzJjWm53ZjBfNUtiRHpmcEs5S1ZUNHlCbjZPMThFWHgtSWE2QkFKV0lXZXBhRjk5ekg5cnJNbUhsdmZ4Ui1tNmNBVlE5U3NtNlZVc2wwTmNoNVBaOU02Y3Y0d24zQ0lYSGlVNVJ2bGdnTVdjazlBRFJTbjU5MnNKT1FtMUpLbVlWOFA1elVQZmtyZVJtQ0hxSWtaT3Bn0gGqAUFVX3lxTE1iaG5kMHcyTmtvTkJIbEVybWVIby1vRjBTdHVsdHZ2NmNWejRjRkRGZkxISnlnb05sZGVnY1RhSXdOX193bjBxLTVyNGNVX2lkeUxZOGEzYzl4Wnhwc0Fqdnp1c2N5Q1hLNnV0RUxWMWRxNnFlZUJrem9INF9wNmt6dGtoZXhQZklmZnE0dEw0akRVejJZTEpIZnNyUFZjSmNBRjdoN2VjOWxB?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-08-25T14:41:54.000Z"
+    },
     {
       "title": "Insider Meta jual saham $10 juta saat harga ter...",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KcjlMbWlQeWNuMzdadF84Y1BVVVRhRW9feEEwZ2ZxYjBkOGphNndGNFNlQUlPY0w0MEcwMEo3MFlBQ1RiRy1fTWRjUWhlNzZ2cGExa214ODV2V015MEFXY3dSTW5LRlZoeEFWSw?oc=5",
@@ -142,12 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWVhIZGZSbGVWdU1CNzlvRWZiOUx4NkZ1eDkyQzNHS0FQVlVYWVhGcHZWbVRPbTl5Qk0tMXpqXzdtY1Y5TGszZ0s0NWd3RmxRQ3hqOWpYdXcwUENBNkZsX2E0blRJOFZIZWhXMnRuU2Q3YkVHWnJ3Qk1RcDVKUFFjNVVXTEhxQTNKX3BGM3BMRk9QOE0?oc=5",
       "source": "FORTUNE Indonesia",
       "publishedAt": "2026-08-25T06:13:00.000Z"
-    },
-    {
-      "title": "Harga Emas Tembus Level Tertinggi 3 Bulan, Investor Tunggu Jackson Hole",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1RNeEZCbjNhV1BubHhFRW1vdkRXNkJaeW5JOTBodXF3S0pBMHRJMUNOd1BqWnhNa0FramxPR0V5Q2dzRFBIZWdNRVZIWjJrLWlERVZTNHVyR2tJQ3lZb1R5dTBsYzUxUG9fUk51al9NNk1XNUtOVEZQZlJxbDJPTi1Ua1lEUlFFc1VWRk5aSTdmSDB3a2l6OThaRVlETHhxZEhscG8zT2lUekRmRFUxVmZCa0I5YTN0MDhldUNB?oc=5",
-      "source": "Kompas.com",
-      "publishedAt": "2026-08-25T03:08:00.000Z"
     }
   ],
   "errors": [],
