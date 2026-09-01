@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T12:43:06.405Z",
+  "generatedAt": "2026-09-01T13:51:53.655Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
@@ -958,10 +958,6 @@
       {
         "date": "2026-08-27",
         "close": 6521.75
-      },
-      {
-        "date": "2026-08-28",
-        "close": 6518.12
       },
       {
         "date": "2026-08-31",
