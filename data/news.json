@@ -1,106 +1,130 @@
 {
-  "generatedAt": "2026-09-08T02:34:43.898Z",
+  "generatedAt": "2026-09-08T07:42:00.234Z",
   "headlines": [
     {
-      "title": "IHSG Dibuka Menguat ke 6.639",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUW5naXdWRkVSSmN5b1FvSWV4Q2piMVRzQkxyWFUxaVVfZm5ndWFEc1U0cTdVZ1RRWENGeG9uVlhfYUdvSUxtLUE1MkFnc1dITjJsSnZSMkU0YjZpMkxxOEtQTi1Mc3Z5b2RpZkNGUVZRLXN4UnQ1TUo1OEk5alhsMGxRYXR4QVHSAYwBQVVfeXFMT1ZoRi0xTkdVWTNkSTZTcmhEQnJWVGRLT1RMV2JVdTQwVzgxMElYNnYweGtjendOamVSUHhsSDgtSGxBd2k4eGt3N2tHOXN3RkZveGM3MDlSTDFzcUdDajBMZFFIdzY0WkR1a3JkREgyMV9KbDlnZHhyTUlPbC1jSUEwQVViWm1PZGM1M3A?oc=5",
-      "source": "detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "publishedAt": "2026-09-08T02:18:22.000Z"
-    },
-    {
-      "title": "IHSG Selasa dibuka menguat 19,84 poin ke posisi 6.639",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE5GbXg5OGwyWGR3QmJqNFdMdkdZbDRwaHN2ZzBGYVZtSFZpTjRRWmxLSlF6dmZIeXRDS3NLeThKRHZOOVMtUmlBM3owSGNkMGdfNjBITHFBanl6RGZoN3hzei0wNGY1eTFxbC0wNmRKYTNKeEpYSlFFczJsOGJ4ekhQck1NMFV0VHJxTFR5ekhzVWtLUmNNQ2pkYw?oc=5",
-      "source": "ANTARA News Sumbar",
-      "publishedAt": "2026-09-08T02:14:40.000Z"
-    },
-    {
-      "title": "IHSG Naik, 5 Saham Melejit",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XX0Fyb3EzYWNaLW13SWpqS0RmSnF3M29TUTgxVVdmOEE3UjQ3Z1FSR2RyZ0k0X3Q3d21ZeDlnQ0d5VkkxeDNQR1owcERMRjV3VnZ6UE1IUW9uUWNGQXRZRkRaOFlSTnB2cnNJ?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-09-08T02:06:29.000Z"
-    },
-    {
-      "title": "IHSG Sesi I Dibuka Menguat 0,30% ke Level 6.639",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWFMd2dKaDV2OTRNRjFKZDBvWVpPSmJQSXNBd0dIZmpOWnROWk0tWGRHdEU0aFg0RTRlTDdnazY0MG9ISnBTZnVZLUtDS283UlowdGx6SUlrQ1FqU1Utb3hGVFN1LWVFV1FHQXBmaHFxN3U1b28wZzlETXNZSnJtaUxCdE5jOFNZekI0X0Z4R054R0oxcFJFWEd2cWltcWpsNWJ6NW1GZjJTUdIBrwFBVV95cUxPQW1fdHFBcHBoMUpvZzNCU2pQcjB5T05pU3VPdnBLRU9RbjB0RmFMRGtZVVBSc0pBWmpkRy0zMkVDS01PekVWWjhfTDN3UjBrMmZvYzc5bjVTWElqeFVXWHR2UHJ0NjI5MVFvZl9jZmtJWVBTb2ZpTVh6V29ySU56LVFsb3BsbEF1MWFXV1ZtTUIwVmtHVldabHhETl8xczk1YktPeHl0R09HRm5BUTlJ?oc=5",
+      "title": "Breaking News! IHSG Naik 1%, Sedikit Lagi Sentuh Level 6.700",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOek85WmItNS1tSlB5Q2F5OUViaGpYVVF2SGR5MnNfU3E2a1ItVmlBTHhLYzVUWkZwRjhsUWdBeDY4aFVEUHF3c1EyUEp5Z3ppVVV0YjJfNWR0UW45TWlOclBjLUU2NlJhZkZ2TWU4Tkc2R3R3dXdnOHNYdl8xWFNtdjVjZjR0X0dYZkdVR3JhUkdMZkxpdENvZ1RzWG1seTN5dTBmU0FFNFFiY1Jzbnd1ajNBd3FyWVhoWFHSAb8BQVVfeXFMTW9fazhmZHhFdk1YZzF2SGpDb0NGd3JlLTJ6Y0pNUDA2UmNFYldKWmNWZkVFZEV1TUhvZUNhVmpjd1ZMNDQ4VHAwRGhPaXNGelpCZkVfLWF6bDd5YUtQZ0l4dTZJMVkxTXBvaHV1Ylg3eVExWXVrUlJhTEdxeTlmVU9xVGZXejZ4Y1FPZXdBODhJbkpNZFRsVG1XM1FWWEdpV29TMDlJYk1lalVaekMyZi1iNmlvV1Z3QVduMUVvY0U?oc=5",
       "source": "CNBC Indonesia",
-      "publishedAt": "2026-09-08T02:05:18.000Z"
+      "publishedAt": "2026-09-08T07:21:34.000Z"
     },
     {
-      "title": "ANALIS MARKET (08/9/2026): IHSG Diperkirakan Cenderung Mixed",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGM2WG9EMGVnMmMwdEd1NWtiUzJvUzRDWk1HVjNnc21oNlpfdkhvMmF4SEdRNTlZYTJoNm9YaTktdkxOYVlKSEJpVURrOUhnUkd2NUR5bUdYdmE3Q2VMTV9CU2V3SWt2VUpneUdtODN4ZWNiT0FnOEh1NjV2dXR6VFBSR3hXeVBGWVhkenpVVGRMVjVlSGYw?oc=5",
+      "title": "Saham-saham Pendorong Lesatan IHSG Siang Hari Ini",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejVGQWd6YzFabzhDQzRjajNXSkxJb0tMWVphVlZ4WVV2T05PM2Vjc3NUc1MxZUNOVVl5bWZQbnlXSF92ek9oZUxmbXpLVkFKQVdYeHpXX19IR1JRQzJBRzhPbXJDcWp6anNWQWtoMW55cWhUZktLZURiRUNhaGQ5cW8zbG1jYndXZmRUWTdwNGRCSW5DYi1jc3pibUZONEdDeUpB?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-09-08T06:10:13.000Z"
+    },
+    {
+      "title": "CGK Dibuka Kembali, IHSG Siang Ini Rebound 0,84% ke 6.675",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmI4WnhhS0lDa2dvTUtUcHR3ZzdwMUVwQ1pCWm03UEthWEpzZ2xpX0EzeG81WkVQU0lJRHZsMEtLOVpXeFR0R1R5eFJIS3pBeEY1N210THE5MU5VU1owNnJyMWtJaVhuQU1OU2VWaFVXOEstU0ZkMGdVRDZWNW5mODAxUFIwM1hvU3RmaTB3MUUwTjZvcU43eGVFRmZOaUdHNU5QaUdpRTBmWFByT0E?oc=5",
+      "source": "Investing.com Indonesia",
+      "publishedAt": "2026-09-08T05:55:12.000Z"
+    },
+    {
+      "title": "IHSG Sesi I Menguat 0,83 Persen ke Level 6.674",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUktBazlzcEtsa2tvSnhtNzZpcjBkZTJsSVdvejdnYlNjQmpxdzdkVG1KMmhwRVZ2bmRicjEyRy13ZUFJak5vbWR0bVhtMnlTYThXVkJCZGpWR1FnX05DalhQQkx1YS04MzJ2cFJfUW9WMmRGcGo1XzFod21kbUk4eFdvT3R2V1hN?oc=5",
       "source": "pasardana.id",
-      "publishedAt": "2026-09-08T01:58:00.000Z"
+      "publishedAt": "2026-09-08T05:43:00.000Z"
     },
     {
-      "title": "Menanti Putusan The Fed, IHSG Potensi Stagnan Sesaat? Update TINS & ELSA",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjMxWnNGQ2s2aFRZRmhoeXJPNXFhOFRZc2p1aVZNNVhMMnhQLW5ON1luUHpRWnFlbVlFcXBiZE5ONTVYOG9iQ3VGblNLRWF1WU5tdlQ0QVFESG0yN2pjRVVXb3c2Ql8yNk9sbHlpellFMTllVHZfNWw4WUx2T1k1MXZIZ1ptX3dpTV9uNmszR1MwVF8tY2dTeUloU1BXcC0tY3ZSZUJfWWx1czN0?oc=5",
-      "source": "maybanktrade.co.id",
-      "publishedAt": "2026-09-08T01:52:00.000Z"
+      "title": "IHSG sesi I naik 0,84% ditopang aksi beli asing di saham-saham ini",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXpGcU5MM21PQ05FbGVtcG42Y19FcEF3cXl0V1haeEZ3UHZvSUU3eUZIRVJWZFpXVXRCaDdjdFdSczZKLXBKYzg4S25rM0dBZTJJRWk1LXVjbnFYNHVhOFVyUkZ1em1vSWM1cGl5ZC1xdWppMlJxMUxRd1hEby1WU1B6R1NyVjM0ZGhCWk5ETjV0UVdqa2FNRmhYNVZZallpMUxQNkZhdHJDVTJGd0E?oc=5",
+      "source": "IDNFinancials",
+      "publishedAt": "2026-09-08T05:30:00.000Z"
     },
     {
-      "title": "10 Saham Ini Paling Banyak Dilego Asing Kala IHSG Merah",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQU04NVgzZ04wWHVHc0k5OXo4Tm1NbmoxZUV4QnRYZm1vNGYteTdLMWtza1I0U2N2MmFnV1lsVWs4aGZzNS1HdDJiNEh6bzd4Mkd5QWZGQWgwSl9JclJNMlBzSzVLcTJRT1l3aUFjZXJ4SDdjdlZXX1U3b0psN2VOaWwwT0dfNkxFejhPQ0Q5c2YyZTk2VTBPZVRncTkycXR6U3NnQV9XOXdHN2hTcE5TcGI4Vmt4S2Mt0gG-AUFVX3lxTE5iTzQ1ZVUtVWdYVW9iMGs3SC01Mzh4dkY1cTJhNnlWNG9lbjRfSXdCS0ZRMzdndjFOQ0R4RW5DU01GRFVQdzd4emxwMVQySnJoUHZFcXFpcWEyVTREX2lDcW5LYXY3bzFCTXlyOWMzYkxsRmZ1MDBTYmxMUnIyNHlVWjc3ZU9JbldMeWRFNkkxUVoycWF3OWs3V2dGTGN3LVIyQjF2VEE3bW1OS3ZjZzFnbTltRTNJWnJvTmYtaXc?oc=5",
+      "title": "IHSG Sesi I Menguat 0,84%, Parkir di Level 6.674,95",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWN2NUhmdzRreEM1dzUtZ3l5Vl9xWjc3ZmdKN3FJaE4xQXVJWHFyQ3lRMHJweEF6TmpJclRxTWRSOThXOEI1VlhwQnljUlZOUTJSRjhyaDV6V2YzWU96emJPTEIwWEhkVkdfSi1KMHZqalZUeVF3OG5GUngwWmgtN0FSWUFOaXdzdGt3VjFIWjJuYWE4eF9yRjZDU3R0VGEwNFgteWhRbXdvOHFr0gGyAUFVX3lxTE5MeGxOSmJlMVM2WUxpMDl2R0J1NUlYTnVLcFZaWjU4eFBnZGo2bUdTMEhVYjBGbHNzVTFfeTc0QjBXWG1OV250VERKMnhrMzhpSU5naWlsdjR5Mk42MHJta1llQTFnYUNQVE43Q1V0b3Y5Nzd2QW1VTjNqYURwbE0tdnY5Z2FSaGdSS3dBaXZLWm9MclZId2lKdWlQYmQwS3NLamMyYkNvYTc2RjJZUmd3cGc?oc=5",
       "source": "CNBC Indonesia",
-      "publishedAt": "2026-09-08T01:40:35.000Z"
+      "publishedAt": "2026-09-08T05:25:23.000Z"
     },
     {
-      "title": "Simak Rekomendasi Saham saat IHSG Loyo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0o3MmluWXpmLTU1VUtsaC1KMVZCc2g5a1g3bUJaVHpzWnhMWGo0Sk1SM1VoOGlSd2ZVamVZWWR6MlZHcXZCTlVDTkJBazhBeENFaG1xZXZpbE1qeElnZFdjZFlyLVF5ekc4c0FtUVphNEFZeVUwZmQyejBXcTNuVmdlT0M3NVloVlBSSEVWZHA5ZnU50gGaAUFVX3lxTFA4aGxERk5mc0lwRzhNV3k4OWpib3Q3ZTJIaE9hTGZlZW0wQUZwSHpadVRXSm5KRHp2V0djT2ltM3VmSE56dVVtM1VPWlFmcFhLYzZyMjgyLVE2d2loQjRqMGs5cEpZRnB3a19iczRhY3k2bzEyLXk2UnE1anY3QXkyTlY1dmJDc2lIbmxGUmlfb0ZIb0Nfal9aTEE?oc=5",
-      "source": "detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "publishedAt": "2026-09-08T01:32:56.000Z"
+      "title": "Menanti Putusan The Fed, IHSG Stagnan Sesaat",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONnVZWGhaazQ4Qlc0QXZKd1otSzJlajE2cTdyMEhfT3FFanllTWVrOFhHT2xoekJmU2lDcUVCVHcwQWg3SFB2NmdRdmo2UFBWUEpwX1VZblNsekFEWmZqd0RDVWxObEswa3VTT0dvRU5LLW0tVFNMVjM5LU1BUFkwci1fdVlac1B5dGc?oc=5",
+      "source": "maybanktrade.co.id",
+      "publishedAt": "2026-09-08T04:37:00.000Z"
+    },
+    {
+      "title": "IHSG Menguat 0,30 Persen Didukung Kenaikan Cadangan Devisa",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkw1LXBOSFFSbzhoRFg4b3p1WnRuNDVJbXMxX1YxNjBKZ0xRR1U4MWVYR1plNEhvd1M2UmZlTExNeXgydjg2TzliVjhKd05IVmtIcUMxWC1rdlRid01lR0JEenV5aEw3TTRCUDZlWEZubDRpYkFGNXdUVVFLbXJjLWtUZDQyVzYxT1ZnSlg5ZXo1eUNzWElXdUJWaFRCRTkxaXVNZVVyaGpiNmvSAbABQVVfeXFMT3VGZEI0TnRDU1JwNWk1WVhHU25nSk16UWg5MXFCaVRXbER2VS05azdNdnlBOUZjZzZGSHJxemh6cU95UUNBWFpoblNOaVQyRU02UDhoZm1lSTA5Xzg4R0gxWjZxLW4xSGliamkzUnFvWVBIamtZdkgtU0NUS0xqbXgwTUVQeWU4MmN1eUl1OGVmQ3BuQXlicldHNE9STmN5ejRBNXg3SkxyS3VZaWIxU28?oc=5",
+      "source": "Suara Surabaya",
+      "publishedAt": "2026-09-08T04:00:39.000Z"
     }
   ],
   "stockNews": [
     {
-      "title": "Harga Bergerak Tak Wajar, BEI Pantau Ketat Saham VICI & SMMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDl2YVBxUG82TnJkWkZ0WW9zOEJqNHF2QXZ4Q0dOSjdhMW56WW9OcmRuQmZwQXBTVHo5SlZyNGRDNHJHSlN2Q0ticTdaMXZuUmNLejI2c01OdFBiT0NWclFENWY0NUVsdDl2dENMZU85cmpSaWFCSEk3WVFZYzJKQzdMeDhDRDNoTDBKM0dWYzQ3cXdzbmRTd1RZRU9TWlVzREtScmZ1NHJSSl9JQ19ia20weVh1OHNia0Y40gHAAUFVX3lxTE05b0I4eWZyRVRUZVFURGJkRzFDeUttUDdSd0tpNDh5dXhpWTBOVmZBTnJ0RkZkQnkxOEJ6RjZlVUJYVjUtRGhCbmdUSkEzVVR4bkdGS2ItM1dDX2Fta0JGZ3FLaHQ1R0FKbFRGOGR3bjhsb0N4ZnpTLVRsM2pKdlhPU056cm55b19NVy12dUg0NTBXejlWaFpVeXNLV0VrbDkwSU5pSUpzOXM4VTI5STNtQ25MS3M2RjIzel90WlhTbg?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-09-08T02:25:33.000Z"
+      "title": "Morgan Stanley Borong Saham GOTO di Bawah Harga Rp 50",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mYkpTYzByMFdqZnpHb3VuN2JlWmMxRko5TGVNYVVMcUp6R3RUdVV6RXRhb3ZHdGN1RTBQWVRNbUVleUhDTzF1NUptX3lva0g5RkFqNE4zeWE0V0JjWkViaUpTZGthM004eVJfYXBXSEdqNlEyLVlxRThIYUZkajA?oc=5",
+      "source": "topik.id",
+      "publishedAt": "2026-09-08T07:35:00.000Z"
     },
     {
-      "title": "10 Saham Ini Paling Banyak Dilego Asing Kala IHSG Merah",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYk80NWVVLVVnWFVvYjBrN0gtNTM4eHZGNXEyYTZ5VjRvZW40X0l3QktGUTM3Z3YxTkNEeEVuQ1NNRkRVUHc3eHpscDFUMkpyaFB2RXFxaXFhMlU0RF9pQ3FuS2F2N28xQk15cjljM2JMbEZmdTAwU2JsTFJyMjR5VVo3N2VPSW5XTHlkRTZJMVFaMnFhdzlrN1dnRkxjdy1SMkIxdlRBN21tTkt2Y2cxZ205bUUzSVpyb05mLWl30gG-AUFVX3lxTE5iTzQ1ZVUtVWdYVW9iMGs3SC01Mzh4dkY1cTJhNnlWNG9lbjRfSXdCS0ZRMzdndjFOQ0R4RW5DU01GRFVQdzd4emxwMVQySnJoUHZFcXFpcWEyVTREX2lDcW5LYXY3bzFCTXlyOWMzYkxsRmZ1MDBTYmxMUnIyNHlVWjc3ZU9JbldMeWRFNkkxUVoycWF3OWs3V2dGTGN3LVIyQjF2VEE3bW1OS3ZjZzFnbTltRTNJWnJvTmYtaXc?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-09-08T01:40:35.000Z"
+      "title": "IHSG Berbalik Menguat ke 6.674",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkJLZVFNUnA1akhZSXNMRkJ5SUwzblVuYWQxcTZQUldLM0ZWS29jUUVPOHFZTFlucDJmVGh3QmQwOVdmOU5nSjRPUHhLV3Z1MnlwTkcwc3lnSEFNYTNkaHBBWTZiX0FCcXh4VG1sQjhrYmxQSG1Idy1Qamw3bHd4UTNNNA?oc=5",
+      "source": "mediaasuransinews.co.id",
+      "publishedAt": "2026-09-08T06:51:00.000Z"
     },
     {
-      "title": "TBS Energi Utama Raih Penetapan Saham Hijau Transisi Pertama di Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBERGpXaDQwSGtycWxoVk5VaXRfc1QxVGNkWUNBWF9JaWFqa1daSEhTLVVFZVBtZGFyZG01NWxiaVpnQWlJNldlM2tVaWVGcTNkdkRtbGtxOUhleEk?oc=5",
-      "source": "SuaraGarut.ID",
-      "publishedAt": "2026-09-08T01:35:45.000Z"
-    },
-    {
-      "title": "Sempat Terbang 300%, Suspensi Saham Ini Dicabut",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZDB4VUxWaFBPZDlZZkxZbFFpczVZYzhjSGprUGZGaDNUYnc0UDRSZHMxTmNraXJRTXVMQmoyVnMtN3NOLWc0bGpWcGtOMFQ2MEdXa0t6blJVN1RKVWxGeWtNMEJWZ1kteVIwcTlvbGREaVZkV1labl9HYkg2c1E4aEY2SXB0QQ?oc=5",
+      "title": "2 Saham Unggulan Diserok Banyak",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Mb3F3d3lnMGIyRWJtSGdEVlhYTVVXVWpJM3BacFRHaXJjeFBCc29iX0NVeHduVWtPY1JTbFNqc3RmeXk2TnVVWUFuTlN1d2dxZ052TVlWdWp6ck5EeUpteDBqWXY3eHZLLTJFb1VIRXY1U2c?oc=5",
       "source": "investor.id",
-      "publishedAt": "2026-09-08T01:24:42.000Z"
+      "publishedAt": "2026-09-08T06:11:00.000Z"
     },
     {
-      "title": "Transisi Bisnis, TBS Energi (TOBA) Jadi Saham Hijau Pertama BEI",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXBBd0ZOZ19wRjJ2amF3TkFjOHFnMlFSOVEtdFpCVmNWRWx2Vkk4ZjZqWVBpeWYxU3hqcm93TW9RUG1DWHdtQmk3ZjBBOWI4bjY1ZDFfZ21kZUFhQmkxUW1pLVVDNDNIXzdYbW5IX3dRenh0TmZTbnVmeEF1QWw1ZENfTWp3WmhtanB4ckRFdFJfeXZWa0ZjWkdldzZwR19mcXhuVmlCVzNUT1pYZS0teTRR0gG3AUFVX3lxTE1wWDJQOE1icGQ1c2dpWXBOME1BaDBkS2pvWHN4TjFBWTRDcDFCdGtqVVNMUG1PWHB3d0E0RzQ2eTlWS2RMR3JocXBPN0hlVmJxbTNoeGc3ZzJfU1E5ZDQ5Smt4MmJtX0JBOU5kbmZMeWkyNHFXLWxZUF9HSVRaUEN0LXQwRlRpVHlzcktwSmtGbEtSc3N6dnRpdndURTNEcmhoTkk4Tm5sd1NBSWx0X01kRFBuSm9fOA?oc=5",
-      "source": "detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "publishedAt": "2026-09-08T01:19:06.000Z"
+      "title": "Pola Transaksi Saham VICI dan SMMT Masuk UMA",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYTdtZnNMTFJJdXpydmFYck1lNE5zcHJQTHUtaEZDRDQzNnp5d0dDSUo5ZU1pLU1kQ2x4dW1nT05MdUYtQVZPNWluUUdjRXJzcXNpTmF2MkxMTDVmcVAyQ3VuU1BHTC1yY2ZjWnMxeDA2WFZRQkV0RFh6NzNTUVBhQnJ1Y3psZw?oc=5",
+      "source": "pasardana.id",
+      "publishedAt": "2026-09-08T05:57:00.000Z"
     },
     {
-      "title": "Radar UMA Mengarah ke 2 Saham",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84OVgxQ09vMlYxRWFEMkNibVd4NV95S2VXMjVqaEZOUnpYNER5cE10WUNJaFhGU3hoZXBrdWYzZkhjalJYaGlvWjZIVk5wQlktYU9QdUNTQ1NhUW5QRGR5Y2FLZmFIVzByNE5JRGsyS00?oc=5",
+      "title": "Ada Nego Saham Bank Central Asia (BBCA)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FRjVqei0zeEhSX253UDFkeHZDTVRNSEV1OW5PZmJKd0R2aDVtVTkzclFXUUE4MUVfMWlIUG9vYkN5T2pGUzRsa0ZXbFNuSFhZMTE4QU1yd2w1ejI4SjhDNXc1RzRyMVRHUXRHdWZxZ05iN0ZDVDlYRm9uUQ?oc=5",
       "source": "investor.id",
-      "publishedAt": "2026-09-08T01:14:47.000Z"
+      "publishedAt": "2026-09-08T05:51:16.000Z"
     },
     {
-      "title": "TOBA Menjadi Saham Hijau Transisi Pertama di BEI",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLTEtMm04c0gyR2FMbXZsZk1qMWJGT0xCZHp3N1BicVZxOTd6YzN0UjZ2N0M4My15SF8za0RHM0RlbUozUTMyckd1MHRBNElKcHl4LTd0U2dhaDQ0T0xVbEotaDVxNG5EVVVjNzNSNklPRlhwR0NoY3VtWVBzM2YyNVktV0JVSkk0Q0E?oc=5",
-      "source": "KONTAN",
-      "publishedAt": "2026-09-08T01:08:51.000Z"
-    },
-    {
-      "title": "2 Saham Terbang Disuspensi BEI",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HVkV5d01rMEo3TDdKa3ptVVpIZWVlU2liVmdOak8wWkVxeTcwRTFMVlZJSFVhSlJoMjRJbW9PU1hocDlaRTZqTTd3SUwzVm1iLVdMZy0tb3NtTm5vM1hQMmpUX1I5cTh0YndPTkdWWU5uUQ?oc=5",
+      "title": "Saham BUMI Malah Berbalik Dilego Asing",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mVldBVk1qQkxUZWkwS18yOVRrUGRjbFpQVHpya09RQU9ScF9feXcyVzRSSjdzcVZ6OUhhTEl2aGhGdTNZWlpRcnIzMTFlZWNFdUJERTJXaEU3UkdXTGN5SGoxYXFBOHZRQW1jeU5pX3FkVTZZMktyellUaGI?oc=5",
       "source": "investor.id",
-      "publishedAt": "2026-09-08T01:05:59.000Z"
+      "publishedAt": "2026-09-08T05:47:59.000Z"
+    },
+    {
+      "title": "Saham Emiten Mau Dicaplok Prajogo Terdampak Suspensi",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWRPNXkxWmFBQ0FiRW01Z3I1WlFnUWd5Z3l1dmNYS0R5Q1I2WXBFTm8xNkIxM1dXcW1lUXdJdHl5UjdVX3NWaXFfcXBBa1I2cHF1QWxMd0xybkhLMDRKZkQ2SC11cGRoVXREcDlYS2Z2aVk0U3lVN2kySTZsV3B1VThlbkpUVC05cTBOeQ?oc=5",
+      "source": "Emitennews.com",
+      "publishedAt": "2026-09-08T05:40:00.000Z"
+    },
+    {
+      "title": "IHSG Naik 0,84% ke 6.674 Sesi I, Top Gainers LQ45: MBMA, AKRA, AMMN, Selasa (8/9)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYlZ4OHp2MWg1eFoydXkxS2hhaFJ0ZTY0M3gxekhWSUhSZG5tOE44Z2ZNdVpaZFJUakpRNl85WVhXZ0ltZWx1YXNneTBEd3Q1b3Rub3J3VzllaUFaZDkwVm10NDc0WFM0X2NKdDRUalp2SF9yZnQ5dXY5emJNRVJjR3hKX0dMVW5VdHhXNkFNejk5SDViajVvaW9ZaGFmOHRXMWRoWW1mM1Fadw?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-09-08T05:14:27.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "CGK Dibuka Kembali, IHSG Siang Ini Rebound 0,84% ke 6.675",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmI4WnhhS0lDa2dvTUtUcHR3ZzdwMUVwQ1pCWm03UEthWEpzZ2xpX0EzeG81WkVQU0lJRHZsMEtLOVpXeFR0R1R5eFJIS3pBeEY1N210THE5MU5VU1owNnJyMWtJaVhuQU1OU2VWaFVXOEstU0ZkMGdVRDZWNW5mODAxUFIwM1hvU3RmaTB3MUUwTjZvcU43eGVFRmZOaUdHNU5QaUdpRTBmWFByT0E?oc=5",
+      "source": "Investing.com Indonesia",
+      "publishedAt": "2026-09-08T05:55:12.000Z"
+    },
+    {
+      "title": "Analisis Pergerakan IHSG Hari Ini: Sinyal Cuan Mengalir di Tengah Gejolak Global",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOXdUdm5uUUZmaExaWTNLOU16aDVlZzItM2hfRElBMXkyXzBGc1h3Nk1DRWgxRmZHOEQyWldiMzZZVzRpa284U0tveDJrX2lyYTRidmt3NWxPUksyS2ZtWjBnSjhIM0N0c1Z3QW1jSUZsMERXSGFHdW5LVmJfeXE4TXVxaUN5T2dIdTBQUVVzMW8yU21oWU9SRC01R0JoZXVJeDIwXzNJVEtIRjNKY05XeNIBsAFBVV95cUxNOXdUdm5uUUZmaExaWTNLOU16aDVlZzItM2hfRElBMXkyXzBGc1h3Nk1DRWgxRmZHOEQyWldiMzZZVzRpa284U0tveDJrX2lyYTRidmt3NWxPUksyS2ZtWjBnSjhIM0N0c1Z3QW1jSUZsMERXSGFHdW5LVmJfeXE4TXVxaUN5T2dIdTBQUVVzMW8yU21oWU9SRC01R0JoZXVJeDIwXzNJVEtIRjNKY05XeA?oc=5",
+      "source": "merahputih.com",
+      "publishedAt": "2026-09-08T03:43:19.000Z"
+    },
+    {
+      "title": "IHSG menguat didukung kuatnya cadangan devisa domestik",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNejJzU2lmZXNzbFdrU2t6dFpFRmIzZVhtUFBSWXRLZ3JLSTgyb29scl8xcldWNjdvOE9IZU44U1pOYzdVa2J1VzhnOWNKaFhsUWJoWkJuUHN0bjg5LU9BenMxSlZPZEw4UXN6STFYUkZheGFlcVlDNFlsbDRLbHZ5ZHdrS2V5anFwRDVtZU0xRWRQZUdkaUdJazZSV0JtNktIcktCNtIBpAFBVV95cUxNejJzU2lmZXNzbFdrU2t6dFpFRmIzZVhtUFBSWXRLZ3JLSTgyb29scl8xcldWNjdvOE9IZU44U1pOYzdVa2J1VzhnOWNKaFhsUWJoWkJuUHN0bjg5LU9BenMxSlZPZEw4UXN6STFYUkZheGFlcVlDNFlsbDRLbHZ5ZHdrS2V5anFwRDVtZU0xRWRQZUdkaUdJazZSV0JtNktIcktCNg?oc=5",
+      "source": "Antara News jatim",
+      "publishedAt": "2026-09-08T03:04:27.000Z"
+    },
+    {
+      "title": "IHSG Pagi Naik 19 Poin, Cadangan Devisa Beri Sentimen Positif",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON28zVjUxbmRLUjYzNHRmS25lejhYcVZ2M3ZCb1RxcHFaRmtGRUFkMmMxeVBCRnpuU3FnQTVJNkRpYmcxcWVMSmg0QmpoUkdUaHcxTDVXblFmRVdySWI1WURKUlhxblpUcVpyMG9WQkk0RVFFMU82bU5fMlJnNzA1Vi1ZTzVOLTlISUJEalg4SXl4cTVSSzZqZ01aV3hGN1U?oc=5",
+      "source": "Rmol.id",
+      "publishedAt": "2026-09-08T02:32:00.000Z"
+    },
     {
       "title": "Harga emas global pulih, harga minyak mentah mencapai level tertinggi dalam 6 minggu.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMHJuMF90RER5Rk1lZmItcXpyRkx2aWwyVXJVZkJYSVA0N0hiQ3V4N2w3dUloQktyZTBYd1NXd0tNQjZhNjdCVjBMOEdDUVR5WFdSeElQSy1oc1VtQjdwMFN2NDFrWktqVnlfTkNZTUcyZkJDdWRXejM1Z1lYN1NJUDdB?oc=5",
@@ -124,30 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbVozbWJjT2laa25RZkhTRmRKcWZPMmFWU0F6WXF5ci1NUlpFS2dfbjFOUl94bzJyaXprVTdCQWkwV1cwUWJjblVMaVEzVGFmLUxRNW95U25ETl9nR0ZQMEh5Q1lkd2hPaXZNazVUWUtZRGNVUi1EQ3ZaRFJEZUprYUthWjJZZnQ2LWxMVmRHc1BsdjZsbnFBM3Q3YWZpWk52RWlBOFNR?oc=5",
       "source": "MetroTVNews.com",
       "publishedAt": "2026-09-08T01:47:39.000Z"
-    },
-    {
-      "title": "Hari Buruh, Wall Street Libur",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rMGlVS2NiWENvMjNIS1Q0VnF6R1k4cVJRLUp1X2w0R09zY2NZOFc5T1pxX2NNWnJfMUdvalZTTnFRdHMzYVNTa0xhNEtWR2NZTWJkTl9oTnZ3OW95RzB5QVhjY3d5b09JdjIzZFFVR3JqNkJDLTl1VjR1YTV6NmM?oc=5",
-      "source": "Rmol.id",
-      "publishedAt": "2026-09-08T01:29:00.000Z"
-    },
-    {
-      "title": "Wall Street Dibuka Melemah, Cemas Harga Minyak dan Bunga Fed",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXkzWXdmTnhBSXRFWGJLWTZMWFNwcXNfZTNPSE1DYXo0cWNsdEI0akFYRVh4cXlxOWhaai0xRWpwYWVWV0d2NEdhbnl6cjkyV0ZhQWZzZ2h6ZXloZ1RXbnZtYThEckRlN0ZyUHJDWHQtTEJxX3dUX3h5ZDBwVExpOHRyblFjRkpIS2tCQUNERzUzcGJ3dkE?oc=5",
-      "source": "Emitennews.com",
-      "publishedAt": "2026-09-08T00:17:00.000Z"
-    },
-    {
-      "title": "Wall Street memperkirakan harga emas akan mencapai $5.000.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5XzNDR1RsNkxSVTdGUC1qTUpLTV9DWUxNVjlTeWpWUHJJWGNoS0hsVnJUZ0F6X2JhakpJWjdtN1A3NzNXM3Y5VnI1Yktnc0hDblRFNmZRRm1OUXM0TE91Rnd1dDN2cmdJSXg0QWd0bVJwYkhn?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-07T23:31:02.000Z"
-    },
-    {
-      "title": "Bandara Kembali Dibuka, RI Menunggu Kabar Penting dari Jepang-China",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcEJmeHNoQ2hRbV9Zd0ZyeUcxNmI3VnRPRkJJNnpCdm5Cd0RYR1cwMUpQSHFtMWIwZkpFNEdIaVFvS21iZ0E3TERsTEFwRGcta1hZT3B3ZjU1S1ZvQ1pNckw4cW9aYU9rWWtIVDA5RDZhckFzeV9yNFlEVGZMbXFQRGx5SFV6Ti1rbjNQTTlNX0ZPNVBWNXAwck4xOTB5WVlVWmY4eTg5QzgwdGVXb3ZBX09YQkhjUW1STVd0bTNkbC1xdDB3WmoybEd4c9IB0AFBVV95cUxPQWR3aFZITXRsN3VrbHNiRW1KcGxnZ1haQzdMVm5fdmozS3VpZkNyU0MzVlBIS2kxTHIyQXc2R2NCcENJUUdKYjFXUGU5QzFTX0RjMk9DdDlwUFBhUGtnckg2NXpObUFNMTZqV0Z1ZS1nRDRwSTFGSTJGOGg4Rl82MWlYVVVHWFlMTGpPVzFEUUdxWVowMUZuZlBsTVhsNXEySkZvMXBkU3ZmQ09vYkE1OUxNa0lxb1RTUm1kWm5oWnhEel9sUEhJbkhhd3AyMUI5?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-09-07T23:30:01.000Z"
     }
   ],
   "errors": [],
