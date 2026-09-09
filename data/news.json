@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-09-09T21:27:30.136Z",
+  "generatedAt": "2026-09-09T23:45:40.998Z",
   "headlines": [
+    {
+      "title": "Menanti Data Penjualan Ritel & Arah Harga Komoditas, Cek Rekomendasi Saham Hari Ini",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSnB4NlctbVkzdFl6RERWVVZJVmk1eEd4MmlyNl9iRE9uVVkxb3R0dTFMeWROMUZjZEhKX0locVYyTzgxSVk0V3QyS09nSlkwMjRTT0VCNDhjZjVoSUJSUTdRZ1FsS2RKRmxxOEJtdE9kVUJ5dU5VUWtPZU03MWRUME91djF3VUJrdlVfWEpKY0J3NGNFS2cydEFUR2pHakY3UDBQVDlCdnpCMlZ3WlhiRUstQm4?oc=5",
+      "source": "KONTAN",
+      "publishedAt": "2026-09-09T22:44:08.000Z"
+    },
     {
       "title": "Meskipun Merah, Inflasi di IHSG Cenderung ke Arah Positif",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVRYOGt6LUVlODF3ZHNrbFpVWDFkX3lON2VqeTdRRHlLcHlKbVhmRDVrTzNsVU9YTGVpYzgtOFhPVEhyVlFpNEFyMGJ1NGtIUENaaUNkR2MxTThnMUNQdGdhSFRhUWxJMzE5UWhMRE05WFRDbHh5RTJKM1d3T2x1RDAxeS1CM25BNkUzdHdaUXU4TlhvVDU3QUp0ZnJRS3BfVHBGMTR3WWY5VlU?oc=5",
@@ -28,7 +34,7 @@
     {
       "title": "IHSG Turun Tipis 0,12% ke Level 6.678 (Rabu, 9 September 2026)",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGNnZ1FyVk5nenNxWGhncUIzMk1kbC1MMVh4dXF4X3otdWtlMW9aMmc2UnMwSXVCLTRoWnY3OEVyNnJ4SFlhTVRnVmVlWTVuZTRQU20xZzBNMlRJdjBwYjlFQ1BZb3VYRDA2OVoyLWZyUm5xcU8xSmdLZU1tQk9mT0ZtQzNuaEV5bGo4bW02NEx4eGhYV0FuNU8tZ29Idl9uTHpfc2tqY095LWtIaURieWptdjJqSzFZUnc?oc=5",
-      "source": "databoks.katadata.co.id",
+      "source": "Databoks Katadata",
       "publishedAt": "2026-09-09T11:20:00.000Z"
     },
     {
@@ -42,12 +48,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTVLOGNpMGtPUG9BSTZ6UTFUSnB2QVVhT1JuQXV2bi01VmNsbFpLRGZTaVI0QlJKXy03ZV9wV0s1dGxlSnpCZDh6TVlSeVBKWWRFcTNOVXd0Nk1IWlMtREJIY2JDQWp2T2VUMEZCZk1pX1IwUzhTZjY1aG9UYmoxQS1xeDJkbXFHRUVHMVBHX0p3VkFOOW55c2QyTQ?oc=5",
       "source": "Infobanknews",
       "publishedAt": "2026-09-09T10:01:00.000Z"
-    },
-    {
-      "title": "IHSG berangsur pulih meski harga minyak tembus US$100 per barel",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlZyOWw2dFpoRlFCaVg1dlFvcmdiRE52SFRnempyV2QzUEFRNS1Dc2NKWVAwWFFkSUlVaF96c1hjN056VUppVzczcVNNbXdLblc1MnpMbWYxREdBSjhtd3NNSUM0QTFfNlVCUUJYUGIzaDk4ZFRKSk1FT3ppNnk4N2dEME4yLWxfRVQtWmJNcDdXX0FlS09NZnVFV3ROWnJBQjR3SW5mYm5qZw?oc=5",
-      "source": "IDNFinancials",
-      "publishedAt": "2026-09-09T09:51:00.000Z"
     }
   ],
   "stockNews": [
@@ -90,7 +90,7 @@
     {
       "title": "OJK Finalisasi POJK Demutualisasi BEI, Tunggu Harmonisasi Kemenkumham",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0VjTmZnZ19JeVd6Q1kzRWQwX1RiQkRNbGVLSmVueGZ6aVlFQnpDekJLVld4Sno3M294ai04M3lTMHFCRmhKQWxOT1diZkp2d2VxZ3k3SkVWaFdtOWVyNEw2aERhaE9meWJpX1NSUFBJQ2sxdUdveVlONUMwMVQ3Y3NCVDNfdElLaUZtTnhXOTNjcUNja0toYnk1SGZULVU?oc=5",
-      "source": "swa.co.id",
+      "source": "SWA.co.id",
       "publishedAt": "2026-09-09T13:45:00.000Z"
     },
     {
@@ -102,9 +102,33 @@
   ],
   "macroNews": [
     {
+      "title": "Dunia Tak Baik-Baik Saja: Harga Minyak US$ 101, Bunga Obligasi AS Naik",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVVNncFg2Y3E1MDdFcHhteFQ2bW1mcEhmS3ZwTm0zYVAwc0IwRExjNVdfQ19DVXRmbFJUSnhKVmt5MUVldmo0Z0ZYaTgyRjZ3c1NISHp4SHBqMzJHYnJqVTcyc0loZnc5UWVrZVR4S2ZKRDhSOXhHMWFTTWV3UmlSaWRjOGdsRjR1bWtpYlBGQjlJY1l6MDVKeDF3VTlwcDMtSVY0ZTA4MEptRXBPd3o5cFR0Mk1YNVFYZDItTUtSWEVQZTlmOEQ1bF93UUdXUdIB0wFBVV95cUxPMU5yVTFRUUotY1ZaOV9JY2J4MXZmdTVKeWxwbXRUVFBlNnhOQmVETHVxeS00eHpLVktFS3NHQlUtQUlJcHlpdmg5bU5fa0x3WGxpdVdIWE1tc2ZwUEJqRkJmWWtrM2JzcWg1M1NDYnFYNjdJTlBCX29NMGV2eVBISVBRTGFxT3A4eG5kTnV2a3dUWTJfZFhDdE9OYUNlNUctaU1hakQwR29VU25kWHJXWUJjMGdOUVNTNk55TnBXMjJUSFZmYnlwbkx4T1JUdW1IaGxj?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-09-09T23:30:18.000Z"
+    },
+    {
+      "title": "GLOBAL MARKETS-Wall Street Dips as $100 Oil, Inflation Worries Weigh on Investors",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOURpSEJUZ21IeVg1cG5JVzJ6Q1JteG1aZ0ZNbVhQUU1CajVsVFNIWFF1VEYxYzFramhzU3IyZzVkYzRPTUhFYUNwSFhjQzVNek45d1ZwYU9vV2hzZV9fc0NjRGh4VzVXWmdiTkVUWmpXS1NGSWZYcHhPdzkyQXhCUko4UmREMFdNZGJ6VVk0SlU0RW5aWDgzSUxjdm1TMmZCZEN5Z0VpWExBOUtSLVBIUWJ1U1FfMXpDeHBUa1FGSkFlX0xKWjBjQjQ4SjdfUzjSAa4BQVVfeXFMTmpJenVXVVhLbGpTa1pNVkN0NzEtWEJ6TV9NWHgzMkNRdXhoSUZHOWZ6UnM5cGVSSDlURi03N0tEM1VIbmZ1M1R3MjlzNm5QQmxOY0JYdzQxMVQ3YzJaQUpCYXZNUFpFN0xBaHZyU0ROVi1XU3hYLXo1YXA3Z25VQ2dpZUZmWllSeTdvRDRrZl9jbWtnbndTcEFJSlRQVE0tbWZ6cERqbVlMNEc0YzF3?oc=5",
+      "source": "KONTAN",
+      "publishedAt": "2026-09-09T23:02:48.000Z"
+    },
+    {
+      "title": "Dolar AS Dekati Level Terendah 7 Bulan terhadap Yen, Ini Pemicunya",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbld3MFFqNVRHSFhWRXJmbG80aUZ6SUlPbkdnRjRtUktyb05yb0t6WFB4d3BoTElXdzZoem1xWWs2bUE1Wlo4X1JPMTI1LUxLejRoWURyNzBPcTNXajBWalVNVXZJNWRhbTRyb1hDUzVKdUdiSFZJVnNLVWFMQVp1aGJ3WWpDSmI1UTN6b2I4TEY4cGViOTdwSDh5V1VxSHNTRnhYNl9Rb3PSAZsBQVVfeXFMTVNMckRCUEpPb2VOVnZYQ3hLa1gzQ2gxbGhQdXF5SFFlZjdlX3dJVWUyTlR0eTdHWGszWTRhdUtkMWhhb29rZGQyLW9UWlBVeWpzZGFSZ1dmLVdycmtRS2s0NkM5bjZIbE4xemFJNDg4NUJOd3g5c2NRY1BhOFZ1TmljUFdEdUNrS2RoUlJPRk1KRXJUM0cyM0FfNjA?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-09-09T22:28:56.000Z"
+    },
+    {
+      "title": "Wall Street Ditutup Memerah Rabu (9/9), Harga Minyak Tembus US$ 100 per Barel",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGFxLW5oM2JHcXJFQ2lxNVNyVTVxdVV5NnQzMWhrVF9NeVowZHdTLTd1cDh5ZngyUTBOYUlaNmFPalFFamFaZWdqS2p0LUpkYVprMlVXWTJaNUc3MjZyQ3M3ZTQ1TUo2SzBCTGNncGJZa2JGWkRtWWh1YWYzRzdyYm14eW1xeThTb3VLcDBvM25yVWVpQTkyOVo4YkNPMGFvN0JKLTVaM0s0elBa0gGkAUFVX3lxTE1KVklJczZpcTF3X1cydEllZ0dDcnJnWmRINlN3aF9hcUZLTTdFNDVscXJ2WXpqcVhuWU9jTl95cGlUMzRWdk9WbVBlb1V0WHZaTElDUzV3ZXlWVnl4bnZxV2VKU3NBSk53REFjeTlGbGpKSmEtYUdPTzBmUnY1RVhHd0ZjMkd0NXg0aTRGamMzc3VBQThEdUh2VUYyZ3VXdEd2bzQz?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-09-09T22:02:19.000Z"
+    },
+    {
       "title": "Wall Street Tersungkur, Investor AS Dihantui Inflasi dan Suku Bunga Tinggi",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlRrQTBMYlBZbUgtOUtlVzdUZXgyQml3dXhFNDFzejVjTGZ1bWkxbnJfVUU1ekJBeUxpZ01iTU5MYUlEQmo1cWVVWXEtZjZwZ1l4UG04NXlXal9wcExoc1BoamYwa0htS3hRMzZTbUpOd3ZYc3VyTFdnYXdTbDJxU05FMm13VmJVNFZQcW9ER0E0S1BveWV1T21NbnFyb1pYNlB5VjUtVTJfNmMwb2Qwb0otQkVlN3M?oc=5",
-      "source": "KabarBursa.com",
+      "source": "kabarbursa.com",
       "publishedAt": "2026-09-09T18:59:56.000Z"
     },
     {
@@ -124,30 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXFPQnY0X1lPTnZPbktWV1ZibTdkQjdyQ0lGSkdwVmRQbWtKX2J2SUpQcjlnN3VOcmJSYURIZnFGM0lwNGJKYU43SGxRdk9temIwNnE1NURBYjM1Ti10NXJvV2NGRC1hajZWTFpjMjZ5X3hyQjVnNU9IdlhkalhiN0lWV3pSRkFzT2tGNXhvdjI5V1JIMHZJem9TM0RrVGQzcEdUVWdqMHhZS28?oc=5",
       "source": "Investing.com Indonesia",
       "publishedAt": "2026-09-09T10:57:29.000Z"
-    },
-    {
-      "title": "Penjualan Mobil Nasional Tembus Rekor Tertinggi Agustus 2026",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4eDNRVVROVWhVS2hGNmxfM2Q3S3ZsbHhUVmppck10a2lxWTc3QmRPR20yNkxmY2Vkc1UzZUU0akJBR3F6Q2JQU05mUm93QldYUHpLVG9FOW8zbjFkUld2UUpEbHRaMDg?oc=5",
-      "source": "Readers.id",
-      "publishedAt": "2026-09-09T10:51:10.000Z"
-    },
-    {
-      "title": "Harga Minyak Lampaui US$ 100, Kontrak Berjangka Indeks Wall Street Bergerak Flat",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGdSblo0ZXVudWU2ZnR6SVhRakZ4UXJNNGY4Q3pmaHkwRXhUdnBVR201T25jZXdoWWZjM192ek5KdEFjYVAwS3ltdElOM3g3WFpKaElsYk1nVWdIUGpyR2ppQ09BT29oUWZ4TFJmWmFfenNJZHBZZUM3c1ZPSGU0b09BajB6UmZVU2dhR0x1OGhDMFpsYlBXdlZyaFpZRTlfYVJ4ajR0LVNvRzJzS0x3ZVBUeEt4OW5mUmfSAawBQVVfeXFMTldrQU5Qa1ZhaWdPcFdtZl9hTnJJd1NrX0h3OFFCZDJpZ0s3VGxWN1NYUVFhTFdFcXVUd0tpS1VuR3NJZkh0SF9nNll0M19PLUtQWjk3UE5idUVfVlZGV0xKOU9zczhwOWFQZmw3aHBRUWk1cmpwMTlRZllpX1pRY2NWR3RtN0ZzSEF6eWtxX3piZ2p3Z0F6MVB1ZWtDelU0SE1rcXo3OWI3NWZWMg?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-09-09T10:23:49.000Z"
-    },
-    {
-      "title": "IHSG Ditutup Terkoreksi 0,12% ke Level 6.678",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2lPQ010R0laeGxHVFRTNjVWZVhORlc4eDd0SDVSQ2E0c3hqMWN5MXlha1JhaTYtVlZfU3ptNnN4UlZZcURqS3hPSDV5QVRFTElNdGtzV3BGQWY0Z2ItQWV5c1RrRzhxdGhvaVhMQWlfQWN4d3JHM25uSk9GeXYwM09JQXhZdWVnUjE4dk9DNC1uWE9SZUJyTkMxNFhwcHJhSlhYTDBWVEQxdmvSAasBQVVfeXFMTUtpT0NNdEdJWnhsR1RUUzY1VmVYTkZXOHg3dEg1UkNhNHN4ajFjeTF5YWtSYWk2LVZWX1N6bTZzeFJWWXFEakt4T0g1eUFURUxJTXRrc1dwRkFmNGdiLUFleXNUa0c4cXRob2lYTEFpX0FjeHdyRzNubkpPRnl2MDNPSUF4WXVlZ1IxOHZPQzQtblhPUmVCck5DMTRYcHByYUpYWEwwVlREMXZr?oc=5",
-      "source": "cnbcindonesia.com",
-      "publishedAt": "2026-09-09T09:37:47.000Z"
-    },
-    {
-      "title": "Emerald Daily Update 9 September 2026",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcUppMFprclBvakVQSFJMMWlKX1RJYlFSb2NkRmo1S04ybWhRRUthRGJVWDVpQWpvZjBEZndtX3ZKRWRFQTRySGNseGc0cy1IbXJkOTRJVm1ySEFMU0x3OFZHZFhtYXJUTnpsZkotVEtGcmlJcm1vQ1p0Y19iUkprck5zdzdtckFBWWxBMnVXMUhZV1Zm?oc=5",
-      "source": "BNI",
-      "publishedAt": "2026-09-09T08:47:00.000Z"
     }
   ],
   "errors": [],
