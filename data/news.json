@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T14:47:25.762Z",
+  "generatedAt": "2026-09-11T18:05:10.602Z",
   "headlines": [
     {
       "title": "IHSG Tumbang Jelang Akhir Pekan (11/9), Saham-Saham Ini Jadi Sasaran Jual Asing",
@@ -16,7 +16,7 @@
     {
       "title": "Pelemahan IHSG Menyusut Tersisa 0,7%, Berkat Saham-saham Ini",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczBRZXBQNEZzd2RnTF9RUlRuS1kwcXI0VkxzVEtZb0NOakJIOWRBN2VqU3pCWU5nc2k0UDUtVWdtdjQ0RWpnNTdsYktEdVB0NXZkM2JPS1dXbjdZWENwRGdLUU9FMWt2ZVJpR2JKR0xoRUsxS3ZtZ3pMZVV6Y1F1UUppc3pOQ0htUkNiUGtGbXl5ZmZzMTZnUzVkb0RGRkNvUVk1U1h5bzFXU2RGUGdn?oc=5",
-      "source": "Bloomberg Technoz",
+      "source": "bloombergtechnoz.com",
       "publishedAt": "2026-09-11T11:15:00.000Z"
     },
     {
@@ -24,6 +24,12 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOG1OeEhKODdBTjVYWDRDQmJNZmZsYk1xdlo4ZFhXOTlHSGcySWtnMHNtdERNV3JVckt4Uks5b1oxdXJtWW9TREFmWDhTdTdnY2pJTnRHZmRKLWdCN1U2aVdpdmhBNkptTXNBQkxmSVN0cTZDZ3dQR3RHb203SERBOE52UDU3N0QtU0EteDZzeWpUczdHbk1OWEpUd004LW1VRGc?oc=5",
       "source": "republika.co.id",
       "publishedAt": "2026-09-11T10:51:37.000Z"
+    },
+    {
+      "title": "Lautan Merah Bursa Asia: IHSG Turun 0,7%, KOSDAQ Paling Parah",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnl5d2JORlUyeVlkZWduZG5Fb3daZ1hhVm9ITDJua1RjLU5tcVVsTlFPSFhSZFplck5SM2hNSkhUM1ZBQjhBWFhwNzBvWlprZnZyejZFQjJoTGt3NWRSQWl4TVNKYUE0Q05JdWlsOU1YdHJURE1McWI4NlctcVJiTHpNVE53OS04ajVWektvWWRTeVl2VU1Yak1RS1NfSUJBVUtHcGpyVmhHTzd4emVZ?oc=5",
+      "source": "bloombergtechnoz.com",
+      "publishedAt": "2026-09-11T10:50:08.000Z"
     },
     {
       "title": "IHSG Turun ke Kisaran 6.540 (Jumat, 11 September 2026)",
@@ -42,19 +48,25 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUnVOWjBxU3NjQWhwTWlqM0pZcXFUTXhvNUpRYWJjUjVYc25MS0ZOSVREWUFZdkFBNFRCb1hGNEhiQnRkRVVpb1FGbjRyZktzUXBmNHFQUi11aVZtNlp1MHYtN29LRVpLVkt4SldCUEJyZGRRcFFuenowYzRNdVpuZ0VkWmZNb1V0MVBIU1ZhWkNhNHdoQVFvS050eXU0Zks2am9HRzNlSVdKaW9QX1RDY19CZVBpdzFidmVpY19mcFQzTVplSXFNX0NzX0pTN1BjOGxFNFIzSGhCQk3SAeABQVVfeXFMT2I1RHp4S3Q2aUh4X1M1OUFUMlV0ZEctMXBheUZhbEltck5sUWVYamZnTnB5VFhGZGpfaVRkb3N2UnRrVkgyZmdqMllPdUZ2NTFKQVV2NFlvbkVlT0lRUktqZGxTU3A1S2c4c3Z6YXNsamRWTk8zSlMwY211XzJuY3FUV0U5OHhsV0R3M29sVktmZWt6bjY4VV90V1AzWDZra3pQZHBrY0xySDlXcUpDNEtTaVlQZnhDcVlpYmMzQzBPaEFlTlYzOHl6WmJjcmN3UThhTmYyUUYzV3Badm54cG4?oc=5",
       "source": "fxstreet-id.com",
       "publishedAt": "2026-09-11T10:16:25.000Z"
-    },
-    {
-      "title": "IHSG Pangkas Koreksi, Turun 0,73% di Akhir Sesi 2",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2MzWjB2MUdKYTZTR1RGdWZQZGZaOUFpdndxLUhtblBGblhDaW1aS3djMkhvVWVLa0poYjhHV0ZyZXo0cUwwQUJ4S2llcjdfbl8yYlh3eUQ4OEVQZ1FKbW4zVWdYbm93VmZwdk9zOS1ZMWhVcEk1T05rb3ZBTVZtVXBndmZuU0xNemRlUmxpVXJjNXNXTkdNejFmNDNCYlhsTGxoSlZSOFBpUUg00gGyAUFVX3lxTE1pbUx0UG5xZDNOYklaWmpMY0pGdnV5UlRYU1pmdW54Y1lNOFJLZTExVkVsZ0Y5WlBkWFhpT0tucTNRQ3QzVEhhd3JjREdKNHU0ZExScjkzZTlFaXBPbzViRVY0blR1N1JyQk1aM2JZSU5rTXVNMVhVRmxzQnY3VmdlNlU5ZFk5SDc2blhCMGtZSlZWY3QyRmJEX2UxSmFkUE1Ja0lEX24yekxjU2ZrakdvNEE?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-09-11T09:45:34.000Z"
     }
   ],
   "stockNews": [
     {
+      "title": "BEI Tetapkan Tiga Saham Hijau, Ini Manfaatnya bagi Investor",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3U1VjhXcFRjWEo0UGJxbzJjWV8xRFlxTlF0ZGhza3NfR2Y5V21SYUp2TzBDU2RCSGg2QUg5WXRJUjZBbUNSSjhzamZ6dmljSUJnOGlrWEUwS2FxcENLbXZzNjdsTi1NeVdPVHFjaWNONjE4bzgtVndNMnlkaTg3TkgwNUZGUFh3X0VLcU0zREhPVkY3XzFqa3IxMA?oc=5",
+      "source": "kanalsatu.com",
+      "publishedAt": "2026-09-11T16:01:25.000Z"
+    },
+    {
+      "title": "Data Sepekan Perdagangan BEI: Kapitalisasi Pasar Mencapai Rp11.446 Triliun, Turun 1,32% Dibanding Pekan Sebelumnya",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN01oUUI5TkdabmYyZjlqZWxhS0FZS0hnTVRUWWlhaXJ3UmRiMGd6cmdGcUVMNm5IYm5jUUpHdF84UllUcDlOUE9UMkN0Z2hYaERBLVUxbjBlS002UEY0SDRsXzc5akJCRWY4NEJZQmo0N09zdmxuWkZ4YzBvMHVqUzF2VGNqSVNaMHZua1oydjFob1JWell2bG14LTdPV0h5RFNoMmNsQ3ZMN1BYVzUwWndzeXlkOElUQU9xUUE5LWo1V0hIdXJ2NWhuN3p5U3ZoWC1OWnBTalRfM2lrc2ZoOQ?oc=5",
+      "source": "pasardana.id",
+      "publishedAt": "2026-09-11T15:37:00.000Z"
+    },
+    {
       "title": "Ogah Dana Bursa Lagi, ERA Indonesia (IPAC) Siap Delisting dari BEI",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMEw5YWljOEczSVFxX0l6VmxPeldMdDlDdC1CelEwRkFMRkw2R0xjVEJXOTh0azg2ZEVQTk1kTDhJanljVkRGdGNOMUZpMk51SHNGcll5SGs1WDVwVWRMbFoybktsM1JLWnFXd0s1VWs2TTA0dVZ1LWh3UUJyXzh4dWFFWUFyN09odmNLOHlFVE56QzktM3pSRGVVaw?oc=5",
-      "source": "Emitennews.com",
+      "source": "emitennews.com",
       "publishedAt": "2026-09-11T14:31:00.000Z"
     },
     {
@@ -72,13 +84,13 @@
     {
       "title": "Urai Free Float BEI, Kalbe Farma (KLBF) Kaji Opsi Delisting Anak Usaha",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaC01RktxQ0ZmbUtiZFJlTGJUMUI1d3QtUnhJYmk5dlhjbjdZUmVxM21vdExoMy1VTWJ4YVFFTjdRMS00SFdrQmRPRTVXdW5jTW1YS01obXY1WEhZR2gtOHhxQkdEX1VrWGdNLUJNYzJTRk1yTFZyNGYzMXdBems4R2lRaFYzY3VYajJRNzUzZk5UT2JfTDVwRE1UNHRZWDhz?oc=5",
-      "source": "Emitennews.com",
+      "source": "emitennews.com",
       "publishedAt": "2026-09-11T13:31:00.000Z"
     },
     {
       "title": "BEI Suspensi Dua Saham, Salah Satunya Milik Haji Isam (JARR), Ada Apa?",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDhxaUs0d1VERnFfa2huS0pwODVuSFBERDBMZjMwRl9DX2tFUmZJUXNoNk5iYk51N3NtSjVqRWdMWU05X3lNaUdYV3lfakFsal9ZQW9ZZ1ZldHloYTlUYUNnTTc3dDA1VThWd0RiU2FhNkVGLWN4aFBhSzVtWTRFR3otcE8yTkhZUmx1ZEpJbmp1ajhTeTBsNw?oc=5",
-      "source": "Emitennews.com",
+      "source": "emitennews.com",
       "publishedAt": "2026-09-11T12:01:00.000Z"
     },
     {
@@ -86,18 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVpLS2pTNU9nWlhpblN6S1RncWROdUtVT0gzWEw2TG5XZ3ZFQlVFUG1KeTZ2ZHlvODd2TTAwVmhRQU9WU3ZMaEd3X2M2MnJ1V3ZWUWhqTTYxNGx5WGItY2xJdUxUNnd6S0k0NHMzdEhaQTdfa1JEbVlRNHFRcm1nckpUZjZhOW5sVVlBWENTazNGeW9TampNcNIBmAFBVV95cUxORVpLS2pTNU9nWlhpblN6S1RncWROdUtVT0gzWEw2TG5XZ3ZFQlVFUG1KeTZ2ZHlvODd2TTAwVmhRQU9WU3ZMaEd3X2M2MnJ1V3ZWUWhqTTYxNGx5WGItY2xJdUxUNnd6S0k0NHMzdEhaQTdfa1JEbVlRNHFRcm1nckpUZjZhOW5sVVlBWENTazNGeW9TampNcA?oc=5",
       "source": "Warta Ekonomi",
       "publishedAt": "2026-09-11T10:09:50.000Z"
-    },
-    {
-      "title": "Saham Berbasis Hijau BEI, Katalis Ekonomi Berkelanjutan Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1FjQ1RvOERYcDdOS3pqelo2Y2tOVEV1SEtZVjFUSFVXU0xyQzJQVkI5cnVsOFBBZ1V4Z3JQY1ZDTTFSNXZKcFdJYV9ScXNtbXZGSnZxOTl1R0llRGNDQVMtck45QnkwSW1zbHphblJveC11M3FIOXlsVkhsdE10Q3ltYzM1dndSMkdza0J1clp3cDJNbTVoeXVqbGo?oc=5",
-      "source": "rri.co.id",
-      "publishedAt": "2026-09-11T10:07:00.000Z"
-    },
-    {
-      "title": "BEI Tetapkan Tiga Saham Hijau, Ini Manfaatnya bagi Investor",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3U1VjhXcFRjWEo0UGJxbzJjWV8xRFlxTlF0ZGhza3NfR2Y5V21SYUp2TzBDU2RCSGg2QUg5WXRJUjZBbUNSSjhzamZ6dmljSUJnOGlrWEUwS2FxcENLbXZzNjdsTi1NeVdPVHFjaWNONjE4bzgtVndNMnlkaTg3TkgwNUZGUFh3X0VLcU0zREhPVkY3XzFqa3IxMA?oc=5",
-      "source": "kanalsatu.com",
-      "publishedAt": "2026-09-11T10:01:23.000Z"
     }
   ],
   "macroNews": [
@@ -110,13 +110,13 @@
     {
       "title": "Wall Street Dibuka Menguat Jumat (11/9), S&P 500 Naik 0,59% di Tengah Inflasi AS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1FMRk1Lb014Zy1FbHNaQnAzWTJqaWNaMEZxbTZnZ01wd3pjT2xCSVk0VWV0Tk9WY29ndlZYeUc2emZtLUlLZ3VlMkIxSE1MTHhTN2lVd0RMeVh1anJBZDdWdkZlUm04WVpKdGw5WEh0c2t0T2JlZ1pCOTIzZUoyaVRLWmFZeUtfNE94Q0lLaU81Y2tGaU1ONG9VeVpwa0UwTjUzMmU4RVMyTFZjLUHSAaYBQVVfeXFMT2M1UW9ISXkzdk9kS0hHRGJpTnFEWElvUXBoT05YdXpJczVHOVBTOVg1ZzFsUWJ1V3ljVTltUWdyZlhMbktmOEQydUFXTlFERjgzT1hMS2ZITmlBVF8yM2FBRnN1WWdkR184WmdKTUJUVnRfOG92Qzd6Q01tT0dvdEZtYkYwVVFBdzFGSHRGZ0t4TF9rUjlleHdBMF9MUjhIdzVocGozdw?oc=5",
-      "source": "kontan.co.id",
+      "source": "investasi.kontan.co.id",
       "publishedAt": "2026-09-11T13:52:10.000Z"
     },
     {
       "title": "PPI Amerika 5,4 Persen Tekan Rupiah ke Rp17.611 per Dolar AS",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNkFMVkRDZlAyMV8xd2liZF8xZDFkWV9FTVZSTjB3UWJyUF9fWUR0T1lQckwyN1QweWRPVEw3T2F3eldTMHdjdzgzM1h4VVhRS1pMbW9vbXNDN2xaaUs1V09kX01XMkIzbUtBRmhfdW80TzBwRS0wZmk0ZVJCRjh0ZmxnUnhGemPSAY8BQVVfeXFMTmZ1TWVhazlrNUpPaGRhTllzOV9wc042dHZkUWkwQjllV0pzaWJSTEpDV3I5Zl91SGFCR0FuXzhNOEJ2RHI4OG40N0xheUxuRk1LZ0E5eTJMTFNvNEt3dnVmcmRjRWIzMENQQlB5TlBOM0JVR0VqVDkxY0g3aUVWT0xBZ1dYQjVvdEdHbks0Z0k?oc=5",
-      "source": "Qoo Media",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZnVNZWFrOWs1Sk9oZGFOWXM5X3BzTjZ0dmRRaTBCOWVXSnNpYlJMSkNXcjlmX3VIYUJHQW5fOE04QnZEcjg4bjQ3TGF5TG5GTUtnQTl5MkxMU280S3d2dWZyZGNFYjMwQ1BCUHlOUE4zQlVHRWpUOTFjSDdpRVZPTEFnV1hCNW90R0duSzRnSdIBjwFBVV95cUxOZnVNZWFrOWs1Sk9oZGFOWXM5X3BzTjZ0dmRRaTBCOWVXSnNpYlJMSkNXcjlmX3VIYUJHQW5fOE04QnZEcjg4bjQ3TGF5TG5GTUtnQTl5MkxMU280S3d2dWZyZGNFYjMwQ1BCUHlOUE4zQlVHRWpUOTFjSDdpRVZPTEFnV1hCNW90R0duSzRnSQ?oc=5",
+      "source": "gadget.qoo10.co.id",
       "publishedAt": "2026-09-11T11:27:17.000Z"
     },
     {
@@ -134,20 +134,20 @@
     {
       "title": "Kemiskinan RI Versi BPS 8,07 Persen, Bank Dunia 64,1 Persen, Ini Penyebab Bedanya",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFRWVzBwUjlRb0Z2ZzVyU3BacnktTnZZUHpEb3JITEg0Qkx0cWMwbVdsRDRlYTl4bnhmWnF0TkYxWG5ZVjZ6V3EtMTZSWURaWm9sOGphcjFhRzROaTRnOGNCX0draVVLSEZ2cEtMaTIzLUVXdVNXRFNwOGhINXRpTHVOWUJJbzFNdlpOY2ZRdWtuSGtiNkhmekc0aHI4SnpIWmd2TkRKUGYwbDRuQ2fSAagBQVVfeXFMTTFCN0d6WGVmMnFYWE9GSmV6dTRUVG9UQlFmNkNrRklqQ0VpYVpxZUhNQ3VYRGxxdFF2clJqQ0VvcnR4enNaYnBaM1ZjXzZkWGJvMnVHajNVYkJfRVQzZTZWQmRrMi1zQTd4SS1yZW1rSDY2b3NLYWZ1bks1elRfYjBlc0pqWmpBN3phei1Gb3RxelZNaVJvN1d6YTFnNjl6VGctenBMY1B4?oc=5",
-      "source": "VOI.ID",
+      "source": "voi.id",
       "publishedAt": "2026-09-11T03:20:00.000Z"
     },
     {
       "title": "Emas Turun 1,8 Persen, Perak Anjlok 5,5 Persen pada Kamis setelah Inflasi AS Menguat",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRElRMVcwNWpscVJVaXkwU1F0X05ZeWVqMldKaktyWmNxUXFWMWFEMG1WdUZZdUNZRHlEdlUyRzBNb1ItNjl5cmtkTjNJLWFpLTBKVXBCVW0tOWxBN2NqbFYzenVCOGFTSjlWODFNWjlXa3VNRTBBTDJUNGRtS1hYQTczUjZtQkNFZWRtNW93cXdheWNyYkRuUG9jOG1wdWhxTkpLQ29MZWdyTi1SVTl5ZUVzY9IBrgFBVV95cUxPbUdFaDFhWkEzaGZ2Qzc2LTZIWk9QaE15bTlPeGw1SkVwUkhfeWJYR0xiX0JVM1JOQkhiTmE5cDA0TnpYWnBLZjA1Ui1hS1dVb3VQeGdTUGZhRDlCYTEtallUaDFnbG9KSHQzRVpkcjI1cnFMNzdOdUFOQTZDVzNDQUxlN1BtaF9QcC1oeWlldThwcmctUWhPbm9wbWlTbnVDRGstSFhUNVJ6TVo0ZFE?oc=5",
-      "source": "VOI.ID",
+      "source": "voi.id",
       "publishedAt": "2026-09-11T03:10:00.000Z"
     },
     {
-      "title": "Wall Street Tertekan di Penutupan, Lonjakan Obligasi Treasury Bayangi Pasar",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHk0OGJsOEdDbkpOWlJ1VXBmNWxOTGhGQk5nR1ZwWWNRMnd2bm5lN1pVeDZ5Z3BqWE5tYUdxUHFQRUZHRVMyX0hlLXlhNnpVVERDZEZieGVhSms4T2MtM1I5XzNSNlZpNFZpWHRPNEh4Sk1iUzZkaFd6cVFCQkhoYXkxM0pMYWQ4T3ZpNDJ0Uk9uUTNGUXBmQVJZa3NxdFRBaWg5dzR5SQ?oc=5",
-      "source": "bantentv.com",
-      "publishedAt": "2026-09-11T03:00:00.000Z"
+      "title": "IHSG Jatuh ke 6.484, Investor Menanti Data Inflasi Amerika Serikat",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnZkajhha2NpTVh0VUowaVUwY2IydFZRZm9JNE05cG1FdkRuZ3UzR1UtV0Z6YllXUFFBRi1mSTN1bGJlVm5NRGdDWnk0eGtRZU1rSlZhRy02cXlSeDI2R0pzXzFfOUx3dE9kNzU4OW8xbm9pUGxBaXdvQW5nMlpGQ2swazNreVRTUWFULVlXLUs5OEJIT1ZaN1FXTWp2Uk1ZbkE3M19R?oc=5",
+      "source": "RiauAkses",
+      "publishedAt": "2026-09-11T02:47:00.000Z"
     }
   ],
   "errors": [],
