@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:55:44.706Z",
+  "generatedAt": "2026-09-13T14:46:51.326Z",
   "headlines": [
     {
       "title": "Memerah di Pekan Ini, IHSG Bisa Rebound pada Pekan Depan?",
@@ -15,7 +15,7 @@
     },
     {
       "title": "IHSG Sepekan Anjlok 1,43% Ke 6.541, Transaksi Pasar Lesu",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR011SDRHbks5OHplM0xfZV8zd1ZIeElOM0xVSE5RRXJfX01QWEJOVmRqZFQ4ZDhQRUgtQllWM0VTVUF5THpMNUF1NHV1Q1IxR3hwTjFTVW5mWDRSaHBJUnlwQi0xSUZEUTI3Qk85dXFPeDhEQ1FtY2ZaTGNadmR3TXp0bjhaS2tZbGo0QmFn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdmJhclp5bV9ndlpSMWVya0xROEhSei1SdXljZHQwU0dDZmYzZlVXRjFGYWw4NktuMUljNUZpa3dDaVQtMUJUNnlqVlRWQ1ludHZHcnRNbDY4RTUxSk9LVVBWcUNEU1AxcV8xMXcxZDVEUmZRclhMdER4SHYtdXE2MVI0Q1lKVGl2NF9mV0tjSlB4ckU?oc=5",
       "source": "Validnews.id",
       "publishedAt": "2026-09-12T05:38:00.000Z"
     },
@@ -52,55 +52,61 @@
   ],
   "stockNews": [
     {
+      "title": "IHSG Sepekan di Zona Negatif , namun BEI Raih Penghargaan Internasional",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1dJTXk4WHpzN3N6ZF9OeVNCRDJkYnZsVll5S3BmeEpLcDFTWXhjUlBxREZ5eGttcFZPZWNZRWlvSFZrMTE4SVVUb0Z2d19OV2l5eEQ0YWp3N3VGSER0RTM4WjJZTnVHVk5ORXkyQl9TenNmWXhjajR0bXVpYm1SeHJZekpQbVJORnEzYjhRSmFqdFdMR2VEa3NpV0tPNE9rZHV6dGZLOFdtNUJCcVpodTlB?oc=5",
+      "source": "RRI.co.id",
+      "publishedAt": "2026-09-13T13:55:00.000Z"
+    },
+    {
+      "title": "BEI Batal Gelar RUPSLB 15 September 2026, Ini Kata OJK",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX09HSjNqb0FxYkJ3Q1R0R3dxVUVENG5aeGNMWmlwV1dVXzRmLTJ2dG13ZnhjR0hjNllabGVlTzBUb2kxM0VOQnFCMFdraDlaaElXUmQ4QkpwejFMNGt5QzM1S0x6cnhHXzJkcnFiRWJpLU1JMUx2TVRhQmdWZUc3WGNHZ1lrbmtjaXhGTkc2b1M0NlVoQkJr?oc=5",
+      "source": "InvestorTrust",
+      "publishedAt": "2026-09-13T12:57:29.000Z"
+    },
+    {
+      "title": "IHSG Dibayangi Keputusan Penting, TINS hingga PTBA Disorot",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWXpQdTY1STFMYUNpZXEyLUltSGdMa1FfT0JMeHlxQkJ0c2tPRTV0aUpSTTZJNTlUbXMyNjJyUkptTEE0a2R2M2JyVkxDbXluRmFCQl8xTGZ1REZDZGxhb19QR09IYS1ZOWVnM1E2cjNUYjA0X1lvaFkyanBaNml0c1l6X1ZHdGlLUDJuOU1ZRGZrS0NmZ3c?oc=5",
+      "source": "investor.id",
+      "publishedAt": "2026-09-13T12:28:00.000Z"
+    },
+    {
+      "title": "Kapitalisasi Pasar BEI Terpangkas Rp153 Triliun",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeWVPUDRTc1RiZm4yWUFNYVBuTHczTUlVWEc2bENldVhUbktzVllibHZjZkUxRFZTcVFsQ3Boc0gtQklVbGs4dExGQzNRT2VyZHB5UnZpTkNXNTJjSllJYmtiNktaZlRWdkRJei15c0pTWV94cXpZV2xMeGtzOElGc2dJVVJBUVo1bTk3TjdRbkdpUEJKVXhBWDBn?oc=5",
+      "source": "Media Asuransi News",
+      "publishedAt": "2026-09-13T11:43:00.000Z"
+    },
+    {
+      "title": "BEI Raih Penghargaan Vision Awards Annual Report Competition",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSktvbzJrWVBNYnNUMS0zQUJXN3F1azBaM1FoZE9aR1R4bG9SekN4cXZyVkxtcHREczIxY2t2MzB3X1BaTWVTM2hfbzYwdGVDd29aSUpyTkZpSWxqR3pPbjRhUVJySG11X0VnSUZkYnEwTHlub3pmcV9OVGZ0RXRYMDBtc1hiTGFERjVQdTlxY2xOWWlQX2VfWll1aTVhc250eFUwY3p6QU9TZ2tmN2VwOTZR?oc=5",
+      "source": "Media Asuransi News",
+      "publishedAt": "2026-09-13T11:32:00.000Z"
+    },
+    {
       "title": "Daftar 10 Saham Paling Bikin Rugi Investor Pekan Ini",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR0c4RFBDOTJZU09IUUJqdE4zM2p2bDFMb0F4TllXYW9oZXZtUDV5N0hjVjVTTVJwN3pYOEdQellpdjUzd3BmdzdLT2dOMHptR3NTZlA2cmM3RW8xRUFaeElFOHFyQUJnNThXWTJMVGJ6dE1RUkZaT0ctRDhvS3lxc2dHWXV3OUlfOV9uV29Hdms1MnZiaWJya0I2WQ?oc=5",
       "source": "BeritaSatu.com",
       "publishedAt": "2026-09-13T10:05:57.000Z"
     },
     {
+      "title": "Leyand (LAPD) Gelar Rights Issue, Pengendali Siap Inbreng Saham",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTm5URk9JNkxYa0owQk15WEdlTTkyZmRCOFF0YU5vcm5oQ0FBVTNSa2Rsd1BteDRjT0RRZlFfV2Zvd3VqTmhfS1k5ZHl1dlRPTVlzU21uclNRN2ZHV1pYQ0NsaDJOMzBtSEU2MnY2M1BmckZPcGk0bVl1SUNXazk3Q0JNY1REdXQ3OVliZ3JFaEc3MUVhekFUNlh0NTl0a2FWOUdlVDBn0gGmAUFVX3lxTFBOblRGT0k2TFhrSjBCTXlYR2VNOTJmZEI4UXRhTm9ybmhDQUFVM1JrZGx3UG14NGNPRFFmUV9XZm93dWpOaF9LWTlkeXV2VE9NWXNTbW5yU1E3ZkdXWlhDQ2xoMk4zMG1IRTYydjYzUGZyRk9waTRtWXVJQ1drOTdDQk1jVER1dDc5WWJnckVoRzcxRWF6QVQ2WHQ1OXRrYVY5R2VUMGc?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-09-13T10:00:00.000Z"
+    },
+    {
       "title": "IHSG Turun 1,43% ke 6.541, Kapitalisasi BEI Susut Rp153 Triliun dalam Sepekan",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkpNcnVMVldTNTV0U18zdFRqWTV3bnJpeXJLSVhoWnk1QV90aHI0V0VGbk9oQ3BoNzNSNl9DajRVWmFRdmx3U0ktb29aRDhJT1BudzI5bUtpMUtUQVZSdkpWdXRSUUZvcXo3QlRmelNLTjFWZ0dYTWhuYWRQNU5VZkhmSFBHeHIzS3JFTUptMHR0SnRoYlBrZzhBNHlIRExvV2tWT1JZMzNTWkdUdXZLUjVDbXlkd9IBtgFBVV95cUxQNkpNcnVMVldTNTV0U18zdFRqWTV3bnJpeXJLSVhoWnk1QV90aHI0V0VGbk9oQ3BoNzNSNl9DajRVWmFRdmx3U0ktb29aRDhJT1BudzI5bUtpMUtUQVZSdkpWdXRSUUZvcXo3QlRmelNLTjFWZ0dYTWhuYWRQNU5VZkhmSFBHeHIzS3JFTUptMHR0SnRoYlBrZzhBNHlIRExvV2tWT1JZMzNTWkdUdXZLUjVDbXlkdw?oc=5",
       "source": "Warta Ekonomi",
       "publishedAt": "2026-09-13T09:04:00.000Z"
-    },
-    {
-      "title": "BEI Batal Gelar RUPSLB 15 September 2026, Ini Kata OJK",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX09HSjNqb0FxYkJ3Q1R0R3dxVUVENG5aeGNMWmlwV1dVXzRmLTJ2dG13ZnhjR0hjNllabGVlTzBUb2kxM0VOQnFCMFdraDlaaElXUmQ4QkpwejFMNGt5QzM1S0x6cnhHXzJkcnFiRWJpLU1JMUx2TVRhQmdWZUc3WGNHZ1lrbmtjaXhGTkc2b1M0NlVoQkJr?oc=5",
-      "source": "InvestorTrust",
-      "publishedAt": "2026-09-13T08:02:04.000Z"
-    },
-    {
-      "title": "Saham-Saham Ini Bikin Investor Gigit Jari, Tekor hingga 25%",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY2Z4NG5ldWdpUkRBS1JXNlMzRDNBUm51RVlmSVZuQ1ZnRE96TkJ3cFRmWXVvNVJVcUNiN19fb3BYbEJCM2JlTmdKTUhqb3JVT1pzWUxmVVlLcmtsZXdZbDZaMDFWR1A1SVJwOFpsU0RxT183SEhhWGttVDlUeUxGZVktX0hJS1ZQQmY1VnBCQUVkTkVV?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-09-13T08:01:00.000Z"
-    },
-    {
-      "title": "Saham SAPX Memimpin Top Gainers Perdagangan BEI Pekan Ini",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPOHpGNVo3dXBieTljVnUyVHRNZGxsV2hPWW5nVUt0clBEQnpGQzJocHVTMUFvdE9CUmhtY2tYTTlvV0VadVRxU09LbWNpa29oRFZhNGtWeW9ERm4xeUpFLWNxMjc?oc=5",
-      "source": "Readers.id",
-      "publishedAt": "2026-09-13T07:06:20.000Z"
-    },
-    {
-      "title": "Acset Indonusa Buka Suara di Balik Volatilitas Saham ACST, Ini Penjelasannya",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUZvWTMtTHc5VkRNWkpWM1hQZmdWbWZ5VDM2UHN3aGFRUWo3VEJpRG1JZFNIOG9fcnl0Ukh1YjlDQ3A5aFpCdHVSc1VMTGU4bi05UmEtUjdnSXpDaXpkMVU4bmFHSC1yZVdJUUNxWkNCdGw0RHBoWlh0ektZUmRIS3B2OW5oRl9mcnVtYTQ1ZEhScVowQTBqQW16bkh1Rkk?oc=5",
-      "source": "stockwatch.id",
-      "publishedAt": "2026-09-13T04:44:40.000Z"
-    },
-    {
-      "title": "Pasar Saham RI Tak Baik Saja Pekan Ini, Asing Bawa Kabur Dana Rp690,19miliar",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV1FYTWlvaEZSNHpSVXlkUFFoQlNmcjU1VVV2akt5aUhjeFdxQUxPcGx4a1pRRHctRTVLb2k0Q1RzTHc0Q0Jqc1lUQU9ycEVVQmNaTzhINjZRTHRlN2luYzBOeEVSX18tR3VfOWVUWmpQeE1sTF9oUHVmeWdGZndmeWxJbEFsblZDUUZIOTlELW50N2NMejQyNnBVa0ppV3RiRzZ2VzM5N1Y5MTV6RTRYWUhBYzFqb3hhUnROcGtR0gG-AUFVX3lxTFBaMUtEWmlSNmhOYXE4bURsQ19VWWVVZVZScmxxdFZtc2ZTS3JoREoySEpfUlFsNmg5aDFzY1ZlQy1VZXpsRmh5TG9waUlNWFdfMlBXc1lEbE1xbm1CYV9oTl9xSkVQeEhOVnUzMzRhbWdOOHp0eEM0M3pIbnpQMVRlX0UwQms3LUNHQUNEc2lSWW1PWTdsdG9TRDlJaVhPZWg2OGV6azItV2oweFc3aUFWbFBaRFVudl9vcE5oaVE?oc=5",
-      "source": "Suara.com",
-      "publishedAt": "2026-09-13T03:54:09.000Z"
-    },
-    {
-      "title": "Saham PACK Disuspensi BEI Usai Terbang 75%, Manajemen Buka Suara soal Aksi Korporasi dan Haji Isam",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVZoVVN5cm12YzBMc2ZjS1Y1cFhDUFJseDNpUTlNTmVJT0VoV1V3ZzFQUHFieW9McWN5d1JrM1NpQW5JdWRYOHU1bVlNS1d0bkpFMVpXYzhMa2FJN2xfYVEwZl9UN3BiMWJSV1JvWjBIeXBEbHRmM2JaYTN2cy1WQnc5SFkxNldTa1Y1SDdzS0tKLVNaa1lOWERVWUtoMTBCbWdvbWtoSEZmeW9vTEluZ05UaEIzWjJMNllv?oc=5",
-      "source": "stockwatch.id",
-      "publishedAt": "2026-09-13T03:43:46.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Kenaikan suku bunga The Fed adalah untuk Wall Street, bukan inflasi, kata ekonom",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSk9zOWFVa0otTG1CRl95YnUtS3VYSngwdG9VZ2tnSEJobFc2VkRyWG9lNmhmNDVmMmVCQ1c4eURiUXktZElWdlo5c21qdEppY0ZvNzJ3SGwwQ3BaRlpMOWpPdXJQSUhlRGNpbHNBWnM5dWNmZE9UdEY4NWt4NW9uWFJrVDBMaTM1bk5aQVEzOVNUbWVYX0h0YWxhNGRMNEpCVGotXzRwUUxCSkFIYThJ?oc=5",
+      "source": "CoinDesk",
+      "publishedAt": "2026-09-13T13:00:00.000Z"
+    },
     {
       "title": "Harga emas global turun 1,8% minggu ini, tetapi para analis masih memperkirakan kenaikan minggu depan.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVZ4dVdZcEx2WTRRb1g0YXYxSkR2QVVkZEFzSXBuYkhfVWRmb3ExX1lPWUFvcXZGT0Y0Qnd4SDFPRE0tcnV4TGp6b1d0SlRMTHVFc1Z2X1h0UVdPMUVPT2ptVGlwempzb2ZacFl4R0F1Wkdwd0o4OUtjbHhVMTlndU8yRllsU3ZvZUUxWU9oc3V0OWlSaW9hOE9JYmRjQ2x3aHI1d3RpdUlJVmlFRTNuRW9UOExyUQ?oc=5",
@@ -142,12 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0VFctT24yc3dEODlWYkhfVXhWNUo0SXV0M2lGQnhGTlExTS1ja29TamtmY1lVa1dySXY0TS0ybl9Ba1BsNVhBdVo3c29Cb2tkUXEwakRRNWpkZnVMdlRoN0hjWGE?oc=5",
       "source": "Readers.id",
       "publishedAt": "2026-09-12T22:12:00.000Z"
-    },
-    {
-      "title": "BERITA POPULER: Mundurnya Franky Oesman Widjaja hingga Posisi Djarum di BBCA",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnUzTXNMczhnYjhTa1d3cDd2MFFsbFp1YXhFRnlTbzJWRm9LaERXcXprLW1sbDhyTEVfd0puSmdXc3FkdXdjYjFORUx3UUZPZVkwVlpFOVJUdFJLY1NuYUlPaF9JemNMZ2R0eWhKaVdPS0ZsOG9XVHlYMnlCdTVpRVd2ci1GbWVFYnljUUZMVUJTQm9uRUJMa1BlT3c0U2wyREhQQ3JWckpKeDVwYUE?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-09-12T22:01:00.000Z"
     }
   ],
   "errors": [],
