@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-09-15T14:05:08.379Z",
+  "generatedAt": "2026-09-16T07:25:04.577Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
     "currency": "IDR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
-    "price": 6461.15,
-    "previousClose": 6541.38,
-    "change": -80.23,
-    "changePercent": -1.23,
-    "quoteAt": "2026-09-15T09:00:07.000Z",
+    "price": 6485.79,
+    "previousClose": 6534.69,
+    "change": -48.9,
+    "changePercent": -0.75,
+    "quoteAt": "2026-09-16T07:15:03.000Z",
     "exchangeTimezone": "Asia/Jakarta",
-    "marketState": "CLOSED",
-    "date": "2026-09-15",
+    "marketState": "REGULAR",
+    "date": "2026-09-16",
     "points": [
-      {
-        "date": "2025-09-15",
-        "close": 7937.12
-      },
       {
         "date": "2025-09-16",
         "close": 7957.7
@@ -974,29 +970,29 @@
       {
         "date": "2026-09-15",
         "close": 6461.15
+      },
+      {
+        "date": "2026-09-16",
+        "close": 6485.79
       }
     ],
-    "fetchedAt": "2026-09-15T09:00:07.000Z"
+    "fetchedAt": "2026-09-16T07:15:03.000Z"
   },
   "fx": {
     "symbol": "IDR=X",
     "pair": "USD/IDR",
     "baseCurrency": "USD",
     "quoteCurrency": "IDR",
-    "price": 17682,
-    "previousClose": 17630,
-    "change": 52,
-    "changePercent": 0.29,
-    "quoteAt": "2026-09-15T13:34:29.000Z",
+    "price": 17685,
+    "previousClose": 17682,
+    "change": 3,
+    "changePercent": 0.02,
+    "quoteAt": "2026-09-16T07:22:44.000Z",
     "exchangeTimezone": "Europe/London",
-    "marketState": "STALE",
+    "marketState": "REGULAR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
     "points": [
-      {
-        "date": "2025-09-14",
-        "close": 16401
-      },
       {
         "date": "2025-09-15",
         "close": 16364.6
@@ -2030,11 +2026,15 @@
         "close": 17630
       },
       {
-        "date": "2026-09-15",
-        "close": 17682
+        "date": "2026-09-14",
+        "close": 17636
+      },
+      {
+        "date": "2026-09-16",
+        "close": 17685
       }
     ],
-    "fetchedAt": "2026-09-15T13:34:29.000Z"
+    "fetchedAt": "2026-09-16T07:22:44.000Z"
   },
   "errors": [],
   "sources": {
