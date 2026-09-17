@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T17:28:49.502Z",
+  "generatedAt": "2026-09-17T20:50:51.886Z",
   "headlines": [
     {
       "title": "IHSG Hari Ini Ditutup Rebound 0,40% ke 6.462, INET Akuisisi 60% SGI Senilai Rp280,4 Miliar",
@@ -32,6 +32,12 @@
       "publishedAt": "2026-09-17T10:33:09.000Z"
     },
     {
+      "title": "IHSG Menguat 0,40% ke 6.462, Pasar Mencerna Kenaikan Suku Bunga The Fed",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGtwU2hqVXhUN09lOFRkUG15YnMwRU1JVkQ0dGx5VVlyc3VzRzVjdEJfQWhUZnoxOW5SbWJTRHE2ZzlCYzFRRUVqMF91MmpncnJZZE12Z2g2ck9UalVrWVNUUU41dXFZMlF3V1o1bGVhcDIyaFBnV2VjQWQ4YV80UnNXcTFXUkc0SG5EU3pPM1NSMkZDcGhDcDZCaGZHSEExSTlFQkRBc1ZiS1UxYkVHZDdkWUTSAboBQVVfeXFMUFNJVTBtRXB6dTBsT1JKbFdwTzJVQ25vYWdZZWdTejZzY3d3NGxzSVlabnZfcnZqdHRUdGtnX3N1dXNsOVNZT2lRWGFnTXVQell2MnhYRkJuUFBsRDBJcjNGSVNSSFhyN3pYbGJNQzB1cW90VWJkcmZQMFVoR1BkaVUzbmtrYmN4TU9nVy1aMG1YcnBxeThudmtVejUydmRZalhRWjAwckVJVkZkOVcxUUhVNzV3V1NNQ0x3?oc=5",
+      "source": "fxstreet-id.com",
+      "publishedAt": "2026-09-17T10:20:56.000Z"
+    },
+    {
       "title": "IHSG Naik Tipis ke Level 6.462 (Kamis, 17 September 2026) | Pusat Data Ekonomi dan Bisnis Indonesia | Databoks",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS3BFc2Y3NVp3SVo1cUNpazdqWmRjYkJYdnZQbmh3bDduZnEwbV9tblRuMUk2Ul9GNXdxY09rZVA3X3FRa1hNOVVrWVQ4QXdyaDcxZlZ5dEp5N2pqRHgtMm5Wb3U2UHEtQnpKSmdodDY2RXVPN05qMWVVemVCR1NGMVB3VGNkcEhQR1phRUpPY3I1YUJGRng2Z2Z3c2pNeU9oUEhpVmR3RVdyaGlqOVcybWR5QV9nQQ?oc=5",
       "source": "Databoks Katadata",
@@ -42,19 +48,13 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDZ3dC1PcE5jZFM3WmlCRWtDeTF2Snl3bGJJb21YemJhTXdWSHFsUm1vSW5DeVQ0RHVGU1BYX2lDeFlReFhuMHFCT2ZFZDZjajJSM3pnVV9wOXZGZV9iS0RfSU41Mks4bkREWEFaWXBfVG93ZFZ1UEJxLUJ1UkdwODlXZ003Yms?oc=5",
       "source": "Infobanknews",
       "publishedAt": "2026-09-17T09:45:00.000Z"
-    },
-    {
-      "title": "Ditutup ke Level 6.462, IHSG Kamis Berhasil Menguat 0,40 Persen",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ19zQjhtWmtlazVOejZkd2tObEdVUkplQTQ2SUZ1RG5heDBEMFdYZnRFcTdNWUlja3lLcGNyeUtZdXhIODRkWXlMMzZ0ejJZYXNjV2JWNkFZSVpTV0R2VnFxZmttRHVnYUZnUzN4ZkZjS1d0eDVEM2hmRk5TSXd5djMwTm9nQTBablIzTHBtV3VOWGIydVllalBNNV9CdGs?oc=5",
-      "source": "pasardana.id",
-      "publishedAt": "2026-09-17T09:39:00.000Z"
     }
   ],
   "stockNews": [
     {
       "title": "Kurang 1,26 Persen Lagi, Bank JTrust Kebut Ambang Batas Free Float BEI",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWpnbTJHaDVTbjgya3MweGlCUHJsVmVieDZyUGdZNGdzMExtWFFsSWZ0YllKTjdaaE45Zzd6ODZjaWFZR2ViRkVvRUIzNVJuWEhJclNZbkI0Y2JUaWxocm4xY0xtczNaTGRycU9KWDRpUk0xbk1rWldRV0VXbFp3Z1NLekdJeUF6cEJGOG1qTGhTUXIwd1F5RXI0WQ?oc=5",
-      "source": "stabilitas.id",
+      "source": "Stabilitas.id",
       "publishedAt": "2026-09-17T16:33:44.000Z"
     },
     {
@@ -64,8 +64,14 @@
       "publishedAt": "2026-09-17T15:25:00.000Z"
     },
     {
+      "title": "Perusahaan Haji Isam Berencana Akuisisi 10 Miliar Saham Bayan Resources (BYAN)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblhTWl80a0UxQUF6VWNRdlJJdDZkaVNKUlVJazUxZS1WYkhrVmxtSnctcURxN290WWRJRkI5TVA1dkNYcUVWQUUtYWRVeVJIM1NBV1pnM1ZWOWlSdGlXdGprRWRlWTNaRzhTcndYX2hzRWx2WWNFLTJDdVVBVnFBTjg0dTZhb1ozN0RuRXpsQ2JKN0IwQkc0cU5Tckc4VkVyaEZkUl9rN2J6QQ?oc=5",
+      "source": "SWA.co.id",
+      "publishedAt": "2026-09-17T14:28:00.000Z"
+    },
+    {
       "title": "BEI Minta Penjelasan Transaksi Saham, Ini Jawaban MMIX",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXZmandMemJpY3BMSFYxS3o0SjFhZm12bWtrTzVRZzNKV1otaHJTZFMtZTRhdWpPV1E5bHBTLUViQmM0eE5UZUFwOTBhX3NhT1BNSEtTc3cxbTM2UWNmTG12U2U5WVlWV0NHV0tPS3ZIN0x3MmVGOTNTaVo3TlRxVlNBTzY1TXRhb3RPXzV4dDIzRlFOREHSAZsBQVVfeXFMTU1aUGhuNU1fVm9kWjktSWpfdmZkLVJoZVJSeUQ5VVFrZ0ZETjhxTHFYVGU5bTl5bW5UbklKRFkxWUZWTE9CMlB1Y3dpUy1wbmdnWkV4ZnA4ZWo4YWtHY2g2MHlZcnZYb2U0bFUtMHJBVGV2TzE1WjE3alpEdTFjR1g3bmJweVJlazZiS2RPc2dTbmdjb2lGOFVHZlk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVpQaG41TV9Wb2RaOS1Jal92ZmQtUmhlUlJ5RDlVUWtnRkROOHFMcVhUZTltOXltblRuSUpEWTFZRlZMT0IyUHVjd2lTLXBuZ2daRXhmcDhlajhha0djaDYweVlydlhvZTRsVS0wckFUZXZPMTVaMTdqWkR1MWNHWDduYnB5UmVrNmJLZE9zZ1NuZ2NvaUY4VUdmWdIBmwFBVV95cUxNTVpQaG41TV9Wb2RaOS1Jal92ZmQtUmhlUlJ5RDlVUWtnRkROOHFMcVhUZTltOXltblRuSUpEWTFZRlZMT0IyUHVjd2lTLXBuZ2daRXhmcDhlajhha0djaDYweVlydlhvZTRsVS0wckFUZXZPMTVaMTdqWkR1MWNHWDduYnB5UmVrNmJLZE9zZ1NuZ2NvaUY4VUdmWQ?oc=5",
       "source": "Warta Ekonomi",
       "publishedAt": "2026-09-17T14:02:30.000Z"
     },
@@ -76,35 +82,35 @@
       "publishedAt": "2026-09-17T13:59:53.000Z"
     },
     {
-      "title": "OJK Ungkap Tujuh Calon Emiten Antre IPO, Targetkan Dana Rp4,02 Triliun",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWjZKZlJ6SnlFaEdiOW8wN3BNbW8wd2hicUdrNi1JOXBMRF9vS0F3UzZBbXRmZHlnbGxOd2xfSy02Y3prbkpBZ09ZZFpNRnRNcDVLQTZ0LVFjXzBKZEEzMWVfeXdteUFkU3ZNSWpXTWlsdEplX0FqZERiblE3OFpwUmpwdEhBd3NIbDE1M2NpbGlRNVhJU0dtbF9RSk1Kc0RZWUhaeGNNUXIwWjlNUVhZRdIBsAFBVV95cUxPWjZKZlJ6SnlFaEdiOW8wN3BNbW8wd2hicUdrNi1JOXBMRF9vS0F3UzZBbXRmZHlnbGxOd2xfSy02Y3prbkpBZ09ZZFpNRnRNcDVLQTZ0LVFjXzBKZEEzMWVfeXdteUFkU3ZNSWpXTWlsdEplX0FqZERiblE3OFpwUmpwdEhBd3NIbDE1M2NpbGlRNVhJU0dtbF9RSk1Kc0RZWUhaeGNNUXIwWjlNUVhZRQ?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-09-17T13:02:00.000Z"
+      "title": "BEI Sorot Lagi Saham Bank Hary Tanoe (BABP), Begini Jawaban Manajemen",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3Fid0c4bUNFQTA2ZW5TWEV6eWRsNmV6cXgyUmRrZVRpR2tLSHZ3d29xSXRUMnNROGJIRFpoM29DZWladGdFWV85bU5yMlJxaGJjVmdMS3hzX3pkb0tXMG9lVk13X3liT3RoWXNOUzFnU1N4VmFPYW9KNTlUT29Qc0RmaVlIcER1WHNzTmNNbHU2ejI3OHYzOWFkUmJWQzg?oc=5",
+      "source": "Emitennews.com",
+      "publishedAt": "2026-09-17T12:31:00.000Z"
     },
     {
-      "title": "10 Saham Penopang IHSG Hari Ini: BMRI–DSSA Pimpin Top Leaders",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHU0UDVKQk5COVE0NkZRTUlqZm5ScUZXYlJreFRkYmNqaDF6clV2TUw0QkdLLXVwaWlhVTRhRmxNUlpyOGI4TjhFVVJHYjVkZWVOU3Z5Ujd2bnhHSFQwaEhjUDgtcEczT1FQTmhSRWNGMU9MY095V242RmI0OUR6TnZ4WXFQeHF0N3VsOWQ1Mm5feVBaNTYxajM1YjA2YXgzY0E1eWpxN2JaeENENEd3?oc=5",
-      "source": "Bisnis.com - Market",
-      "publishedAt": "2026-09-17T12:35:43.000Z"
+      "title": "Harga Saham Rp1 Berlaku 28 September 2026, Ini Tujuan BEI dan Dampaknya ke Investor",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0VVXzB6aUxuMUxHVXlQM3E1Q08tMnA0NUNCMEFvRkJyWW9vaHhDMzJfSVUtZllmYW42S3V3MldyU2N2QjZoU3lJODA2TUkzd3EydUNZVkV0TEtIRm54Z0VNbURocmZlNDFfTnBiUWplczRmaG5qcERwa2d6d014b3A0TFFwdnItUkZ2S2tZNjc0c0JNb3dqd0VuR1JfRlhKUm9FTU93ejR4MDB1ZzVUQ3hraENhOXNyWEpndVBB?oc=5",
+      "source": "Harapan Rakyat",
+      "publishedAt": "2026-09-17T12:29:58.000Z"
     },
     {
       "title": "BEI Suspensi Saham INPS Setelah Setahun di Papan Pemantauan Khusus",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOU11dHl5WGNQYVIxaVl0b1hlcmZ4TmE5MXl5am5iVjVFMVROWXdmUFpZY2JfUFNzUDNUM3A5YUlJbHFwM1JHeEZHeEJwZDY2dng2OG9qbklOd1B1ZGRFR0R1MGhmenZITFVuV003dkQ3elQyWEIwZW5QM0s0Q1pmcjZUN19KNU9OTHFsR1lQN0JIc2xNWFctS05UanZndkNkSEtXdUpSSXBvVVZS0gGsAUFVX3lxTE05TXV0eXlYY1BhUjFpWXRvWGVyZnhOYTkxeXlqbmJWNUUxVE5Zd2ZQWlljYl9QU3NQM1QzcDlhSUlscXAzUkd4Rkd4QnBkNjZ2eDY4b2puSU53UHVkZEVHRHUwaGZ6dkhMVW5XTTd2RDd6VDJYQjBlblAzSzRDWmZyNlQ3X0o1T05McWxHWVA3QkhzbE1YVy1LTlRqdmd2Q2RIS1d1SlJJcG9VVlI?oc=5",
       "source": "Warta Ekonomi",
       "publishedAt": "2026-09-17T12:05:40.000Z"
-    },
-    {
-      "title": "RPOJK Demutualisasi BEI Tunggu Penyelesaian Harmonisasi Kementerian Hukum",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDc4dXlfcUxnY3BfbWdrUU8xLXZQOWVhVUZUUVVyMmw4YzAwSnVrYkc1b1o2R0JRZ0lfcEFSa0k5RHNqdzI5bGFHanU0UXlnSTVPMnAtRWxGV0tjRWFPd0xLZTVyaWVtYjNhcWsxV01yMzBFdkN2UlNOamw5T3ltZ21PcFY0aEo0UDJ6TVBST1Nfa2hYOEMzbmxpaEdBSjdXb0xNemVQSTI5b0J2U0h5RVJ5S05WeGM?oc=5",
-      "source": "RRI.co.id",
-      "publishedAt": "2026-09-17T11:25:00.000Z"
     }
   ],
   "macroNews": [
     {
+      "title": "Wall Street Menguat, Penurunan Harga Minyak Beri Angin Segar usai The Fed Naikkan Suku Bunga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2ZzX01mQXlteUFlOHlvZXZBUzU5bHdSOGJLRmxVMnVlRm1RZUc3T1JzT2MyVXhMMnh0eWdtczZ0V3dSck5vMEJ3VllCRTVMYkdhMzJMWmEtUk1SUHozRTVHdHQ5SndzcE4zUlFsb3lkSV9sYUJmd1NDWmZnWTREaG91eGRFaE5iaUJBMTFnQmRsVUpWUFhOQy12MDRkWTBzYmQ0QVI4di1sYWM5TURORExHY0dCTkNTcG9LLVNKY09POFFWbW5rRjUxbW9HTTjSAc8BQVVfeXFMTVNmc19NZkF5bXlBZTh5b2V2QVM1OWx3UjhiS0ZsVTJ1ZUZtUWVHN09Sc09jMlV4TDJ4dHlnbXM2dFd3UnJObzBCd1ZZQkU1TGJHYTMyTFphLVJNUlB6M0U1R3R0OUp3c3BOM1JRbG95ZElfbGFCZndTQ1pmZ1k0RGhvdXhkRWhOYmlCQTExZ0JkbFVKVlBYTkMtdjA0ZFkwc2JkNEFSOHYtbGFjOU1ETkRMR2NHQk5DU3BvSy1TSmNPTzhRVm1ua0Y1MW1vR004?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-09-17T14:40:00.000Z"
+    },
+    {
       "title": "Wall Street Naik Saat Minyak dan Yield Mereda",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2pWYmFQR1NoVEZLYlZfaXpYY21JUjV5dG94SERSOFhBbzN5TVJhdFRkQUI4RDVyS0xuSjAzMUZpeGVuRnhDaWx5TWpwTWNFTlJHNDNGWjB3bVZST2Z2T01wVHc0ZldBeVc0XzlWVl9ib3BKc1BYRGlYeldqREVsWURHcS1ONXV5OTZKbFVuWFRhRkE2bFdHTHlHOVdLOHp2VGhSRmkxVQ?oc=5",
-      "source": "XTB.com",
+      "source": "xtb.com",
       "publishedAt": "2026-09-17T14:12:09.000Z"
     },
     {
@@ -126,15 +132,9 @@
       "publishedAt": "2026-09-17T10:42:00.000Z"
     },
     {
-      "title": "Dampak Kenaikan Suku Bunga The Fed Terhadap Ekonomi Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemZOLVMwR1pRS0J4T2RQanNHR2RHQ2E2aGRaZy0wZ0xOTW1aVDJaRHlETlQ3ZUQzWllxTThLemtPN1ROUFd3emZQekMyOGkycjdjVzF6RXBvaEdoMlZfSnFDYVRfYWZBUjJpTGxDWlcxbHhvZ0d3U3RoRklBVUd0eHZnY2ZGOFIxSHdsWg?oc=5",
-      "source": "Readers.id",
-      "publishedAt": "2026-09-17T08:43:14.000Z"
-    },
-    {
       "title": "Wall Street Pulih Saat Yield Treasury Mereda",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTU5cG94SVBXTGV1WDBfbTU4UWxXNUpNYVZocVBINzVYeV9nemdqNkVkWWRmcDFJb0ExdVdsQzNfc1hGWDZCbkVhVjJ5VW1vS2ZqU19ESnpiUTJLVjYyWFlHNGJlR1dnNlJDQ3YxOFA3NmtQX1B3cS1PcXI3c0gyZ21yNzNtNVIzakZoampZM1d3RlpiSnM0dnhiWGt2dERoWDZWbm9nUVNjSlROb2ZHS0U2bTRPQQ?oc=5",
-      "source": "XTB.com",
+      "source": "xtb.com",
       "publishedAt": "2026-09-17T08:29:39.000Z"
     },
     {
