@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-19T10:07:47.976Z",
+  "generatedAt": "2026-09-19T14:06:34.792Z",
   "headlines": [
     {
       "title": "IHSG melemah 1,43% pada pekan ketiga September, BBCA jadi penekan",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzBHbnZZNEtyVWtwbHFLYk5EUFFOeXlsblc4T2R2b3ZfVWVpWHotN0E0YnVLdW9SZFJfRTdWeTg2TWVIY0hGU2p4Q2RqYmNPWE1mdU5PX0lHd1VKSUNjaC1oS1lFTUlSYjlPREQ4ZUdaVGM0bHJpeFdVZk9TMGMzeGwzcVhWeVBGWjR1Y1F5eVFCejMzQ2JIMWNCYjRPQjhHWS1HRk1IRFZjeWM?oc=5",
       "source": "IDNFinancials",
       "publishedAt": "2026-09-19T06:20:00.000Z"
+    },
+    {
+      "title": "Bursa Sepekan Lesu: IHSG Melorot 1,53% Jadi 6.441",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWk14SXdOUjQyUl9wRS1ITFVISkNtMWJhaWxKMFpMWnV3Z09ydnJDYW1NeU53djJkT0pGVXpVay1DR3pfNDlpNjhYZDFodjVUbjZEd1lBVDJpMU1ONWtsYkRfQ050VWxkMlk3cG5WSXA4QU5xVVEyUDNSLVUtX2VYWEhEVWtyU001ZVRqT0swQVoySVNsLUltOG01cw?oc=5",
+      "source": "Validnews.id",
+      "publishedAt": "2026-09-19T05:02:00.000Z"
     },
     {
       "title": "Sepi Transaksi, IHSG Sepekan Melorot 1,53 Persen",
@@ -42,69 +48,69 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQU5vWWpiODhXd2xVczgwS09La2hGcEhTaElJbVZ2SmduSmNGVFdnM0czdnE2TzRCdEVUWG9ocXVTZ012ZmJVS1U5T3k4RTUxOFBzcnZTOXdkYkx3bkwwS1A5WXFZYkM2YUtpQkZ6WUNuWFNnMjVISmF5dHgwcUNMbmNBcG9ZRHZ6T0xfWQ?oc=5",
       "source": "maybanktrade.co.id",
       "publishedAt": "2026-09-18T11:17:00.000Z"
-    },
-    {
-      "title": "Penyebab IHSG Ditutup Melemah di Posisi 6.441",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1N2YmgxLU5pcDFtemVVeWEzMmcwOHF6aVoydENDbXpFYUFoMGtielBZNDdZNVRFb01NNGtTV014NW1OX0tBQ0d0YnJmLV9SRkZGb1duMGpOSnkzWmFGdnBXenB1Rlk2dzVmNVMzVU82OTkxc0FxdGotbUdVZUw1X1hqbGZiZ3QxaVlDMlBFcm9UVm53MDE1S0xZUE9wdw?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-09-18T11:11:04.000Z"
     }
   ],
   "stockNews": [
     {
+      "title": "BEI: Penghapusan Batas Harga Saham Berdampak Terbatas",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQkJzai1qbWNEcmx0SlE0T0prSHhvbXowcE9SUFJBM0RKRkR5X3AyNHVQRjdBQk0zME9PNzV5dzRjOHFTRExpeTNldWdnY2xKZ2RNY0FlTk8zbExOMTlDTTFydlEtSzNLWGUtT2xqN1FZTENWdnFoSV8xWS1rbElzZXpIZUlOOEMtSzdIRVphM3MzYjhC?oc=5",
+      "source": "Tempo.co",
+      "publishedAt": "2026-09-19T12:06:13.000Z"
+    },
+    {
+      "title": "BEI Batasi Short Selling, Lima Saham LQ45 Disiapkan untuk Tahap Awal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVBGVmdRTVNrTVg0cFZxNHRlcFVBZmpjYnlKZWZBRXN4dnROcTRYcXA2OTNaZl93MEFDZ1RhWGxLaXJNbkthOS03am4tcEZGYWRlSTFMSXFGV0JKbk94VnZsWE10VVAxY0Z4XzRmcmkyLUt6UEdQdkhhRG1wZWtKWXJmdi05aEhzSTNXb0twOTNncU1KWjNIWEVxLXJSYkJ0dHJKT1NPbFHSAa4BQVVfeXFMUGpOYVJJUm4yRU9qRUplRG5rMGhMTUppUmp6SHpUb3hJcUxuOVhRM19BM0s2bnNHa3h4SGRfNENaWlZwQnBNeXRIaTNBVF9aSm5RSk41aHNUYmZZUVk3Ymwwd2VVOTZBdmhqV20tV3NVR09iQTdRNGtWMC1ROVNERUpSTko0QkVHZ2hYMU9BeGNMYkZabDJfX0JtdHRnbFhpd19sNEZyU1hfVkRlNElB?oc=5",
+      "source": "Warta Ekonomi",
+      "publishedAt": "2026-09-19T10:26:00.000Z"
+    },
+    {
+      "title": "BEI Catat 679 Waran Terstruktur Terbit, 200 Lagi Siap Menyusul",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXFSRnpGLUdSYzd2cnlZX0RSVFBKblVmYmVaMnBCa3JmQjVjejAtZmJuUy1UYnFTSjVibUlMWWlqMk5sNVFkVldKTjM1b1otN185b18tU0ZPdmFDbEhTR29KR3M5UU96X0dlcG42RXdHMmZvQUlfcnlFRk5NbF9SeDN1aVp6RFI0SUtkNFNJUnRscklGakp1NzZIcE1fdHhQZGtfYTJR0gGmAUFVX3lxTE85cVJGekYtR1JjN3ZyeVlfRFJUUEpuVWZiZVoycEJrcmZCNWN6MC1mYm5TLVRicVNKNWJtSUxZaWoyTmw1UWRWV0pOMzVvWi03XzlvXy1TRk92YUNsSFNHb0pHczlRT3pfR2VwbjZFd0cyZm9BSV9yeUVGTk1sX1J4M3VpWnpEUjRJS2Q0U0lSdGxySUZqSnU3NkhwTV90eFBka19hMlE?oc=5",
+      "source": "Warta Ekonomi",
+      "publishedAt": "2026-09-19T09:20:00.000Z"
+    },
+    {
       "title": "BEI Berlakukan Short Selling Karena Catatan dari MSCI?",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVkNZX3RqM2w5ME9oR05HYjJndGdzMy1iSGJxaGtCWThIbUVHZHVoNUpxbWpBQVV6NlNQNXUyMlBYNkF0Vkw0c2VBRldzZ3kyWUJ5bmlsMlRQUGhteGZUek1nNk1SQ1A2RExBMFpQZVlfX2xLTmtLVlpWaU40STdDdm9QYWFWNzB0eVJsMThicTgxU3JldXBNb1RiNXRBTE5xcGhpdXhzQWpqVGs?oc=5",
-      "source": "validnews.id",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVpVSTBsaC0wY2QwR1Z2Z2JlemJTRVFZYjVrOGNwWUZzZGdXcDNFUXdzZURJYWhEd25WTS1QZnozbEZPbGhNcU9XZ3NiNVJtVWphNnBqNV9DVTk2bGp1ZmxHTXdJa0hERzgwbHQ5M2VKeDVFc28ySXM3aHlSQ0pubDZZb3JvSTg0Mk9vaGRzRFIzaE8zZGRDeWpWRzBNYjlFNVVVcEdn?oc=5",
+      "source": "Validnews.id",
       "publishedAt": "2026-09-19T09:03:00.000Z"
+    },
+    {
+      "title": "YUPI Siapkan Empat Opsi Penuhi Aturan Free Float 15 Persen",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnkxeF9TQi01ckhXX3Nyb2xoS2hSVGV3bkdSc3h1Mzg3OUJGOG13em5kX1IxbUVTc1h0c1NnX3V0VmM2cnVGMklSRjlqWUlwbDNlMjc4Vi1sbV9uSFgyZEpGWFd0VkJRVE1fdlFBYkpST3YyTXVpRldLUVVOWFVhT09DYmZ4SGtCQmVyTG5nNGZmbXVSRjBZc2pnNU9TR1dsSFZr0gGjAUFVX3lxTFAyeTF4X1NCLTVySFdfc3JvbGhLaFJUZXduR1JzeHUzODc5QkY4bXd6bmRfUjFtRVNzWHRzU2dfdXRWYzZydUYySVJGOWpZSXBsM2UyNzhWLWxtX25IWDJkSkZYV3RWQlFUTV92UUFiSlJPdjJNdWlGV0tRVU5YVWFPT0NiZnhIa0JCZXJMbmc0ZmZtdVJGMFlzamc1T1NHV2xIVms?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-09-19T08:35:00.000Z"
+    },
+    {
+      "title": "BEI Proyeksikan Penerbitan 200 Waran Terstruktur di Kuartal IV/2026",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnhjdGg2SFF1U0o1OUxiUVpHc1NpSjVPMkp3X0VQYWVram9JZ0FOVmVucGlDZXI0bUhaMnpERXpuMG9wTkp6d0xtNk9EUzN2S1dWS3ZwTWJUSmdiTnU3MHI3WnVROXBNbzIwQVU1ZjhNcTVyeHFZU1VKbGJ2TTdZNTZzWHgxOHJLbEpvQzUyWWUyMWY5cUlpM25PTE8?oc=5",
+      "source": "SWA.co.id",
+      "publishedAt": "2026-09-19T08:10:00.000Z"
+    },
+    {
+      "title": "RNTH Waran Terstruktur di BEI Melonjak Hampir 3 Kali Lipat Sepanjang 2026",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmc3TFVJeUlfYnJqN1U2UTNTQk53QjJBM1hNeWViZUZfNE1hVThiZ0FBY2JObmRjZ3l5eUt0OE9wYVRJMFBMZ3gzR2loX1Ntc1VtMHYxSHd4aHRsT09EWmRza1BPZFlQR2tKWnZGUnRsVWhnLWRUTUhqUy05TllJbW45R1ZRMWVramR6YndIcE02UHBoNEEzbnVPVkJRZmItajVMbURhOUxCYWdDOHVsVF9aUmh1Q0wzdkZodHZadWo?oc=5",
+      "source": "Bisnis.com - Market",
+      "publishedAt": "2026-09-19T07:56:22.000Z"
     },
     {
       "title": "Masih Panjang Proses Peluang BEI IPO, Mari Cermati Tahapannya",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEZrWTVQd1lFa2tmR0tra0dSMTR2TlFBak1kZms4NUZCcGdoeDhVbklYSkp0Smw4YzNTaWl3TlA5WWVWNjdFaDFOQ05GXy1ZV2JUMkdheThERXJ3UmhoV2pXQWNFT0lSeGE0Zk9fYWFUOGprSFpDbFFFM2REVzYtSjQ5RkdpOFJIdjBteWpDSEp6bi1FZGVN?oc=5",
       "source": "Emitennews.com",
       "publishedAt": "2026-09-19T07:31:00.000Z"
-    },
-    {
-      "title": "Edwin Soeryadjaya Tambah Saham SRTG Sebanyak 1,24 Juta Saham di Harga Rp1.771",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHNGNW9BVTA3bmdaSjJQd01FazA1S08yZk00cWdaNF9GYk1hSVA0WnhNMFY1ckJZcnpIWGlpaE1QSjlHVkQ0ekpBSUNNTjhsclB1aWxyRmwwMW1TVG00NDFNTVdQUHZNcWVfZXJCUjFvT3FSVmI1QVRwRG1HRHhxeDQ0RFBhd2VteDJ3UERCVXBjTm9TbkQ4LTd0emdVQ01EdXp2VG1MOGZiNXBJWm5QM9IBqAFBVV95cUxONUdfdkg5LVFZSUhSS1B1alpFVVFUUkVYSVhERy1vcHhiZHNlVGFyTUEyWVpLVFNCOG00RVpQb24xRUUyLXB1Q1FXanFVYXlvRWlJS0tFRTFuMS1iTFBxd3hXOVAxNk1ZZXFGbWVpQzdHMXRZNFJvUXZ1QXZrWXlQLWx6LVQ0RkJzWkpDNlFya05CRnpIekljRWFrVE04bzVhUXFMWG94WjQ?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-09-19T07:25:51.000Z"
-    },
-    {
-      "title": "UBS Lepas 1,19 Juta Saham CPIN di Rp 3.111, Kepemilikan Turun Jadi 5,99%",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUZyYlVueWtNOTRBbWFCTGtyMUNBYW5DR0pNQV9BMmtJTnBVLW9tbTQxSWpLWUpnVHJYOHhJWms0WHJwM21ISm5ldzFiRWZyWXU1eVF4bThqS3BJNEFBd3hVSzRneXZxa0dON2dvWGU4TkNfODFoMkY0YVlBd0pPajFNM2xhWUctSmFMUVpmZjFIVy1yd0xuRXpldzM3S0dqRmNLaDJB0gGeAUFVX3lxTE45Z1VpMjUzekxJb24wQlhPZkNOZWN6Tkx0a3pyamx1c3p1T2NONVFfT1ZxbW1rYVItX2JyWDhaZ3JBODhRaDV5aGVXZ1E0LU93RW5IMzhzSVN0bnNHYnNWVlRidThjM2UxbUc0UlNSOU5oa3J3X3RGZFBnRkt5d0tCbkJEdlNuMThYMFdpWVdOdm1qNi1rMkRZNW5ZOFBn?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-09-19T06:59:10.000Z"
-    },
-    {
-      "title": "Akhir September, BEI Hapus Batas Rp50 dan Terapkan Hapus FCA",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeV95NG5vdklGcUxxcllyQTRfeWZuWldpYjVKWXQ0eGpsTU9mRkFNWFVTLThCOEdFYXdFbVFrRk9UNHRxaFlZcUw5bVY0RDl1M0JHRUJXR1E2NWNlb2pBRHdSdTk1Mmg5SzhyaVU2VUxGU3hxRGtkcHZFX3o3SWxwa1pjVWQ2T1F1eDVQa3YzbFRDS3JRamNoTFNmdG5YeWtQbExwSERyX0NjNkFuSHc?oc=5",
-      "source": "validnews.id",
-      "publishedAt": "2026-09-19T06:45:00.000Z"
-    },
-    {
-      "title": "BEI: Sejumlah Indikator Utama Pasar Saham Bergerak Dinamis Selama Sepekan Terakhir",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDZXZTB0RFM3Yl9sQWc0Y1B3eVd1MXI5YUFzQ0t3NC11TS1kbWNEWFBEYmFhTnFHNU4zTUdaejJJeDhWR0NLRmlFcDVrc0R4bm9KaVpYWTBmZnJFQ3c3aGRNbEhkQlA0RzRKT29EeDJzM0tXT2tQM0k4ZW16S2xSb09zSUlpTV8zUWJfTlVwQW9wNnJOcmxrYWVqR3hoLWFBWmJxNEE5YjlXYzFCQkVUaEstNHJYNEF2X0lZMA?oc=5",
-      "source": "TopBusiness.id",
-      "publishedAt": "2026-09-19T06:09:00.000Z"
-    },
-    {
-      "title": "Danantara Akan Kuasai 40 Persen Saham, BEI Pastikan Independensi Tetap Terjaga",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTQySWZLenFfS0hYQy1MdWxDNnlYZmJMdHVqVGRHb0o0M3o4djhaN283SDFwYzV3UU43WlI3NUl5N1lUVlN3MVBHUm1ZcWIwVkU4OFVVcWdhc3J6NGluZkpxMGhNTGg1NEY5WUptQjZpclIzVjE4SUxVWTVjelhXelViUjhBSGhUVU5mREVXa3NWMGlkbG1iTnIyTzU4cE5fakk4VThNYw?oc=5",
-      "source": "Kedai Pena",
-      "publishedAt": "2026-09-19T05:20:34.000Z"
-    },
-    {
-      "title": "IHSG Melemah 1,53 Persen Pekan Ini",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SGlmR2tWd05mTVFQRnZudi1SS0cxa3JCamFjSHFsdnQ3di1qYUp2RTVpNkVBRmREOFpkU0xUNXNyblJTWmxMQWxMNzNEZEw0NVVkYUxBcEs2RlZDYmNiVWZhV2hOV1VfMmg4VlUzMGdkeW1PeVdMQTB3RQ?oc=5",
-      "source": "tempo.co",
-      "publishedAt": "2026-09-19T05:03:09.000Z"
     }
   ],
   "macroNews": [
     {
+      "title": "Wall Street Pekan Depan: Komentar Pejabat The Fed hingga Pertemuan Trump-Xi Jinping Jadi Sorotan",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFExZWxZYm5kV0hpUzVDZlMzT29yQU8wUjRUOWJISlFYVGczakkzZFN4WkI3RHF1VUh2cXJ3a0dTd3p5dUxqRUVyQmRuWFpNMWlxMmIxX2FsY1VVVzA2MllIZXlicXZjWmxGOEVMYzlyOG1FNTlqMTJUSS1iZ3k5U2g0SVVNTG45c0FOMkxDN2MzY0NyclhSc1NpNWVMaDFsV19tTDBGbDlxMi01QXl3NVBiTHlUb3NRZkRfY011RGlSTWFGUG5tUFR1QlNiZHFCcFJJTNIB1AFBVV95cUxQOFExZWxZYm5kV0hpUzVDZlMzT29yQU8wUjRUOWJISlFYVGczakkzZFN4WkI3RHF1VUh2cXJ3a0dTd3p5dUxqRUVyQmRuWFpNMWlxMmIxX2FsY1VVVzA2MllIZXlicXZjWmxGOEVMYzlyOG1FNTlqMTJUSS1iZ3k5U2g0SVVNTG45c0FOMkxDN2MzY0NyclhSc1NpNWVMaDFsV19tTDBGbDlxMi01QXl3NVBiTHlUb3NRZkRfY011RGlSTWFGUG5tUFR1QlNiZHFCcFJJTA?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-09-19T11:25:00.000Z"
+    },
+    {
       "title": "The Fed Naikkan Suku Bunga, Ini Dampaknya bagi Ekonomi Global",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYUZPVmVtdDBPbnVZb2dJSjVhTkxVQkJRQnlGd0paSWVxLU16VmZGZzdOSGtWYkF6MjJ0V2NfVFl0V3RQVHlhMzlMZHVsa2pZUnZCYWNEOHI5SVF0WWN0X1RSMUJHUF94clQ2LXFtc01EY1ZIUndRZ25sTVZsVWNYX1NRRXZnNFRwS2JLMjI5eHNBSlRFQmlpb3dXUnN0cHVOYl9GTVhjLWpYaUY3VkNac21ER1ZhMG1TUHQyWUFpT3pmaXpZZ28tS3N0cWkxYUE?oc=5",
-      "source": "Kompas.com",
+      "source": "money.kompas.com",
       "publishedAt": "2026-09-19T01:43:00.000Z"
     },
     {
@@ -128,26 +134,20 @@
     {
       "title": "Wall Street Ditutup Beragam, Pasar Antisipasi Peluang The Fed Naikkan Bunga Oktober",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFhSVmJESWxnbHc3b1hHVlRrVnYxeDFPcHR0c2gzLVhjYW1DaDl5QjdKcXlGZFV5NWt1by1DN0hENENxdHhqajFzZTQ2ci1JWXNEb1NDMEF1N0o5dFU0NUtFNWhNd2JsQW9HMk5MOUNVZXB2YkxRQVU2S1FuVzhFalZvbXVFT2Ezek9OeTlOb3NaNUl2OHl1Sk14NGtVUjlyN0ZiMFlIR1Azek8tX1ZmdWNoVnYzY2VCUnfSAbIBQVVfeXFMUDgzS1ZpR09TTndhUFlnd2lQRy1DZk54ZUZVbklGSENIeUNHanRTZk1aMDRBR0IwOHdWZVZrOVFFTkpmZ3JiNXRVZ0NKdDdxRUoxSzk5NFJYbmtJX19heGk3dTF0d0NCRnlXN2lUMWhweWlITWRnVG42WWhJUDhEOFoxS1RucFRINFQxNFhNdlBpTWJXS1pHZXFNSnBsMVVkNWg4N0k0VVJ5SEg1NHhpOXF3Zw?oc=5",
-      "source": "kontan.co.id",
+      "source": "investasi.kontan.co.id",
       "publishedAt": "2026-09-18T22:44:13.000Z"
     },
     {
-      "title": "Pasar Saham Global Tertekan, Suku Bunga Tinggi dan Perang Timur Tengah Mengintai",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd2VGUkNoRTY3dnRLbzJ1WU92Tl9TeHZ2eVFkTGlrejhYMFRwT2NzRWtiRmlYTEhtZ0VFRTctbFpBWm9EMW5JSVpnZjNDWTRGbUNZWl9iUjlRR1FPYS0tMnI0YXN6VjJJb1dmWm1XZkhQVGxIdGQ2TDZ5a0lrY0ZqcFFDbFhjdVVhLWU4LWZfSTVRTHIwbElwS2I4dDJHSGpwWWFoNE4wNnBRNVBQQ3diVVViVnM2d9IBrgFBVV95cUxPUHpZbkJ2TTNGSFB4RlQwRmpzMTJqWDFHUnFEZjBkeFY1ZGJ5THNWc2JRMU9YR1JRelB6SzZJY3JHdGJyNVJJOVZuUlg0T3Rfanp5NlBOMHktX1JBbThXOFhVaVNBVmd5ZVZmYm45bTFueGxmVHFxUE14R2hVelo0endIOWZ1ZllUdGoxRzRFVUhrVEJVR0J2amZBdVVqTDVwWDQ5UDRvaUpVamdWMWc?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-09-18T22:23:19.000Z"
+      "title": "Suku Bunga Global Berpotensi Tinggi di Tengah Lonjakan Harga Minyak",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PSlRhbTlmOUFXYndPNTQ4dUxVWHhRc1l2Z1pTTDhSNzhLcWtVaUJ2YXh5STZYZVdYeHRGY0xCZFE1V1U4RFlSRHM5ak9ocXhwNExuQzZlUW5STnh4eHhFOVBQakFtQmxNdFVpdQ?oc=5",
+      "source": "Readers.id",
+      "publishedAt": "2026-09-18T22:38:00.000Z"
     },
     {
-      "title": "Bergerak Terbatas, Wall Street Ditutup Bervariasi di Akhir Pekan",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGpIaUpEeWlKOXlTVkxFOFJLdG1mVV9hbmJsV29KbUgwdElOb2ZZU0cxbUgwLV81RnBIUnlWSXlwaUlETnJ5dDJrZ2pERzJleFYtWEVSaFZEWWVyQ3VqWHE3T0hWcVVjNHctQ2JtS1JzRkdTZ1RST2ZZY1hPNkRlMDhNdHVWNTAtMGhhZzZKb0FTVGZiV1dWb0xSeGhfdEpW0gGYAUFVX3lxTE0zSHlad3d5MWFBNXoxS1ZDN2Vrb3hrOVFrU0N2VVRJdzR1R3BSOEUxMEtldlBxbjk4TkV6a0ZvYzBnUWZJUjZyaFF2czM1cXN4Rzg2T25iNnlYV3R1eEs0VzdFSTNpbGYyVFdpOG56aHZJNmZpVzFiZ1VYT2JQdG1rMnNPS0trSHlZb2FwRzZOY0RlbDBXbVQz?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-09-18T22:16:47.000Z"
-    },
-    {
-      "title": "Jelang Akhir Pekan, IHSG Turun 0,33% ke Level 6.441",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWsxeU85Y0Rnd01LbS11S0ZkNkxzLVdJMVlUby00WW5RaUNsODBKMWZjU081UHVKVW55SV84RkN4bW1DTDBzaVozLTZtQzFjN0xPTzR6WTl6ei1xRF9jM2xHM2k1c2lWcWk0anV1V2V4YmJocW1FdnoxWHAwTERzSFcwVzQ2VmZDQm5jSmZXN2FYcWdJemdzUUlqS3B1MXIxQWRodkZCM2VHem9LR3lzdEJ6MNIBswFBVV95cUxPWWsxeU85Y0Rnd01LbS11S0ZkNkxzLVdJMVlUby00WW5RaUNsODBKMWZjU081UHVKVW55SV84RkN4bW1DTDBzaVozLTZtQzFjN0xPTzR6WTl6ei1xRF9jM2xHM2k1c2lWcWk0anV1V2V4YmJocW1FdnoxWHAwTERzSFcwVzQ2VmZDQm5jSmZXN2FYcWdJemdzUUlqS3B1MXIxQWRodkZCM2VHem9LR3lzdEJ6MA?oc=5",
-      "source": "cnbcindonesia.com",
-      "publishedAt": "2026-09-18T09:48:28.000Z"
+      "title": "Kenaikan Saham Teknologi Menopang Penguatan Nasdaq dan SP 500",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QdWk5VzRnaW9oYkhzaVZISlFWUzZGR3FQaWxQdF95Rm1tSFRpN1UwbFo1TVZ0Tjh1Y2Rsa2h2QnJTeTNqRzhFMHpMczZkck1yZGRWX1RLdi1BVmxNTS03ekx4SWQwTDU1X3c?oc=5",
+      "source": "Readers.id",
+      "publishedAt": "2026-09-18T22:24:00.000Z"
     }
   ],
   "errors": [],
