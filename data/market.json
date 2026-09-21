@@ -1,28 +1,20 @@
 {
-  "generatedAt": "2026-09-18T13:18:53.750Z",
+  "generatedAt": "2026-09-21T07:46:21.731Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
     "currency": "IDR",
     "delayed": true,
     "refreshIntervalMinutes": 5,
-    "price": 6441.16,
-    "previousClose": 6436.85,
-    "change": 4.31,
-    "changePercent": 0.07,
-    "quoteAt": "2026-09-18T09:00:09.000Z",
+    "price": 6423.19,
+    "previousClose": 6441.16,
+    "change": -17.97,
+    "changePercent": -0.28,
+    "quoteAt": "2026-09-21T07:36:19.000Z",
     "exchangeTimezone": "Asia/Jakarta",
-    "marketState": "CLOSED",
-    "date": "2026-09-18",
+    "marketState": "REGULAR",
+    "date": "2026-09-21",
     "points": [
-      {
-        "date": "2025-09-18",
-        "close": 8008.43
-      },
-      {
-        "date": "2025-09-19",
-        "close": 8051.12
-      },
       {
         "date": "2025-09-22",
         "close": 8040.04
@@ -974,33 +966,29 @@
       {
         "date": "2026-09-18",
         "close": 6441.16
+      },
+      {
+        "date": "2026-09-21",
+        "close": 6423.19
       }
     ],
-    "fetchedAt": "2026-09-18T09:00:09.000Z"
+    "fetchedAt": "2026-09-21T07:36:19.000Z"
   },
   "fx": {
     "symbol": "IDR=X",
     "pair": "USD/IDR",
     "baseCurrency": "USD",
     "quoteCurrency": "IDR",
-    "price": 17740,
-    "previousClose": 17748,
-    "change": -8,
-    "changePercent": -0.05,
-    "quoteAt": "2026-09-18T13:14:36.000Z",
+    "price": 17833,
+    "previousClose": 17740,
+    "change": 93,
+    "changePercent": 0.52,
+    "quoteAt": "2026-09-21T07:27:35.000Z",
     "exchangeTimezone": "Europe/London",
-    "marketState": "REGULAR",
+    "marketState": "STALE",
     "delayed": true,
     "refreshIntervalMinutes": 5,
     "points": [
-      {
-        "date": "2025-09-17",
-        "close": 16418.6
-      },
-      {
-        "date": "2025-09-18",
-        "close": 16569.1
-      },
       {
         "date": "2025-09-21",
         "close": 16637
@@ -2030,11 +2018,15 @@
         "close": 17718
       },
       {
-        "date": "2026-09-18",
-        "close": 17740
+        "date": "2026-09-17",
+        "close": 17757
+      },
+      {
+        "date": "2026-09-21",
+        "close": 17833
       }
     ],
-    "fetchedAt": "2026-09-18T13:14:36.000Z"
+    "fetchedAt": "2026-09-21T07:27:35.000Z"
   },
   "errors": [],
   "sources": {
