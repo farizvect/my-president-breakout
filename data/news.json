@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-26T13:41:02.180Z",
+  "generatedAt": "2026-09-26T17:34:00.261Z",
   "headlines": [
     {
       "title": "BEI Catat 5 Saham Ini Jadi Pemberat Gerak IHSG Sepekan",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHIxb0p6Z1RfWW1YRFBoOE83WVJicVduVm9QRVk0MmhpLUo3YlM5cWh4NU1aazNJbG1HSVQ4b2lzR25rcThHWk5sc3ZlcWQySEl1VTNzeDRtbEtLQkpUdjF6WV9sVHdHc2VGOUpsRHFuT2htQ1hIc1JCX3BaVXNaQy1xc3ZRQQ?oc=5",
       "source": "Infobanknews",
       "publishedAt": "2026-09-26T07:01:00.000Z"
+    },
+    {
+      "title": "IHSG Sepekan Melemah 3,09 Persen, Kapitalisasi Pasar Jadi Rp10.905 Triliun",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHdUSjNybjZWOXNvUEU5UkZ0d3FQMlFpSDFENnFZN2o4NnJWM2d2blBmeWc0Q3dHY1lfODJHSjNnUm9aQzUxOGRfZGUyWnBlSzNNckdkcHQ1TzV0czE4MU0wNzM2UndZb2xKU1pnMmtRTUQ0ZUpaR1NPTUFuNnJjdmhaZFNsN01kYV9nZjhYM0JnWVdfcXljNVFncEh0QQ?oc=5",
+      "source": "Infobanknews",
+      "publishedAt": "2026-09-26T05:59:00.000Z"
     },
     {
       "title": "IHSG Sepekan Anjlok 3%!",
@@ -26,6 +32,12 @@
       "publishedAt": "2026-09-25T23:00:31.000Z"
     },
     {
+      "title": "IHSG Tertekan 3,09% Sepekan, Ini Tiga Sentimen yang Menekan Bursa",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXJkcmhyRXJyeDBGdFRuZEd4SEMzOUJoWENuNzZCTEQ5TmFvcFl1RnJvSWNrVElHNmVqcm9idUVmeVFNeHp1UldiTHdRM2cwWFNRQlZXMXN1UTVOZWp6blExbjJXckhTbkFQT3dUd3ZqTjdKRzE4UV83d2szalJtSU1TV3BKTU9xNVpzM1NZUU9hbDJXczJDYnVFZ2swc3fSAZcBQVVfeXFMTmJOQkY0ekIzZFBuUHNPOVFFQTRJbnpfRHpPNHN1RFlWXzhGOWtVNHRfN2FuMHA1NEtnTHRUc1ZhTS1GUjNjai1CUWI2U0Q5WHNlZjlkNFQ4RnB2XzRRUzZVc2cwa1hJcWx2cG1ZTXUtQXdUcjdfRkxKZnhDa2o5Y2ROUTlUUFROUUlYN0EwNmZyempHYVRaSQ?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-09-25T23:00:31.000Z"
+    },
+    {
       "title": "Ditutup di Level 6.241, IHSG Akhir Pekan Melemah -0,90 Persen Oleh Pasar Dana",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWURnMGdKY2VKMTdnVjVKelZrWEFIcG1qRzJvanRRc3NSclNDZWVrbFo3SXlYTzhsRFVSWkNJZDhSQm9XdzlhYVRoRGJPano1YXVjcHF6a1VZOU10eDZtampiQVItSjQzUWFFR0hYQkowQkpIZ1VmeEtuUll2aE84Q2g3VjdUMXZqWGFueXdONGNuWWNyRnJsOWtrX3NaLUsyODlkbkRMMHN3ZUZ4YWhtRDFGRQ?oc=5",
       "source": "Investing.com Indonesia",
@@ -34,34 +46,22 @@
     {
       "title": "IHSG Koreksi 3 Pekan: ENRG Siapkan Right Issue & BBCA Bantah Rumor Diakuisisi Haji Isam",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONXEwV0xOYVpiblhWU0ZFeWNQSkllYTVuVzdEaTlHV3pKWThYa3ZWMFVmaHlLSmtCREtSaXU3STFiM2t3Vjlqb2hSZzd3NUJqaENGQll5T3FDZ1J2Y2prRmNfV3BwakFOSTJQTXpOM0xlS2lGLVdsYkk0ZzJGNm9IMFZFZk5xenJWSzhpamVIYVNVMXlt?oc=5",
-      "source": "Ajaib",
+      "source": "ajaib.co.id",
       "publishedAt": "2026-09-25T12:20:16.000Z"
-    },
-    {
-      "title": "IHSG melemah ikuti bursa Asia, pasar cermati pertemuan Trump-Jinping",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXdCdEZROHh4U3p6WFUxU0h3enhLOC1FSDh2eVpaUmVTNnExekstQnFQRVNLOTRkOGFPcU1MM0FxbmpaZ3daaUhXSkZjQWkzSTB6S3R2OTBIQXNRbUplMzhKeDVfRWNFcHpxTTlnb19TNmJsNFlISktha1BBWDdrdVFPcHpoLTYtN1JCRTQ1cjZVSWYwTXFzZzhQd19ya19uOU1yS0xSZld0RThIU29lN3pqZjXSAbQBQVVfeXFMTVF3QnRGUTh4eFN6elhVMVNId3p4SzgtRUg4dnlaWlJlUzZxMXpLLUJxUEVTSzk0ZDhhT3FNTDNBcW5qWmd3WmlIV0pGY0FpM0kwekt0djkwSEFzUW1KZTM4Sng1X0VjRXB6cU05Z29fUzZibDRZSEpLYWtQQVg3a3VRT3B6aC02LTdSQkU0NXI2VUlmME1xc2c4UHdfcmtfbjlNcktMUmZXdEU4SFNvZTd6amY1?oc=5",
-      "source": "ANTARA News Jambi",
-      "publishedAt": "2026-09-25T12:10:08.000Z"
-    },
-    {
-      "title": "Turun Lagi, IHSG Menutup Pekan Ini di Angka 6.241 Disertai Net Sell Asing",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0MwX2FlV0c5elhyTzAzcTlsN0JxSWRVX0s0N1FEV2xNVk1iODE2MS10SUo2d3dVNmhFemlvWEU3elNiQmxyWHQtQUJMV3VhemRDR3dtb29GTnBubVhVSG5aMlVpRElBQlVQdGt1ZWR1YXJWaHlIeHdCT0pCajBtclVfclpENDFqSzJ6SEw1NDNIR0xNcW00R2RJUWVfS091Q1VFak5HNkhZQk0?oc=5",
-      "source": "Pusat Data Kontan",
-      "publishedAt": "2026-09-25T12:04:21.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "Saham ULTJ Melejit sebelum Pengumuman Akuisisi, Ini Kata Manajemen",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejl0YmlGQkJRbmoxYjRob1ltVVJFZVpLdUxVZl9XSjdyYmlCTVZoX19OaExFcl85eE5RTThPUUFidklyUkxibmZ2VG9OelVCVUhDa3VpLXZnWWRLQzN4ZlU0ZWR1UEI5UFlfaXNIVktCSTJnWERsWGVhU1JrNVdYNnZxRGV1NmhEcnZXMmdNWFNSX0tTQmVlV2xfcEtZTkp4bFlfUUtITWE0NFFO0gGsAUFVX3lxTFB6OXRiaUZCQlFuajFiNGhvWW1VUkVlWkt1TFVmX1dKN3JiaUJNVmhfX05oTEVyXzl4TlFNOE9RQWJ2SXJSTGJuZnZUb056VUJVSENrdWktdmdZZEtDM3hmVTRlZHVQQjlQWV9pc0hWS0JJMmdYRGxYZWFTUms1V1g2dnFEZXU2aERydlcyZ01YU1JfS1NCZWVXbF9wS1lOSnhsWV9RS0hNYTQ0UU4?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-09-26T13:45:00.000Z"
+    },
     {
       "title": "Danantara Kirim Surat Incar Saham Bursa Efek Indonesia",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iVHByLTQ5LVJWekRxVGtYVTJOb0RBNmkxS1pIdEZSajJzYm50RmViNnJsazZDRlBBcDI3UVJoM1V6elRkS2ZNcUlXenhiWUFZWHNiQm1paWRrZUswX25xZVI2dw?oc=5",
       "source": "SuaraGarut.ID",
       "publishedAt": "2026-09-26T11:03:34.000Z"
-    },
-    {
-      "title": "BNI Raih Dua Gelar di Turnamen Padel IDX Channel, Ini Daftar Juara Lengkapnya",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXFob0lrSjVSUlRtcEVUeFMtcHR1c1c1TlhIaS1mTFhSRXdXUFBibWVLZHk5NXYyRGZaXy1RTzBkdGQ3WFhlcm90ZWFWRG9vM0V1S3MxZFZyYlQ4YlY3cm5WaXJtdG5FaWJQeU83VExiVEFSbllhRXQxVS1ROElTYzg3c096LUpDZlR6NGZZOXZ0Y1dDb1h5WlhrUkNyNUhvYUFNeFVNNlZRdFJLQVZKLXB4b1c4SnJ1cTQ00gG7AUFVX3lxTE1RcWhvSWtKNVJSVG1wRVR4Uy1wdHVzVzVOWEhpLWZMWFJFd1dQUGJtZUtkeTk1djJEZlpfLVFPMGR0ZDdYWGVyb3RlYVZEb28zRXVLczFkVnJiVDhiVjdyblZpcm10bkVpYlB5TzdUTGJUQVJuWWFFdDFVLVE4SVNjODdzT3otSkNmVHo0Zlk5dnRjV0NvWHlaWGtSQ3I1SG9hQU14VU02VlF0UktBVkotcHhvVzhKcnVxNDQ?oc=5",
-      "source": "idxchannel.com",
-      "publishedAt": "2026-09-26T10:00:00.000Z"
     },
     {
       "title": "BEI Kantongi Enam Calon Emiten, Dua Perusahaan Beraset Jumbo",
@@ -96,7 +96,7 @@
     {
       "title": "BEI Terapkan Harga Saham Minimum Rp1 Mulai Senin 28 September 2026",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMF9ya1Zpdzk0ODhuTk5NNk1MNWYwX0JVdTBmb0NkSE53MFBiWnBORGpFa2RyYmwxTUlwVXdEODRJNmRNMjFNb1F1STQwNGF5UG9DaWExVW0wLVRCSExkQ3pFZW90dV9hQTVxSUJDTHI5LUFicURPc1VDVHFiMi1Uc0R3dVhLRW1DYjFleWY1M1JDSWxQc2NrSzJiTWJERVJvV0x5R0ZFdkhyVXQ4OERj?oc=5",
-      "source": "timesindonesia.co.id",
+      "source": "TIMES Indonesia",
       "publishedAt": "2026-09-26T08:35:01.000Z"
     }
   ],
@@ -114,10 +114,22 @@
       "publishedAt": "2026-09-26T08:29:25.000Z"
     },
     {
+      "title": "Analis Wall Street Prediksi Harga Emas Naik Pekan Depan",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yZ1NPNjVqQW5XaWFCTTEtenZLR2Jxc2tnYk02cl9oUkU5TVhfWmcwVWN5NklXXzRYR3dGU3RSYUt4M2FSVkJzWmwwbTN3Q3o0SlNwbi1tX1M1ZDFfMjhJNTkyQzNqYUZfWjBZMDFB?oc=5",
+      "source": "Readers.id",
+      "publishedAt": "2026-09-26T08:29:16.000Z"
+    },
+    {
       "title": "Arah Harga Emas Pekan Depan Menurut Prediksi Analis Wall Street",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcl9tY1p6Szd3UnRXc2ZDNTJqeG9OUlcyMmhCSjg2Nm1GbXBYSy01aVZ3TzR6czRseUJnUEtnU1VsU1NJN245QU9kUFRxX2puLWJzcUtQQVVhcU5rOEI4Smk1UU83WHY0Z1ZNaVdmMGpTWUtjUzNwV0pLN1NkWFRKZEs3bXo3Sll4ZXRRSmEwek95SWg0RVp6akRuS3dWdw?oc=5",
       "source": "investor.id",
       "publishedAt": "2026-09-26T08:25:00.000Z"
+    },
+    {
+      "title": "Wall Street Terkoreksi: Pasar Menanti Data Inflasi AS",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDFxbHdQaDRhcG50ajVUZU1Vb3d5NHEzUXpYeEJGUnBKR2ZsWDNwa280cG9DZHVMSkc2b29iWEZBeTM1dGVIN0h2S3NTNHFYUDluNGxnU0twbmptZW1ZOXNvbThGVTIwQjFhTmdMdTJaOVJudkU5YTVOUTFzS3JVVFVkU3pTcHUxT2tLQ3pWLUFRUFg4WkV2cC1pWDZ2UXpQOUNCMjBKRVh5OU1VZDBuSEVmaFFQOEFPS2c?oc=5",
+      "source": "cetro.or.id",
+      "publishedAt": "2026-09-26T08:06:41.000Z"
     },
     {
       "title": "Harga Emas Turun di Bawah 4300 Dolar AS per Troy Ounce",
@@ -136,18 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVJlOVB2WGJ3Nl9OQmRUY21fMXlJSFFUeE5KOEdxVVVSbm5QbEphT25pWk5iWFFMWHRzLU13UEQ0cmxtbzVTZlpZQW9NV0FadFRBaE5zbU1USWl3Q0xqQk9FZ3RjZHprNHJsZXJ0N3pabFN0eHVjVlhWYk1zTDgzS0h6RndPVGkyRFN0bkNyLUVZRWlFdllidnpldDVYdEFwNHF6b0psOWJHaHJ5NlNsQUk1cDFOSEZ2SmdyQlA3dzdHUdIBwgFBVV95cUxOVVJlOVB2WGJ3Nl9OQmRUY21fMXlJSFFUeE5KOEdxVVVSbm5QbEphT25pWk5iWFFMWHRzLU13UEQ0cmxtbzVTZlpZQW9NV0FadFRBaE5zbU1USWl3Q0xqQk9FZ3RjZHprNHJsZXJ0N3pabFN0eHVjVlhWYk1zTDgzS0h6RndPVGkyRFN0bkNyLUVZRWlFdllidnpldDVYdEFwNHF6b0psOWJHaHJ5NlNsQUk1cDFOSEZ2SmdyQlA3dzdHUQ?oc=5",
       "source": "fxstreet-id.com",
       "publishedAt": "2026-09-25T17:58:50.000Z"
-    },
-    {
-      "title": "Nilai Tukar Rupiah Tertekan Mendekati Level Rp 18.000 per Dolar AS",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Hck5QWTItY1dpUkRqWm8ySmlGM0NFZzdfVWdNdTBLb3dIcHZQYkFjeFpwanBjQnNCSU5YMVpZbHFEQ0V5TDRQb2xvQ2swR3pwUkMtdGpSdkUxT1NyOW02UVNQU21jbms?oc=5",
-      "source": "Koridor.co.id",
-      "publishedAt": "2026-09-25T15:10:17.000Z"
-    },
-    {
-      "title": "Wall Street Naik di Tengah Yield Treasury Tinggi",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWhia2pmcDg4S1JDT1NTYjBrRV96WXkwX1VBUWhNQlllNWdZZlhXakdqMlVuWm1MMnlXaTFING1yQTBhVUdEb2UxcUtGUXRHQ0hXcmFzTUNZd1UtRlF5RUZIVGVjelMxTUV4bndtcS1aWWtLRjRweGp2RFNZQjhzUzNZeGc4T2ozTzkyNUFZekFDYXJXenZZbjNpXy1RQ3owbHVoNWJ2N21pd0t2S0J3NE5nNA?oc=5",
-      "source": "XTB.com",
-      "publishedAt": "2026-09-25T14:33:15.000Z"
     }
   ],
   "errors": [],
