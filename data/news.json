@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-09-29T19:44:00.426Z",
+  "generatedAt": "2026-09-29T23:21:06.644Z",
   "headlines": [
+    {
+      "title": "IHSG Berpeluang Technical Rebound Hari Ini, Tiga Saham Dipimpin VKTR Layak Dilirik",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOTlZZC1JWk9SVVFrVjllYmV2VTI0c2FBZlpkSEd5aHlnLVJtU2otTVlQTFJYNkoxQmVFektoOHIxWWphR1ctVFVRelV6aVNCeWFITXJMdlZWREE1RDVtSVZ4bC1rM3Zla1ZScUtwUWlkTHU5TTVtT294WFR5MzZyNG5Ha1BDSE5NdFg2MHUxRXlOamhGRGd3bVVTYXdhUnY2dmpDd1pKWVVUQnNIM0wzNk9EOUtSU2Q1NFRmRg?oc=5",
+      "source": "InvestorTrust",
+      "publishedAt": "2026-09-29T22:15:00.000Z"
+    },
     {
       "title": "IHSG Hari Ini Koreksi 0,43%, VKTR Siap Right Issue Rp3 Triliun",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcS14bndiMFpzVjdpLTJGWEhCVHJvMk9YeXB4cjZTRGEwYV9LUTlxM2l6QWREdjdWeHNfME56X3dIWGNDQW9GcGlubUd3dHNGaDdPaUhIV1ZITEExSFpKbVZWcVdkWTIzZUJCSkVCd3IxSEFva01MTjNmSzB4Z19EUlY5OW0?oc=5",
-      "source": "Ajaib",
+      "source": "ajaib.co.id",
       "publishedAt": "2026-09-29T16:39:13.000Z"
     },
     {
@@ -16,7 +22,7 @@
     {
       "title": "Negosiasi AS-Iran Belum Jelas, IHSG Ditutup Turun 0,4% - Market",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnhGSWZfZGtoR2s4am5xVzltUk5VeS04T2tydXhKVEtGSGJoT0hwNkFkV1ZVbjFraGhwaU5UbDdsY2JwUE13M2xXMGxGcjRscmVUNi0tWkNRSk52dmYzdGxaNVYxR3JJbU1OMDFtY25UWXU3ekoxb1RnN0dkaUNxQTVyVnhBdEFlb1ZUOXBmYlJ3cGRGTVZlZlZ5TUc2elpMN0Yxd18ycw?oc=5",
-      "source": "bloombergtechnoz.com",
+      "source": "Bloomberg Technoz",
       "publishedAt": "2026-09-29T11:00:33.000Z"
     },
     {
@@ -34,7 +40,7 @@
     {
       "title": "IHSG ditutup melemah ikuti bursa kawasan Asia",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPak1hOXAzZjE3d2E4R1VmdTlXSXo0cEZGd3ZKa2Z4dnk4d1Qwa0M1cUhLYURoU1BsVU0tMDc1d0RWR285V0xucDZzVzdkckJzYzZtaXd5R19IcS1ZcVl6OUEyRUdoSTQyZEJyTXhTTDBfX2dIcGRvaklNaXBvYjVydktZVDBiWHBGeU5DeElmUWhwenBmYldZ?oc=5",
-      "source": "jambi.antaranews.com",
+      "source": "ANTARA News Jambi",
       "publishedAt": "2026-09-29T10:05:29.000Z"
     },
     {
@@ -42,65 +48,89 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjJwbUdnRUJ6R1F3SEZ4dXd2Tjg1OHF6Q0RlVDRIbUFOSENyaDVKV2hpUERjV0oyUDdVemxTZDRjblo4UERPMjRxbWZyeExZUFhnOUhlNzZRZk95aWhMd3FMTEwtUTNEZkhNYm5xTHhPM2JnaXpORDFmNzZNbWxKV3oyN0pSbl9pSGJWZWFaaGjSAZMBQVVfeXFMTXFzazN4TS1jQkhudlkwVGNLVy0zMXZqbkZwY3RrNEJCa0hLSzVaeWx5QjlIN2Zac2ljdzQ3c09VMVZhRVYwMXZsYmdwY0JEWXl2XzRVVFhXc1JPR2IxTnFxM2dZREZ0NHl1NHlXLUdmeEJaMjlqWTc0Rmw1VElzRzVrcnZ6X1JSTm5obkdrcTRRSnZv?oc=5",
       "source": "ANTARA News",
       "publishedAt": "2026-09-29T09:57:54.000Z"
-    },
-    {
-      "title": "IHSG Kembali Turun, Masuk Kisaran 6.120 (Selasa, 29 September 2026)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORk1uTUtud2U5RHlJZWpTX0pFR2k4M2Q2Xy1IYTVhbXVHMXB5ZElxcFlzRlNvbzdYb0l6OHBpV0FLa0RtLWozcVhFbDZaSUZUc3M2VGFoUmdTZWFKcHd2STByYk4zWnJRLS1OV2xPdFhBbzJpaklIOEJLa19yTVdHQ212X043UXRjWE9rR1hRdXFZNlNaVkcwcHQ3clczaHU4dWxaOWs4NGc0TFY2cjE1M0NBVXdoTHJTdlcxYkdBOVMxdw?oc=5",
-      "source": "Databoks Katadata",
-      "publishedAt": "2026-09-29T09:47:50.000Z"
     }
   ],
   "stockNews": [
     {
-      "title": "BEI Tetapkan Lima Saham Konglomerasi untuk Short Selling Mulai 1 Oktober 2026",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFRpcTFtT2d3NkFrX2pfOWNDUUtEX1dMSVZ4VjBkdGJERnVaU1dQZm9ZNFVkSENicWVRQThvNDI2X21aZm5rTmt1ZERNN3VWbWFiNmw0cUMwVDd1cjQtenlDRXVnZ0VfV1pOU3prVFNOU3A3OUpwNVFCTnJuMEZ2YnhyUm5PamNoRWxxWFd2V2pwSmpsaDlMeFh5VTROWXJ1ZFBReEdPeDNrcjA?oc=5",
+      "title": "Saham GOTO Anjlok 14 Persen Akibat Kebijakan Batas Harga Baru BEI",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2eHVkY3J0a09JVjhkU0ZXN0N3a2xvZjFqUWpfYndkNTh2SFRvNTA0Yllod09WUHh5WWdiQWZYM0FiWlNveFlFdVdua280Qk8tLTNTLUkxeFBYOTRGR3JKbmxKSQ?oc=5",
+      "source": "SuaraGarut.ID",
+      "publishedAt": "2026-09-29T23:11:00.000Z"
+    },
+    {
+      "title": "Perlancar Arus Kas, Pelayaran Tamarin Samudra (TAMU) Restrukturisasi Utang",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjJZelZOeGdZWG1SdVpscDJlcXZiUy1YeFdldTQ3ZXlOMWtJMWtncXZXVmo0UEROWDlzaERDcjNJYm5tX3pDdVhYUWViRUM1Yk5hR0U1ZV9xcGE1Z2VhWnRTNWx5Z3BMMUxwMXNUSXJzTzl0YTVJYjdtQ2ZtUXRzbXJDa2dSZ29aQmhlRHIxMm40bVlQOHpDbVB0N1RZYWVqXzg0?oc=5",
       "source": "SWA.co.id",
-      "publishedAt": "2026-09-29T19:04:14.000Z"
+      "publishedAt": "2026-09-29T23:00:00.000Z"
     },
     {
-      "title": "Saham GOTO Anjlok 13,95 Persen Setelah Kebijakan Harga Minimum Rp1",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ea3VtWVJlT3Bha1BoQ1A0MDlPeFg1LXRDQTkxdnQ2UU12bjYyTF94QmROeS1OT2lZNmNzeEp1bHQ3emhpZGxfdzVBbDNfOWpKTnJOVXI1NEFCVUN0ZnJmeF9ETEVTV0hTcUQ0aHhjNHNuNjNuQVFj?oc=5",
-      "source": "suaralandak.co.id",
-      "publishedAt": "2026-09-29T17:36:00.000Z"
+      "title": "Saham GoTo Turun di Bawah Rp 50 Setelah BEI Ubah Batas Harga Minimum",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyNUVTbzdCTy1BVW9JdXQxelFuWmZ4aFRVbGJ6RWwta0FsM01mUTZvNWl4NFV3VGc0ZVdSLTNHZ004WmNHOUlPRlZVTDBJUVg1cWNyWHI0SjJBYTJwdEN3?oc=5",
+      "source": "SuaraGarut.ID",
+      "publishedAt": "2026-09-29T22:57:00.000Z"
     },
     {
-      "title": "Short Selling Lima Saham BEI Dimulai, Cermati Catatan Analis",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1poa0NXSkJoemdSTVoyR09qZnFUTThaSW5DWGlCb254MUd4T01YemZubDNJcjhkVnVXTU02aF9uUlcxQnFSRVphQzhXWlA3MFppVThiTXFGd0NSOHUzT2xQclJ5Ym1YUDduMUVYNk0ya1VvdnZXYVVxSEdHWnh5dXpfb2JqM1FaRjQ0VFJIUXNfQWRheVBiaktUd9IBkwFBVV95cUxNSXREZEJza2UxNm9rUmtnX1VSOVdUWkpMWGVnb1JwSUVKUUF4SkxjZnU5NVFDMnR5djNvUGJDQ1VLMFlVNTZ4eVRhX2FGQ3BtbXJ5OHE3WXpUTVdGWmktQkhsYjNGU3ZwMzZWX09ybkpyTjhqbDB6b3VmanZnaEZFZ0tRT1JqdmlkSzdnVGFqaGoxTnM?oc=5",
+      "title": "Emiten Milik Haji Isam Cetak Volume Hauling 3,1 Juta Ton, Laba Tembus Rp 27,2 Miliar",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdUNXYXpLRXJZUEItMFBTVzdJVFRzYkZtUUg3VXNKcXFuNHZmUlBCd2RsRFBSdm9TakNMUncxU3BMUXU2Vk1NSFZSYXNqSS0xTGlaNGNsUkl3Tk94TmpsUUprNTJITTdPZ3ZybHpXeXk0RlAwOTVpRGlyc1ZnVEpJU19BSFgxSThFNDFaRGZXNXZLSkQ1NlV4SXp6c3dtUE4zUFdjWHQ0bDZqSmVuWEJxOHQxWER5MnBR0gGwAUFVX3lxTE9feFI4QTkxdm0wM0Z0d0YxcmVVU0xIYUNMZGtDTjhGUlFMNkNRS2pCd2ZrWHVSRzJ4SDlfSWhoWVMwVnR4M1VRRHNrYXFjaDhXSXBGZmlyaUNxSUJuLVY2Z2gtS2ZyTFhTdW1sWnoyRDMtcFhfTWV4OHcwOWl3U1UyZzdIOFZUMHBWNW9mYWhfZGowTzRwUHd4SjdCeWh4bl9KR3Z3ZWZOSEg5MkpyTm9R?oc=5",
       "source": "kontan.co.id",
-      "publishedAt": "2026-09-29T16:09:53.000Z"
+      "publishedAt": "2026-09-29T22:55:40.000Z"
     },
     {
-      "title": "Akhir Era Saham Gocap: 69 Saham Turun di Bawah Rp50, BEI Sebut Bukan Penyebab Utama IHSG Anjlok",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGxBVkYtUzZWQzI3Wm14LVBjYThFNGlES2hsT1BTZ003MGdTNGtYdzJBODFDWnQ0N1dCU0ZDRm9WeFdETy02ZWF6a3VZaHpCZzJ4OEhDeko5blA3eGJSbUV2OFo3TzFkT2ltSHZRdnlNYzlLMG9mY0ZnaGhBR0NHcVg1bU1tdkNyNFdaSUVFa2dlVzFBZFIzQ0pmREpwYmZ0aG9kSHVpRDBoN3JscldwYk5XTVFDbUxNbFExcVRnQnVPcFVUY2FfYUpMRm90SWM2eERCMjBfQUJvYzJTVklpWGNvRmzSAeQBQVVfeXFMT3hsQVZGLVM2VkMyN1pteC1QY2E4RTRpREtobE9QU2dNNzBnUzRrWHcyQTgxQ1p0NDdXQlNGQ0ZvVnhXRE8tNmVhemt1WWh6QmcyeDhIQ3pKOW5QN3hiUm1FdjhaN08xZE9pbUh2UXZ5TWM5SzBvZmNGZ2hoQUdDR3FYNW1NbXZDcjRXWklFRWtnZVcxQWRSM0NKZkRKcGJmdGhvZEh1aUQwaDdybHJXcGJOV01RQ21MTWxRMXFUZ0J1T3BVVGNhX2FKTEZvdEljNnhEQjIwX0FCb2MyU1ZJaVhjb0Zs?oc=5",
-      "source": "Pontianak Post",
-      "publishedAt": "2026-09-29T15:45:55.000Z"
-    },
-    {
-      "title": "Gelombang Jual Asing Belum Surut, Saham Ini Jadi Bulan-bulanan",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR21tcHpWY1YtWlAwd0lMWjloOEhDcTJjNDBHZTY1VEdJRlI0bHBlYlRybVhvanZuY1Q1RnVwVUFuR1hIcF9aUktYOXp5MWdwQjFhY1NKVDEzRU1kb2IzRy1VZzQyQS1LbzRieFdvNFpBcnVKVS1DYW5Cb2NuRGpRSS1BMmE5bGZQQmlTYjVTRWFDR1BWMEMzUkRB?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-09-29T14:30:30.000Z"
-    },
-    {
-      "title": "BEI Hidupkan Kembali Short Selling , Demi Puaskan MSCI & FTSE?",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY1RIMVh5Z0NFdWNILUZ0UjVTdlRsanRVY0NRX2VtaFktOWhzdG94dzhlTjBGZnh6alJUd2tON2lmOXFpa21Wc3BtYnlhbVdiRVJhdFpUSk9ZUUZXUVpramZiU0N2RFZtOEtoekZvdG40cDJHUTQwc19ONUxtMktDV3VOWDhxRUZrX2hqdVp3?oc=5",
-      "source": "Emitennews.com",
-      "publishedAt": "2026-09-29T14:00:00.000Z"
-    },
-    {
-      "title": "BEI Buka Short Selling 1 Oktober, Lima Saham Ini Masuk Daftar Perdana",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVA1aGo5czVFcGU4ZkFaejBfVFZwVE5JS0RUYnhxand2dGhGcUdqX3VoZGptS3BnbTR4bVc3RktlNGdibldoM3R3YTVOQnZhTWhWV0w0di1McU1YTWFIUktOcnlUZ1FRME80bkdxdDkzejcxQ1FXVU5hMTFDa2RzVkdkVnVqeDl0cjZHZnZiYzVlN25DTW5yd3I0Y2JKdTBrOElhTkRyN1lhNkZHLWI5S2xxaWg?oc=5",
-      "source": "TIMES Indonesia",
-      "publishedAt": "2026-09-29T13:15:00.000Z"
-    },
-    {
-      "title": "Menakar Prospek Deretan Saham yang Masuk Daftar Short Selling",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTcxRjVPNXQ4U253cjN2c0pXcGNaSy12QmxVaV9LcENKX2FTSldMZVpFdk5QaVFpZDdNa2xmYl9yMElKRElGS0trOEhWTkN3ckR3RUpOQVhUMHhPRXR0ZU1sZWl6UFFKNmhaMEQxdWxram5wa3o0MTVvSE81aGJiNC1mR2ZiR09PVlhCSGZ3NzRpNDZTcXUwNHNCNUpZQdIBlgFBVV95cUxOdHRrYUY1YlVKSmktaXRNWjVYVHNvYV9UWER2a2JFTzNYak51S2NKYUc4aWstdktCTS1DRFpLMWVSQ3QyYXU3U2czeVhuR1BmNk4takM5MXdHYUs2R25EUm5YTFMyRlRQNGlHSG1iRzBzNjhEVmV6SnFuY3A0NFFLRVlES1UtaWE3V1NHc09JSU9ZQ1JGc2c?oc=5",
+      "title": "Harga Saham LQ45 Ini Rontok 2 Hari Usai Berlaku Harga Dasar Rp 1, Kapan Balik Arah?",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0N5NXllcTg1V2RYYy1qMkNZdHRwRlpoTDBJMTN5QkgwbVIyaWlLREJFLXlmOGczTFN4dHRsWndYWFBjSDJCMGUxQnp3OG54czFuTFhuQ3hHZERTdEFwZkFlUmxWazRCTWpGYzJqdUxZbmlnQVFYaDF1SnFzd1VxeUYySGV1eXFFTDA1bTNuWGtiZHRCRDBqSkVsbXdmSGlsOXlYZjJSc09xQ2VtTkJRX3pKbUMzWGY30gGwAUFVX3lxTFA1V2FoUzRuNTlVNWFFcWdoUmk5eFdJMkpfQ2FrYThoZnVKZUR2VXlPcnJwSzZuYW5nRWdPTmd4TnByUmtpcE9kaFB5QlZWakZleXVNMkRPT25ZblpWUkpPblRtdC1ueElpZER0U1VFZ2JyTzBJTXB2eTFiUTgzNjVCVU12QWt6X2hpSGZsZWF5ODdfWnVKZUlINEJpeVdiTk9TbkVfNnhySkpBRWllN0tJ?oc=5",
       "source": "kontan.co.id",
-      "publishedAt": "2026-09-29T12:51:10.000Z"
+      "publishedAt": "2026-09-29T22:48:44.000Z"
+    },
+    {
+      "title": "Harga Saham GOTO Anjlok ke Rp43 Pasca Kebijakan Baru BEI",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UbWF6MlZvTVlPM0Y2dXFBLXdCNlFIdzhWMFd6cVE3bEp0Z0VsZDUzNXVVSGZXc25iQ3Z3WFIwS2s4YThCVTlZeHVHd0dfSklabF93N21qYkloYjhWcUFPOWtxdm1zcTBm?oc=5",
+      "source": "SuaraGarut.ID",
+      "publishedAt": "2026-09-29T22:30:00.000Z"
+    },
+    {
+      "title": "BEI Izinkan Short Selling Lima Saham Per Oktober 2026",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FUkk4X3dxMHFILUo2cm14TTBGbDdmelJNajZpekxhVUJtdFpXX2RndWlKaDY4d1poaC14SU5aMm5tY1VJdXlldWtub09INGVfVFZOZHNKRmdLeDF2MjRNNXdtT2hkem9nNmc?oc=5",
+      "source": "SuaraGarut.ID",
+      "publishedAt": "2026-09-29T22:30:00.000Z"
+    },
+    {
+      "title": "BEI Resmi Buka Transaksi Short Selling untuk Lima Saham",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsaVBYOHhTYmZQeHpaVnBzak9TM2xFMTRoRDRIUUt0el90bmJfNzlzQ3NTNUZWaUx6cHdvUzA3NUdia0xkNTFWeS1OTkNickdlQzQwR2FWWnlXbnhlYjdYS3pPZDR1WnFyTkEydFVfRVU?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-09-29T21:52:00.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Wall Street Melemah Dampak Kenaikan Yield Treasury dan Risiko Inflasi",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52Q3RSOXFGVjh0VWhKa2Q2QUdjZW9CS3h2TEVjYi1fN09rb014ZzZwZnF2XzYxUkZpS0RQSXJqcmFQQ3ZVUUFyenpod1g3YTEwYmN2RmhTYTNBY0NPWW5IY0RVY29jNGxNZER6VEhGTjZ2ZG5Bcmc?oc=5",
+      "source": "Lensa Hukum",
+      "publishedAt": "2026-09-29T23:09:00.000Z"
+    },
+    {
+      "title": "Yield US Treasury Melonjak, Pasar Saham Global Alami Tekanan",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zcWwyX20wQVZRVGsxMVdOR29GUlRUSGNpYW5KYjY5T3VIQVU2UDVod0dXMEo0b0hpdk1MclJZbHVQZWVxaGp4VUtiTnlzRGh2R2h0ODdNaEhmRzNVallhRWdGekt5ZUtiTE1Bc1FVRXp1Y0ROQlhIX0JR?oc=5",
+      "source": "Readers.id",
+      "publishedAt": "2026-09-29T22:23:00.000Z"
+    },
+    {
+      "title": "Wall Street Melemah Selasa (29/9), Yield US Treasury 10 Tahun Tembus 5,29%",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNk5salRUZlFJUFRtdU9ZY2NqdHVrMlhzZlBqTHFEeXZieTNYX0Vzbm5ncXZuWGZLT1pfTnY5ZGFNb2ZtQndCRFV4eHhuNVRXZ3drWHB3Nk1hRUNtRUJERkNoWG5uLTRyQkZpU3laMUlfZGNxUmp2T2RwYy1tblNOallNanpNOTBObVVRYjB4cEd6V3E1NGNRaF9OemR2SWI5Z01PUDdKUdIBnwFBVV95cUxNVlJOYVFFc3pSdHlqcnctalBTcTlBcXlSNmNDb2FCZ016QkxYcFh0elZxMlpudzQwYVVncTZzRXJUSndJZDRtUjJCTmtRdk5RRV9Sd3FXeDEyZHoyOUlab2toTG1LTEs0TDdBMVpHall0b3dtWFdXSG5UMURNZHFuNk8wM1lWc3JLYTdtSmFFOVFZdmpGQTRGdF94VHFjd1E?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-09-29T22:17:05.000Z"
+    },
+    {
+      "title": "Wall Street Tumbang, Was-was Kembali Naiknya Suku Bunga The Fed",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUhHZTJRd09qY1BIQzZIVXNuZGZkMG1PdWc3SFZGUVZJaU5XbFkxczEzZ3hqNklhdE1MY0xZSUNTRWtnVGlzWWxsYlRvTlVtVkZhcUFQanFDeEFtXzJWOEE4UXNrY0hvS2VtNGxiR1pXV3pORmpGZzNEZEQtZW5hTmZzbV9tSmxINlF5M0x5a3g4TE9iRmF4Zmd4dS00OHdLZC0xS1VZUXdZVUs2Sk9QbGNZa2w?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-09-29T22:05:47.000Z"
+    },
+    {
+      "title": "Indeks Wall Street Melemah Akibat Lonjakan Yield Obligasi AS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsR2p6Ul9uaDdFR0wtUmsyTF9XR28wdUltZm5HTmU2UkhpeEhvZG9QeWhmV1FHTzg1aDNTUHdxckxXanFUa05zZE5LeFpwdWJEajVFV3hVem1QR2xKS0dnYmlCZm5ITHBiUDB5MzNsTDFoQQ?oc=5",
+      "source": "Readers.id",
+      "publishedAt": "2026-09-29T21:54:00.000Z"
+    },
     {
       "title": "Harga Emas Dunia Turun Akibat Penguatan Dolar dan Sinyal Kenaikan Suku Bunga The Fed",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Ukl2cmV0MjRQcW50MFNrZ1BlS1NQamN4QTRIeERaNVJERFMwdWRNYmdvVnBXUWg3al9aZUQxdDBJNTQ2S21GeG1vN2luQ0pPQnlnZ1FYWnhzVjNzcWI0QVZER1drVEpWZHFaS09SNlpBUQ?oc=5",
@@ -118,36 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZblpUbk9SU1VoZFBiSVB3SmRMU3NSMjIxaW4yM3VVRnZGdTV5Vkw0UHRqc1lScmZGeWRVVnBaaXF0YkIwZGI3TktNS0pWLTFub1NLZjJiQjZiaEd6WFNmOHY5NHppVkxWZXVxWUFCaFFycURBejlDMDNiVjZaQQ?oc=5",
       "source": "Lensa Hukum",
       "publishedAt": "2026-09-29T17:19:00.000Z"
-    },
-    {
-      "title": "Wall Street Dibuka Variatif, Indeks S&P 500 Menguat dan Dow Jones Melemah Tipis",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObUN5dEFvemtZTjV6Q1puVFk5QmpYSzV3QXJXQnppM3hfSHVqTXBrcGo4Tk1JSFBCMVhFUVFKQ0hFWkNDQU03dkpQOTdUeUpZWFNmY3NRY2F5RzR4Ti1TcEFObVgyU3E0SXBrbU9fRDMtUURPSDBVQnRhYmF3bmp0S0c0ajZyblNGc2JWcThRNkN2ckhuSlF3UE0wakRFaWZzVUNNSWpuWVZ3REFndjRVU1pZZUYzYVhwYm1ZVjh6NmtLeFFVX2hGWnBtcEdhM29HU1M3NnJuWWlvYXNmVXBHbGEwMExLRFljYVdfb2g4a3RUNmQ3akFIbk84Zk1seko1bEE1ejk5UkJFazdsbEtQd3N2NVpJN3lGeW9OZm5TNWk5SGZMUzVJN1Vn?oc=5",
-      "source": "RCTI+",
-      "publishedAt": "2026-09-29T16:30:05.000Z"
-    },
-    {
-      "title": "BRICS Perkuat Kerja Sama Mata Uang Lokal dan Konektivitas Pembayaran di Mumbai",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11ejh1NWtXMWFXcXFCbkxYRFktOTg2cHl4OGZaalRwaDZlWkJQQUFNMDdqTnd3V1Q1NERmTFBCWFd6c1dBWHpScmxUQXN6RXJWS0ZRbWp3SlNFcUJxU1NtMWE0cmU?oc=5",
-      "source": "Lensa Hukum",
-      "publishedAt": "2026-09-29T13:00:47.000Z"
-    },
-    {
-      "title": "IHSG Sempat Anjlok 2,2 Persen, Mengapa Akhirnya Ditutup Turun Hanya 0,43 Persen?",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdGtOTzBUZ3ZfazFVZFdOSmNIR0l2WUdzUzFUSnRfVzBSd25wM2d5M3NkQTZXYy1kekw5NlVUeGU3Z1NHRmtUUGN4LXc5ZkcxWWM5b1RaaElxaUFuT1FkZEZvLVhCUW1PblplMkZfNjdJZnFSeFJzR194R2V6YTlEb3BFcUpOVjRzdkhENXMzaWhPT1g0aVB5ZGw5N3dtaFpObWZpWTdlNEgtTXV0LW5YQ2lMSkl3ekxmb3ZpV2VoVjZya2lWMTNKR21ZVdIB0AFBVV95cUxPM2FrMDh5RFpHdWhnSTQ0NWZqUS1BdGZ6aWdXcVJIbDRiNXN3bXd0RXQwTWlpYnpZU09kSmIxakZBOVl2OC1NTU9RdVZic05Ha3BSN1ZLUjBrSHkxWGExOVlLbDl5VDZiWlROSDhJM2JxMTZPUUFjTGF0WjlpaGZqZ1F3WTdxOGk4NkQyUmRCaWJZR0x0WTB2YXRVU2N2bVNlVnJsZjZta24wUjlRMWVvcXJoQVp2djMxWXdSQjdzVzByb0VQUGRySVRyT3VHalF4?oc=5",
-      "source": "Radar Banyuwangi",
-      "publishedAt": "2026-09-29T09:43:57.000Z"
-    },
-    {
-      "title": "Harga Emas Turun Tajam Setelah Sinyal Kenaikan Suku Bunga The Fed",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NTWhwYmE1MU1ITG41Y0xXTjhsVEtDazVNWXBBUV9lb2dsanRXRGkyanE1U0UtMVRYOTFqeXYyT09rZUxHS0NrdlBuRkZKT29ZOG1xV3RKSTh5cW1PX1RHbkdDNjJ1R1k?oc=5",
-      "source": "Lensa Hukum",
-      "publishedAt": "2026-09-29T07:12:10.000Z"
-    },
-    {
-      "title": "Bareksa Insight: Yield Obligasi AS Tertinggi 19 Tahun Tekan IHSG & Rupiah, Apa Artinya Bagi Investor?",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOUVLeVQ3Wnd3RzhKRFk4ZGRVSkRGX1BvR3pBZjlEdWV3ajQ3enBSU3Fjc3YxNXVFMHBka3RpYlFqU0Z0b1hJUUcxZmlrbU5GV3k3TmROUmRza2s0ZFFoY3BRZXJSN3Jma1RGOGEtXzFiUklUQkw2TnRxWDJYR0pxRHMzRjlRTjBiR2FiMzdiT1FpdUZKVUNvZFB3ZkJNSndmWWJ0bnN2MlJIYXkyTFNLUUxRNFlmNjYwWHYtYkpYMkdienRLdldqYnNIaG0xdzZEMUh6TmpqSmd5X3JpMFR2NWR0bHYxeWRMR3N0MU5YTQ?oc=5",
-      "source": "Bareksa.com",
-      "publishedAt": "2026-09-29T04:03:28.000Z"
     }
   ],
   "errors": [],
