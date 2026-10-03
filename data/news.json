@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T01:38:09.240Z",
+  "generatedAt": "2026-10-03T07:26:38.556Z",
   "headlines": [
     {
       "title": "Daftar Saham Top Gainers-Top Losers Pekan Ini Saat IHSG Turun 3%",
@@ -28,8 +28,14 @@
     {
       "title": "IHSG Rebound 0,46%, GOTO Bangkit dari ARB dan ASII Tebar Dividen Rp3,89 Triliun",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXhSNmozaHZRbUR1TFhRYlhERUNyQzBwSjhtSFVxME9ncmRjUE1icWVRU3R3THR2X2VCQjAtSWNCQnBXOWdKczgxMFhiOFFtQ2lzVGE5bklxV3RzOXl2QUJ5b2tsTEdwWUlxejlxMWxEcWFZSkFnVEhMdjQtTzlMY3pEMlN4aTAtWnY0?oc=5",
-      "source": "Ajaib",
+      "source": "ajaib.co.id",
       "publishedAt": "2026-10-02T16:25:29.000Z"
+    },
+    {
+      "title": "IHSG Naik 0,46% pada Jumat (2/10), Tapi Ada Net Sell Asing Jumbo di Saham Ini",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVdydlUxRG50eUdDWEp3Y0huaGNCWkVQRU1WUXJaWGdwZnpSd2NJLW5hc3RWc1FaMlVUSVNLZzZiU2wtVWh5dkJCX09UcXI2dnBZOGQ0UmhiTmNhVmxxNUpJRExWZGZfdWp0U2NTNVlVODh6cGhEOE04YjFwUTZlRUowd3RyWWpMaTBfMW5TTXJCNUlsUjE0MGxzN2FNRnZGeHBySldQSlVZRlk?oc=5",
+      "source": "Pusat Data Kontan",
+      "publishedAt": "2026-10-02T12:04:15.000Z"
     },
     {
       "title": "IHSG Jumat ditutup menguat jelang rilis data domestik pekan depan",
@@ -42,62 +48,56 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPREpaaThPVlIwQndkampiNWRaVHFjQmt1SjBjQnJadW5BLVNwbU1TUXJPOXhzeGRxNEx2OXpqRk5YU3RyVzZKMVRjN2xCQmQ4YTJScnNVcTBGb3ZlbGpPcFRxUlNqbkxCT2VOc1FFRGJmcW4tVXFaWTgwcHhKUjRtWUQwUW9RVjNXb3NkN21ucENkNTVCaXhtZXZnbzNqX1JGeGJZUkRwbG8xaWZXMmdXdEwxeFBfcEJBb2d3bNIBwgFBVV95cUxQdHFDeGFKd3Q2WVpDRUdsaXg1c2E0Vi1nTGVsVEY4N0I4OEFFR0hCLTlUSHBFTTR3dkNKeXhzSkxkZURVNG9fbzVaaXZHXzA1MjlzcnI2Z3JQaEJtQjB2QklPbXZoRENkRmpDenIyNHpoVFFrNi1pM2k2UjdVZWRXVmxyR3JfYTdaZG1ic09jb0ZkZGltME5kQWNsWlFLMDAtWXdEY1NQVjc3X3ktVURfRXlmWVNVU2RyWWxGLWZxWGxldw?oc=5",
       "source": "fxstreet-id.com",
       "publishedAt": "2026-10-02T10:10:08.000Z"
-    },
-    {
-      "title": "IHSG Happy Weekend, Menguat 0,46% ke Level 6.036",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3R6UXNPd3RTeVBHbWtmcmdrRHJ6OFJCc2xuYzFxV3hTVVQtYUpxMzdiYUktYjFTbE4zdE40UmtfY3hOMUM5MGg0WHRGTXpoMTJNX0JLWW5WdXFDanNOaGtUQXN3QjhPNEJHZ2c0ODZMM1RJbi10bDBCZlg0eDE2OTdrWnY4bTRWNlpmcTdHS0Y0WTlHN1dPUzJ1LW9KM1FzMllETEpMLTBYQdIBrwFBVV95cUxNZkRJVGZ3bS1TQkQ3bFZOS1pPYUY1VG42c0pxRXNRWDdiUXdSbTV5MDUzbTA3NVdUNzNBTXVIQ3FYZWhmZy1Pd0hSN0JlWlJxN2NDaElJQ3FkTlJtX1FCcXE0R2VEdkM5c3RRY1N4WVNSTUtPYVB3azRyVEh1SnFsdmV4alB4azRGSDVIOFl0YnJYLUZEUGQ4THQxNXVBbzI0aElvNGZSLWNXNllRc05J?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-10-02T09:55:15.000Z"
     }
   ],
   "stockNews": [
     {
-      "title": "Daftar Saham Top Gainers-Top Losers Pekan Ini Saat IHSG Turun 3%",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1VCZmJVTG9KTVBzd05HVFNRRHYzY0hzZENmcVF1TEhkWVB4c20wOVd3RF9DaFY4eExRX2RqSHlUODBvcHlYaWNkdXNPbGpoM1VrcFpYdVBDZXFCUHVWY3NoUW43UHpGaUtERS1yY0N0bmNvQ19TQkRoTkdXRmVCejNzbjlYbDZWazF4Wi1RcF93SWtqSnVUa3NDeUF2bjc2dS16NFlNNXlmbUNoMHRvbFdvNWVGUQ?oc=5",
+      "title": "Saham GOTO Melonjak 7 Persen Usai Investor Domestik Lakukan Net Buy",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obXRMbk9KNGJSbjdIbUlielZzNHJRNU1icjlRa0NSNnVCUmRvdkhNUkQ4VGIzLWdYLUR2ODE2VEdraXl3bUZTLTAxYnVaSllNVGd0WHNIamROY0FqZDRVMWIyNV9nZWstRkZzeVlVRQ?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-03T06:05:19.000Z"
+    },
+    {
+      "title": "IHSG Sepekan Turun 3,28 Persen, BEI Sempurnakan Perdagangan Saham",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRF81bWJFaEFPU0Y2V2FvM1l0dHhEejM3Z0hqcDVRU2JoLW1mNXRUbGJxZDFDR0Y5a0E4Rm1mR2RrSTUxVWtBb2RieTJjX2o2U3NvNTdwai1Eb3l2M2tjUmVWd2RYMFRrQjJlUFpQdzFvaFhyQk0zbnhkd1ZMazUyMXlVdE5SYVBjSG16dy1PUGRyUlA5MDg0NzdFbDQ2WmwwaTRXZ3RGTVN2QQ?oc=5",
+      "source": "RRI.co.id",
+      "publishedAt": "2026-10-03T05:30:00.000Z"
+    },
+    {
+      "title": "BEI: 7 Perusahaan Antre IPO, Mayoritas dari Sektor Kesehatan",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUJaTEprM0RhR3Q1TGNLNmpNaGNjUG5YRkU0cDdNWVROTFJ6amVLNXRySnpkMkF2NDNET2cwbkRPSDctZEVzYWExZVFQVnBaOWpjdThuN1VqbF95SzFHd1dHWHJuQ2c3TVZ3MlpwWWdnYzZCZGg2c0d3UVF1RmVNclFZcGx4QTZXS2ZVaFYxdkVKV3B6bXE5UXdDY05WTklhSmRnUEwweUp5OHNKZ0Uw?oc=5",
       "source": "Bloomberg Technoz",
-      "publishedAt": "2026-10-03T01:17:13.000Z"
+      "publishedAt": "2026-10-03T05:30:00.000Z"
     },
     {
-      "title": "BEI Terapkan Short Selling dan IDSS Bertahap, Ini Aturan dan Risikonya",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBXcU1IR2VEcWo3SEdaeWl2S1oweE5qODRLa2x3YjN6TW41T3VRZkRyY1dsd3gtd2V2TU1tR3lDWEVZbkN3M3pr0gFCQVVfeXFMTzdfck5GWkNuVnhKRU9DTmZaM3BTX3BtQTlMcjRkUnFQT0swX256cmdNMVZmOEc1Mno5Znh4YVNmUmhn?oc=5",
-      "source": "VOI.ID",
-      "publishedAt": "2026-10-03T01:02:00.000Z"
-    },
-    {
-      "title": "Saham Diborong Emiten Sendiri, Saatnya Beli?",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yR012ZEZKMmVQRGV2VGZJVWl6eTFhQ3Fldlk3aXFpeUUxczRiWTR2ekdnWEdQUTFhMC1IWDNWdkZGTTBFcGRMWnNiRk1Vbi01VkhfWnBBQ2JvMGQwN3ZoVDFUZUdzZDg?oc=5",
-      "source": "Kontan TV",
-      "publishedAt": "2026-10-03T00:44:09.000Z"
-    },
-    {
-      "title": "IHSG Sepekan Turun 3,28 Persen ke 6.036, BEI Terapkan Penyempurnaan Serangkaian Kebijakan",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU0ZkbXMxX3RjV0RkcXBFaW9zQkRIX3pwNTFnRzhIcmlHQWprdV91ei0xNWpndmtjeEhEWDIxX3R3dXFqenVuREQ4S1lCQkFVWTY1Qk81MkNPdy0ySmg5TEpsRUFaT0dRLTdEQjZGc1NjNXh5X29ZNDhzRmNGX2FCSWI4Tk1KR1c2eWZ1NjgxTzNuNHkzdGZaZU1aZTIwQ1JXeGNsd0VyeEhLRVFOOUZWWDdUT2tsdVloNDNaMEpJV0l5SUpLN2FMYtIByAFBVV95cUxQU0ZkbXMxX3RjV0RkcXBFaW9zQkRIX3pwNTFnRzhIcmlHQWprdV91ei0xNWpndmtjeEhEWDIxX3R3dXFqenVuREQ4S1lCQkFVWTY1Qk81MkNPdy0ySmg5TEpsRUFaT0dRLTdEQjZGc1NjNXh5X29ZNDhzRmNGX2FCSWI4Tk1KR1c2eWZ1NjgxTzNuNHkzdGZaZU1aZTIwQ1JXeGNsd0VyeEhLRVFOOUZWWDdUT2tsdVloNDNaMEpJV0l5SUpLN2FMYg?oc=5",
+      "title": "10 Saham Paling Banyak Dilepas Asing Terbesar Sepekan",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVG9oQzNiTVZaNG43UHlzOFNiUVY0ZGlScUM3c0pDWlFyMW03WlIyRFhlQmFFc1hlUVJXdTZvNkFFSHNYR1dDN001cDR1alJyOEFrdUFiWHpsU28yLUZjMGdqWDJTaWlfOTRrUTJLSTdwSG9raDF0dnQxLW50a045TjZBTDUtQ1BDOVJtdDJud2NsT21IUi16eU5PMmfSAZwBQVVfeXFMTVRvaEMzYk1WWjRuN1B5czhTYlFWNGRpUnFDN3NKQ1pRcjFtN1pSMkRYZUJhRXNYZVFSV3U2bzZBRUhzWEdXQzdNNXA0dWpScjhBa3VBYlh6bFNvMi1GYzBnalgyU2lpXzk0a1EyS0k3cEhva2gxdHZ0MS1udGtOOU42QUw1LUNQQzlSbXQybndjbE9tSFItenlOTzJn?oc=5",
       "source": "IDX Channel",
-      "publishedAt": "2026-10-03T00:17:00.000Z"
+      "publishedAt": "2026-10-03T04:45:00.000Z"
     },
     {
-      "title": "Penjualan Bersih Asing Tembus Rp 82,5 Triliun",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3dHVTh5Z2YwWjhXSGx4TGw1a29LTTlmaDRKRkgzQWVtRXZURk1TY2hGN1NPV2R4dzhMVjBXMHJ3X2NCTTRDTkxwaGRvS0QyQnYwazhpLWJkYjdsbFp2R3J4RzdlZXdSU0VqXzBYR0tqZUItcmVvVkxTQVJkb0NaUlVFX0hMQi1jQW9zRg?oc=5",
-      "source": "InvestorTrust",
-      "publishedAt": "2026-10-02T23:39:00.000Z"
+      "title": "Perdagangan Sepekan: Volume Transaksi Saham BEI Melonjak 72,51%",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUpXOWZzbjJNdVk4eEQ3TWhVb0QwVWpBekM1cWlqakZ6R3BkcDNRZmZlQmdiTnktc2dSTGpYUGRkSGphTmxhUm5TeUV1dTRsbDhPb1dmN01KWVZ5OGg4MG0wNHctSDJZaHJmZzRVTWQwNGR5d2M5OGVqREZtZkx2MlNhVDhNWkNiTEJiTzcyRVJ1QlBKMkIzeXlVc3hqZ3c1aHRoaEYtTzhMUUF6b01CVmZLcw?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-10-03T04:30:00.000Z"
     },
     {
-      "title": "Cek Daftar Saham Short Selling Lengkap dengan Kinerja Terakhirnya",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFNLcXVhT2kweFhHVnlCMXBqbUpCa3lGTG5pLVQtb21CZ1dVb0p4MkVtNDZXZ3hBQldTaUpKd0NPNDZ0SUV5NG80cVdmaW1tbVpDeFF0Ry1saDAzai1pY244UTdfMUhBZlRhN2VfZVR6TXJjdjdCVTRyUGpHZFUxbmdKTDZKdkpnRnZRa1ZDekJReldYTjBkZlVqN3U0LTMyWnp4elJINGlpbUxuN0JuSExEQ0otM29f?oc=5",
+      "title": "7 Calon Emiten Antre IPO di BEI, 2 Perusahaan Punya Aset Jumbo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDZhSnFyNFdES3dWYXNzQ2ZTMUpNMG5XbzE2Z2dXaU5oOUlEbUxncEt3bUh6ejg0a0hRQzZqNFFXX1gyV2dmUlZmcDU1b1lYTm5TR3lWejh3SjVPNmZ6REJBTzVPeFB4QW55a19RMDA1Tll3aHZHbkhsMHU1RHhqNGRZckYzREpOMTVkS0VvcHhvQ0ROaUE1dC05bDZXY3pna1JBNTljckRtbzBUUGQ3cw?oc=5",
       "source": "Bisnis.com - Market",
-      "publishedAt": "2026-10-02T22:10:00.000Z"
+      "publishedAt": "2026-10-03T04:07:50.000Z"
     },
     {
-      "title": "Kapitalisasi Pasar BEI Turun 2,55%, Rerata Transaksi Sama Naik Menjadi Rp12,63 Triliun",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS21HRjJHQXI3Zm1VeUZEY2NpbkNZQnRGU1dVcU5ONG00MnVwdFNhNXdpcWdXM1o4eXpRNFcyNU05NXZ4bGtRb3FkTUZDR0pWRVROWFYxQXBjeDdNWWVEMFRxbjl4NzFyZzBVampHZXB1THVkQTJfTGZyam42ZWxoSGxYbW5Yc2ttZ2t0Y2lRbkp5ZUlmRnFZeTBGY3I5QU9KREF5WHh2a3dWdlVGNVU0Vl9n?oc=5",
-      "source": "SWA.co.id",
-      "publishedAt": "2026-10-02T22:00:00.000Z"
+      "title": "Aktivitas Perdagangan Saham Ramai, IHSG Turun 3,09 Persen Sepekan",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVI4d2R2N3g5b0hHakhTUGdoMGpFbm5Gd2hFc25ORk5ESGhhc2FOWGNXc040Q1J4NHRTTzVUejM1eVpoYU9CQ0d2UDRIZDY5aHRlTnBoaXVjZS10cmVJMUFMYU5LcThDaHk3T245WGxOLUpxdU5kRE5KWlJnYjhTeVZxcHZyUE1xNlF4M1p0YmNnNzN0M2c?oc=5",
+      "source": "banjarbaruklik.com",
+      "publishedAt": "2026-10-03T04:03:57.000Z"
     },
     {
-      "title": "Danantara Bidik 5%-10% Saham BEI, OJK Tegaskan Belum Ada Pengajuan Resmi",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1otZ3dIZUpvM0pNNnY2X1duVGozS0lJOWd6Qk5Ja2xCa3N6cWQtZkFfUWs2THVCejRzazRVNWJkLTR0a0RpZUVpUGU2YnBQUEFkSkxUbUxxckFKZk9FQk55NXQ4VC1zcElZcG1odmhMVHlLVWtaNjRickFrdmR3TTNXeWZ3cWxNenlZSjNTV21XSlBZOVM2dXNmMDJGTEszbmpCel9CMy1zRHfSAbABQVVfeXFMTm5MdVZ0ekYwblUxVlE0UEFzdHB6Wm00ZmNIY1l5ZHRZclFyYlBuNlhZUXBwbVFOMUN4RHg5VTAtS1RiSHpIRDllb2NvT1l2MWFHNW1WY295eEJTbjlVSVEzbUh5ZkhUSE04VlpWMTRBREdGUlJxZ08xVnhiVXFCbVhBWXlRY3VrUElLZnYyMHNzakhHNEtMSVRVWWFpcmp3b2N1SmNuenFIT0xwbEN2UWI?oc=5",
-      "source": "VIVA.co.id",
-      "publishedAt": "2026-10-02T17:20:00.000Z"
+      "title": "Perdagangan Saham Sepekan: Volume Transaksi Naik, IHSG Anjlok 3,28 Persen",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWUtRlF1Z09WX0FfbVNJVU9fRzlSZkdXZzlDLTdkd3Zkd3lwSjRZNmFMYXZvWTd5dmo0TFFVUWQtZnpUTHB5Nmxya1gtYXYzdXNDZVNpRnllQzNHX2lReUdKV2xBZ0pZQ2gwWjlVLUZMQzAwVDN2c3VUbDlpdFgxU3ZBM05hSDk0Z0pjYXN2X3lnUVYxeVVtYWllUTNMRk5EcjVCemtuWGFBTEZfM2RfMDRZYw?oc=5",
+      "source": "kabarbursa.com",
+      "publishedAt": "2026-10-03T04:02:00.000Z"
     }
   ],
   "macroNews": [
@@ -108,10 +108,10 @@
       "publishedAt": "2026-10-03T01:01:19.000Z"
     },
     {
-      "title": "Cadangan Energi Eropa Bertambah, Harga Minyak Anjlok US$3 per Barel",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWklNM0tpTEtiVXkyNG1aMTBaUkp0MnhHbzFzTElSSEUwb2ZXbFR1bW13UEc4OHVvZUJxZkdVdlZ4Y1hfaEFWTmt0U2YwdENJY0V1amdQQmN1b0ZjZUpLLW5aalVTS05CZ09tazRFRVAzQ1Z4cGhVZjBBakRPWldxM2RPOVV0OWF4WlhVUXFMZTBRM0tYeWkwbzNXd2RyR1dpYkFfZUFhSjVEd9IBqgFBVV95cUxQWklNM0tpTEtiVXkyNG1aMTBaUkp0MnhHbzFzTElSSEUwb2ZXbFR1bW13UEc4OHVvZUJxZkdVdlZ4Y1hfaEFWTmt0U2YwdENJY0V1amdQQmN1b0ZjZUpLLW5aalVTS05CZ09tazRFRVAzQ1Z4cGhVZjBBakRPWldxM2RPOVV0OWF4WlhVUXFMZTBRM0tYeWkwbzNXd2RyR1dpYkFfZUFhSjVEdw?oc=5",
-      "source": "RiauAktual.com",
-      "publishedAt": "2026-10-02T23:03:40.000Z"
+      "title": "Harga Emas Perhiasan 3 Oktober 2026 di Raja Emas, HRTA, dan Laku Emas",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sbEg0T3psVnpSRXJkbWRXWC1OVkt3QXhQeElJU1UxRlUzQTgyOUFteG9IZlFNZ2FhN0NzZmFEbkszSnY4S2x4YTJ5dllEcXRNOXUyblN0ZWFZZElZWjY1cllaUFFXRXRS?oc=5",
+      "source": "Koridor.co.id",
+      "publishedAt": "2026-10-03T00:05:20.000Z"
     },
     {
       "title": "Wall Street Menguat di Tengah Pelemahan Pasar Kerja AS, Nasdaq Naik 1,2 Persen",
@@ -144,10 +144,10 @@
       "publishedAt": "2026-10-02T09:11:16.000Z"
     },
     {
-      "title": "Harga emas domestik turun di bawah 49 juta VND/ounce seiring dengan anjloknya pasar emas global.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa211NFRvcGNkaGd4Y3NyR0JzU3FQMWlyNFBOQzA3QVc0U2ZwYWhyVzJUZTVvRS1hQmJySkxTR25STVlnZTRnUkVSZUdfZloyQ0NQY3hhdV9Wcy1VRlNjTU1FSDd1cV92c1Jac1hyUTVTS3VIbW5jcDg2REdub0dWZDFBN1ZBb0FGV0VBcGRpczlBWHljcE1qdENwdmJEV3ZYNi1lTURQOTdQNXBOZnFB?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-02T04:46:41.000Z"
+      "title": "DJP Tunjuk Lima Bank dan Fintech Pemungut PPN Digital Luar Negeri",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEZVcyMkF5bTJUS2M3RkdRdXE3akdfYi1YSmtWbF9memhpZjhfWDI4c09IUm1WUlNVZ055MW5RdEdZNHpWZEhCUzFHcnNFNWViV0NVemZJRmlVYktNZFBGNjU2dWs0YnRldXlXdl9lUi1PclZ6?oc=5",
+      "source": "Koridor.co.id",
+      "publishedAt": "2026-10-02T08:48:38.000Z"
     }
   ],
   "errors": [],
