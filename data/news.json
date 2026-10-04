@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T02:19:31.345Z",
+  "generatedAt": "2026-10-04T09:15:58.123Z",
   "headlines": [
     {
       "title": "Grup Sinar Mas dan Bakrie jadi penopang kala IHSG turun 3,3% sepekan",
@@ -22,13 +22,13 @@
     {
       "title": "IHSG Anjlok 3,28% Pekan Ini, Saham GOTO Jadi Penyumbang Terbesar Net Sell Asing",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOekdsN0E3LUdSMkw3RnRWWll5MXlSNWZ1RDdrTEI2RmpOQnczdWpYT25HU3BOVU92aDlCbTg0ZlVMeHViNVVmckxlXzRyb2d2ZWpvUUxFMjZ6ZUZIaHpCTXFERzRPSzhIZFNPMGxpb0VjZElKODhUaXdmakdMSHF1eXZPQjRDVGVQTm42OU82RDh5MU53SmgtWDNQelg2dVFoX0Vnd2dHMERrS1NwTlgwaE4yWjBpUzA?oc=5",
-      "source": "InvestorTrust",
+      "source": "investortrust.id",
       "publishedAt": "2026-10-03T00:06:00.000Z"
     },
     {
       "title": "Penjualan Bersih Asing Tembus Rp 82,5 Triliun",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3dHVTh5Z2YwWjhXSGx4TGw1a29LTTlmaDRKRkgzQWVtRXZURk1TY2hGN1NPV2R4dzhMVjBXMHJ3X2NCTTRDTkxwaGRvS0QyQnYwazhpLWJkYjdsbFp2R3J4RzdlZXdSU0VqXzBYR0tqZUItcmVvVkxTQVJkb0NaUlVFX0hMQi1jQW9zRg?oc=5",
-      "source": "InvestorTrust",
+      "source": "investortrust.id",
       "publishedAt": "2026-10-02T23:39:00.000Z"
     },
     {
@@ -52,55 +52,73 @@
   ],
   "stockNews": [
     {
-      "title": "10 Saham Paling Cuan Sepekan, Ada yang Naik 142%",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPblZMOEdaMjlndmtjS2kwLXVaV0hsekxKVUVsVXJHZ2l4NFZ2RWFfZzlXbXJIQ0xBVV9wblBOX1hpM3o1bWdzWk80XzM0YlFJdzE2YVRJNXlMZjAwQkRBdVM3VlJlaWdYVGtRTUd6YnNGcHpxdUUzX21DTzdzZC1Wd0hJSGJkeE5DMzhMWHJkNWtMeW0yODg0RTlJMGM?oc=5",
-      "source": "Bisnis.com - Market",
-      "publishedAt": "2026-10-03T23:30:00.000Z"
-    },
-    {
-      "title": "Sepekan Terakhir, Aktivitas Pasar Saham Beragam",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbnF3TXBfbFVvQUpFS2Ztd0ItQVBkVVNveDZqMnY0Q3l3ZUh3VVpuOThoVGNCdlB3SktXU2tLS1BPbDhnN0lQMGZMY0V6Ny1FWUViRGZuMDRHZkRsbW1GZlRHUEIweWhBNUE1aEdJY0E4eDFTTVNZUDFQMHVSSmdvRGhOU3A0N2VvS2FqZGxn?oc=5",
-      "source": "TopBusiness.id",
-      "publishedAt": "2026-10-03T23:10:00.000Z"
-    },
-    {
-      "title": "BEI catat antrean IPO naik menjadi tujuh perusahaan",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXlxdW5UQTlCN2lya1dNY290dDFUbXVmRzNESGFEanppMzBET200eXhSUWZLcU1IalZUckhsZFBOV3BsM1pybG9DV1RVNnBaVTkyTEtsMkwzd0ctZFpja1R4ZC12XzJZUE1kUkdMOXV4cEZtZG1KMmNkZnMteGNZMW0wQmdMTzk3eWdFN0ZVRVN2N3dUWkk4ZHAtYw?oc=5",
-      "source": "Traders Union",
-      "publishedAt": "2026-10-03T11:19:18.000Z"
-    },
-    {
-      "title": "10 Saham Biang Kerugian Investor hingga 54%",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjUtZDEwSVUxVUdUVEhxT1lqY195RFdocWF4NzlUb3lLZE56MFVVVllfb0dVaF80ZlB3U0hfMDFfSWFrZlVlV0NtWk90eXJJemNaMkJpVGVIZGkwZHROM2gyZnZfVkotNUlGRWtJN0g4OEtXZTJqSzh3TTlqMGh2bQ?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-10-03T09:00:00.000Z"
-    },
-    {
-      "title": "BEI: 7 Emiten Baru Raup Rp2,16 T, 7 Perusahaan Antre IPO",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVExQbmI4VFZVbk82NVBxSEE1by1kSDFWb19xbkNhanpjQVVvUm5kSHFGd0thOTV0aVlrb0Q2NEt5bmJ0SGt5ZXlieFNMMHlScEtqQW03NGdsU3k4ZXI5UTlVeXBXdWN6c01nblJBTWhkVUgwUTZnMUpnSWE1WVRxb1lxSGFvTVN5MjZfcnpSS3k4dENJTk9laElBb3FndktYT2M4SDFB?oc=5",
-      "source": "Validnews",
-      "publishedAt": "2026-10-03T08:32:00.000Z"
-    },
-    {
-      "title": "Astra (ASII) Tebar Dividen Interim Rp98/Saham, Cair 30 Oktober - Market",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV21DZmFEcEN3dTl0aV85RnplOTJPUGpYMWFCd2hualB0djN3eFhJaWhFVGdXMUpjbFo0bEcweHp4N2JMaEwzUW9mRTlBWEhBS3ZqTXA3X0hyWlF6T3RjZGlFZ3JlVmNOa3pSdmFkSXhnOXc2TGNnS0hpLVJGdmlBYWhSNFRFVUQ1WGIyMW1rRjNlNjdqM1dUaWdLVVQ4Wjk2MUEyM1F4dnd4djFaSEp5OQ?oc=5",
+      "title": "DOOH Gelar Tender Offer, Harga Jauh di Bawah Pasar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmhtSlFiX2VyVE03OEg0NVZGV29jMHVpNFdRZ2piTEdxNFF3LTdKZUV1YWNOcFlvVmxlMUY0MG9yeUotaXhCOVNNNXR4VHE5V2tINVgxRnlJTFhtdlpWQ0VsMHA3V1ZVVUtqRzQteXVaRjg1RDZacHlJT3VPdUhkQTRLYUk2eVZUTlhXVUZYakFISExJVWJxY3h5dmVNeWFvbzdB?oc=5",
       "source": "Bloomberg Technoz",
-      "publishedAt": "2026-10-03T08:30:00.000Z"
+      "publishedAt": "2026-10-04T08:00:00.000Z"
     },
     {
-      "title": "Kapitalisasi Pasar BEI Minggu Ini Capai Rp10.627 Triliun, IHSG di Level 6.036",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ19zNzhFS1ZfUG9tQlFKZ19hYjBRM1JqOWhnNXVPT3ZkTFZuN0tCcW1pZHg0blVWLWlOMzFLRzdfRm5admhpajlnaE5Vc1k0c3RXVVdBMnM0Q1dfRXRxMGc0cW1EZjM2RFFuSkkzMmdPNm5BUWlWd25YTi1Dai1vU2NjSmhQVFRJLVZJbVhSOWxZSE05Zm9UaFNGM1hOX2c5bGtLa3JCSkFHN3RyNUJDVHNSdXUyaXJzMmc?oc=5",
-      "source": "MetroTVNews.com",
-      "publishedAt": "2026-10-03T07:24:45.000Z"
+      "title": "BEI Catat 7 Rencana IPO per Awal Oktober",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HU2l6b0J3dEYtRDNvS2NGblhid2NzVl83S0ZHODRfLVRYQ1d3NkppeUkyQmVaenRaM3lBb2hONVZNNGczNklvNmt6dFVBdkEtRUhUU1ZSQV9hdE9CWGV1UVRKRzRfWWJUTGFDZk9LT21ubDJTUjFPYkFJaDU?oc=5",
+      "source": "Emitennews.com",
+      "publishedAt": "2026-10-04T07:15:00.000Z"
     },
     {
-      "title": "Pekan Ini IHSG Anjlok 3,28%, Kapitalisasi Pasar Susut ke Rp10.627 T",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTBhMW1ZSzlYdWR5OVlOaEdmdG9iRGRQZnFLMXNxXzBoS2F6SEgzRVFrX3c2N01KNUFMei0yZFpsRFpQTklrQnpTX1hZcE5sa1pQdG84bDl3YkV1dG9uYndTYUx6YmlWR3YtYVZqck0xMno5bUZqWkVGamx6QkRCS0FsWW0wOTZjcDJSamFRLU9fcHhRMW81YTczb3h2cmJWTW9ZVF9EQ2E4TV9CTGNuT3Rlcw?oc=5",
-      "source": "Validnews",
-      "publishedAt": "2026-10-03T06:23:00.000Z"
+      "title": "Capaian IPO BEI Masih Jauh dari Target 50 Perusahaan",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCWU9EYnc3SG1DU0JrMG5EZUIwSkpCOFZrRFB2VlFIeW5XY2k2V1EtZ2MxUGlqVHcwWFBfVUVHakQtRXNVQTVLOWFmVG94MHpOcFJELXFJMEU3dGdKVHhlZmVR?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-04T05:01:20.000Z"
+    },
+    {
+      "title": "Masih Jauh dari Target, Baru 7 Perusahaan yang Melantai di Bursa",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSy00V1NNU2V0N2tETTJJb2VDV3hUMUhaNWdOU1dNOUxYeTd3TWJGZ29EQzF4NW05VW1ZVGZTOG55bldaMWl2M1FQTzVZYWR5cE1oWHJhM3BsLU1iYXpHejk3aFBZajdWN2d0U0NGengzR3Q3aHdxbnlycTlWMTY4V3NwMmdwOGViQlFnRkV0VjRYTEF3V0ZqZWJhaFNrOW1FTXVkYXgzYTlteTlxV050M1ZPTFlid9IBuwFBVV95cUxOR1d4djdSVXR5QWpKT2RaMVZMZmlCc1k0dFVRZjBibTJ0UnZlMWhHRXhySEh5a09WM1haTVRkM1Y3N3NvUWtUX1puelBRYlBYWWZKTlpxOTRQczV6OG1PbmE2NU9IRHlaTVVIZnQ0blZMQ3FfR2tEYWZIUkpQbHdNN3NFTzNEME1LUVJBM1hwNWdKY1BPMnROTEZWM25ndzRNYVFzdlVKd1YwZGJMTHFRVlNHLXNXR2FWRHB3?oc=5",
+      "source": "finance.detik.com",
+      "publishedAt": "2026-10-04T04:57:23.000Z"
+    },
+    {
+      "title": "Saham BIKE Naik 24,38% Sepekan, Begini Penjelasan Manajemen",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOelZyRXJJLWZJLVBFLVA3aFcyX0JrelNPN2RraHpyUGpaNDFzejNwYWJ6UTBaOVhqWGhXSWk2U21jYkdKQ2xWZURZZHNqN0o2WkdEN3JiRGRydkt4LW80bzFwdGtOanV3UlQteFZiUHA2V0JweHVFMFdPNlZ1LS1aamRhdzdnRE9PLUZCblNsdWp0OG9fWWc2eDBJQWg?oc=5",
+      "source": "investortrust.id",
+      "publishedAt": "2026-10-04T04:56:00.000Z"
+    },
+    {
+      "title": "Saham BSWD Melonjak 142 Persen di Tengah Penurunan IHSG Pekan Ini",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TMFN0bXJBRUU3UGR5N29kYlJaeDgwR21qMmFMaWdKYzd5TEJyOEVxRWcyV1ZVZ05VTXRaTmI5UU1QU2FRVmZlYmNpYVVzYUc4MnZGNlluaVowQjdJb3poMHBaSi15dlJiOHBN?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-04T04:36:07.000Z"
+    },
+    {
+      "title": "Tambah Free Float, MUFG Bank Lepas 4,53 Persen Saham Adira Finance (ADMF)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NzOVVQVlVhTXFDVHlHVjBYam15aEtka0wtV09ZdmdmYlJmVHB5d3FmRzRCbHRmVFl4Yl9DQUgtU0JXMDRmNUhYMk9aUmhqSXVadVloWXU3eUNPeFpVamF2SXdxNVdwV3JEd2V4WTl6cG50ZkdFaHdfY1hWSm5nVnlZNFV0WnNTWEdJWWVKeUpxc0E0Vk1KbEdTc0ZSNV9lLWRuLWJuY0dlcEh3Z1dUbkdn0gGyAUFVX3lxTE9DU3M5VVBWVWFNcUNUeUdWMFhqbXloS2RrTC1XT1l2Z2ZiUmZUcHl3cWZHNEJsdGZUWXhiX0NBSC1TQlcwNGY1SFgyT1pSaGpJdVp1WWhZdTd5Q094WlVqYXZJd3E1V3BXckR3ZXhZOXpwbnRmR0Vod19jWFZKbmdWeVk0VXRac1NYR0lZZUp5SnFzQTRWTUpsR1NzRlI1X2UtZG4tYm5jR2VwSHdnV1RuR2c?oc=5",
+      "source": "idxchannel.com",
+      "publishedAt": "2026-10-04T03:00:00.000Z"
+    },
+    {
+      "title": "Visionary Capital Borong 56,84 Persen Saham TGUK, Resmi Jadi Pengendali",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXNQR2dZOXZObmRuYk9PeUl6RGdVZ0ZVbm5acnl1YlNORUR4T1piSkNzWldWa29oRDhWU1Jid2RBY0k1SWZ6dmU1cGhOV2psQ3p6c1pqRWNLSEVUbG9iX3dmU3VMMnRlZ0M3VDRkRUxDZXVWSTcxdlZCV0J1SjVOajRCcElnUm9DTnRDS2ZjazZMU1h0aV9KcngzbEU5RmFLU1pSeXVab2Q5R2820gGyAUFVX3lxTE9iU2kzaWRaYUxlcDBoMTVfZ2gwUVRvemg3UnhTWmVadnNGeXhFQWxmNW1LbkQxT2N2N1lGU20zTndjTFFYaS1GZ0g5LVUwTHczdURBQS1ST1YwM0tfRzFsTjNvb0pob0NqVjExamtxQjdiYkx6Yi1kMzMwY1oxbi1vRHZPVjZUS3hHUmdsSkVCd2hGeUotSHc3X2tXVk9OQW5kcm4waXUxRFNfM0tRYXp2YlE?oc=5",
+      "source": "idxchannel.com",
+      "publishedAt": "2026-10-04T01:30:00.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Pembiayaan Kendaraan Listrik CNAF Meredam Rp 1,41 Triliun Per Agustus 2026",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBUZzdFdzl2bXF4UWxQdDZRX2hhMUZCYVB2WW9CQm55eS1lanUyQWQ0ZTRhSVJpTUI5b1NiTkNuWWNJUGNZbDVtcXliNUdQNnZ5SXN6S0xtdVJyeFRidVFyalY4TlBsMVp2RVRqSkJ0V0VzN3JxN3YxajZmbTBjbQ?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-04T07:07:19.000Z"
+    },
+    {
+      "title": "Harga emas minggu depan: Para ahli dan investor memperkirakan kenaikan yang sulit setelah penurunan harga baru-baru ini.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGJWTmUtUUZlZ0NTeW5NVllJVGkyeUlmQU5KbVJ4aGRjbXR6SmxzUDh6RlUycUtWR05MYjl2bDRzZnF5eUtfcE0xakNITFhCVzNLVDVaTm5kMkM0SFVLUjFyeHZ1MlZRNmRXNVduclFvSkkzR3dIX3l1VW0taHZwTGJrUG56WFUyekRsMEU0ODJOalVsYk54MXFlX1pfeXdtd2lXUVgxY2g4S3VUNEhweQ?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-04T02:20:00.000Z"
+    },
+    {
+      "title": "Taruhan Nvidia menemui hambatan di Wall Street.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01T3FOX3UxR2ljVFdBYlRaVUtuYmo2bmNCTDRqSlNPaDFBLUw4ZmhLdExYRlNTbE51SjRIYmcySXdiWkZUNHkzMlFPRWVWcm4tS3g4NHdxODFmNEZ2UjF0cHUzQ2Zka2cxMlFZUkpMTkJkZGMx?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-04T01:59:13.000Z"
+    },
     {
       "title": "Sinyal Wall Street untuk Harga Emas Pekan Kedua Oktober 2026",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVNjQTU0dkVpQ2lPM2RxZE1ZV3puZENic0xJMjlXbmRyY09mazJpWFdKenBQYkViWDhqVGxaNTZaT1dtRDl5TnZoaEtrM3U5YzBEaElWR0NyWVBPbTBKMlV4NnZmVkM0aHI2RmJFSVFBajVKRy1acGt2eHdPN2ZSdHNNME5uX0FONjM2YlJXTC04RUo5OGVVbUZoSjREbnlHN2l0SnN4Z0tQNFVfUmlVZlhMdw?oc=5",
@@ -108,46 +126,28 @@
       "publishedAt": "2026-10-04T01:00:00.000Z"
     },
     {
+      "title": "IHSG Turun ke Level 5.989 Aksi Jual Asing Tembus Rp1,17 Triliun",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40NVpiVXBrLVFiNml4OXBqdWRDZFRLWkppS0YtVlc3MHYwbzdBWWdvZVBSTFpNN2Ywd1o0MDVBdkF0WjQ0azRHQXA1SzRDX2Q2X1B2ZzI0c1FCZk54cWIweXRXQ1hLMlhuT0xqRGxTUWV0UjVPYzA0?oc=5",
+      "source": "Koridor.co.id",
+      "publishedAt": "2026-10-03T23:32:00.000Z"
+    },
+    {
       "title": "Wall Street Ditutup Menguat Imbas Redanya Spekulasi Kenaikan Suku Bunga The Fed",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWM5eFFZdUt4MXhXYWJMZHlwYXVpTEFPRFdfWTBaelNHNnJoT0hxcDhoQjIzZUZNUndWQU84RjN4OEFFbllIX3haeV9ReUpwQ2JTbEZYSl9rSVNtQ0RVVVNva1lXNEdueVNKSjlycEEyUjF4bjRNOW9ZVnlqc2FfcHF1WU9ubFlZTnhWM2tac2hPUTdXNF9ybnF5czgxQ0tCc2dQU1hKcU5JeXFPMlBaUlJCSkRZUnBNN1VlcG5LSdIBvwFBVV95cUxQaWM5eFFZdUt4MXhXYWJMZHlwYXVpTEFPRFdfWTBaelNHNnJoT0hxcDhoQjIzZUZNUndWQU84RjN4OEFFbllIX3haeV9ReUpwQ2JTbEZYSl9rSVNtQ0RVVVNva1lXNEdueVNKSjlycEEyUjF4bjRNOW9ZVnlqc2FfcHF1WU9ubFlZTnhWM2tac2hPUTdXNF9ybnF5czgxQ0tCc2dQU1hKcU5JeXFPMlBaUlJCSkRZUnBNN1VlcG5LSQ?oc=5",
-      "source": "IDX Channel",
+      "source": "idxchannel.com",
       "publishedAt": "2026-10-03T23:31:00.000Z"
+    },
+    {
+      "title": "Bursa Saham Wall Street Menguat Didorong Pelemahan Pasar Tenaga Kerja AS",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGJPaDZHa0xValBOS3VaeGtHQ3BmZlpBUnRxSTNJREdnWGRXRDcyN3NvN0JrdlBGQzdaYnRyelBVRTNoUTJHMmU3b2hNWlpGdF9IbzFPSVBnWjUyYmU2c2VvQjlIdGVWTElxS0VGLTlmVTZJdzNQUUJMZGZMOFY0V0xBNA?oc=5",
+      "source": "Limapagi",
+      "publishedAt": "2026-10-03T19:25:00.000Z"
     },
     {
       "title": "Mad Money Jim Cramer Beri Peringatan untuk Investor di Oktober",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbE9YSWtLOFRSbHZWZ080SDEtZGpBOXl0bDlhMi1rYjVWamhGZGVjUWRfR2p0aXdFLUQ1RTkwVy1LX1JZSjkwcE9UQ3RnbUN6NXpKYWowMTZBME54Y3ExNlFYOGI5NkFLTkZuV0pJNFJubGppcGY3Q1I2STVtdWJ0QkFqeTkwS0k5?oc=5",
       "source": "BeInCrypto",
       "publishedAt": "2026-10-03T10:48:00.000Z"
-    },
-    {
-      "title": "Ikuti Jejak Wall Street, IHSG Lanjut Menguat",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZNmpqcDJZOVJhanVHZEVJZ19Jc3l3b09PS3BOckhOTDRVRUxuNUxvWVRQeGFDOHRUYmpCd1ZUZV9FYV9xalVFMThNbXpMYmRZUzhXVGpaWENrZG5LTnZuYmRUQzMwRmd4TUxIMzZoSEU3QmVhMkRySlF2aVZNdw?oc=5",
-      "source": "Emitennews.com",
-      "publishedAt": "2026-10-03T09:59:32.000Z"
-    },
-    {
-      "title": "Pekan ini menunjukkan kinerja yang beragam di Wall Street.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFpPQW50QWw4VnY0WGVfNVg0RlZyejNFdF9STHdIT2VBRXdWaDdZLTd2SkJXc00zRE5UQVowMmw1S2tyeF9VbDV1T0dZY0lqcDdTRGRQdjFLVEFZSHBnTTVkS0o2c0Rsa0NKZ3FaYUo4a2tTckVQZlBhYUx6NF9NSWUtM096OTBuMnpUWFRxd054ZmFGU1E?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-03T08:19:20.000Z"
-    },
-    {
-      "title": "Harga Emas Dunia Anjlok 3,36 Persen pada Pekan Pertama Oktober 2026",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1bU5JcjVCaWo5Q0JSUm5fTWhLMjd2WmUxb2haY1BhZ0pnOUJiT1VDeEdGd3NKcWpLaW9SaHRpdDQ2Zmx2YUNDLWpFZWZrdVZXM1dYNmZJeEloVHo5QXFSVlYwSThlZkNJZ1VLVA?oc=5",
-      "source": "Limapagi",
-      "publishedAt": "2026-10-03T01:25:01.000Z"
-    },
-    {
-      "title": "Bursa Wall Street Menguat Didorong Melambatnya Data Tenaga Kerja AS",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zNEJCT2J4RWFsbnFMZVc0VFMzMUhGZWVzaGFWaVZjWmFpcUVOTUJiZWgweE84ZjZsMEVJTE5ydWJaUlRnTThYT0UtcW5ndGc4R0ZjVGdlMHlVd1NMQjVRX2M2RVY1MmJ0aUVWbm9RclJNX0FtMUhWaFk3NA?oc=5",
-      "source": "Lensa Hukum",
-      "publishedAt": "2026-10-03T01:01:19.000Z"
-    },
-    {
-      "title": "Terselamatkan Data Jobs AS yang Melambat, Wall Street Naik",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVzhud3RPSWstN3ZZRGJVWXV2ai1uVjcwUkpHQjNxQXIwYjZVOWR6ZjNkeEtJcFNfSkVKVlVhcXVsV2RWZUNVQWZyeFhPbTBWWHY1enM2YVhkUWM5VVJWVzZkUXQ5RFNJZF9OeXhRYlRiYkNPV1dpcUhaQUhBTndqOHI4Sl9zbExPV241UGp2OFBtTVRF?oc=5",
-      "source": "KabarBursa.com",
-      "publishedAt": "2026-10-03T00:55:00.000Z"
     }
   ],
   "errors": [],
