@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T17:45:04.472Z",
+  "generatedAt": "2026-10-06T22:09:02.747Z",
   "headlines": [
     {
       "title": "BYAN Topang IHSG Hari Ini, BUVA Siap Right Issue Rp1,54 Triliun",
@@ -27,7 +27,7 @@
     },
     {
       "title": "IHSG ditutup menguat ikuti bursa kawasan Asia dan global",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFlwQVJRanlKUzlUaUYxMVZId2xiVm8yTHdlcjA3N0l6ekJ6eTdzUUdaS2pQOVRwdVVEWWtFaElnUlNoQS13Z2ozenY2UUZpRU1HdUlyTkdVZlI5NHB1dXpBTjZyWHhzM0U1d3RObmVQQmJuX2dmbWs0aGIycVQwRXRmUTZ1emdfSHdObG44bUhtS0lFNDNtNU8yeE9ocXPSAaIBQVVfeXFMTzZiUjUtM1JtLUREa1pmN204Xy1IckRBTkQxRUVuX3pDY2xVak5KTHlTV1p0c1I4aDk0S2JfOEhEOGE1Nk5FNUZqcTdfZUk1T1B6OHk5V0NJbFlna1BFODVpNl9CVlotWDR2X2puV3dWNHdjVDg4ZE5DemlJNk91OFBlUXhOTlRiWjMyT0V4VERwem1HdWlnaENQUHRVTjd2YkxB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJSNS0zUm0tRERrWmY3bThfLUhyREFORDFFRW5fekNjbFVqTkpMeVNXWnRzUjhoOTRLYl84SEQ4YTU2TkU1RmpxN19lSTVPUHo4eTlXQ0lsWWdrUEU4NWk2X0JWWi1YNHZfam5Xd1Y0d2NUODhkTkN6aUk2T3U4UGVReE5OVGJaMzJPRXhURHB6bUd1aWdoQ1BQdFVON3ZiTEHSAaIBQVVfeXFMTzZiUjUtM1JtLUREa1pmN204Xy1IckRBTkQxRUVuX3pDY2xVak5KTHlTV1p0c1I4aDk0S2JfOEhEOGE1Nk5FNUZqcTdfZUk1T1B6OHk5V0NJbFlna1BFODVpNl9CVlotWDR2X2puV3dWNHdjVDg4ZE5DemlJNk91OFBlUXhOTlRiWjMyT0V4VERwem1HdWlnaENQUHRVTjd2YkxB?oc=5",
       "source": "ANTARA News",
       "publishedAt": "2026-10-06T10:23:21.000Z"
     },
@@ -51,6 +51,18 @@
     }
   ],
   "stockNews": [
+    {
+      "title": "Daftar 21 Emiten yang Punya Eksposur Bisnis Data Center, Ada DCII, DSSA hingga TLKM",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3AyOVFHbjVzeFJFRkU5OWYwVFJFUDdHcTcteWJWZWZxT0Vxdko5QmJDanBfMlowMGh3MmZlTy1uSmdxcmhpY2loclZ0bEFnOEdqNm55QnlYTDJHYnNMWXRjeDRvaDZQcWh2S25ISUlTVUFqVm9CNlZIc2NLR1FaSGxXbWlJRi1VNXFsVHRDTmdBc2dLWTBoUjY1MHFxQzRTMG9XcktTMHdTMkF0NU5sMlY1bmpERWxvaG9iYktySDRmeW1TNW1wM1NJbDBLUQ?oc=5",
+      "source": "Bisnis.com - Market",
+      "publishedAt": "2026-10-06T22:00:47.000Z"
+    },
+    {
+      "title": "Sektor Saham Paling Cuan Kuartal III/2026: Energi hingga Perindustrian Pimpin Penguatan",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVlMwQmlyMzFIMXpsYmVPNE41ekVjeVg4WHluMElvV2VRaVd4cU90ZmdkN290OWs2NEFJQkVBV2VMQTJSdzBrcFFkTURLcFhKWnh4Sm9YLVh5UVB0T2pCYlN6NzBoRGRQdU5nNDJFd3QzcnVkSFFMQ2FtR2JIWTBkcGR2WXVwRXdaVFIyVmJ3NHhlcDRLUVRIQjg5Rjc0VzdSTG4yWnhTaUpTdW52dlpIbmd6d2ZwZkZvU2ctTHZScFdST3Y0eXZzcnpNNjhPb1hP?oc=5",
+      "source": "Bisnis.com - Market",
+      "publishedAt": "2026-10-06T21:30:40.000Z"
+    },
     {
       "title": "BEI Reaktivasi Short Selling , Investor Perlu Pahami Syarat dan Risikonya",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3RZUm9ReWNyQVVnN2FvaVB3ZWdPYVhVQVBTaV9wS1VISjNuU24xaVpUaHJzdVVfczA4X1B1UXNpQm5EdFRfaUNNY3NhcHZUekZiamNNejVvejczc244aEZPQXlYa3EzUDR0dzNKUnpVWG9yWlF0LWVRTERzSnB3QXRsNFp0Zl9qbjVYNG9QLXlsWnVYLVNQY20tQy1zenh1VmNNeVczY2FaY0tn?oc=5",
@@ -76,31 +88,25 @@
       "publishedAt": "2026-10-06T13:30:00.000Z"
     },
     {
+      "title": "Saham GOTO Bangkit, Mulai Jadi Bidikan Investor?",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXVpa0ItYTdHWE9idEtiR2xzb1pBaFpONFFaSDNIeVplWUJIOFZYcVJJUU91RDJPeEhzUXpaaTNVVFJ2TUZybXc2TGtEWEpPN3NlTjRQRER0cGlDY3diSy1LMkpFQ3pKN3BFTXJjTW1kNU9qbU42azdjVmZ3ZjN5djQxRkYtTmxPZ254aFd2OTXSAZABQVVfeXFMTll1aWtCLWE3R1hPYnRLYkdsc29aQWhaTjRRWkgzSHlaZVlCSDhWWHFSSVFPdUQyT3hIc1F6WmkzVVRSdk1Gcm13NkxrRFhKTzdzZU40UEREdHBpQ2N3YkstSzJKRUN6SjdwRU1yY01tZDVPam1ONms3Y1Zmd2YzeXY0MUZGLU5sT2dueGhXdjk1?oc=5",
+      "source": "Koran Jakarta ®",
+      "publishedAt": "2026-10-06T11:42:00.000Z"
+    },
+    {
       "title": "Mayoritas Saham di Bawah Gocap Menguat",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PbmxTZDFqZUVPS1JTYzV3OVZHUFRITnI1STVVamx3cDM0ZEtYU0EwR1MyR1JwVUlkX1BpYURjWXNrS2VtUm04Z0IzeEJOT0Z5T1J5ZnNDcGNCWTNpbllubndmM0g4U3B4WVpUOEpSUE9ZZjJSeXd3?oc=5",
       "source": "SWA.co.id",
       "publishedAt": "2026-10-06T11:30:00.000Z"
-    },
-    {
-      "title": "BEI catat investor saham di Lampung hingga Agustus 2026 capai 222.978 orang",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDZQQk8wblNQTTYyZ1VpOGt1dUlfbXBCMk95cmlzMktpUkdyeGF2aFp3aThMYlN2VEs4QTBiNUlRYk4xbmdZZ0RSdmYyRl9wcXp6VXlLX0x6Tm1JS0J4VHVjV1h5OFVTQXFCMXdoU1k5RUxfY2RxU2pDUnRVQnNxQ1d2eUNTX1dyLXZjcHBrLUlnS25Eb081STRQLS1YUTI2dUlPVXlxaXJHTnJHUGZSQ3ZlMjZqcnJGdFlR?oc=5",
-      "source": "ANTARA News Lampung",
-      "publishedAt": "2026-10-06T11:06:32.000Z"
-    },
-    {
-      "title": "OJK dan BEI Diminta Perkuat Perlindungan Investor Ritel di Tengah Tekanan Pasar Modal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOWN2ZUl2dVhXT1hPY3R3VWdicVJzdnhuejA1X1pYSUs3ay1hOEhPUGxCdWQ5VGZrMTJubWxoTHo0eFNMc0tVU2NyWkgxSzJ6QXVfbG1lLW4tWEtkS245Q2lLNnFjQ0dQaVRTNUg5T1VLTzdZSkRfYjRyQ2twY2ZscTNyY2htR0hTU3AyMnAyUlNIcGR4WTROZFR0aV9vMElNRFROQ2pKYkxSeU1zOGFFa0pR?oc=5",
-      "source": "Kedai Pena",
-      "publishedAt": "2026-10-06T10:44:44.000Z"
-    },
-    {
-      "title": "IHSG Hari Ini Ditutup Naik 74,07 Poin, Ikuti Penguatan Bursa Saham Global",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaUphZHo1ZzRPZlhTQVduRzkxaHdYZUJJT0oybjhrVzF0N2ZlSkwwSlY0azBPdXV4OVFnbDZSRXo5RmlqN3BqT0dDU3d3UjlzWFpld0U0a2IwdVNQaGpYTmZBLWQxd2libUpmTzNIbVIyaDFxOThyX3lqTHdrZE5lRVg2cHFISS1s?oc=5",
-      "source": "BALIPOST.com",
-      "publishedAt": "2026-10-06T10:37:21.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Bank of America tawarkan dividen lebih kuat dan andal dibanding Wells Fargo untuk pensiunan.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWExWNk1kckNQNHZnWlIwd2pXdVMzYUZHcWkxX29TZ3VrX2QyaC1GQnlBeXFwajZBM2NySmRqRW1QMGJCTU1LZW9vYWxEMjRxd19RTlhCa096MnNqNEgxT3dzakVHYVFCSnM1MjlmaWNGOVZPeUpUbDVQNTRNMVpfcWRpVzhFZjFhQ2dZ?oc=5",
+      "source": "Pluang",
+      "publishedAt": "2026-10-06T18:04:14.000Z"
+    },
     {
       "title": "Wall Street Naik, Ekspektasi Fed Mulai Melunak",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3RHSWRDdHZtOUtJdUNzZlN1cTdSZ19FckwtNU9WZnNVQ0dkM0s0cEZya1ZSZ2JpbWM2NngyZnpNemtGb25DYjgyYTVpdkFSbzRaTUJkeWw4Z0dITDlpWEhfaGJCSzdkUXJJY1NXOE5Tek45N1N1U2dNWFh4S1ROSzdRMVR4WDVEV2g2c0diRDdOaHhpWEpBeFhZX2tadjFtOUc3SGc1aTVCcEh5MjNtZThYZTFsaG1jbG1idFRpRFFOTE5J?oc=5",
@@ -112,6 +118,18 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmRzaDlRamRaS3NYczByQU93ZERBdy04Ym9iTmNoUXBsZThVdnlmUnFZZjR5Vm5EcDAyNWYxTXFQbTlpZkZzNGI0VldBaEg0OTRPcTFEYnBNZzZ3NnJJTXNCc09QcFhKVVpVWnR2UUMzc1BHOEtIQWo1emhtTzlieUVJZEhiTzhScjRoYXQtX2k2UjY4S193WTJyZUI1TURSQ0JBZzN0dnFwTmJfdTNsdEJGaDVsZnhvV3V0Yi1YUndfNlpmb0dMZ05IbDVsb2RRZ0Uw?oc=5",
       "source": "Investing.com Indonesia",
       "publishedAt": "2026-10-06T13:01:50.000Z"
+    },
+    {
+      "title": "Harga Pangan Nasional Melonjak Cabai Rawit Merah Tembus Rp101.900 Per Kg",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xSWF5MmdpUWJQbFA1V1JFTVBvM0dlQjlrelJnWVlod3ZXc3RtVU9VWGxHeW9MOVJ2NWhiNmMwZXJMNDNnZmJTN2wtUkZGWTVkUDB2dWs2ckVoQ1RRZnVlRVBpbXdCVS05NFpPQg?oc=5",
+      "source": "Koridor.co.id",
+      "publishedAt": "2026-10-06T11:57:55.000Z"
+    },
+    {
+      "title": "Kemenkeu Pastikan Tidak Intervensi Kebijakan Bank Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZRHlqeGdzRldXR2UxYTNKSldzODA0R1dfX19nYjVTVE12VUxHeHVYZ1J4d2NSbmFKUWsyQ3ZmdENtV05uOVFUVy1iT2x1WkwxaExhSFhwZ0NiWEItTHFzNUdISGFnOFRSMWVNeXdPQjdJQ2p5NHBjdg?oc=5",
+      "source": "Koridor.co.id",
+      "publishedAt": "2026-10-06T10:31:12.000Z"
     },
     {
       "title": "IHSG Melaju Lebih dari 1 Persen, Rupiah Masih Berfluktuasi di Sekitar Rp17.900 per Dolar AS",
@@ -130,24 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hQkxIY3JCYTRvb0pjckd4NHNGRVVlQ3diT0h4dzJtV3c4aFQwVGczVlpScktoZlp2YjAtb2JfQmtUbk9GODJJQTlwUW9JMjVzZUt6V3hZOFg5b2hyR2QxTl9KM2xiY3ZaTS1fb3pB?oc=5",
       "source": "Koridor.co.id",
       "publishedAt": "2026-10-06T08:14:23.000Z"
-    },
-    {
-      "title": "Dolar Kanada Melemah karena Harga Minyak Jatuh",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnZNcllVUE01SjhvaVdRM1JNZmFvWTRfbEtrNEdjMkdpU0J2QVF3LU41VktLRnJYTVRWakNLVXZTRzhSemw4RV9FMzhscmdtbEVpZzYxcjdtTjVGeEFpX0lxNjA1ZkN1VTJGdXpraEVZU21BZGxta1RPVVlFSkpHd2xPaW92dW1EVy00T05DaFdxOWRqX2tTWUV4OVdSd9IBngFBVV95cUxQMnZNcllVUE01SjhvaVdRM1JNZmFvWTRfbEtrNEdjMkdpU0J2QVF3LU41VktLRnJYTVRWakNLVXZTRzhSemw4RV9FMzhscmdtbEVpZzYxcjdtTjVGeEFpX0lxNjA1ZkN1VTJGdXpraEVZU21BZGxta1RPVVlFSkpHd2xPaW92dW1EVy00T05DaFdxOWRqX2tTWUV4OVdSdw?oc=5",
-      "source": "FXStreet",
-      "publishedAt": "2026-10-06T06:22:50.000Z"
-    },
-    {
-      "title": "Bank Sentral Borong Emas Cadangan Saat Risiko Geopolitik Meningkat",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YUW1OZVE2UExSSjhqcGpzQklXanZpbGJ4UzZtX2xnMTEyZVhhSEFaLWFSSmxweHhhQUhXS0dxSEFaZVdtNzBvMGlTdVlJcTFkc2lBeXY4OHpKWTJvYk5Dd1JHMnBqSlVyZ2c?oc=5",
-      "source": "Demokratis.co.id",
-      "publishedAt": "2026-10-06T04:19:17.000Z"
-    },
-    {
-      "title": "Indeks Nikkei Menguat di Sesi Pertama, Didukung Reli Wall Street & Harga Minyak Turun",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWDI5elBwUXZCUzY1aHQ4aThQOFhOdGdpODhjUnp3aFVFT0d6cXBoaTlQdktLTFNoVUVYdW1tbE9Ed1padml6RjVsWmhJN25hR29rZ0M0ZE5ZVGhIZ21QVGVVUU9rYW5lS2ZHZjZFZkxvb1ZxbzRjUVRISmpxVXR4Ni1jQUJnQjU5allaWF95emNISnkyN0ZudDJ4d1NTYmI1a3ZvOHVlZGc3NG9GdU81VnhONHFUM3dsTUlWZDNTc9IBsgFBVV95cUxNYlI3QlhKdWdCaG9SVEhXMWxhOHFlVUhGVFVzS00wanFoanBOdEZYSEU3eXBtMEhiRmRDUGhaX0tMSHBHLVN4VVhXWVpqVzNYOTRzWHVIdEZPNHNOY1RIMTZRUGxtc1puZm8waTdEMUlod0ZLLVpEMmt3eVhNaWs3TjFGUHRtcTc5X0pXTzZCaGhTX2c3TzF6WElWanV2ajV3eGdRYndoeUM0d0tRbzRPYVlR?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-10-06T03:47:47.000Z"
     }
   ],
   "errors": [],
