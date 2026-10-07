@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:38:12.955Z",
+  "generatedAt": "2026-10-07T16:00:18.969Z",
   "market": {
     "symbol": "^JKSE",
     "name": "IDX Composite",
@@ -983,11 +983,11 @@
     "pair": "USD/IDR",
     "baseCurrency": "USD",
     "quoteCurrency": "IDR",
-    "price": 17878,
+    "price": 17905,
     "previousClose": 17905,
-    "change": -27,
-    "changePercent": -0.15,
-    "quoteAt": "2026-10-07T10:03:33.000Z",
+    "change": 0,
+    "changePercent": 0,
+    "quoteAt": "2026-10-07T15:40:29.000Z",
     "exchangeTimezone": "Europe/London",
     "marketState": "STALE",
     "delayed": true,
@@ -2031,10 +2031,10 @@
       },
       {
         "date": "2026-10-07",
-        "close": 17878
+        "close": 17905
       }
     ],
-    "fetchedAt": "2026-10-07T10:03:33.000Z"
+    "fetchedAt": "2026-10-07T15:40:29.000Z"
   },
   "errors": [],
   "sources": {
