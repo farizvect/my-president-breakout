@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T13:12:47.989Z",
+  "generatedAt": "2026-10-10T18:10:01.890Z",
   "headlines": [
     {
       "title": "Danantara Bakal Tetap Masuk ke Pasar Saham Meski IHSG Anjlok",
@@ -12,6 +12,12 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0RKbl9nc0t3dE9jcktsa1JKTWt0eXMwZjB4Qk5jeUNPN2lTekd6dVRIRlo0SmFkdHNaNV8yNVBTYXp2c09VbW5saklVNVlHaHB5eVZPQ2djcFcwUTNTWGlXRXVFOWlUN2I3NDRSOHlNTWxyZ25ya3djbnAtQzZSVU5OaVZ1T0NndmY2aXpuTUpDc1BZUTJHbUlubFF2c2FRUXZyNE04cDc2TVdTMkVJ?oc=5",
       "source": "Bloomberg Technoz",
       "publishedAt": "2026-10-10T09:30:00.000Z"
+    },
+    {
+      "title": "Daftar 5 Saham Penopang Penguatan IHSG Sepekan",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EVFFIS1V4NzItNG1OWVlDLUNRYzFPb0pJakM0bjN5cmw1ZVdwUXhNVWdkZ0FSX0JJSXJ0NnphS19Ed1o2VjlhZTRiQVN4TDNCMEVvd0JPMlVWUU80dkJDSENTVm5tZTN2QVBRVHNBUENEME9LVTFXVVZGMFJnZw?oc=5",
+      "source": "Infobanknews",
+      "publishedAt": "2026-10-10T05:50:00.000Z"
     },
     {
       "title": "Kendati Mulai Net Buy, Net Sell Masih Rp 85 Triliun",
@@ -38,12 +44,6 @@
       "publishedAt": "2026-10-09T12:14:18.000Z"
     },
     {
-      "title": "IHSG Menguat 0,94% dalam Sepekan, Ini Pendorongnya",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wVnJVNm5zSC1WcFhMV3Y2anpleThOOTZLTWhnYkVMTXVxRFhhSEVqY0ZUbzhhS3pYTEt4UF9nM1FPeEx5MmxqdW1ES0ItOTBkYUpGWnBiazhONGFNby1idTBrcHhrZw?oc=5",
-      "source": "TradingView",
-      "publishedAt": "2026-10-09T10:40:59.000Z"
-    },
-    {
       "title": "Penyebab IHSG Ditutup Menguat 1%, Jadi yang Terbaik di Bursa Asia",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjQ2QTA4WlF1X2ktbzI1S1l6bkM2RGt5RU96TUtOby15TzFBQ1pVaWZCSVJaZW81V1hQOFE3SVpQaW5aWENYRGRTVWRlcU44SzBCRXJJMFNOUWRQX1V2Mk9ZQzVvZUNFbGc0M29Nc2gtMHNqc3Z6TDZCS2lPYVZBWk1MWDRCZFU5aEdOekRZSmhCa0h4Y2lJSDc1YlFoV0pNWjJkdzBEVjlPa2drcktFZ3dhd2tuUQ?oc=5",
       "source": "Bloomberg Technoz",
@@ -52,10 +52,34 @@
   ],
   "stockNews": [
     {
+      "title": "Deretan Saham Paling Boncos dan Cuan dalam IHSG Sepekan, Ada yang Meroket 102",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOMFAtVGFZMGJSTEV5cmx5dm5wQjI3anVFdEZoWDMtVEF2bVZRTnNadUlLX3FfbE5pWnhRUlZ1MUo5SEN5ZC1wM0lJczB1SDhLVm1rSWk5ZzNydmVBUkJYZVlENzlSbktxazJTQk8zUmRKVDR3UXctZmVzVm1jd1ZnaGxBVHZOZ04tLTZvYktiTzJvV3B4NjlfaFoxa25YY2lBX1g5eGdyZTN5QlMwRVEwamFzU2FZM3NIbF9mX091MGtkbExXeXpSU2VsbUVZcnRRN2VlSTdxamlNMU1TZ05rUzJGNjh5MFM4TmxiaEs0RHFHZDBDQ1VjbGkzSGFRRXNpQUJCbktzTjl1WUVlUldaSTJiVV9Vek9GX25aNTNkTDZjVm9qenpRLTRBRQ?oc=5",
+      "source": "RCTI+",
+      "publishedAt": "2026-10-10T13:43:38.000Z"
+    },
+    {
+      "title": "Deretan Saham Paling Boncos dan Cuan dalam IHSG Sepekan, Ada yang Meroket 102%",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWUl2N1BJSmNtSzN1elpoVkxvTDJ1Ym9YWWFzOVVaUVg5ckRvMmVDemM2cS1mMEJjeExWaVdNM0tsN3hmMmVfX0pScU5UNVVVTEc2a2o1T0lVeWIyOW1MeEllOUc0VHJoblVsUW9FLUpzLXFVem9NYW5ETXVaeFp2LWhxdmtDSFpEb1lLSlZNY2txZFNmNjRRelBucG1SQmdjMmxpQjd1NHNGb0Y0SUQ5ejVBZmE2eTNvMHdYQnpvNUJQS2g3MHc3UkEydnpUR3ZfcnfSAdIBQVVfeXFMTllJdjdQSUpjbUszdXpaaFZMb0wydWJvWFlhczlVWlFYOXJEbzJlQ3pjNnEtZjBCY3hMVmlXTTNLbDd4ZjJlX19KUnFOVDVVVUxHNmtqNU9JVXliMjltTHhJZTlHNFRyaG5VbFFvRS1Kcy1xVXpvTWFuRE11Wnhadi1ocXZrQ0haRG9ZS0pWTWNrcWRTZjY0UXpQbnBtUkJnYzJsaUI3dTRzRm9GNElEOXo1QWZhNnkzbzB3WEJ6bzVCUEtoNzB3N1JBMnZ6VEd2X3J3?oc=5",
+      "source": "SINDOnews Ekbis",
+      "publishedAt": "2026-10-10T13:43:38.000Z"
+    },
+    {
+      "title": "IHSG Sepekan Naik 0,94%, Kapitalisasi Pasar BEI Meningkat Jadi Rp10.701 Triliun",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNG5YbkZINmx6cVUySWdDb3dFQkFLMGpHNmpHVlFHdFVGel9iaWlXOU9aWHBkdVpFbUdXeHdmbjY5UWxuOXllalVzRko1enBJbE14cldMSUFudlNPU2JYaEZkSzdBNFRTTzY1dVRXNWF1aEIxSVFJSHd5QjdRZC1hdVA1WnJiZEtzWVZxb3NpbDhQVjFLOUtFdzJmRGwyekdSZnVlS2pPM2ZobXdDT05TcG9GcE53dUVk?oc=5",
+      "source": "JournalArta",
+      "publishedAt": "2026-10-10T13:43:00.000Z"
+    },
+    {
       "title": "BEI: Data Perdagangan Periode 5—9 Oktober Bervariasi",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUURTNGRheUU5OXlvdmR0aTQzbUNSdmxyczNmUVFyeDRlUWJGS0V3THZBOVpsUGlRNGE1TTZoS1Nsb2pkZ040UlpMSmVwRzVSQldoRW1CczkwX3EyZk0xNE9ncVl4R1ZZQ21VRTRjclRtOGV2NkloWjR5eHFNM2ljR2VieXBuaEZ5MTUxTDlDek82VDZQ?oc=5",
       "source": "TopBusiness.id",
       "publishedAt": "2026-10-10T11:10:00.000Z"
+    },
+    {
+      "title": "9 Calon Emiten Siap Masuk Bursa Lewat IPO Di BEI",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZEI0SnFkeEVXeG9tckswOWhueWcwSDN2RkY0X1N3akFZVlFOMVR5NzlJMzNUbTZ1cWxHXzdkTXgwT0d5aWE3Z1RiUUNEa19GSDRzdF8wNk5ZNFVpbXJiNDIyOHJEUXQtRnFPUGJiZUNqOFVEZnZ3Nng2em1NZ3N6UUowS194SHNQOFlyN3NHZ05PMVQ4SWpubWxoYnEtb1k?oc=5",
+      "source": "Validnews",
+      "publishedAt": "2026-10-10T11:00:00.000Z"
     },
     {
       "title": "IHSG Naik 0,94 Persen Sepekan, Asing Justru Jual Saham Rp 2,44 Triliun",
@@ -74,30 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPXzlkd05pMjczTHVnREFtNm1CT2w0ZFd1c3gzWEp6SEZWS1N1RUs2bTY5NG1KdmtTMWJSSE9iVXZOUmJEX2hVRnBFV3BwOEx1c0d1TEpXU2wyTDU0a2ctbEZybkt5WEdKYVFkWUdmOU1PRlU1WU5KUFRzNlJXRm8yanRmM21pQXpnZXZkVDVrb0tjY0RM?oc=5",
       "source": "Infobanknews",
       "publishedAt": "2026-10-10T10:25:00.000Z"
-    },
-    {
-      "title": "Sepekan Ini Perdagangan Saham Dinamis, IHSG Menguat 0,94 Persen",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbERaRFhfbUpHRHBOekdGeWlzQUlocTN3Ry1wXzdkUVZfVmxYNTRGaUNyV2xQV2JhMG5HT3dOdmp0ZW9vTnI4Rkl4RWQ1X0NsdWYxZVBHTzFSektkY1NTVFZERVR4RFZDTlpqOWg3UndxTndxem5wVDRYejlpVDFzam9LYnd6QVhsMXlyRElPbU1KZUNhenhVUG9GZUJCUld2amt5bk1xZw?oc=5",
-      "source": "RRI.co.id",
-      "publishedAt": "2026-10-10T09:45:00.000Z"
-    },
-    {
-      "title": "ADHI Divestasi Saham Tol Rp1,8 Triliun dan Alihkan Sisa Dana Rights Issue ke Modal Kerja",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFFBWVN3VXo4bm9nYW1LWXg0SlhiLXVZR2ZyeGl0WU1mVXdscEtEWnI5ZFVDUEplNVJ3cnFYT2I5UXhtZHBVbjNEeDdVNFk5bjJkcFFfMmFpcTE4TEpKUGxJcEM2RXlHMDFIV3F5RHhPYjdYUXZvaHVjZjJ2VmZrSldCQXg1cy1vemZob1VCZWlKUjVhYXdXM29Hb3BVVVVqcTB5RlhyNUVUdHJXWjlzOV9aS0MzTmIzV1JEX3BDSG1Mc2dzV3plLTVR0gHKAUFVX3lxTE94UUFZU3dVejhub2dhbUtZeDRKWGItdVlHZnJ4aXRZTWZVd2xwS0RacjlkVUNQSmU1UndycVhPYjlReG1kcFVuM0R4N1U0WTluMmRwUV8yYWlxMThMSkpQbElwQzZFeUcwMUhXcXlEeE9iN1hRdm9odWNmMnZWZmtKV0JBeDVzLW96ZmhvVUJlaUpSNWFhd1czb0dvcFVVVWpxMHlGWHI1RVR0cldaOXM5X1pLQzNOYjNXUkRfcENIbUxzZ3NXemUtNVE?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-10-10T09:33:00.000Z"
-    },
-    {
-      "title": "IHSG Menguat 0,94% Sepekan, Nilai Transaksi Harian Rp16,23 T",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0RKbl9nc0t3dE9jcktsa1JKTWt0eXMwZjB4Qk5jeUNPN2lTekd6dVRIRlo0SmFkdHNaNV8yNVBTYXp2c09VbW5saklVNVlHaHB5eVZPQ2djcFcwUTNTWGlXRXVFOWlUN2I3NDRSOHlNTWxyZ25ya3djbnAtQzZSVU5OaVZ1T0NndmY2aXpuTUpDc1BZUTJHbUlubFF2c2FRUXZyNE04cDc2TVdTMkVJ?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-10-10T09:30:00.000Z"
-    },
-    {
-      "title": "Daftar Saham HSC Bertambah Jadi 63 Emiten, Ada BYAN hingga BREN",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVN2ZjA4dkRQanVGdXhoNzFhVTU0ZzY0ejh0WFdUdmU2ZEhjWlFtQks0N092STNmVndLUU12WHppaUxIdGhVUWlFRVRiSEg3RlpEQnhCd01VRDFUWVR3Z3dLTjN2TDB6UmZ0R3JWYUpSODlwUHBDTXM0SGpnd2ZDTmFSb2JaZ1hrOFpDaF81ZFg?oc=5",
-      "source": "Infobanknews",
-      "publishedAt": "2026-10-10T09:16:31.000Z"
     }
   ],
   "macroNews": [
