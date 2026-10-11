@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T22:09:11.740Z",
+  "generatedAt": "2026-10-11T01:28:43.343Z",
   "headlines": [
     {
       "title": "Danantara Bakal Tetap Masuk ke Pasar Saham Meski IHSG Anjlok",
@@ -52,6 +52,12 @@
   ],
   "stockNews": [
     {
+      "title": "Rencana Danantara Beli Saham BEI Masih Terganjal Regulasi",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmJlWmJraHhzV3BlVFY0dllFTmRBNjNmREpOdUd4eklMVDBmNVRlWjgwNFp4QWVPXzFvOHowLXBtS0hVY2h3b3VrbFFOX3ltRmpnUklMRlJtZXpaYXRYdE5zV2VPT1Rvd0F0MkdOTFF0cnQxbzJvaFlTaDQ0Tk12Tjk4QUExbEJuNG9OcFY2dlpZUW9G?oc=5",
+      "source": "KabarBursa.com",
+      "publishedAt": "2026-10-11T00:27:12.000Z"
+    },
+    {
       "title": "BEI Perluas Informasi Kepemilikan dan Cakupan HSC untuk Perkuat Transparansi",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObElqcllPcklrLTRWUVVnaFJZaHJNN3dVT0xJTV9MLUdQQUVHakg0N0VlYlhkY1ZyRjJ0RE1MYXVJdnd2LVZEUEJhQVVMYUVPc2wzSTFVeS1ON0h1M0oySVI5TXZsSWJCY2ZwSkREQTRGeVluTERoS2F3SGRlTTJwRTVoTy1vcGlEczRzdkFHZFNTTnhTNDRSRWFtbVJkRzJRRDdOcEh2Mnk5SlNwMjNJTDVvM3djVlZUUUw4?oc=5",
       "source": "RRI.co.id",
@@ -92,15 +98,27 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYkhsdEFmZHVJRFc4YS1qSEZnS0YzaE9GQU5sOHQwVnBxMjRZS3Q1bExuaWNnNS03cFlzUGtUZjlkcXhyVllRdElycExwNkphaFliM3dZUERSTlFkMUo0OURhLWZQU0JfVGFGWUw2TVV0NXVMQWtacGJwWkhDNjJUX1VqeHZ6dXlrVXd0MnVJN3I0YjByV1BpTzBJNmRWNm55QUdvTkp0ejNrMW95RXR0TzNYVC1WaTR6b0FyTw?oc=5",
       "source": "Kompas.com",
       "publishedAt": "2026-10-10T11:00:00.000Z"
-    },
-    {
-      "title": "BEI Terapkan Intraday Short Selling dengan Manajemen Risiko Terukur dan Menyeluruh",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVBzTGVTYzY1U0tfMkJ4RHU0SkxtMjZBS1VFR1VNQ3Q5TjJSVzBGdmM5dWlDeVJRb3BkY1A4VkNDVHZSWDM3RXM5al9PMDhGeTBibnh4emFjZE1WWUZsZ1FmcTlMVzVJM3JYY1F2bEtXOHFXVW9VdnNKeGp6NWtkc2VCeGpYNXhoWC0zOHFxOTFDODJnVGdWVThieFJfM2pGb1FLdGk2aW5rbURWQWVSTXN0bEZ6a01laC1V?oc=5",
-      "source": "Tempo.co",
-      "publishedAt": "2026-10-10T10:52:00.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Wall Street Menguat Saat Saham Teknologi Bangkit",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXaFhZWGRPeC0wcHNXa2pwMEp4WWJhSUpKaXJvTjBiVlh0NVktUk5fWXMtaXBBTTNLZGhmTC01S3FxdVNhc3JibWZacXktMnl3UjJTR3RkSm1ybVBtTVhENnpRQ3U1Rzd0?oc=5",
+      "source": "SuaraGarut.ID",
+      "publishedAt": "2026-10-10T23:28:00.000Z"
+    },
+    {
+      "title": "Harga emas hari ini (11 Oktober): Harga tetap tidak berubah di semua lini.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UNUV4MUpXNGMzWko1LWhHZWJyeGhESEpIeUs5elNEcngwanFsSkxXUmhEWHdXQ2lQWkxNTEJaclhzNXJKRm9NTllyUVlVUFBaUko3enlUcWJkU2tOZzdxY09PQUlFTlhQOWFKMlh3SEZwakVBZGc?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-10T23:23:27.000Z"
+    },
+    {
+      "title": "Wall Street Proyeksikan Saham AS Menguat hingga Akhir 2026",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ScGxGVWpXUXJYcWgtTVhHVThDSzVwRnVkTDk0aURfV3F1bGtaMXlyUnh6ZWFvZkJpTDhjcURNYVpzajlKQWhYZGVjSUtmdGdpVWZuaUo3eGE5b0dqODI0?oc=5",
+      "source": "SuaraGarut.ID",
+      "publishedAt": "2026-10-10T14:54:22.000Z"
+    },
     {
       "title": "Saham AS pulih, tetapi tekanan suku bunga terus membayangi Wall Street.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXR0aXd3eko0NkdTV0d4TUw4cDVmeGtTTWk2end2WFNtVzBaY0Q2VnV4UTE1OG11MFhfV1o2Q0x2Qk1INjFldWx6OXJBSTRhc0ozSTRFYkxQMmJjemhYOUc2LUdIeC05aU81Z2dndzhkLWhMNENQckNBX2plLW5vS2tVY0dfYWlsUnp0cW00eW5zd1JvSlE?oc=5",
@@ -130,24 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTS1rNE1qWjNnYXBTdnRZcEgyR1d2cUZNelJCUzA0d2FKSVNhSzJoT2UyQjhfZDRoNnNudkZZdmZVQlNYYkpCS2RrX09CV1g3TjBkVWV5VzlrVGNEaVhDcTJ5VW1INzZGU3VicjdmdEw0RFlLd3JGVHlKRVF3WFZiQVdiX3VZVVpybnF1SUtXWlRLcWtZVDMw?oc=5",
       "source": "KabarBursa.com",
       "publishedAt": "2026-10-09T23:06:00.000Z"
-    },
-    {
-      "title": "Wall Street Menguat Sepekan, Investor Menanti Kinerja Emiten dan Data Inflasi AS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlN1N0ZfS3FaLUN4WkpCMnJnTmZ5UFBIZWlrR25keWFkV2VNYWlyTVdLNHJYekgtUF9ULUp2a3RRelZxYkxXVzNQVGZfVGJqVXEyQ0JpOWZaSDVnZWtybUNTVk93NnlGU0czZFh3RWFTR240UnJVMDd1UjJUYmJWQ3NUbHBlTG1ZR2tOc3V3M2tkN3YyRHo3N1dQYVNwV0hybjM1dGNPYjFUM3lsRlViWnVqLUNNUdIBrgFBVV95cUxOYWxHS2l5YVVZRzN6ZUZ2M29rM3JONS03Z05pLVg3V3RWZzVYVVduaEtXaWVYbzdZbi1uY2dvT1BRRk9nRFdYZGpBSTlfWEZ5LUdhSTFSQlROMDI0bUJGQ2xERGVPVTBwLUZPbUtQYVRReklCdllXZW1hVWJ6c0ptUkpKSXNMTWdmZVRnTEJjMUF5VnQyVFlIaDFHQjdnUTRqQTZPSUszSnZjZktOU2c?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-10-09T22:45:16.000Z"
-    },
-    {
-      "title": "Belanja Rumah Tangga Jepang Kembali Turun Meski Upah Meningkat - Global",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONG8yeVBpbVdJMVA1Z1dxTllxaDBRUjFVMHp6Wnp3SjlKWFE5STVOOWsyLTBCQTJ1VnhXV1hIZC1jcWpkcWlPNjYyRFE3R2lhTnFXcWZsQUVOODE3WHJYbnRmQklVQWdWakdtellxdmVTSXhLeWhVazFYQjNzZGRhNm1Cd0hLc0VUZDM1SUZkUXpPOHJ6a0dPZ05sT3VQcW1rUTNpNHRZOGpXWkxtVzYwSkxKWWZsb0k?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-10-09T17:19:24.000Z"
-    },
-    {
-      "title": "Modal Asing Rp2,44 Triliun Kabur dari Pasar Saham RI dalam Sepekan",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2gtNjZsTFB3cEJEYUZrd1BWY2pKZGhySUhsczdmWUpqN3M3R1QzbHFBdXdVX3dLU2ZOdWp4b0pLeTJkcVR3MWxRaEp1VUl4WkJfQ0RDb2dSemdDNlhwbVNQS1Y4d2w3cXpVNlQzSHlycDFvY3NOam9STkI2Mjc1ZnFoRWJmc1ltX2FWWHI1cGRXc3llUk9yUWh6RDVVQXRmbkE?oc=5",
-      "source": "Akurat.co",
-      "publishedAt": "2026-10-09T14:38:50.000Z"
     }
   ],
   "errors": [],
