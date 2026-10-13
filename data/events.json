@@ -275,5 +275,185 @@
     "status": "confirmed",
     "precision": "daily",
     "source": "https://presidenri.go.id/siaran-pers/ratusan-ribu-masyarakat-berpartisipasi-dalam-war-undangan-upacara-hut-ke-81-kemerdekaan-ri/"
+  },
+  {
+    "id": "karhutla-review-2026-08",
+    "date": "2026-08-22",
+    "title": "Press Remarks after Karhutla Response Review in Central Kalimantan",
+    "location": "Tjilik Riwut Airport, Palangka Raya, Central Kalimantan",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/keterangan_pers_presiden_usai_meninjau_penanganan_kebakaran_hutan_dan_lahan_karhutla_di_kalimantan"
+  },
+  {
+    "id": "plts-100gw-2026",
+    "date": "2026-08-25",
+    "title": "100 GW Solar Power Plant Program Launch",
+    "location": "PLTS Site Gilimanuk, Jembrana, Bali",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_peluncuran_program_pembangkit_listrik_tenaga_surya_plts_100_gigawatt_peak"
+  },
+  {
+    "id": "flores-quake-meeting-2026",
+    "date": "2026-08-26",
+    "title": "Limited Meeting on Flores Earthquake Response",
+    "location": "Earthquake Response Post, Yonif TP 834/WM Battalion, Nagekeo, East Nusa Tenggara",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/pengantar_presiden_pada_rapat_penanganan_bencana_gempa_bumi_di_pulau_flores_ntt"
+  },
+  {
+    "id": "flores-quake-review-2026",
+    "date": "2026-08-26",
+    "title": "Press Remarks after Flores Earthquake Response Review",
+    "location": "Berdikari Field, Nagekeo, East Nusa Tenggara",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/keterangan_pers_presiden_usai_peninjauan_penanganan_dampak_gempa_bumi_di_nagekeo_ntt"
+  },
+  {
+    "id": "nu-muktamar-35-2026",
+    "date": "2026-08-27",
+    "title": "35th NU Muktamar Opening Address",
+    "location": "Pondok Pesantren Bahrul Ulum Tambakberas, Jombang, East Java",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_peresmian_pembukaan_muktamar_ke_35_nadhlatul_ulama_nu"
+  },
+  {
+    "id": "eef-11-2026",
+    "date": "2026-09-03",
+    "title": "11th Eastern Economic Forum Address",
+    "location": "Plenary Hall, Far Eastern Federal University, Vladivostok, Russia",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/pidato_presiden_ri_pada_eastern_economic_forum_eef_ke_11"
+  },
+  {
+    "id": "russia-bilateral-2026",
+    "date": "2026-09-03",
+    "title": "Bilateral Meeting Remarks with President Putin",
+    "location": "Vladivostok, Russia",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_ri_dalam_pertemuan_bilateral_dengan_presiden_federasi_rusia_dalam_kunjungan_presiden_ri_ke_rusia"
+  },
+  {
+    "id": "asian-games-xx-sendoff-2026",
+    "date": "2026-09-09",
+    "title": "Asian Games XX Contingent Send-off Remarks",
+    "location": "Istana Negara, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_pelepasan_kontingen_indonesia_menuju_asian_games_xx_aichi_nagoya_tahun_2026"
+  },
+  {
+    "id": "brics-2026-closed",
+    "date": "2026-09-12",
+    "title": "BRICS 2026 Summit Closed Session Address",
+    "location": "Bharat Mandapam, New Delhi, India",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_sesi_terbatas_konferensi_tingkat_tinggi_ktt_brics_2026"
+  },
+  {
+    "id": "brics-2026-open",
+    "date": "2026-09-13",
+    "title": "BRICS 2026 Summit Open Session Address",
+    "location": "Bharat Mandapam, New Delhi, India",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_sesi_terbuka_konferensi_tingkat_tinggi_ktt_brics_2026"
+  },
+  {
+    "id": "lrt-jakarta-2026",
+    "date": "2026-09-16",
+    "title": "LRT Jakarta Kelapa Gading–Manggarai Inauguration",
+    "location": "Manggarai LRT Station, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_peresmian_lrt_jakarta_jalur_kelapa_gading_manggarai"
+  },
+  {
+    "id": "disaster-response-meeting-2026-09",
+    "date": "2026-09-17",
+    "title": "Limited Meeting on Natural Disaster Response",
+    "location": "Istana Merdeka, Jakarta (video conference)",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/pengantar_presiden_pada_rapat_terbatas_perkembangan_penanganan_bencana_alam"
+  },
+  {
+    "id": "gontor-100-2026",
+    "date": "2026-09-19",
+    "title": "100 Years of Gontor Islamic Boarding School Reception Remarks",
+    "location": "Pondok Modern Darussalam Gontor, Ponorogo, East Java",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_resepsi_kesyukuran_100_tahun_pondok_modern_darussalam_gontor"
+  },
+  {
+    "id": "peatland-dialogue-2026",
+    "date": "2026-09-28",
+    "title": "Dialogue with Academics on Peatland Fire Prevention",
+    "location": "Istana Merdeka, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/dialog_presiden_dengan_akademisi_terkait_penanganan_lahan_gambut_pada_potensi_kebakaran_hutan_dan_lahan"
+  },
+  {
+    "id": "hut-tni-81-2026",
+    "date": "2026-10-05",
+    "title": "81st TNI Anniversary Ceremony Address",
+    "location": "Prima Field, TNI Headquarters, Cilangkap, East Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_upacara_peringatan_hut_ke_81_tentara_nasional_indonesia_tni_tahun_2026"
+  },
+  {
+    "id": "fifa-asean-cup-final-2026",
+    "date": "2026-10-06",
+    "title": "Press Remarks after FIFA ASEAN Cup 2026 Final",
+    "location": "Gelora Bung Karno Main Stadium, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/keterangan_pers_presiden_usai_pertandingan_final_fifa_asean_cup_2026_antara_indonesia_tailan"
+  },
+  {
+    "id": "forest-fine-handover-2026",
+    "date": "2026-10-06",
+    "title": "Handover of Rp13.2 Trillion Administrative Fine and Forest Reclamation",
+    "location": "Bundar Building, Attorney General's Office, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_penyerahan_denda_administratif_rp132_triliun_dan_penguasaan_kembali_kawasan_hutan_259_ribu_hektare"
+  },
+  {
+    "id": "nickel-downstreaming-2026",
+    "date": "2026-10-08",
+    "title": "Groundbreaking of 11 Nickel Downstreaming Ecosystems and First EV Battery Export",
+    "location": "Indonesia Weda Bay Industrial Park, Central Halmahera, North Maluku",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/sambutan_presiden_pada_groundbreaking_11_ekosistem_hilirisasi_nikel_serta_ekspor_perdana_baterai_kendaraan_listrik"
+  },
+  {
+    "id": "egypt-bilateral-2026",
+    "date": "2026-10-12",
+    "title": "Press Remarks after Bilateral Meeting with President El-Sisi",
+    "location": "Istana Merdeka, Jakarta",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/keterangan_pers_presiden_ri_usai_pertemuan_bilateral_dengan_presiden_republik_arab_mesir_pada_kunjungan_kenegaraan_presiden_republik_arab_mesir_ke_indonesia"
+  },
+  {
+    "id": "karhutla-meeting-2026-10",
+    "date": "2026-10-12",
+    "title": "Limited Meeting on Karhutla Response",
+    "location": "Istana Merdeka, Jakarta (video conference)",
+    "status": "confirmed",
+    "precision": "daily",
+    "source": "https://www.setneg.go.id/baca/index/pengantar_presiden_pada_rapat_terbatas_terkait_penanganan_kebakaran_hutan_dan_lahan_karhutla"
   }
 ]
