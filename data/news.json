@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T19:11:58.245Z",
+  "generatedAt": "2026-10-16T22:24:15.804Z",
   "headlines": [
     {
       "title": "IHSG Turun −43,2% dari Puncak, Drawdown Terdalam ke-4 Sejak 1990",
@@ -52,6 +52,12 @@
   ],
   "stockNews": [
     {
+      "title": "IHSG Anjlok 11,57 Persen, Pengumuman MSCI Picu Tekanan Pasar",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWt3Y3dtMHVqbXF6LVFRQnA1TGtfaVJaVUppb3J1X00yMmV4SEFrR0JOTTFQREt0TDRPQnlqdnA5OWs3NWxqS2VfbEx3Sk8tdWM5R2RSYVVjUDBBYlNMN1dlcFBSd3IyQ3lCZlBvSWE5SHhTMEtZbzREb29hb3lmbTRPLTUwUEtTN2RPdXZ0aHgxN2hIZmJZM1g4b1dONnVVYmJBOUpqbzNPY1ZQMVhMUA?oc=5",
+      "source": "Pikiran Rakyat Koran",
+      "publishedAt": "2026-10-16T22:00:00.000Z"
+    },
+    {
       "title": "MSCI Ancam Turunkan Status Pasar Saham RI, BEI Minta Klarifikasi saat IHSG Anjlok 11%",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOXpSQnl6eVhMdlNhMzFsazFrVEc1eHNwelo5Y092OXlXVXZXOTlXOUdpSVRneWhidnR6NmVzYWdLVTNOQUVCclVORVlfQi0wMzBxbGNVY0xkdXdlREptVFR5VXg0OHJvN2tMbHZWV3NmODhMeURPMkszQ3VNUDRwNGRwRW1qcU4teXVZWEp4Qmd6YmhSM0F4NXNaUmEyUTllMjBzTlA0aFd4RGRpS0FxeHpmazJpWWFGOGFjag?oc=5",
       "source": "Diskursus Network",
@@ -82,12 +88,6 @@
       "publishedAt": "2026-10-16T16:07:01.000Z"
     },
     {
-      "title": "BREN dan CUAN Tanggapi Sanksi OJK, Pastikan Operasional Tetap Normal",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3JucWNGc1pfcDNZRlRvakZhYVJtUzc2LWZYeFhRcTFLaWx6bVFncl9sX1JHWjJxcXpNVWJ0anlZbERzV2hWZjNqZTEtOWE1UUFtNTd1NGJPZ2lQT2tpQ0RSUHhubEFreUZzYjBVUlljSEdsNFBsMzBKLWYtY3lfd1N4WEdpbWpDVkxXOFQ0ZjV2QTRoY0tiQWlBUnhXZw?oc=5",
-      "source": "SWA.co.id",
-      "publishedAt": "2026-10-16T16:00:00.000Z"
-    },
-    {
       "title": "Data Sepekan Perdagangan BEI: Kapitalisasi Pasar Rp9.157 Triliun, Anjlok 14,43% Dibanding Pekan Lalu",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNl9ZOHNLTzVUYzlTTVF4QlpXSE0tZXFWLXhQZkJzM3R6Q3M3cUNHNDNOSVRzUUx5WHRBME5Gb2tWbmJSc3FDYkhubVVNRDlkSnU4blJzRGZJaUhrVlVPM2l2RTJSTTA0bG1Nc25YTFE2clA1c25Sam5Pd1JoaVBmdmxDWFU1MjRMNEpDVjFuT2RmZFY3NDNMZjlmRExqVDd0V0ZWVkZVMjhIOVdUUFhDX3lDLXVIVTdOQUVZNnBkZ01waXZNWGwwNEM5WV95UEE?oc=5",
       "source": "Pasardana",
@@ -101,6 +101,18 @@
     }
   ],
   "macroNews": [
+    {
+      "title": "Rangkuman Earnings Q3 2026 Wall Street, dari JPMorgan, ASML hingga UnitedHealth",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2RPNWxMbFA0cHYzVUM2RGNJS0gxczJ2UzRteXBVQmRWTHlDdHNveHZfU01IUGRtUDZEYVhFYjB2RXJObzc0dnY2UFFob0dKRkJYZHNKVVgxQUZPQjdmM1RkRW1keHpGajBXV2FvOE8zcjZIeENfdlY4Mlk4VWpHdGVmdE1pTGJzbFVERG9Nc1p4SlpRZUk5aFJOaHR1SWhLZTdqeA?oc=5",
+      "source": "Ajaib",
+      "publishedAt": "2026-10-16T17:05:05.000Z"
+    },
+    {
+      "title": "Wall Street Beragam: S&P 500 Stagnan Akibat Laju Saham Bank Dibarengi Kekhawatiran Investasi AI",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTk45R3NRQ1ZYLVhwS2haZ0JYdFhNbjZEaXFTZ2tlNUljRTJubHB6MGhJc2JIZnZGMFBsRURib1I1NmhzWXBCanBIVWJjZ1F1RGJTeDVHYjAtQmNzZEw2MGwyampWOVEydUFQZ1g2VExSUW83S0U3anZLMHo3Q1V2ZWZBQUtjMnQwUWNsVkpUVlNoNE94U0xicDNDbGhHSHc0S3VJcllheUlMYUdiODY2Rm9lTll0b2JtSXk1blB2MzdybTRybTljZkFhLXZoRXlIbFHSAdIBQVVfeXFMT05OOUdzUUNWWC1YcEtoWmdCWHRYTW42RGlxU2drZTVJY0UybmxwejBoSXNiSGZ2RjBQbEVEYm9SNTZoc1lwQmpwSFViY2dRdURiU3g1R2IwLUJjc2RMNjBsMmpqVjlRMnVBUGdYNlRMUlFvN0tFN2p2SzB6N0NVdmVmQUFLYzJ0MFFjbFZKVFZTaDRPeFNMYnAzQ2xoR0h3NEt1SXJZYXlJTGFHYjg2NkZvZU5ZdG9ibUl5NW5QdjM3cm00cm05Y2ZBYS12aEV5SGxR?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-10-16T15:15:00.000Z"
+    },
     {
       "title": "Inflasi AS memanas, peluang The Fed menaikkan suku bunga kian besar",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWgzSDJCWmJFaTItZm9OTmtPb1RTVjRaUDY2cTNpcEVGQVpPdlRDRFFVMFFkQ2NUbHVESTRibV9vUWs3UFBzXzBxWTJDa0dOTU13dmtvYkozeWFQZVpfTTE2N3BJLUV6VGRwcFZoWUd3RmZqdGFYLTZWamJWNmtmTW1CakJUMHpvUk96d2NPNGdGY1Q2YUtSd2NFUkRvNk5xVjBzNVY4eHdib0s2MVhF?oc=5",
@@ -132,22 +144,10 @@
       "publishedAt": "2026-10-16T07:01:29.000Z"
     },
     {
-      "title": "Harga emas menahan napas menunggu sinyal suku bunga dari Ketua Federal Reserve.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHBoV2E0aFdFZ2lHbnk2cXhlekdBMTBsTE94Y04yUEJ4NXRyQk83aDZoMXA2LXNDRV9ERzJESUJTWnpPWFdNYXRJV012aHBiTXc1U0NDaWtHSWE4NHNYWWNDaVVBaHcxVGNpaHpxMWRFS0tPVnZkQmYwdEdiRFN6N1VaYm1ESnc?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-16T04:47:45.000Z"
-    },
-    {
-      "title": "Wall Street Hari Ini: Dow Jones Melonjak 1,08%, S&P 500 dan Nasdaq Kompak Naik",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlVKbmVaX216enkyaEdFSEhMQTBycl9pRjI0Qm1INDVVaEpBRW84R3pYM3Y2Mi14aHU3cGRIMHRyZUQwTTRaRmJuTG5RNmhBQjhEQUtNVG1CYWt2MXBwa1lSUFN0NGc3N1lidVNIeGIzalZHblEwZWRod0FrdkRhSjlpeHV4alA2VWVYblUxUV94SmM?oc=5",
-      "source": "Ajaib",
-      "publishedAt": "2026-10-16T03:33:04.000Z"
-    },
-    {
-      "title": "Bursa Asia Kompak Menguat, IHSG Melemah Sendirian",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHVZUnZ4UzM5OWFXOWNCbnlFNUptRkQ5Z0NTWjRJbGtXMVBTdXJ4TXBRRUh6UnRjdnlEbDRheC0td3NxV2YydUtMRXpKMWR3Zm42bDF3TnNmc2l0dHdPZkpoem9mMklRRDA3dzJKVTc0S1BoQ1BYTk1XS3dnSHJlLVllUzdNQkVXbktCbGh1NWpJLUNPeW4xZ1lvQmpEdm1qNmRwdGNaTHU2MUlFNEs1YklyVXLSAbQBQVVfeXFMT1h1WVJ2eFMzOTlhVzljQm55RTVKbUZEOWdDU1o0SWxrVzFQU3VyeE1wUUVIelJ0Y3Z5RGw0YXgtLXdzcVdmMnVLTEV6SjFkd2ZuNmwxd05zZnNpdHR3T2ZKaHpvZjJJUUQwN3cySlU3NEtQaENQWE5NV0t3Z0hyZS1ZZVM3TUJFV25LQmxodTVqSS1DT3luMWdZb0JqRHZtajZkcHRjWkx1NjFJRTRLNWJJclVy?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-10-16T02:17:58.000Z"
+      "title": "MSCI Buka Potensi Turunkan Status Pasar Modal RI ke Standalone Market",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSHFpNHp0ZVBQTERpYXZrd3otMjNGdjVtdGhpRlJ6WktwS3M0d3JiMVU1d0tKUkNGaDZJT1hrR1lGQ1d0YnpxM0Z1WDdLcUZHWWVYd0dqS2gxb0JJcjFHWVZzMU1ncDZ6dVpvX0lNQmVwUklQT0lqVnNiVWpacHhMbnlOSFE4RExmNXJqQ2NnbkFmU0U?oc=5",
+      "source": "gadget.qoo10.co.id",
+      "publishedAt": "2026-10-16T05:51:00.000Z"
     }
   ],
   "errors": [],
