@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-16T15:06:19.580Z",
+  "generatedAt": "2026-10-16T19:11:58.245Z",
   "headlines": [
+    {
+      "title": "IHSG Turun −43,2% dari Puncak, Drawdown Terdalam ke-4 Sejak 1990",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazJtbHBKRDhoVnhOQ3cxdGNMb1prLTVOalJmX2ZuaE1nMm1LQm1yMjg4amhPWmNYZnRMSl9xdEtyeG05Um1HOTJiVE41NmtkWXotT2g5REk2WGtTU1BvWHFYZFJ1RVE1NDhUX1FwbjNsVzhBN2x2Wm9xZU9fekRMeERWVU0?oc=5",
+      "source": "Ajaib",
+      "publishedAt": "2026-10-16T16:44:59.000Z"
+    },
+    {
+      "title": "IHSG Kembali ke Level Era Pandemi, Pasar Saham Indonesia Dibayangi Evaluasi MSCI",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3ZhSFQxbHE0VjRrMDV4a0liMVBRT2RoV21STlZsblRXU1h2cUctSjFUUmx1SUQ5ZHJSOGF4Q1FTRkt3QjNNTjFWX05BZkx0X1VuaXFZdlJjN3R6SVpxWEZ2c21qeTlRdXU5ZjJueXQ2V3BPcnBJdFBxQXFaeVdmQzYxZTc1NXM4RkV6OUg0d2M2NXR5cXp5NHg0OVZObnM?oc=5",
+      "source": "Universitas Muhammadiyah Malang",
+      "publishedAt": "2026-10-16T14:52:15.000Z"
+    },
     {
       "title": "Video: IHSG Membara di Tengah Isu Pasar Modal RI Turun Kasta",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXZqMHI4TkRCdGZVcm1Ib01LdWlCdF9XSnREdlkySmUxYkZIUVBjbHVONjVGMFFnUVY5TmlXY3FrbWJfcUxuQ2hPZ0pjRkRxZVFtME9IdE1udnp2NUU5UHcyYmRFS19CLXM4UXEzNTg4aGVoMUFnSk03aW9oWWpJUVhFNlp4NTNRUDdlSThRRTE5U0VSZmJlcHMyT05ZSU5CVFZYWkJJRnhhY1FjZHBNQw?oc=5",
@@ -8,8 +20,14 @@
       "publishedAt": "2026-10-16T13:41:16.000Z"
     },
     {
+      "title": "IHSG Berpeluang Kembali ke Level 6.000 pada Akhir Tahun 2026, Cermati Pemicunya",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kaVNiZ0JDc211RzB6U1BGNk1ZdzRia0g2cXVTUW02emtrRHlaVllraEo1MVZlbzZoU3hHbWpSVDNsOE9tRFh6QWw1cEZmZkdwREhGUmRwa0VTMVpBX0xheEQwSFRSQQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-10-16T12:27:48.000Z"
+    },
+    {
       "title": "Diversifikasi, Salah Satu Taktik Bertahan di Era Turbulensi IHSG",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemx5YjhoN1l5UlNVd3hQLU4tTmZlUmlzaEdBdUttLVNtWVJWTmFrT041TkhBRGlhRzRCcmQ4dEVkOTV4RmsyVmNoZjRPSEVqZUc2cDRYbkpVNUFYUzNVa1BuamN4QThEbXFTS3FTdkJDb3ZMUkVzUE9UQ1E4OC1kSFp1OFJQUG1BU01lX2d2YVFKa2dtc2IzZmR2T2xWLWh2NDVKNlp6Rng5ajMxSG9VdWxmeUo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODd6RUgxZVpNTzRudV92QU9hRlZTeXg2RTdLei01Tk5KWGg5QUJaU3dheE1yVTB1RTZtejhBSm42d1JTVHFMaHhvRDBaUVVNM2FJbHBXSlFPVjJ3TTZ6bFR0dzFVYkVuZ3gzYzY5bDN5SjFuYk5RSVBzUVlqLXc1YkwwRVdZaVB5aURBYkNWeU9HVGZHeVVPVEdGRG5PNHA2N2VOVXVaWnBWTGl3SDd4SkMyRDhQeURyekZF?oc=5",
       "source": "Kompas.id",
       "publishedAt": "2026-10-16T12:26:22.000Z"
     },
@@ -30,74 +48,56 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEtSaVBucWFNaWxyS05tbnJrUFdMQkZINlA3ZTNvSVUyd1NvbGg2OHFVb1BMTkRpa2I0ZDdISXRlS3hOM3dBQUladGQwdGpRM0p6X0pFXzd5R2U0ZGlFYlhGQW1OdDJFN0NNdzJzeWlEczF4d0ZsQ1pDbndPSE9jRVlORkNZTTNJTnZ3OWgxc0JaTkVRamtvS0ZNZzFmVjJjZmxoZ1hUbw?oc=5",
       "source": "IDNFinancials",
       "publishedAt": "2026-10-16T12:00:00.000Z"
-    },
-    {
-      "title": "IHSG Ditutup Anjlok ke Level 5.185",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zTl91ODN6QjVmMjdUQ1JvZTZRSU5sRUNPN2VmOUdJd2RGRzZjYVM3a3Jyb3Jzc09tUzV5MXVHeGFxekFscTA4bm9KRVlsMUdrTUhYMDA1ZGxFSDJPdHk1anpoa0ZoS0ZnVTY2dnpNNEk?oc=5",
-      "source": "Kompas.id",
-      "publishedAt": "2026-10-16T11:47:47.000Z"
-    },
-    {
-      "title": "IHSG Anjlok, Wamenko Perekonomian: Serok Sekarang!",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPREFCUHp2eUhUQ0pLMTVzMEVjY2hxSUYxNUNrSkxUZUlHUHR2Zk14eGdlbmZPMnljVktoVFhwOVo2RjNvVEFaMGZzNEZDc3JSVjAxRVBBVEo0S3N4WFdsV2ZkeXlVRWs2cjY1N1plSVZucFVfN0twWWRSY0g2REpUX0RVdkZsV0FfVThXOGVGUQ?oc=5",
-      "source": "InvestorTrust",
-      "publishedAt": "2026-10-16T11:18:00.000Z"
-    },
-    {
-      "title": "Penyebab IHSG Ditutup Melemah di 5.185",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaC16VXRORUkxeXZEY0NxaDJEWFRlaVZqenQzc3hTaEZrY3F5ZWVSWXZYRDJ6cndjYVdJLVFCelNRV0JXRVVhV2lLazAxeDkzQzJiMFZKcUpwX3l0UWdKbEtvNDJjUU1admhTbTE0VUlLSklrRXJkNHlsSWc4NWxaTDc1Y0MxREs4bzFZZ2pLc3dDZ0lJ?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-10-16T11:00:24.000Z"
     }
   ],
   "stockNews": [
     {
-      "title": "DPR Sambangi BEI Usai IHSG Anjlok, MSCI Soroti Transparansi Bursa",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON19qbHBwRFdJeWRmX3doRFF1SC1MVjF4QlF6T2dQcGxwa3Bab1Y0T2p1WlpwTDEyNTVEVHdUakJHRDJfZ2N6T2FaM1V5VlNvN1padF9JdE9sUFpFMVNvTXg5ZzZwRVRvX19HbC04U3pGSktHeVNZZnJMckQ0VnBuaFVJSEtrRGFlTi1hMEw5OGNUZmdFejRLeHJkVWZiS29nVVBSeFUybEI2a3pa?oc=5",
-      "source": "Aktual.com",
-      "publishedAt": "2026-10-16T14:00:25.000Z"
+      "title": "MSCI Ancam Turunkan Status Pasar Saham RI, BEI Minta Klarifikasi saat IHSG Anjlok 11%",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOXpSQnl6eVhMdlNhMzFsazFrVEc1eHNwelo5Y092OXlXVXZXOTlXOUdpSVRneWhidnR6NmVzYWdLVTNOQUVCclVORVlfQi0wMzBxbGNVY0xkdXdlREptVFR5VXg0OHJvN2tMbHZWV3NmODhMeURPMkszQ3VNUDRwNGRwRW1qcU4teXVZWEp4Qmd6YmhSM0F4NXNaUmEyUTllMjBzTlA0aFd4RGRpS0FxeHpmazJpWWFGOGFjag?oc=5",
+      "source": "Diskursus Network",
+      "publishedAt": "2026-10-16T18:07:28.000Z"
     },
     {
-      "title": "Isu Kontroversial Danantara dan Bayan Berisiko Kian Gerus Kepercayaan Pasar",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS1ZFVWhXX2tJUk9TOTAyWGx6WjdwbnkyMkZiUS1yeXc3dEVSZzBrVUNQV2tQTHpKUEtKS0ZYOXZjQ1ZhVFlJbzdWU0lKb3R1UUM2cjJPcVFqVmJERndKel9tSEo1TEJzc1Nnbko2aU1qTkplSEViUjhmeFZrcWhHa2NkSVRXNE16aFR2UkRiS05FQkNTZkp3X09SX1E1UTdt?oc=5",
-      "source": "Kompas.id",
-      "publishedAt": "2026-10-16T13:33:30.000Z"
+      "title": "Direktur BEI: “Kami Tidak Bisa Mengontrol Investor Asing”",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWGROUWR4d3Jtd3dYMUJEc1JSNTgzY2tNYWlpSmNjNWItSEJyOHhzLTh1QXNmcDJYM2xFb2JBUnBLd1dJdFBTa2xhWWp5empsOWVqRnMzV0phcDNvcmZxaUxha1k1cUtlNHBwelZBVWVaZlZJeWV3MUxJUkdUZU9McmdaekJoakFFemFtQ2lsdjlTMk5jRVE?oc=5",
+      "source": "Diskursus Network",
+      "publishedAt": "2026-10-16T18:07:26.000Z"
     },
     {
-      "title": "Investor Menantikan Aksi Nyata Pemerintah dan BEI Meningkatkan Transparansi, Tata Kelola hingga Disiplin Fiskal",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYndGRmFhSVBYR2REOTB2UmRfNnFaeHpCLWdXa1hjamhfY0dPNVFDM2wzTGcwcy1laWtDQVZqaXlWRGNDZW5ULWY4aEdNQ1RrNlI2M1Yza2VTbUpnV0VEYkw4SE9LcXFuMGM1bEh3dzlnWHJ4cWtKSU5UcTljQjdLSW1VdmdzeXlVVU1VZzRDeGZxR3BjRVlmMVktYkdoTzdLMXYyTlVvU3dmTzJWMjNpMXdsYU1DOVNzaG43WDhWaW8yZHg1NVpzeGZ4MGsyRnF5SGFTdzE1UQ?oc=5",
+      "title": "Krisis Kepercayaan Guncang Bursa, Danantara Siap Borong Saham",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnZNT3hLWFVSYVExQjN1ZFpaTEFNZ0tySHNGNXg0dmY5YzRvcGU4aC1iaC1YUURCWGNUZkNjTmFCUjh6R25JamhjeGstOFo0MU9ONFViNnBnUk5GV1ZCcHVDZ1RpYnJnZ3BlaEFFZXUxUWN2dGpST1Rld0lrZGtVM2J1ekRXeTJRRGh3MV9nOWJzYi1NeUtzYjI2ejFPYnBURHpQN18zU0JDRnY1cWpLM041a9IBuAFBVV95cUxPaFAxbmV1U1E1eHA1emlrcl82djZfd3lyVEFFZ3BJaGFuZFZ4TU9aRnpzQ3dJYnJoRm1uWk1ydTN0TjRiVlJ1SHlBdEU1OWdWVmRZenlvTTNlX3ZFeE15RGpxaFd5Y0Eyc1JyaG5pOTFVRlJjSTZyX01WRWlkS0RyeGVRWVRRWGx1ZElyamVLRTBmaGFEdTZoUlpHblpIdll5OTVraUtFWXRGRUFQVTg2ajB0VmRGMi1E?oc=5",
+      "source": "Pontianak Post",
+      "publishedAt": "2026-10-16T17:28:18.000Z"
+    },
+    {
+      "title": "Bank Mandiri: Kredit Jhonlin Baratama untuk Ekspansi, Bukan Trading Saham",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmxpTjFWUTlULUo0b3lYaFZwVklaaWJoNGtwSi1XYUR6UVVvYXA3TTRsVUVMcThPS0NESmxoeTR1M3ZKVWhIV0tfX0pRLTZ1SF9ZNkR5ckpmemVNRFlmRjZwRjRPSHhkZWhFTHVMTDFzcWVQR3RHNDZjdUFQVFRRSHNGVk1PNzNfYVBwcFEtNG5oNFh6dnJ0QW4wWW9wWTlmVTY4?oc=5",
       "source": "SWA.co.id",
-      "publishedAt": "2026-10-16T13:33:00.000Z"
+      "publishedAt": "2026-10-16T16:15:00.000Z"
     },
     {
-      "title": "Video: BEI KlarifikasI MSCI Usai IHSG Anjlok",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXdtTEdQZVBsVk9vZ09FX3FEWDB6Y0pvMDFuQ2c0cjJZYmJHMHYya1JhZjFfMzJsNGxVWFVEVVpMLWM1eU9jeklUaDZjbmtMN1ozcG01dUI0enh4cDFxdm9OM2NuSnNlNVpIS2R4R3d2MUpsSHRQT0JVbzVqVTBPSWxPZUxCZndDbWpPOUlXQ1dFZ084WFVEZ1FqVWhTcTlYU3M4eQ?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-10-16T12:45:04.000Z"
+      "title": "IHSG Ambruk 11,57%, BEI Tegaskan Status Standalone Market Bukan Klasifikasi Terendah",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamF6MXR6NGsySl94T051R2xQeWdob2I5Mlg0LWl2ZDQzZXJ1aXZWSU1DX1B5ZDhkY2hGaklJNy1TOFJKRUdOTVpTZnFidEJoLURlOE1HVldVazFqNnBYcVprRlNubElQdVlhdXZJSEdHQWdDTTkwdzl0bWhiUkFaQ0lra0ItLUZzZXo4Z1doNHgyZkN1YTdfOU0xZTZRS0cyRWg0Sg?oc=5",
+      "source": "Tutur.co.id",
+      "publishedAt": "2026-10-16T16:07:01.000Z"
     },
     {
-      "title": "Pertemuan BEI-MSCI Bahas Efektivitas Reformasi & Evaluasi Indeks",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVQzMkRQRkhPTm1PZ18wa1U2LVdubnJkTHpjOW9tWUZMNU5HbXNVeHBBaTBldmJZUVVpemdOVTZ0S3VOUkFqeWhPQ3RURkdRUkJZMDIyTlpUOW4wM1hOMm5XemdGY3lOV1NGSTllbktBa2RMWXBZSzdiSk5wc0Q0b1NsMEFoRUM2ZTJTcXBUamhJZ0MwUEFLQTBGLUdsZ0FkRlNCUHVCZnVyelVYcG5wam9pTTk?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-10-16T12:40:00.000Z"
+      "title": "BREN dan CUAN Tanggapi Sanksi OJK, Pastikan Operasional Tetap Normal",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3JucWNGc1pfcDNZRlRvakZhYVJtUzc2LWZYeFhRcTFLaWx6bVFncl9sX1JHWjJxcXpNVWJ0anlZbERzV2hWZjNqZTEtOWE1UUFtNTd1NGJPZ2lQT2tpQ0RSUHhubEFreUZzYjBVUlljSEdsNFBsMzBKLWYtY3lfd1N4WEdpbWpDVkxXOFQ0ZjV2QTRoY0tiQWlBUnhXZw?oc=5",
+      "source": "SWA.co.id",
+      "publishedAt": "2026-10-16T16:00:00.000Z"
     },
     {
-      "title": "Dasco, Rosan hingga Kapolri Datangi BEI",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWU2N0J5S3VGQnUwa1RjT2NLRW5RLXljYnNrbkVKOGppbnBnc1RRUkgycWhzdlR4Qjk1TVBaZTFDZUVkaVdOMi0xLURCQnY5TTFRQlY1bU5mOXBBQ3lINHpjdmlOb1dhOFN1Nm9VYTBaUmlqNzl2QWY3VzB3d3ZjWHRPOXdxZDZyejl1YWxZTlFEWDIw0gGaAUFVX3lxTFBRTDJiMFNFQXBpQnNHNU9tTC1mR1l3Z29uUE1oT3Z0cmlJdHdlRWE1WlZwVml4eVFISlBvdnRRV2N6Um15N1poRGpqVHBNa25oaVJvbnY0dUd2ZEVsT3dqQnRZd2ZEcGxXTHBOcmVYNm1ZSkZFaHBCQ0Rpd2N2OFg3RXROaThjcXZqdkEwb2VQTVVvbDRUeXR6YXc?oc=5",
-      "source": "detikFinance",
-      "publishedAt": "2026-10-16T12:38:18.000Z"
+      "title": "Data Sepekan Perdagangan BEI: Kapitalisasi Pasar Rp9.157 Triliun, Anjlok 14,43% Dibanding Pekan Lalu",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNl9ZOHNLTzVUYzlTTVF4QlpXSE0tZXFWLXhQZkJzM3R6Q3M3cUNHNDNOSVRzUUx5WHRBME5Gb2tWbmJSc3FDYkhubVVNRDlkSnU4blJzRGZJaUhrVlVPM2l2RTJSTTA0bG1Nc25YTFE2clA1c25Sam5Pd1JoaVBmdmxDWFU1MjRMNEpDVjFuT2RmZFY3NDNMZjlmRExqVDd0V0ZWVkZVMjhIOVdUUFhDX3lDLXVIVTdOQUVZNnBkZ01waXZNWGwwNEM5WV95UEE?oc=5",
+      "source": "Pasardana",
+      "publishedAt": "2026-10-16T15:57:00.000Z"
     },
     {
-      "title": "DPR kunjungi BEI usai \"trading halt\" dan minta bursa terus perbaiki",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMml4VG9Kd20wN1IyWmZBVWRwcmdNQndJbEZsVTlsNm5BMFR2N0tYVHJqSHRERnBYOEZCNndKU2w5ZFpPM2lTVzZNV28zVjFNX1VRdTRmNUFIOFNackNKeHBYOWRRaUI2bXpnU3l3SnJUcVlkWHMtajUwT09pVkp2UEJES0dYbGxMd3l2bF9WY3hNSzBqYUg2clNVZ0xLVzY0TDRNNGRjZXVwODlFd2c?oc=5",
-      "source": "ANTARA News Sumbar",
-      "publishedAt": "2026-10-16T12:21:05.000Z"
-    },
-    {
-      "title": "BEI Sebut Reformasi Pasar Saham Didukung MSCI tapi Investor Global Butuh Bukti Kuat",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdS0zckhaVmZpMlhsNnpsQUpWQjNWaHVnV2NuTFlFZXhiREx6UUsweHRTcmR4V2xPekRDYUxlQWVqcFhHdUFwX1ZSQld5WmFITGRKSm1SU3FSTVVRV1piUk1oQkdiaE5JUm5EeEtwVjFidkJmRHdadU8yaVBja3A0NXAzb21MMHNFVnJGUnpXMlp4aTh1eC0tOUpzcFcxY1NNNXVMM19QMnVnMEV6M1lpcktaV0FQd0swczZURXI2Y9IBxAFBVV95cUxPWldReEtUV1lqTWM4VDNHbDhGOXduWmdCejlYOUxTWmpnZTlsSjhIUkVUNENleWQzU3RaaDBfVE4xLTlzTUJvSXhVWGkwNlJqSUUxNm94NmZXTVNaMkdWbU9kTEV1TUdYSkE1bVRRQ2l4UlRrQnVpME9ORUREdEhsSGRIdDFwOVJIQXBISUFmbTVhcWlMejZEbURrVW0wcGxEU0VzWkJUMTdjR0Y0bDZfeVRfWkxjcV9idURPQjNSU0dkTkVH?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-10-16T12:02:00.000Z"
+      "title": "IHSG Tembus 11%, BEI Sempat Hentikan Bursa Saham | PARASOT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjlxV2I3TWJ6dzcxMmQxTF9CNHhZQTRRSlpFdHFTQm5QVTFUNnp1UExTTmlpQXBMNDVLaFVRam1rWFQzWU91b3JCZXZHVndENVdoYWhpRDlCYXBpTzJwSWJ4MTBVVTY3VENCQklDcUFSeV9ZZURFY3lxSkh6MHRjaGJGYXIwSjdFcDlyNkFIVDdybWI5NEhR0gGcAUFVX3lxTFA2US1sTzR3dEp0YmttS0VLOEZCdk40Si15T295RGc2TEpsWUU1bDJBVWc5LUsxTEFoSjVXcVk3Y2hPZThfa3U4Yi1pLUdnU1g0bnRfWU9HTXdaZE1QcWlOLW1uNEg1ZXdZeWZEQTY4ZDlkVWNFZWhrTjZ6UTRLMzZxT0Nvc2tJbllsTllGLUpveUdzX2gyS1FVOEVvdg?oc=5",
+      "source": "Kompas.tv",
+      "publishedAt": "2026-10-16T15:20:00.000Z"
     }
   ],
   "macroNews": [
@@ -132,22 +132,22 @@
       "publishedAt": "2026-10-16T07:01:29.000Z"
     },
     {
-      "title": "Bank Indonesia Intervensi Saat Dolar AS Tembus Rp 18.054 dan Tekan Rupiah",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeGhZZ2pMRldYOG1vcHlyWEV4ZnVMcU9HR1BRWU1WdG15Nk5Vbms3MXA4T284VDJCQkdmYWdYMjNsWDBfLWZaLUlFcXBfUlNWMUllZUMtd2VSWFpDTlk3WHNmcy11UFJuZzhZVVpsc0FnZjMyNDA2Si1CeUhDN1hnU1I4M1I2RWZEbnc?oc=5",
-      "source": "gadget.qoo10.co.id",
-      "publishedAt": "2026-10-16T05:35:00.000Z"
-    },
-    {
-      "title": "MSCI Picu Tekanan Saham Big Bank, BBCA Anjlok 14% dan BBRI 11% Usai Konsultasi Status Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekhRQXNXcEpVdGlSeUtmZ0xRZ0otZGlTV1JTMGFmTVcxX0t2ZEhFMTlTclJqQlQ1TFlVWG9Qd1hDaUh4MlZaVTBPVTRud04xemZsQ19XcVU5cEIzdEx1QXJOYkFWNGQySXdEQ2d4elFOX3RZeUtTUXlYVkVjY1hxSw?oc=5",
-      "source": "gadget.qoo10.co.id",
-      "publishedAt": "2026-10-16T05:03:00.000Z"
-    },
-    {
       "title": "Harga emas menahan napas menunggu sinyal suku bunga dari Ketua Federal Reserve.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHBoV2E0aFdFZ2lHbnk2cXhlekdBMTBsTE94Y04yUEJ4NXRyQk83aDZoMXA2LXNDRV9ERzJESUJTWnpPWFdNYXRJV012aHBiTXc1U0NDaWtHSWE4NHNYWWNDaVVBaHcxVGNpaHpxMWRFS0tPVnZkQmYwdEdiRFN6N1VaYm1ESnc?oc=5",
       "source": "Vietnam.vn",
       "publishedAt": "2026-10-16T04:47:45.000Z"
+    },
+    {
+      "title": "Wall Street Hari Ini: Dow Jones Melonjak 1,08%, S&P 500 dan Nasdaq Kompak Naik",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlVKbmVaX216enkyaEdFSEhMQTBycl9pRjI0Qm1INDVVaEpBRW84R3pYM3Y2Mi14aHU3cGRIMHRyZUQwTTRaRmJuTG5RNmhBQjhEQUtNVG1CYWt2MXBwa1lSUFN0NGc3N1lidVNIeGIzalZHblEwZWRod0FrdkRhSjlpeHV4alA2VWVYblUxUV94SmM?oc=5",
+      "source": "Ajaib",
+      "publishedAt": "2026-10-16T03:33:04.000Z"
+    },
+    {
+      "title": "Bursa Asia Kompak Menguat, IHSG Melemah Sendirian",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHVZUnZ4UzM5OWFXOWNCbnlFNUptRkQ5Z0NTWjRJbGtXMVBTdXJ4TXBRRUh6UnRjdnlEbDRheC0td3NxV2YydUtMRXpKMWR3Zm42bDF3TnNmc2l0dHdPZkpoem9mMklRRDA3dzJKVTc0S1BoQ1BYTk1XS3dnSHJlLVllUzdNQkVXbktCbGh1NWpJLUNPeW4xZ1lvQmpEdm1qNmRwdGNaTHU2MUlFNEs1YklyVXLSAbQBQVVfeXFMT1h1WVJ2eFMzOTlhVzljQm55RTVKbUZEOWdDU1o0SWxrVzFQU3VyeE1wUUVIelJ0Y3Z5RGw0YXgtLXdzcVdmMnVLTEV6SjFkd2ZuNmwxd05zZnNpdHR3T2ZKaHpvZjJJUUQwN3cySlU3NEtQaENQWE5NV0t3Z0hyZS1ZZVM3TUJFV25LQmxodTVqSS1DT3luMWdZb0JqRHZtajZkcHRjWkx1NjFJRTRLNWJJclVy?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-10-16T02:17:58.000Z"
     }
   ],
   "errors": [],
