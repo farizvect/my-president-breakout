@@ -1,106 +1,136 @@
 {
-  "generatedAt": "2026-10-20T06:59:53.042Z",
+  "generatedAt": "2026-10-20T12:38:47.220Z",
   "headlines": [
     {
-      "title": "IHSG Tanpa Saham HSC Diprediksi Bisa Lebih Tinggi 18,6%",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHhiajdqUkR0RXBiR3ZJbUhWQzhEd0htU1JMVklVaGhxaVdvOVRxNTkzaWdfZkZnUlhvQW1pQXc3RVYwMExnVlZjdnBteDk0bHA3T1Q1S0VCTm1WTG0td1Q0eGZTTTRIci1jWGdfa2NwNWluYTc4bVp2c2lYUEpOYUtZX3VaaTVtR3NOR2V2cTFlSlJwSWZnMXlYU0VENkpRdmtxeGpvVk8?oc=5",
-      "source": "Bareksa.com",
-      "publishedAt": "2026-10-20T06:01:34.000Z"
+      "title": "💰 Sejumlah Emiten Siapkan Buyback seiring Anjloknya IHSG",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZTFxbW5JbjNEYm1aRVFtQl9qRE5veUpfcTdnQ0RXLTYzWXVUM0Rhai1ERWZPeEl6UkhVclVKX0R2WVJmaUJwMjhkVEt1VWZudVZwNjg1SmJuS0pmNzlvM2pLb3NBTzBjbHhKMXpNdVc5TUVfT1AxSF9HRFJ3N0JhOUc0dV8xZlo5MXBLZkxxYmJkOXlRa3V0ckFQbnA?oc=5",
+      "source": "Stockbit Snips",
+      "publishedAt": "2026-10-20T12:15:46.000Z"
     },
     {
-      "title": "IHSG melesat 4,16% di sesi I, dana asing masuk saham-saham ini",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd1hIdF8zN3JGTWJGMW01WXNpYVFPYU5zU2ZXOFlMTHBteERJX3dvUGswT0RSZkVhT0dlTzhPZkROV0NPR2tPUThpaWtSMzMwTG9KU3NGQm5XR2MwQ2tUZ2ZveEZJTW10UmV3VjlHNktvaHJaeXJyYklRNnF6d1k0cW1nbHNxblkwNmttYTU4UHlhZHBoekF2SzdWSjZWZmdnaW5JVXcwYw?oc=5",
+      "title": "IHSG naik 5,65% menyambut langkah BEI hadapi ancaman MSCI",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXZGdlZKbXVwdnRSclVaVlBlUWtWRXJ2STlEMkFDQ0Z5eG9vUWdRNXdtbFFnaTVLUjBXc0lJWTQwVzE2UmJIdjFTRk5lUnVqLXg3Y3N0ZnRJNzE0SHY5X3JZdGpnVVpzaTdyMXpxazJHN0k5dXJLeHhlWDk0Y2plNXplZlJGNm1PemEzTHk0UnQyb3hMYUNBd05QcHo4cWQzbHc?oc=5",
       "source": "IDNFinancials",
-      "publishedAt": "2026-10-20T06:00:00.000Z"
+      "publishedAt": "2026-10-20T10:20:00.000Z"
     },
     {
-      "title": "Banyak Saham Diborong, Akhir Sesi I IHSG Menguat 4,16%",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3M1RFhTU2tIQXlDSnl5aUFXWDYxQ28yVG5UVzduSDZzbDA1bzU3SHFRMXcxZEtTOFRILWZVeVVJTnA2cUhkd091S214ZlBQSk03aDFQUnk4Vm5GYlcwaHNkUllPRDVLd0M3NU1EcGVYQmUtS0FTX28zTUtVdWI3NnhESnRLejF5X19vMmdQVnI5eFYzRU5uYnF5VHU0LUNSdEQ2QzdOTlpGcGVhWVd1NFNNa9IBuAFBVV95cUxOQXg2SjVPZ0ZQRU4teGRONW9qZEVNYWFoekRNdVUxdUtwNmNPOHlScXhVY0JmdkJab1JHaEtKSk5oNjR0U1ZIdmZVNV9xUWFiNTEwZ1EtSlUwWUVzLW8zNTlYcXJ2dTFoZXA2TDR4S09Zb0lKZ2ppblFXZXFCQnNQMlJGNnVVbThOMmM2U1djbVBVWnlZbnUyZlA4bjJ5WXNtSjNKN1hHS1NLcmZybXNNSjhrRUtNVFVN?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-10-20T05:06:24.000Z"
-    },
-    {
-      "title": "Ancaman MSCI dan Gejolak IHSG, Waspada Permainan Modal Asing",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblNoWFItZzE1cXBVOXRwLUdDLUNPYm9KTGlxVXR1OTYzZEtMSWRxejBaTHdkblJXSGRSeXVoRERnRnVVZFAwaWpBWmpaUTZyMm5jUEF1S2JjdDVlRnpTck1sZU9rT2lfVzJIMWkzczN4M0MybXhLSjM4amJqR0taSm1PU05naFVVdVB3N0tmN0I2YXF5V1JieVlsXzNFWWxQRmk1VDF6c1BWT2U4TTN5UA?oc=5",
-      "source": "beritanasionalupdate.com",
-      "publishedAt": "2026-10-20T05:04:14.000Z"
-    },
-    {
-      "title": "Aksi Buyback dan Aturan BEI Jaga IHSG",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORmZLeFRXbHRTMGdXZDJUSHpiSTBzM3N0eUNoQi1zOFZUVXVCa1o3cU5ydUpxb25UY2JLMEJfcW1WS0NjMkFsS3Z5RmJrUjAzNU1hdVNBa1F3bkJ5djkyb3h5QkpiVjgxcTFDSG5uN05rY1BsVDdSMGZrSHpRRnpiQ013?oc=5",
-      "source": "Maybank Trade ID",
-      "publishedAt": "2026-10-20T04:26:00.000Z"
-    },
-    {
-      "title": "IHSG Menguat",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS24yMlZoNjA0aFpaTlNwTjQ5dnFPUUNvZTlkaGZxZU9ld2hXNHVBdGd3WlJCb2VKNU9iRGxnc24zdUVpbFJZYkVDNHZ4T2E4alhPY3VrRmx5OTYtLVF2UDNfMHVIZURBWDVhd09ZeE5sWVFIUE95b3hRQTJiSlE2dDZ6VTlJRUdDNHFIUDNTcllsWms5WXd3YzBDM01NSnVGa194RG1ISmVIbUJIWFU5S3E2b2NfZw?oc=5",
+      "title": "IHSG Berbalik Arah, Kemarin Merah Sekarang Hijau",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEdCRVFleVFfSFJqc3kzUHB4YmVzVGkzdmcwMmRfZGpoc1pneTQ1Vkh0UFB1M1hpZTViVUJJcmpkdmt0UXphLVE0azFfVnR6Yy1QZ2l5LUE2cmRrSkRxbXkxSDJVai1yX3BtVkNnUW5seUlmN01wdlY3YUxPSzYyeG45bzZXeExXeklGcDlYcVVBeC1aV0hJMEExMHFscEphRVpTTVRfMFRIa0Vj?oc=5",
       "source": "Kompas.id",
-      "publishedAt": "2026-10-20T04:15:23.000Z"
+      "publishedAt": "2026-10-20T09:58:47.000Z"
     },
     {
-      "title": "Bareksa Insight: IHSG Turun ke Bawah 5.000, Cermati SBR015, Reksadana & Emas",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQUJmMFJnSkVTeFJoaWNPNXJ6Wi1oUWRILXBSeFBGQzRmVXltVXlyaUxnVVdDbXdCTVZ4M09ienNLS0FtY0JaMl82NHh5ZGg1T044eHNhbjdya0FLVXFjT29LZk9fRnEzbkQwSGdleTVWbjBGZS0tbHdXOFkwelhJUzY4ZVh2M0hUVXJoMko0REIyQVotVThfS3B3UTI5OFdpQjZxS1RXdUV6cG8wS0N1cnpmVFhTXzZlRkNhdnNWdWNTNkluZjJxazllZl8?oc=5",
-      "source": "Bareksa.com",
-      "publishedAt": "2026-10-20T04:04:38.000Z"
+      "title": "Ditutup ke Level 5.278, IHSG Selasa Menguat 5,65 Persen",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWi1ZT2h5LThuSFNIVU9BWGtJVXBnZkhyTE9DUUlDUFdYc1Y4cGRQY2dTM1dESDhHMTY0TklpcGNzRVVtaFJTZ3J3WGZXb2I0TTd5YkdOckNTTkFhR3lfSmJmdzVrdkVGVmdNeUsxcDBEMTlpYlU5T1cwd1RTN1Z5WmowNXZGck9Ddm5qNEZ6LVV1LWJuY1E?oc=5",
+      "source": "Pasardana",
+      "publishedAt": "2026-10-20T09:45:00.000Z"
     },
     {
-      "title": "Pemicu IHSG Melonjak Hari Ini",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UclAxSlcxVWxNQ3NEQVBXVlBJOElnSUtIVUlIbHN3SXBKSm5NQnZFZWllME1oLXFHR2ZJbUFWRDAwWlNLYlBvYmpUaFlBekVNbG00cDV2eDYzTk5ZcGtwbG5Fdkdic3RRTzVOODZQWHE?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-10-20T04:03:29.000Z"
+      "title": "Akhiri Perdagangan, IHSG Meroket 5,6%",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTXoyOXNrZEZMQlBZUHJzdjI2WHZHM0xYd1BBZThLeWlicWpYWTRMNlZnRkxkX2t1V21EOGlfNjBVY2JaZlBGZTNlSHNkc1phR2NuQXpaRTlWUGhqZV9kVVV6WnRfNWQ2dVpzenpJZHhZMTdmMkU2c01xOEtWV2RjNUpNM0Z3aWpJUExXZVMxd2VOR2NfbUxFeVQ2S1HSAaIBQVVfeXFMTkZwM1hHOUdEVDZRNWJoXzlVWVFrdGFmQlcwekdwcllRYmw1R1l1c29QcjNaMGlybTdRS2lwV2xSZXZzWk5qR1ZzNnBjNUdCNWJwakotOWN1bk1rZ3ZyX3F1TUFlRUdqREN3ZDRLcnpYOFdfMnlXNVhIMU0tcTEyR1JMQkVOdHF3Mm9EZGRGZ05YRm1DLTRFNmIxbkdpVXhGanVn?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-10-20T09:05:15.000Z"
+    },
+    {
+      "title": "IHSG Meroket 5%, Ini Penyebabnya",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVWpFTE56dzZnSHdKRHRDVzVBLWJZQnBNUnpRRkxZcGpuY0tDaXQyVE1tZlo2bklpdzhiUUstUjl0NWp5bDJJbGR5dHg1Wk52RWhLRVpSQVliME5BdHVMRFZoaHFFNDE5OW9SVmdudzduNjUxeVp6ZFpIWGFzQ010cmQyZ2NOMkNCN1RGeU9yWmxneFBiUkMw0gGcAUFVX3lxTE1FTXJfa21fWlBCZ0pIQnU3d3c3bDdXSUNSdVlLeXBtX2l0TVo4a0xxS3gxQ2cyM3g1c3RUOVU5bHU1Ykp4VTFjWjE4RUtEVjBlTWxQcGp0dmJvTnNvYWZ2ZE9tOTEyakRHMnpmMnE0T3ozTE1xVWlCQi1TOTloSDZQVzFfWkM0TklNM3NwY1dWNWU5am9wZXBtbWZMMg?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-10-20T08:47:05.000Z"
+    },
+    {
+      "title": "BEI Akan Evaluasi Saham HSC Tiap 3 Bulan, Apa Dampaknya bagi IHSG?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDVoMUlFNUtXd01CVTlwNWN1UnZwNEtYTTJGMXRraDRpRVNNa0lZTUZwbnltdFBIbTVtTFR1MF9wUW5VRkJiWENsRENCVUpPaFVpUTlZdEQ3eTBJWDdScHdwVmtacms4U3pkcWZYNHhHUXFQeW5uMUYtLUZyV21wLWJUSHg5UTA0Ri1veHlDT0V5YnptQ2F5eGVWc1hpTEE?oc=5",
+      "source": "KONTAN",
+      "publishedAt": "2026-10-20T08:46:08.000Z"
+    },
+    {
+      "title": "Breaking! IHSG Meroket 5%",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQVhrX2RMcU1BWkloeDFFTGZJWWVlM05ibk0waVEyaHYySE1raVJwTHppRTBQNUV0VWMwMWFWVHJXMVRzTFd4MHdRUEFqMDN5X2UyS09leC0yWTF5N0xjNV9ScVVSS2JKMzN4SXR3X2psajg4aWszRHFQanlZcFI1b25lcGh1NzAxOFoybldB0gGTAUFVX3lxTE5tSUtXOTQ1dmxxeFJUTDZlS2tCYTFNVXRCRVdDcWFLcEdjMzZFblc0NV83THFKZmpURzZpSXBjMGZZS0VtZHN1LVRPbHd3MnBXbGVxa0VOWVBaeXVJVWxtY0FpaFAxanFOdWZibFZkQ1ZJTmFGUU1jTjA1ZjVaeV9hdVE5dGJhbGNwNm5RVXZnZFh2Zw?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-10-20T08:35:54.000Z"
     }
   ],
   "stockNews": [
     {
-      "title": "IHSG Melesat 4 Persen pada Sesi I, Saham Portofolio Andry Hakim Kembali ARA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcVRRWDVaSWQ0dXdlV1NmeEkzdnJXbmRqQ2NBQ0JaSDZ2VzdORUZ4bDdBRkoyaWIxU284QzlnYll6OVpGRUktaHpDZy1PV21ER011bURGYWJmZkhtd2N5ZUhJT3A2b0M5ai1IRjEydkpKRHR2c1poTmVKd3FBdGd1VVFwM3REcHRyYXhXM1JDV2RfR1k1TFRwUTdtcw?oc=5",
-      "source": "TOPIK.ID",
-      "publishedAt": "2026-10-20T06:56:06.000Z"
+      "title": "Heboh Isu Intervensi Asing ke MSCI, BEI Beri Jawaban Ini",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1pWaHd3VlZoQ2JnU0VrZlA1Y2phMkRiYkhOYmE2a1JLOWx6MnRlS2VLOUpWeE5XcDE5QVFJeFRXTkRBRlJzaDdpVHV3THhON0p0Nkpvamp0U1MtRGlTOTY3WmxzMHA3bzY4TzFxdGtGV3VQaURDS3FzOWhZenFlX1JFS3o4dzg4MmowVzhkUlowb09QLWVEUNIBngFBVV95cUxNSnRsay1WSmZ0ekJTVGx6MzRHdnhfS1Rtdk5BRGpsanVwcmhQd25KbDctdlNhUVNuWVpWaDQ0cGd5c0NGSjVXQ3Zrczd4YlAxajlOdUxWUjMtd0FGcUpzU2d2WU50NS0zTmNDZTRiRU0wWFk1ckFkS1BLRU9vSXg5d2RXb1dlWVdGM05MYW92WEpMM1hVbVVkdW16ZEdlUQ?oc=5",
+      "source": "Warta Ekonomi",
+      "publishedAt": "2026-10-20T12:02:00.000Z"
     },
     {
-      "title": "BMRI, BBRI, dan BBNI Diprediksi Dominasi IHSG Usai Aturan Baru BEI",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbW9DY096bGlPNFdHdjVRUHpZNGVPQmdRd1kteDFuZXo3Wl9RRWZWdlNvaVpEaUVkRmdlQ3pxSDM5bnFrSlBCU3ZkTWN3Y3ZZLVlvUnFaamxqS00xaE11R2JGUFZ4OHV5bW81MVJIWkdoM2xCWFp1SnRhanNBbGdEY3RMcml6MlVvZGFOWGNB?oc=5",
-      "source": "TOPIK.ID",
-      "publishedAt": "2026-10-20T06:38:29.000Z"
+      "title": "Sambutan Hangat Bos BEI Untuk Rencana Babah Alun Beli Saham Rp5T",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGZWRjhJeEl2MXRwMWI3bkhyUWViTzVIOVdfbWtpR3Vxa3hFeTR2SGl6aGJQQlVBcVl6bi1EcjEwSl9MdVQzenFmdTJ4TXpYMkJrT1J2MmdaaFIyS2lMUXlOUTZUX0N2S24xZ0praVJxN2JCd2FBcGg2SWV6V3NwNUFuS3pUZXpHNmJDLVRRWHVmRW1BS1lQRU1BRG8?oc=5",
+      "source": "Emitennews.com",
+      "publishedAt": "2026-10-20T12:01:00.000Z"
     },
     {
-      "title": "BEI Menghapus 80 Saham Sangat Terkonsentrasi (HSC) dari Perhitungan IHSG demi Gambaran Pasar yang Wajar",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDRwVEd4clZRb0lQNEowTGRrMWI0YW1aaVhSWTRFWkF2bDBZZlBUWGVJTjdRS3JmdktYeWdQYV9NQnZuU2hybTVTb3pfcWRqUkJ3WG5ZNVFrd0RLZUViU09zVDVsVW9xOGhucHVEMWloYUpwZUZhTF81QXcxZkZCYXA5cjhVSzVCeWE2UG1Nb0RBcXdwYmdXTUhuRVUtRGU0V2I0LXU0Qm5oS0R5RmMwNGtHbU5kdl8yUVYyUmdEdjhFQjJlVVVOam9jYjJyVXhhLUgtcUxn?oc=5",
-      "source": "www.rakyatpos.id",
-      "publishedAt": "2026-10-20T06:35:00.000Z"
+      "title": "Apa Itu Saham HSC yang Akan Dikeluarkan dari Perhitungan IHSG?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDNvaTN5a1BJaGNzVmt0NTlTbGFGMVQ3WnhRbXRCdFVzZjhnZ3ZnSldtN3ZuN2JySWVKM1ZaaTBhenlDbHpEOUJKMDRiTlQ1Z0JJM0dpdkZIVHhkR1NPa0F4a0FwbEpzTEtTQkVBTjNRa3BqWFNzQ1lBRmRCd21oU3FFU1NEa3dIcHR3N2ZwWXRoaGZGSGNaeExLOFVBa2VRVUE?oc=5",
+      "source": "Rmol.id",
+      "publishedAt": "2026-10-20T11:59:00.000Z"
     },
     {
-      "title": "VIDEO: BEI Keluarkan Saham HSC dari Perhitungan IHSG",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTZNdFVxbU8xaDYtUDhoWTdCdXZmVDNOS2JJcUxWX1MwNnNZMWEwZDlPZTdSLTBlLVBDRHhnSDdFamZ3OHF2bzBxQTZIeGplelVKUU9vWWpEMXFoZVdQNTY1amZpa2Zqc1VMenEzcGRSSy0tYjZZVGc0U1puVWcwUE1BZXNRNUVMQWFUcENhbVBBSkJvWXlxLW9yUm1OTk5HVUdhOXpQVnNOdy1SanRV?oc=5",
-      "source": "CNN Indonesia",
-      "publishedAt": "2026-10-20T06:30:41.000Z"
+      "title": "BEI Keluarkan Saham HSC dari IHSG, Ini Dampaknya",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGFFZW5UalpYakVRVDZSZnRVVGJYQTlpV1d2ZFoydk5TZXN1MGJyN190bHVxLTFTWkg4Nm5uak5BRXQxSzJlelF4cGpSb0tocHFWZ3pzVnJJSmZ2X09YdUQ4a01oMDhsLW1JSldid2NtMEFrZmJncEtqenNXVnVUcnZ5M1ZMWUF1dHFfQ3J5Q3BrWkE0ZTQ1U1JaQTk2dw?oc=5",
+      "source": "Bisnis.com - Market",
+      "publishedAt": "2026-10-20T11:53:42.000Z"
     },
     {
-      "title": "BEI Ubah Batas ARB Lagi, Harga Saham Rp11-14 Bisa Jadi Rp 1 per Lembar",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHVYSVU1OFdkVEx4QUx1NHRwel84T0xVaU9NVGVzdnFBYkIxbC1xejhma0lLdmY0Ynh2MjNJVGtadEFIeVFYOUktTU5GVFdKUG5VaUZEc2wxeXFsVG1TSU5Fb0YtVFhZd0lDNl8zLUNKUkxzbzBETGRfWDN4RmtDUVBIWDNwdDVaS1RhMnVyU1lXR2I4NnBuZG8wQkNiMGJrdTJVeHM0M2FZTjd3RWpKN2ZyUThoaDJFdkhXU0NrdFpOVXNaOENkYTJlV1nSAdIBQVVfeXFMT3dqZ1BOaHFpVGd2N1NUWVpqV2VPdnlkWHNvc21tcVU4Z21GX2s2ZVJacWlGcXVaRnhvNHBxdWhlc1Npc3Bka1VoQlFyZ2xKdFM1bXpDdWRGTC1NNmdWbDk0T1pNaVN3cFUzcWVNa0wxejZDR2hLRXRUYnN4Q21YVF92R1VwLS1TM0dxSDZ6RDdlNnVvT1NGOElrTG5xcHFqcGttUW1CLWU3cmFlcUJXamtGMWFraWlhQmdLaGFvdGlIeklHc19qcXVpSzFnNTVMR2R3?oc=5",
-      "source": "CNN Indonesia",
-      "publishedAt": "2026-10-20T06:26:01.000Z"
+      "title": "IHSG ditutup menguat 5,6 persen dipicu \"bargain hunting\" pasca koreksi",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZDhQbmFCYVpzQm5ZaHlCVmtIT2ZqRXduTEgxWUJ4ZTRrS3d0VXZtWHBvdXZ4ajlwcVdRaEFRcjZOaTFfdVRxOEN5OER3NnlvUHRoSlR0a0JvblJMQUZwNzc1RTh0ME5RM0g5ai0tYmhGXzFsZGRBNVJqQmJDVHZCYWcxN0tUeGE2S3RCV1E4aFRHN01kWHREZ19jUEZzTS0wQTYwZjNyMGwzR2dJb3dZ0gG0AUFVX3lxTE5wWVBkSjZpd2F5d0I1b2lNa0xqdi03c2ZDVlhqXzhfT0hQTjlDRUFMdUQzSThvbHgtZjVidFdFRHMtaGxpUjZxVFhVNWp0LUdVdzlmM21iMTFqOTBIeU5OODF4YS1aNXRybnRwUXFoOWFQOGtIZ2daSEwtcW4wZlBaUWZPR016N1E5aEI4dWQ1VmRKaEVBQklMbjFHZ0FYVzN3OThYR0ZIZzZOMUNydnFuYkh4VQ?oc=5",
+      "source": "ANTARA News Jambi",
+      "publishedAt": "2026-10-20T11:32:58.000Z"
     },
     {
-      "title": "BEI Keluarkan 80 Saham HSC dari Perhitungan IHSG, Ini Alasannya",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHNJSW9BdXBhOElGMXVGRENtY2hBSFJSbmVJSXpNUFRTYVRHTmJ5bVg5NnE2bkw0OGFzNG9lSlhWOFBmRi1ndXdDRGRSMjNqVkh4UTBJQUlxVWdXQmlySG9JZVdsd0ZLeHZldVoxQ3hHLVU4NEpBbk1nS3o2eFRJZ0NqRUpSN3RTRHIwajl5MmdiQ2hlYTExeW9NYVcxVmM?oc=5",
-      "source": "Pusat Data Kontan",
-      "publishedAt": "2026-10-20T06:14:51.000Z"
+      "title": "BEI Ungkap Kriteria Saham HSC untuk Kembali Masuk Perhitungan IHSG",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM0JtWVpmU0FxamN3U2tfckVmb004QkgyRzh2dDQwb0lmaFdjaE91T0YxeDRSVTFhNUNzaEY4aUZwb2VjM2lLSkdsdGdfTk4xam5Ebzg0cC1JbzE1ck5wYzFnWnNRZ3NqZ1ZSeG1tVWJrUDMzcENtZjkyUENRUlZJcGludm9ES2xjeHJ6WmEtbUFkWl9nZ1NGNF82SV9KSE1HWnJrV9IBnAFBVV95cUxPY3dNNjNpcy1XVVFoYU4wT3NzcE1pYjE0ck5HOW0zSTE0OUdvOTBuMGg4QlQtaXV6T2hNWW55ZUt1ZkJpWHZWYlB2N0tKRFdkTnQ2N09nUXUzOWxKQzBvbi1XQ1pubFEtMVpxMnJ4dDRSelIxZExFcDRhQkRwM3ZkNVRjMThKMjYxa0VuTHZOUUFpNkhJQnFDTENYcTI?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-10-20T11:30:11.000Z"
     },
     {
-      "title": "BEI Keluarkan Saham HSC Dari IHSG - 10 Perusahaan Diduga Picu Karhutla",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSm4wUHJxa0xsaFl2enBfSkRRTkxyLVZDLTI3bFRpZHhhTU9FQU5LaThvS29RN3V6Sk5qeDBjMFlGWk1Id2RHSkhqanV0S1hLUjNxbzVCNVN2Z0E2NW5uSFJxRHZHRVhZbWFhVjcyZWxEUFptRTdaTUl3Nlg1VGNuc3JDVmxiVXRpem12NHYySjdxY2p3UGx4aElxQ1M2dDZHbi1QcVdSUWFYU0p2OHh5SEE2Q01vMmRaRkotalZzT2d1QmtwdXln?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-10-20T06:00:42.000Z"
+      "title": "BEI Kaji Keluarkan Saham HSC dari Perhitungan IHSG",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mbEI2OVhHUzNBWUxZNGx3ZVc5NjdhVFRJRlY1M2c3WjJoeTRRaWZYaFMzdC1fMXh2WGctQ1BFRGYyYk9adVVWVHZjT3NZWGdjMHF2ejNPS3UybnI1dmdqZ19jMnpDYjJnd0FrLQ?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-20T11:08:26.000Z"
     },
     {
-      "title": "BEI Perkuat Transparansi Pasar Modal",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3lOd1JnTEJJZGVoWHRKeXJSSTNoT2RlRGtLQzVYeFhPUzdmbF84anRCVmYxWUJ4cXJ4V1BqeHA3T1pKR0RoR09yeFgza09KYjV0aWZqWl92aTlGelJ3UjBZang2MnRpT0luaFE5SE8zV1NNRjV4bW5JaXpaZFFLUkxKUFY?oc=5",
-      "source": "MetroTVNews.com",
-      "publishedAt": "2026-10-20T05:53:06.000Z"
+      "title": "Bursa Makin Diawasi! OJK Percepat Pemeriksaan dan Sanksi Saham",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSmh3Zk9OdDRVR1U3MktrUWZtRzNXcE9rUGpLZ2xEcHRqd0VFWjZkYzNMVmdieHBVbkZSUnZRckRzNmJFWnI3RHdfSjdfbFNRNVlXR3pFcWhqWUtUMUNmNFFxY1dSU1ZtUV96c3J0aFpHVjNMazlESXNiYkZNQzh4Y3o0VkRMR0g3N1hTWXA5c3Z6NV94R1hVazNCZThyUjF60gGmAUFVX3lxTE1nOTY2a1lqUk9Xd0d3cm9vYW1LX0IteHFHRkMybFpZaXFXZGlBN1lkY1A2Q3pjMWlrYzZyTndkS21oZ002S2NoSEJLZzM4SXc5ZUpQQ0pxeFJKUUZTLWpIczV5ZXZqN0tNTVNsblBVSlN0bXJuWGhPOVU4YUQ1RmtYUXl3MDhvS3hiNzlBbHNvUXo2d2V0bzdkQ1FIbWdqRmVObS02Smc?oc=5",
+      "source": "Warta Ekonomi",
+      "publishedAt": "2026-10-20T11:07:00.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "IHSG Melonjak 5,65 Persen ke 5.278, Seluruh Sektor Saham Kompak Menguat",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVlQa1hKSnNQaTdTRENjZ2VKek5ZZmpVcVdleFdaRG1leUFDcTQ2Q3ZtbGZEQ1BIRmh2R1FHT19XRHUySDIzYlFweWtFZ1FSenJrMTVCaWlSWEI1WGl1cFgyaDNOeW16LTBabXhZc0c3SU1UcGVaa2NXOU1aMTZ6dUNwTE9fQ1BEa0tLYm01eWxQTldGUkdBbWhMUXFqMlZj?oc=5",
+      "source": "bantentv.com",
+      "publishedAt": "2026-10-20T12:15:00.000Z"
+    },
+    {
+      "title": "Utang CoreWeave Tembus US$ 50 Miliar, JPMorgan Ungkap Risiko bagi Bank Global",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQk5KamN1X3VEbVktLUZ6ZFJjYXdHNVU5WWNRWFBPNEQ3TjRCclJjYXZLTzA2Z2xlaG9fcnJYZXg1X3dzWEJGQlp5QWtmS2ZSVVdRZVNkckd1bXhUVnQ2V0k1MzFNbjRXRTlzX3JaM0dMdURrTmdfcmxJbWM4UnZCOWVhdGpkTV9tT1ZZQl9YVmViRTNCeTJwX0JpeHFjcWR2ckl3Q2FIYTY4VkhfOFZUcGg1dDRWQQ?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-10-20T08:00:05.000Z"
+    },
+    {
+      "title": "Economic calendar: Earnings Netflix dan Data Ekonomi AS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGxiZy1Zc21GYmhtck9TOVdMUlVJN0kzV0NPWFZwRGU2NnNkckcyVC1TSWJWVGFEWm5oWlFZNTNBZU1NR0FqaFpPdktMWTFkYUEwNDRKSEhzNmF2eC0xX2NZZVlyX21XX2dtQlRFc2hBTkpIRnR6TTN0ZkFrd2tSUnVMWUxKY3hlSDNEWVduOUgybUFhdlVrbFhNV3hxY0stck1QNkJVN09icjNR?oc=5",
+      "source": "XTB.com",
+      "publishedAt": "2026-10-20T07:32:19.000Z"
+    },
+    {
+      "title": "Morning wrap: Nasdaq Rebound, Harga Minyak US$110",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVlA2ajdUVEFvbEd2Z3RmdVdBWndva196ODNOaDRzSk12SUdSbDlhUC1EZHRRTU5wN3BOS1FMOXBFWGhaR19RaVNtOFIwUHRGSWlxb3dKcFpfbzl0d080N19mbkNEdHJNUW9xRmZRS2V4VkZlLVI4dkg4dnZ0NDBEbkdNUzQ5MkJVUFh3NTZYSmNvUmU4QWZtWlNLQVJVdw?oc=5",
+      "source": "XTB.com",
+      "publishedAt": "2026-10-20T07:04:12.000Z"
+    },
+    {
+      "title": "Harga Emas Dunia Tertekan, Dolar AS Menguat dan Investor Mulai Waspada - radartv.disway.id",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUc5UEUyRDZmaVBRTEtoSEJrWWdxTlhIQlNLVmp2QVBiYXRPUG41MTc1a2hUNlpCaWJ3RXFLb3liMFlJdjl3cEV2cno3d080d1BUbms4LUN2SS0xZXIwN2ltd2xGMy1LYkdXamt6N3lKdnpvQ0FPcHJVM1lvQlVGcFhaZlpMZ2pyUmZVZkVJWFBGUjNPT3NhTVFkM1A4VjBMaDQwQXdmOU_SAagBQVVfeXFMUHFHOVBFMkQ2ZmlQUUxLaEhCa1lncU5YSEJTS1ZqdkFQYmF0T1BuNTE3NWtoVDZaQmlid0VxS295YjBZSXY5d3BFdnJ6N3dPNHdQVG5rOC1DdkktMWVyMDdpbXdsRjMtS2JHV2prejd5SnZ6b0NBT3ByVTNZb0JVRnBYWmZaTGdqclJmVWZFSVhQRlIzT09zYU1RZDNQOFYwTGg0MEF3ZjlP?oc=5",
+      "source": "Disway",
+      "publishedAt": "2026-10-20T06:40:00.000Z"
+    },
     {
       "title": "Dolar dan Yield Obligasi AS Naik, Harga Emas Turun 0,63% ke $4.137,80",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHZpSWs1SzVOVXl0ZHpRcnVuZVJYdkN2VkJEQmthVFpXUUZhYVBvTk1KSmkydW5rM0xzWVZRYXRfc0V5czFPWG1hYzB6Q0h4VVFCVnZXQ3NmbHpiSUp4TXhybWs4cnVFQkh6SWYyZE8wcXNxY3NIek5wcktRNXR1Z0FQNjJCMTNWMFFWYklBcWZUWWZ4d0trWnpTYkFhY3FONGZyZDhnZ2dTU00?oc=5",
@@ -118,36 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMklmWHh2WkxIaURBd3oyMmlnRXlKVDdjdm4zRFJZcDBDenhfTVpxUG4tRVNHUDFVVmJWc3ZmS0p6ZVV1Vmh6Uk9EanRuckY1dEM1SXgtbWFPalhqekVsNDRFVmNmWV9OY3NLZDEyeU9IcVUyakxXTmhHazZUX1hfdkxsRGhpdFpweXNrQ2hUN25rUXRNeWNockVwOXNSNHRleFVqUFNMR1I4SkJuRWdQWHgtMDEzZw?oc=5",
       "source": "XTB.com",
       "publishedAt": "2026-10-20T02:12:17.000Z"
-    },
-    {
-      "title": "IHSG Masih Tertekan",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4TmRJeGlONzNJSV8wNWhkR05zbXhReUdfY2VOTndfNWpTVzlKZ2hmbFJ0S2MxN0NFVmlLX28xS1BxVTJSLTVOcG5VbGQzN0lSS1h2ekdIWnVTeVE?oc=5",
-      "source": "Emitennews.com",
-      "publishedAt": "2026-10-20T01:58:00.000Z"
-    },
-    {
-      "title": "ANALIS MARKET (20/10/2026): IHSG Diperkirakan Masih Volatil dengan Kecenderungan Melemah",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDZMZWxzeUItMzdaYU10bDMxQWN6amhFTkJPVTZmM1pkNVdmdzFaWHNlWFN4NnlWU29iaU9RQkxTWU1EYW56dF93a1FxbFUyTm45eWxQY1pCdEVVSF9DVG11ajI0bGFRUVVPMDZGenAyUkp2bmRkRWxycmNjX2xDcHBCdmtPWldBOWVtZ3FjQmR2amE0a3hpbEc3dWxORzVNYWN4em5IRGdLYmQ0RDZSTVlUVW9fTTFtLVFWRzJBbw?oc=5",
-      "source": "Pasardana",
-      "publishedAt": "2026-10-20T01:52:00.000Z"
-    },
-    {
-      "title": "Bursa Asia Melemah, Abaikan Pemulihan Saham Cip di Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnJreURYUFBic2gwMkxxM2JrM2NYU05LZ3RhMGkxVzktYVYxZGhabnhaNENRT2paLXBYWVU4Sm9pN0pSOXgzOW1HSHZwWGU5Q3JsbEV0YjJqR0E0OVBXQmRqWTI5QVpQUkV6cHBkWGhRVHlwbUx2bnM0M3VhLUU5X1FJb2dBSDFGUTFnbFBOWXlmaXhBVTk2NEhmUmZjNGZobXB4TjNySVplMXNpUkZQWHNBcw?oc=5",
-      "source": "Bloomberg Technoz",
-      "publishedAt": "2026-10-20T01:30:00.000Z"
-    },
-    {
-      "title": "Tekanan Jual Berpotensi Mereda, IHSG Masih Dibayangi Volatilitas Tinggi",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXlLX2xNb005cmU1RE9FaXNBM2kzWGlEWWo2OU5MVmxUM2YxaUZuR2dCM0xKd0YtT2Q1U21zSGJfQkxVbjNRME5iTXMyUkdsLWkxN2RydDB1M0FQb1JfbDBQUm9uejNOSjZuOGFfdUdJZHpQTEtqdy01UWlvTGVJT2ZkR1MydEZ6TmhfQnB0TzV4Q3V2eXpjcWtwc25tX3FQZzQ5eUZiNTBBaG9P0gGyAUFVX3lxTE5RR2J2UlYtVnQzcHliZGRHdV92Q3ZUZFczMDJqRGIxbnljaXNnNWFwSHpmcjBMMkNqTUxkbXItaE1yckVlN0VReXJRVW9TOFJfRVI1ZmJEUy13VHhnOWRVSGoydjc1M0tYdTgxY0dic0FSRU83bXZiQ2pjZTFZaHU2R0hSeGc0VWdLRVdIbTYwS3lndXlORExFTl9wUXBYejJHSGdlNF9xdFVCNXVZYXJSX2c?oc=5",
-      "source": "Warta Ekonomi",
-      "publishedAt": "2026-10-20T01:01:00.000Z"
-    },
-    {
-      "title": "Wall Street Ditutup Variatif, Investor Kembali Borong Saham AI",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckl6NXI3SlhYY0UzYzRqQldzTjVLLU9fNEdMZWZZS0FkckhKbVVESFN3bmdYZ3hEU0UxUlBJZ2piblVESWRWVGVGVTF3M3paTUljdEFYOG5XYjJ6alZLWF9yMTNrS3dtNDBIVHN6c0VMYmJLYkthNTJxejllYTZPZWNXclBYRUVRZndybk5VcXRHRlVDdzVxeTlGaWxIeVppMTV4NkZiWXpFZGNkMGNZSXR3?oc=5",
-      "source": "Kompas.com",
-      "publishedAt": "2026-10-20T00:07:00.000Z"
     }
   ],
   "errors": [],
