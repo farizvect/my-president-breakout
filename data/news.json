@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:42:51.367Z",
+  "generatedAt": "2026-10-20T21:08:00.638Z",
   "headlines": [
     {
       "title": "IHSG Rebound 5,65%, TLKM Melonjak 16,38% usai Diborong Asing",
@@ -52,6 +52,12 @@
   ],
   "stockNews": [
     {
+      "title": "BEI: Reksa Dana Pengikut Indeks Utama Tak Memuat Saham Berstatus HSC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjdOaUN3QlhWNWRWUlFycWxwb2pOcmx1UWlLX3c4ZVJ3a1AyUDItcGhFY1hSTkRPZkpWdmxpa0dRajY4dTQ3cGZpNGlzME52dHp5Znd1c3VQYnZHWW5WZWxvbkN2M0h6eGM2X0h3QXltbnZwWlVJWUhGZUFiX3l4cE9UZ0N0ODE2ZU9aR3ZsQkpIa0VxMXB2eUNSdk5sR0dicW9qNA?oc=5",
+      "source": "patrolihukumindonesia.com",
+      "publishedAt": "2026-10-20T19:02:29.000Z"
+    },
+    {
       "title": "BEI Bakal Keluarkan 80 Saham HSC dari IHSG Usai Bertemu MSCI",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDdSdTljS296SV9fdW1la1hqbHVaakwxMF8tSFIzU1RrWE54UTYxOWpDamNaODMyMThiRjAyWXNVeFFQelk5Nl9aT0h4WmZZXzN0SFJ0UXpFYzdmcUlwMWlKZlJBaXQ0OWtQeVJHdWFrWGYxU2JPZXlOWFB3UEk3WDRqY1pnSmlvMUdFOVAzdWRoM3ZTS2V5UFZZODU5UQ?oc=5",
       "source": "Diskursus Network",
@@ -72,7 +78,7 @@
     {
       "title": "IHSG Melesat Tajam Saat Asing Lepas Saham Rp 2,1 T",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96c1VsVjJ1QUQ1Zi1DcktUVlQ5bW9DN1FxeGdlN2FPeks2ZmpnbWU3OURFb29IVlFWSHpWcmpVR1l6QkhOYk9wSHctMHpFYl9xakR5WHF0SEVOS0wxalcycVkzWUl2Ulhqcl9US25majNpbDdVNUdqWGNB?oc=5",
-      "source": "www.topik.id",
+      "source": "TOPIK.ID",
       "publishedAt": "2026-10-20T14:48:13.000Z"
     },
     {
@@ -80,12 +86,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tQWZnOGVrcU82aUhjSkV1bWxXY0llRlozS3ZsSjN2TVBQRTR5dWpYZ3ltd0E3NTh6eTlMUzhSTk1KaElOMlJJeHVpVlpuLU1sUVFWaUFiUl9iNmxKcFp1NXdpZDBCUQ?oc=5",
       "source": "Demokratis.co.id",
       "publishedAt": "2026-10-20T14:05:25.000Z"
-    },
-    {
-      "title": "BEI Evaluasi Saham HSC Setiap Tiga Bulan untuk IHSG",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CRlZUeXgzV1ZINU83V3RtRk5Xb1JCeW5RNy1FTFhoanpZM2d4RzFSWWs0Mk80OFd6MVJSMFc1Y3JDTmgtcFpMLUEyU3luVzZjaU5j?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "publishedAt": "2026-10-20T14:03:54.000Z"
     },
     {
       "title": "BEI Evaluasi Saham HSC Tiap Tiga Bulan, Bisa Kembali Masuk Perhitungan IHSG",
@@ -101,6 +101,12 @@
     }
   ],
   "macroNews": [
+    {
+      "title": "JPMorgan Ungkap 3 Skenario Harga Bitcoin untuk 2036",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80a2c0M21HbDBuZFgzdGVobXdpbElRVldPekR4cF9wRHBRdTA5bngtX1FCdFpDVXJNbUxVNnJyeEtRelZzdDRWSXVBdWctMDJMMzJuWkRkVk9obEJGa2JRN2VmS3ZPODRyejdEOC1YYnQ?oc=5",
+      "source": "BeInCrypto",
+      "publishedAt": "2026-10-20T18:24:00.000Z"
+    },
     {
       "title": "Wall Street Dibuka Variatif, Nasdaq Melemah Tertekan Aksi Jual Saham AI",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlpXbnBibExMTEpBbWUzYTUtWkxIWFRHaXlxTW02RENRaHFOZFUtV25IQkV3UFNLWXczbk1sZV9QaG9meTR5YXQxVWNXQTFVNEpXSmZwNWlyamRZN3J4TGZVWkRRTmlLY0dsV0U0QzlBVFpOSFZzdFNmRmZsZVNLT2I1V2hKekkwMEdCWUZQUmFsamFEaFRkcENiX3lybGlYUWZPelljWXlRRzM3Rnd5SjFUaTk2UGJfa0dRWjJB?oc=5",
@@ -142,12 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVlQa1hKSnNQaTdTRENjZ2VKek5ZZmpVcVdleFdaRG1leUFDcTQ2Q3ZtbGZEQ1BIRmh2R1FHT19XRHUySDIzYlFweWtFZ1FSenJrMTVCaWlSWEI1WGl1cFgyaDNOeW16LTBabXhZc0c3SU1UcGVaa2NXOU1aMTZ6dUNwTE9fQ1BEa0tLYm01eWxQTldGUkdBbWhMUXFqMlZj?oc=5",
       "source": "bantentv.com",
       "publishedAt": "2026-10-20T12:15:00.000Z"
-    },
-    {
-      "title": "Utang CoreWeave Tembus US$ 50 Miliar, JPMorgan Ungkap Risiko bagi Bank Global",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQk5KamN1X3VEbVktLUZ6ZFJjYXdHNVU5WWNRWFBPNEQ3TjRCclJjYXZLTzA2Z2xlaG9fcnJYZXg1X3dzWEJGQlp5QWtmS2ZSVVdRZVNkckd1bXhUVnQ2V0k1MzFNbjRXRTlzX3JaM0dMdURrTmdfcmxJbWM4UnZCOWVhdGpkTV9tT1ZZQl9YVmViRTNCeTJwX0JpeHFjcWR2ckl3Q2FIYTY4VkhfOFZUcGg1dDRWQdIBqAFBVV95cUxOdV9rTDJWLVNpR1d5NkJIZ0RzTTZvTVFYcEl5VUl1LUFfd1hIRFVtZVN5ZUVodGVaZWppeUJmcDBQU0ZfRVktbGd3cEVfdnVPVVNQeXZSMDNBcVJfbVlORTE4RkRGa2ZhUktxOWE5R2pTdkxIZU52Q29IQXo2Ql9TcGEtVS1maFRMeDFXVjBXZU9PcE5VUmdVYWVJTWI5LTlBY3U2anVXeVY?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-10-20T08:00:05.000Z"
     }
   ],
   "errors": [],
