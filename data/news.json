@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T15:35:50.897Z",
+  "generatedAt": "2026-10-23T19:43:00.401Z",
   "headlines": [
     {
       "title": "Video: Ketua OJK Jelaskan ke Prabowo soal IHSG Anjlok Imbas MSCI",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkk4T29vQ3RQdjY2a2JTSlp6ZHVOOHNJMF80Z01JZ2lBa2ZuS1h2ZHRKb3MyLVZtdGY4SmF6a3VweU5Gb1h1X21lUlQxVmpXZHQycnFaQzgyWW5OWUJQRXVHWS1Qc3BGX2FFX2Zxa0hQaVJnbUp2SzZxRVdPVnY4ZG1PZng5TktvODFRMW5PV2t4b01La1NMb3ZjVGNqSkxsZWZ5MTEwaUZhNVhjWDlmMUszWUl2UQ?oc=5",
       "source": "20detik",
-      "publishedAt": "2026-10-23T15:21:54.000Z"
+      "publishedAt": "2026-10-23T18:21:54.000Z"
     },
     {
       "title": "IHSG Menguat Empat Hari ke 5.439, Barang Konsumen Nonprimer dan Energi Memimpin",
@@ -44,13 +44,49 @@
       "publishedAt": "2026-10-23T10:29:00.000Z"
     },
     {
-      "title": "IHSG berbalik naik 4,9% sepekan usai jatuh imbas usulan MSCI",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGcxc0JlTG45SVJsS3I4QUlDSGo5SFBkak4tenIxNElhOE5wdDYxUl9IU1dudk10b3MtN0phSkNCa3VSNWdkbHdKejZiT3pQVEFFUTVZNklhV2dkWFN2eGo3NTBySHhYaFpBZWdsZDVOb1d1ZkpEeWZ6N0ljTEpHVEprUzlERDVicWxFY19jaGswSnQ4V3V0VDdwSzNQaWFlR3VmLWtB?oc=5",
-      "source": "IDNFinancials",
-      "publishedAt": "2026-10-23T10:00:00.000Z"
+      "title": "Ditutup ke Level 5.439, IHSG Akhir Pekan Berhasil Menguat 0,95 Persen",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjVmeGR0ZVlzLThxY3BqYzU0aGVId3ZuekdIRTZSazFzaTh3SnRWal9IaElGZWtjWG16eTU4NTNvR3Y4cnlGcVFFbGtnRW9YSWl0c0xLd3dHQ25JeUdCR3QwRHNLZl84SHd1d3dPbkN4azJsemczR0lEUUl4YzZNdGtkRnlKWWdzcTBGVWtFM1dPOElvWG9MZGtBWk9pdjlvb0NCMGxJUUE?oc=5",
+      "source": "Pasardana",
+      "publishedAt": "2026-10-23T10:05:00.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "Investor Asing Jual Saham Rp 1,28 Triliun Saat IHSG Menguat",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tSEc5QTEyY0FGTUxlaTFkaDludldhTEJVaktNWXROVEFFYVhtZ3NjZExlSU5BU2tTRXBIRHIxVU5ySWhxNGFrUnFZeUNrY2FPLVpZdjVqNUhuRWpqWFhJSXVpYVpnMUpEcTlEblFHSXo?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-23T17:49:00.000Z"
+    },
+    {
+      "title": "BEI Terapkan Penghitungan IHSG Tanpa Saham Terkonsentrasi 2 November",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90UWQzY0k5eXBjOWo0ZFo5NjFteE1iVGhVOGpNT2Z2RFNySHIzaW1wTVRycUZhQVZMNXNpb0pGajdONG5HN1o3bDRhNjZZVWoxZmFUbklVT1Z1R1VWN2hWLTFXT1o5RXJiZXpwb3RZdElOQ0VIWVE?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-23T17:26:00.000Z"
+    },
+    {
+      "title": "BEI Gelar RUPSLB Bahas Demutualisasi pada 28 Oktober 2026",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1SDVPZ3NVR2ZCZkhVMThFZ2hDS2dYalNIUlR2ZTdXTzJsN0FQV2I5U2dsMGJhSldjTm9zTkpSUGJITXZEbERLVjlhQkd3ZHRsbWJhTl9OQ0h3bFNjZDhvNDJjb2ZUa3BWOGUzQlJ3?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-23T16:14:19.000Z"
+    },
+    {
+      "title": "Investor Asing Jual Saham BBCA BBRI dan BMRI Rp 744,4 Miliar",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWNndXhnQzdRYzFMZ29xZ0pqS0ZsZVhXajBPdmFFVGRWS3BuMUdPeFJlakdYLXF6WG1RbHk1Rm1xMVIzbldZMmlwQ2RNSjJrQ25HU1BwRWRFa19BZUJlN0lYZ21Ed1kwM1lNd0EwNjVBV3hTVTdZd3dXOU9Kc0UxYVMtaG9pWHZnNWVFXw?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-23T16:02:20.000Z"
+    },
+    {
+      "title": "BEI Jadwalkan RUPSLB untuk Bahas Demutualisasi Bursa",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YZmI2djZ3WWNwUWJqYUQzLVZqT3RNS2I2TFlpWDZERlNzWk9wdTRBNTFJNWJGaHlTR0g2YVJibjJNVzhEZWJZV2VvNFdDY0o2LXkwTmVDUkVvTjlZeGZ0bw?oc=5",
+      "source": "Koridor.co.id",
+      "publishedAt": "2026-10-23T15:54:18.000Z"
+    },
+    {
+      "title": "Asing Net Sell Jumbo Rp 1,29 Triliun, Cek Saham yang Banyak Dijual di Akhir Pekan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS09heFdiVlFVM1loMENIWDhSLWIzTVJKTnA1aktMckpHUXNORzRQM0hLaWJVYnJ0d1N2VGUyVkVzRC1xbkhYMmpLZk5vT3M1SUczNk1oNVRxMjVBTGZRYllTU0kxRzBBUWlYRnBFZnc1OUlfX2JjSkh1c0FnV3hVdTRVLW50TUx4NkcwQTBuTm8xTXoxYzZNU0tOMGZqcUlXdFBVSTlkMHhZbTRrM0lkTWQxdU9ad9IBrgFBVV95cUxOOHNpamQ4REF4N0ZVWTZNVUkzUEY2aXNJNmh5bjU5cS04c0JIY2RTRE9md0dkekFpSXFiWWR3OENrU2c3aW1xYUVrQ2hpNkVsMjVYY0ktUThZblFHNUI0RDEtQzJPNHc2MnJLbUs3YTFOdVFQeUcwYjVsNVlDU0h3V2JWVFBESmtlME1LSXkxMldvNUlKRFZnNzZJRVZIdmVEUDI0dHU0VFhyWnJmQUE?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-10-23T15:06:20.000Z"
+    },
     {
       "title": "Data Sepekan Perdagangan BEI: Kapitalisasi Pasar Mencapai Rp9.583 Triliun, Meningkat 4,66% Dibanding Pekan Sebelumnya",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOXpJbmhLMVVWUFFZdzAxbkJDcVc4MzBoNVZmVEl4WnJ2b0RKbmd3T1RadGk2d29zWXB3RE5DOGZId014VV9CY2RFT2xmR21KQmRHRGg4c25PY1gtZ2NlVXd1OThYTWpOVm9td0pHSHdaVG16cFZKSmVqbElMTmxnM2t4bFo1UEpDNHZFRDdOZmQ2U1A3UEh1a2k0MV9wNWxqRWNoZ2pSM2F2NFV6YW1oQWlaOE9hWHhIQmFzN3hlTjJldm8za2V1N2trMHNEeXU3dkNDMXdmc1VqdGFkTEZvQmdkRlVEZw?oc=5",
@@ -58,46 +94,10 @@
       "publishedAt": "2026-10-23T14:01:00.000Z"
     },
     {
-      "title": "Saham CUAN: Profil, Pemilik, Kinerja & Aksi Korporasi",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WWlpUSDVKTEphZ0lQOGlpbWdudld3N25nWFdWdms4N2N1bkNNSUF1RExtS3dTWDNzWTEzRnhwLWdhVnBxTHBjZnNvVQ?oc=5",
-      "source": "Pintu",
-      "publishedAt": "2026-10-23T12:14:49.000Z"
-    },
-    {
-      "title": "Indofood (INDF) Siapkan Dana Rp750 Miliar demi Buyback Saham",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlRjS2Vrcm9CM3MxOE9SM0lheVEtaWVYQ1BtTzVqNVp6bUlUYVhBcXBXcGF3dVJLUENsQkJkWUd1YUs3QXpVb0IwOG5VZERSSUFvWDNVR3hZTTRmY1U5eUhFRmhxTENNQlBSc2JnSUNDZWVfUnVrdHBVTVVKa2RzXzdLQ2dnc1c4OFZZdXVWWU1KcXBtUThVRXQxdGtYalRnRWpZ0gGjAUFVX3lxTE02VGNLZWtyb0IzczE4T1IzSWF5US1pZVhDUG1PNWo1WnptSVRhWEFxcFdwYXd1UktQQ2xCQmRZR3VhSzdBelVvQjA4blVkRFJJQW9YM1VHeFlNNGZjVTl5SEVGaHFMQ01CUFJzYmdJQ0NlZV9SdWt0cFVNVUprZHNfN0tDZ2dzVzg4Vll1dVZZTUpxcG1ROFVFdDF0a1hqVGdFalk?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-10-23T11:59:00.000Z"
-    },
-    {
       "title": "Airlangga Hartarto Buka Suara soal Sorotan MSCI, Tegaskan Fundamental Emiten Indonesia Masih Baik",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUotQmNzd1BrZjZPamVFOTAxZzNkVFd1clhwV29QYmgwSEZIQjl5d0lLN0o2VnhzcEhIYTJ0ZU9aX0JIemZLdlRzUk1OUG56c3BiSm1iUG5nN0g3UEdieFRsc2xnMmRTRTFBZm9fM25jYmJ6SVVDRXQwM21qZmJlclV1dlhZR2QxSVhUYUx1ZUFWTkwxdnc1RnFBMHdHcFBfTzZNNW9QRFJnYlF3NE9zc1JZYi1Jd3Ex?oc=5",
       "source": "TOPIK.ID",
       "publishedAt": "2026-10-23T11:20:52.000Z"
-    },
-    {
-      "title": "BI Masukkan Saham jadi Objek Lindung Nilai Vastra, Ini Alasannya",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2w4bUVtdlo5YXRTXzBzQkhFRUgxZ05NZ2g5TWNQMnJJbVU2QVgzX0VxS01seXUwUXh6VjZVcnVrN3pJTEtkb1hYLUNZQm9kU1Z5QWNuOGNfU2ZWMzViRHFHalRpUGNpRlJHbXp0eWhUTHlvUEstd2hyVTVwaEdTRDNzX0dIakZXYlQ3Tmp6eWhsYXlfZkxHMUMwOVM3R2NfRy04?oc=5",
-      "source": "InvestorTrust",
-      "publishedAt": "2026-10-23T10:54:00.000Z"
-    },
-    {
-      "title": "Diminta bantu BEI, aset investor saham RI justru menyusut Rp1.142 triliun",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHhOWmFxSEFWS1Vtcy0yZEQzY1JkemltX2JEc1NuV1VDMkFJejhJcXRDemZKZU8zSkJmOUdhUXd6Q2stQjNrSGVoRU1RdHczMUY2RG4zbGZYYnp5QnlxbXdQbEtucHYwbDBNQ053d0s3XzNXeU9iUWZoSnFsY2xfN1lubGxYektzTHQ4UktoWkFEUUFLTk5reTVvdzVmbUZfS2hWSVc1a2FLVzhkdFJqcjJDeVozUQ?oc=5",
-      "source": "IDNFinancials",
-      "publishedAt": "2026-10-23T10:45:28.000Z"
-    },
-    {
-      "title": "Managing Director MSCI Ungkap Alasan Pasar Saham RI Terancam Turun ke Standalone Market",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFdYSlN0Sm5CRjNLelA2aElpd3lST3NUVHFfWkFXQ3BEalVhSkNTNzBaYnFTMUFSODhOaG1WRzhfdlZ2aDlqdmUzN3JDaUR6ZXJ2ZGU4aFdPNC1meUN0V1JFbDNCRVVUVHRvN2cwUTE1YWc4UXRDdG5HNFhzZldNQkJIQUtWMC1NVUZiUjdvNG1MZFZWMm9TTlhnZVZWMGJENFFxRTJkSGFGRk9FUWptcVZ2Mkt6M0FYTFp5QVFMM0VyQ0dzM0pEMEp30gHKAUFVX3lxTE1kV1hKU3RKbkJGM0t6UDZoSWl3eVJPc1RUcV9aQVdDcERqVWFKQ1M3MFpicVMxQVI4OE5obVZHOF92VnZoOWp2ZTM3ckNpRHplcnZkZThoV080LWZ5Q3RXUkVsM0JFVVRUdG83ZzBRMTVhZzhRdEN0bkc0WHNmV01CQkhBS1YwLU1VRmJSN280bUxkVlYyb1NOWGdlVlYwYkQ0UXFFMmRIYUZGT0VRam1xVnYyS3ozQVhMWnlBUUwzRXJDR3MzSkQwSnc?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-10-23T10:43:00.000Z"
-    },
-    {
-      "title": "IHSG ditutup menguat didukung respons pasar atas kebijakan saham HSC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1VkdXdvWG9IdHVTUEtzVS1pT01mWTBlOUhLbkI4Vzg0R1hwd2pzSzdoRHB1MXpWdzRiRDdiNENNbE12UGszMkJIUDNGaFBEQ3pKRlpvSEE0RE1mMmZWaWdHbHdvSTlheFJSZUhIUXNEVGd1TGdJWFFldExDRjc0eEh6WklmVi16WFlLNEhUdUNqT1ZMbWtxMko5ZWVKdzE0U2pRLWhzN2JlVTkzTWhkMdIBtgFBVV95cUxOaWFTOWdjWS1WZjJQbkFxLTdQZVpHN1NMd1ROSUpnZkduZkREVks1cVFMRWhYOUpsNDMwb012SFVhcTVlVXhOQXFydVFOYmNSa1Z3REVrem9xX3F1UFl0dThteHc3aFNXVDNXNFJtVW5PMkpWMEVZVnd1UjVPeG5IYkQwNjNLYUhuRjIyTGdYUmhwbTUzam1Vd0N5MV9XdHhRMksyQ3B2NkQwejQ2eWZBUjU2bjFBQQ?oc=5",
-      "source": "ANTARA News Jambi",
-      "publishedAt": "2026-10-23T10:40:51.000Z"
     }
   ],
   "macroNews": [
@@ -106,6 +106,12 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSzVJN3ZzNENRSVlCRFJHTWtrbk5rRFMtWFNSZmIzLTZxUWszekZxTnZPUEFRQjZNelZaTDVHN1JNQlNnTGhwSTRGcDRFMVl0dzBNeWN6a3RqRE56dzVwY3dDUFFWODNLYndFYVNUMkdXMEwydmtRTHMyRDBUd2w0eW5LTGlFbUl2a282WmtMNGE3ZngwYTVWVU5NbzFtbEFacUJZZkJ6SHdVVjNBcTVoNExjRzhyTHNwSFBuTnVNdzI1VDRoamthU0xDYjR0elVOdkHSAdIBQVVfeXFMTks1STd2czRDUUlZQkRSR01ra25Oa0RTLVhTUmZiMy02cVFrM3pGcU52T1BBUUI2TXpWWkw1RzdSTUJTZ0xocEk0RnA0RTFZdHcwTXljemt0akROenc1cGN3Q1BRVjgzS2J3RWFTVDJHVzBMMnZrUUxzMkQwVHdsNHluS0xpRW1JdmtvNlprTDRhN2Z4MGE1VlVOTW8xbWxBWnFCWWZCekh3VVYzQXE1aDRMY0c4ckxzcEhQbk51TXcyNVQ0aGprYVNMQ2I0dHpVTnZB?oc=5",
       "source": "FXStreet",
       "publishedAt": "2026-10-23T09:29:31.000Z"
+    },
+    {
+      "title": "IHSG Ditutup Menguat 0,95% ke Level 5.439",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUVkYXJpWmZWUXlMTXY3SE9KYi1UTE5PQlN3U3NFb0hIT0tLM0h5NHU0TEtpV1lGMjFtZ19Fc0l1eU1BR1lra1dWMHBUemd3dWpOYWNNMTIzTzdBdE54RndIcC1aTEpieEo3bEt5ZzNWa3lablRGTXFiR1hIWTcta1gyWlFLUE0wVUgxNVlReWxlRW9YSGxOa2Q3RHYtd25ORmozcHlnZ9IBpwFBVV95cUxOTUVkYXJpWmZWUXlMTXY3SE9KYi1UTE5PQlN3U3NFb0hIT0tLM0h5NHU0TEtpV1lGMjFtZ19Fc0l1eU1BR1lra1dWMHBUemd3dWpOYWNNMTIzTzdBdE54RndIcC1aTEpieEo3bEt5ZzNWa3lablRGTXFiR1hIWTcta1gyWlFLUE0wVUgxNVlReWxlRW9YSGxOa2Q3RHYtd25ORmozcHlnZw?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-10-23T09:10:41.000Z"
     },
     {
       "title": "Emas Turun di Bawah US$4.000 untuk Pertama Kali sejak Juli. Apa Selanjutnya?",
@@ -138,16 +144,10 @@
       "publishedAt": "2026-10-23T03:39:53.000Z"
     },
     {
-      "title": "Rupiah Dibuka Melemah di Tengah Kekhawatiran AI, Geopolitik, dan Net Sell Asing",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGp2ZHJ0WV9yZEZoOTVUdGZldXEtN0diekMxcXJlekE1UWVOVlJQTHBrTUtRTmlSV3lCM01zSWNWeWN2WmphMVlFUXVXLVJkQ0U0ODhXTlJiRjFkdjZCRmdzaHZKclh6YlJwLXVfZjFtUC1IbFRWU05KSDlGMmJKaW5n?oc=5",
-      "source": "gadget.qoo10.co.id",
-      "publishedAt": "2026-10-23T03:20:00.000Z"
-    },
-    {
-      "title": "Yield SUN 10 Tahun Menuju 7,40% di Tengah Tekanan Wall Street dan Rupiah",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2lIeWNYbm5DYTdoYjFHZXpfRlRPLWt1Z1ZuZHF1Q3Vsa1NlOUJQLWhKQ1hmLTVFXzgwQ0xfMWMzdVBwQUR4SHJ2bThXZThTV3dtUHczVXRnSVRQZXdHYnBOX2ZPWlhIRzkxVXptTU0zNF9hQWJ0ODZ3bzdEMnZCc3AyLVJ1clJtb1l3TnhEc2JlSjlxSFdWTVpEUmlRQS1wM0psbWZqb3UzZ9IBogFBVV95cUxQd2VYQXNwOTlwYjdFNXBCdTludkFabWNXOFVLZy1VZXVQZEE4NzA5ZnFMeDloVXc5YmY0QmY3eWZTQkR6ejV2VGdnalg4dXo5MDBwSkM5cUhBbTBrUmk3R0ludjJQZnVNY1VLeFMtM0QzM3F3UEptN21yZ1J2ekpESGQ3bkVMQndic0NvNXo3aGczcVZJTUl0ZHNkbC1Eak11T3c?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-10-23T02:54:57.000Z"
+      "title": "ANALIS MARKET (23/10/2026): Buy on Weakness!",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPME1neG16RDJIM3JDMWZrdGRDMHp1cVJ5S0lzRWtzVmRFSkFCSmktY1pyVVVlRmdUSGtEak5qWmtoU3drd1NORm11NGRBVlBkeDF6WnRGblVVZnFxSkthNkxEZ3JGckZnNjlVZkZRZG02QW1EZVp3NEF0Ym96SzA4cWpjQQ?oc=5",
+      "source": "Pasardana",
+      "publishedAt": "2026-10-23T02:59:00.000Z"
     }
   ],
   "errors": [],
