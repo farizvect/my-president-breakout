@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T22:49:55.204Z",
+  "generatedAt": "2026-10-24T01:19:09.561Z",
   "headlines": [
     {
       "title": "Video: Ketua OJK Jelaskan ke Prabowo soal IHSG Anjlok Imbas MSCI",
@@ -52,55 +52,91 @@
   ],
   "stockNews": [
     {
+      "title": "BEI Catat Sembilan Perusahaan dalam Antrean IPO",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXVYT19ZWlRfYzUxSUQ5MFJ2ZjhkWmZTNHN0RUtTNmRrcjExY184Tm1uRXNkcHMzU0ZKTHNCalhRVjZzbXQ3eUFmWnhPdHppWkV2STliVm40ZldnU21mRTM5T1lLQnRiNnpKSG1xQzZVVGc3YmE0aHhqb29pYWxSVXFiY08?oc=5",
+      "source": "Suara Independent News",
+      "publishedAt": "2026-10-24T00:52:21.000Z"
+    },
+    {
+      "title": "IHSG Menguat 4,9 Persen dan Kapitalisasi Pasar Tembus Rp9.583 Triliun",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sZGV3azFFTVMtT2M4TXVjTlFrVGpXVXRzX2xMWldia3dITmZya2JZQV9Rb0s0b0tuWXhrY3gwMXlNSmtxQjZDODdobGVEYnZDanZHMEV0bnZoR0ctTWc4TFRIbGp6ekk4VTBiRHFlQW1fbUpMbFE?oc=5",
+      "source": "Suara Independent News",
+      "publishedAt": "2026-10-24T00:32:14.000Z"
+    },
+    {
+      "title": "BEI Catat Sembilan Perusahaan dalam Antrean IPO",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4ydWMxTC15azJlTXdJVTJwa05aTkZUZTZwNE1pS2duOUtmcDlsYWtLemN5bG9vVjJRbHR1Y1ZuYmJuRmdoX0dURlRUdVQyQnNSY1JQaWxXN2MxbkFFbjZ0QndpaXB1RjNQWS1VVndmUVpUTTA?oc=5",
+      "source": "www.suaralandak.co.id",
+      "publishedAt": "2026-10-24T00:29:15.000Z"
+    },
+    {
+      "title": "IHSG Sepekan Menguat 4,9 Persen ke 5.439,35, Kapitalisasi Pasar Naik Jadi Rp9.583 Triliun",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYkFhMERzaXR3YWxYbU5NWktaUFc0azk2SC1iWkl6VVlweTJvSkdDY2NFU0NHdy1Gd3BwZXozR29tNkxwRUV4M1h0cDJJLXh0LXRxc1FwbGk4Uk5rdHBwbWxIY0U2RHppb3g0RlIxaEpVb2dobDRKaE53WUs1MEY5NlFIbU4tQnNFQXB1M042TTZNakVPZkxTcXlLRnQ4VVN0bE92ZG9OOTA0Z25CV3ZZNnA4d0ItWGdDZmZfY0luZ1E5c2o1VVHSAcYBQVVfeXFMTmJBYTBEc2l0d2FsWG1OTVpLWlBXNGs5NkgtYlpJelVZcHkyb0pHQ2NjRVNDR3ctRndwcGV6M0dvbTZMcEVFeDNYdHAySS14dC10cXNRcGxpOFJOa3RwcG1sSGNFNkR6aW94NEZSMWhKVW9naGw0SmhOd1lLNTBGOTZRSG1OLUJzRUFwdTNONk02TWpFT2ZMU3F5S0Z0OFVTdGxPdmRvTjkwNGduQld2WTZwOHdCLVhnQ2ZmX2NJbmdROXNqNVVR?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-10-24T00:25:00.000Z"
+    },
+    {
+      "title": "IHSG Menguat Paling Tinggi di Dunia Pekan Ini, tetapi Jadi yang Terburuk Sepanjang 2026",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU45MnRrMnkyc2k5Z1psdlVhUWhSSHEwYUctanBHWkRRY2V4RnViRE5kYzhYeTIybFhpWktFeFY2ckFNQ0s5TG5LbU04NmY2VHZMNVl6T3Z6Q2dWM3JoUWZLbzhva253RU8yZTJzenJEZjZYZWNjVHpvR3FoZDB1blF3ZHZ3bjFMaGFCRnpObDJPU2dBVms1bjZwUlBFdnBGMHZUMXpWTDU1cHNpVHlselN5eFFPcVM5Q0ZmdE1NamViSXM?oc=5",
+      "source": "InvestorTrust",
+      "publishedAt": "2026-10-23T23:44:00.000Z"
+    },
+    {
+      "title": "BEI Catat 9 Perusahaan Antre IPO, 25 Emisi Obligasi Masuk Pipeline",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVS1KZXJYT3ZkOHdFSzRRYzhWWm5SVUJWd2dkVW1CVnFMWE9VbGVBQUQ2dFZ2RGhsS3hkTWRYM3RFTnpsWFdpT3hDcjRjRHE0NDg4cVFFT1owOG9vanVZVmxxY3dSVE8zUlpDdlVrWFZPWEZDV1Fhc2xpZTl4NVRzQTMwVUZZNFhodVcybzE3d0ZOeWQwLUVtNWRBSVZzREIwRHMyZEhkbDh3ZnFPQmgwWUJmdzY?oc=5",
+      "source": "republika.co.id",
+      "publishedAt": "2026-10-23T23:07:58.000Z"
+    },
+    {
+      "title": "SOHO Jual Seluruh Saham Pfizer Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSklvUFJJemVzeWZLMGVSTjliQy1ISUxZbm5CWVlySXJqZ0lwaGczanZvZGpQd185Y1JkYlZ4dElBOENRSUNJUkZYS3lpWEpSOU5od3Q4N054TUo0cGlkZm9EcHE3MEJ6UFNnUFlRSHMyY2tiRFh5OUZ5QWVOaTg5WW1teExPZmNZV1V30gGLAUFVX3lxTE9KSW9QUkl6ZXN5ZkswZVJOOWJDLUhJTFlubkJZWXJJcmpnSXBoZzNqdm9kalB3XzljUmRiVnh0SUE4Q1FJQ0lSRlhLeWlYSlI5Tmh3dDg3TnhNSjRwaWRmb0RwcTcwQnpQU2dQWVFIczJja2JEWHk5RnlBZU5pODlZbW14TE9mY1lXVXc?oc=5",
+      "source": "IDX Channel",
+      "publishedAt": "2026-10-23T23:00:00.000Z"
+    },
+    {
       "title": "Bongkar HSC FILM, Taktik Gadai Repo Hingga Morgan Stanley Nyangkut",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMG1NeFh5VUVDWnVjNnRkdFYtbDR2LVMwSWdBbDQzbnpwanFCNlQ1WFRsRXQzQi1TX3Z1VVNBYXVhREtrTXZVa1EyM3RMQkJiZXY2UTFVeXIxZmwyc3lBR1VrNDdSYjZ1SzZ0V1NSekFLejFSWkUxUlN0cmJxNHlRUDN5TEU3cjcwcDJwWWNqRTdBZkV2ZkZSTlFnQ1ZrQQ?oc=5",
       "source": "Emitennews.com",
       "publishedAt": "2026-10-23T22:24:00.000Z"
-    },
-    {
-      "title": "Deretan Saham Milik Haji Isam di BEI, dari Jhonlin Agro hingga Bayan Resources",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYVRFZ3p1LUctZHZkUEdEemRRNXBsUW8yRGtXa2RjTDBBZTRyNnF4VGRnakNrVmFvYVktMU1oWkpoLXpyWGZSeVNSSzFzZVprRlBBdjFtbnlqRENjeWdmTWNOUXVpbUJSVjVfTVZWRGNvREdReXF0WXBUdGRqNE4weEMzcnQ0UWZHRnZybFhNd3BVdFVfNGl1cXNmRVFGYW9hbHhETm1TdE4wTjJuZ1dEQ1A2ZTc4d9IBuwFBVV95cUxOOElGNWtqb2xBWjB4NDBNQ21vUWVDZkQxM2k5bUo4VWpjVWhZajZfRGpHSmFHaXVjM2thX3BtOWdXbWJfdGMxUGxkdXVMMVp5NGRpSzZQeVBSZi0xaE5ua29YMU9wZ2RXMjFBWF91cU1vVlhkV0JVRURpQkl3Z1pyRlItTTloaUxfdVBraFk2QnhBZ0E2cFVDMXlyYUd3UVdCdHdOTWh6akdMekVMekY0STBCdjVEOUVEdzYw?oc=5",
-      "source": "VIVA.co.id",
-      "publishedAt": "2026-10-23T20:00:00.000Z"
-    },
-    {
-      "title": "BEI catat sembilan perusahaan antre IPO hingga Oktober 2026",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzg2c2U4cmRlV0gwQ0hrU3JDUnFYQV9BRUc1V1lQQnBDdmlhajRMVGw2R09PRWswTktvMFpJWm43bnhUckVIZzh6LVV2emhpVGVIZ1AtdU9QVXVyZHhHZ0QwbTY4azdINWg5aXg5LTZ1T3J6Ny1McF9CcWI3ZjlZSVR6NzUwdG5Vd19Fd2VIY1lwR1pBWXVlWTUySmtUYkRxcU5nc0dn0gGmAUFVX3lxTE1LODZzZThyZGVXSDBDSGtTckNScVhBX0FFRzVXWVBCcEN2aWFqNExUbDZHT09FazBOS28wWklabjdueFRyRUhnOHotVXZ6aGlUZUhnUC11T1BVdXJkeEdnRDBtNjhrN0g1aDlpeDktNnVPcno3LUxwX0JxYjdmOVlJVHo3NTB0blV3X0V3ZUhjWXBHWkFZdWVZNTJKa1RiRHFxTmdzR2c?oc=5",
-      "source": "ANTARA News",
-      "publishedAt": "2026-10-23T19:25:28.000Z"
-    },
-    {
-      "title": "BEI Terapkan Penghitungan IHSG Tanpa Saham Terkonsentrasi 2 November",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90UWQzY0k5eXBjOWo0ZFo5NjFteE1iVGhVOGpNT2Z2RFNySHIzaW1wTVRycUZhQVZMNXNpb0pGajdONG5HN1o3bDRhNjZZVWoxZmFUbklVT1Z1R1VWN2hWLTFXT1o5RXJiZXpwb3RZdElOQ0VIWVE?oc=5",
-      "source": "Demokratis.co.id",
-      "publishedAt": "2026-10-23T17:26:00.000Z"
-    },
-    {
-      "title": "BEI Gelar RUPSLB Bahas Demutualisasi pada 28 Oktober 2026",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1SDVPZ3NVR2ZCZkhVMThFZ2hDS2dYalNIUlR2ZTdXTzJsN0FQV2I5U2dsMGJhSldjTm9zTkpSUGJITXZEbERLVjlhQkd3ZHRsbWJhTl9OQ0h3bFNjZDhvNDJjb2ZUa3BWOGUzQlJ3?oc=5",
-      "source": "Demokratis.co.id",
-      "publishedAt": "2026-10-23T16:14:19.000Z"
-    },
-    {
-      "title": "Investor Asing Jual Saham BBCA BBRI dan BMRI Rp 744,4 Miliar",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWNndXhnQzdRYzFMZ29xZ0pqS0ZsZVhXajBPdmFFVGRWS3BuMUdPeFJlakdYLXF6WG1RbHk1Rm1xMVIzbldZMmlwQ2RNSjJrQ25HU1BwRWRFa19BZUJlN0lYZ21Ed1kwM1lNd0EwNjVBV3hTVTdZd3dXOU9Kc0UxYVMtaG9pWHZnNWVFXw?oc=5",
-      "source": "Demokratis.co.id",
-      "publishedAt": "2026-10-23T16:02:20.000Z"
-    },
-    {
-      "title": "BEI Jadwalkan RUPSLB untuk Bahas Demutualisasi Bursa",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YZmI2djZ3WWNwUWJqYUQzLVZqT3RNS2I2TFlpWDZERlNzWk9wdTRBNTFJNWJGaHlTR0g2YVJibjJNVzhEZWJZV2VvNFdDY0o2LXkwTmVDUkVvTjlZeGZ0bw?oc=5",
-      "source": "Koridor.co.id",
-      "publishedAt": "2026-10-23T15:54:18.000Z"
-    },
-    {
-      "title": "Asing Net Sell Jumbo Rp 1,29 Triliun, Cek Saham yang Banyak Dijual di Akhir Pekan",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS09heFdiVlFVM1loMENIWDhSLWIzTVJKTnA1aktMckpHUXNORzRQM0hLaWJVYnJ0d1N2VGUyVkVzRC1xbkhYMmpLZk5vT3M1SUczNk1oNVRxMjVBTGZRYllTU0kxRzBBUWlYRnBFZnc1OUlfX2JjSkh1c0FnV3hVdTRVLW50TUx4NkcwQTBuTm8xTXoxYzZNU0tOMGZqcUlXdFBVSTlkMHhZbTRrM0lkTWQxdU9ad9IBrgFBVV95cUxOOHNpamQ4REF4N0ZVWTZNVUkzUEY2aXNJNmh5bjU5cS04c0JIY2RTRE9md0dkekFpSXFiWWR3OENrU2c3aW1xYUVrQ2hpNkVsMjVYY0ktUThZblFHNUI0RDEtQzJPNHc2MnJLbUs3YTFOdVFQeUcwYjVsNVlDU0h3V2JWVFBESmtlME1LSXkxMldvNUlKRFZnNzZJRVZIdmVEUDI0dHU0VFhyWnJmQUE?oc=5",
-      "source": "kontan.co.id",
-      "publishedAt": "2026-10-23T15:06:20.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Wall Street Ditutup Melemah, Dow Jones Ambruk hingga 1,23%",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTndUb05JdTgzRHZpWmVTcEFnYjFuUHl2SVQ0ajN1djlrd05lSVhHMlR0MkRoOXNMbjZwOEx5RzMteGt0XzI2WFdWd0JuZDRvS2xSbWtCOWNqV25GNXJ1bGpVNFJfLUJUM1BSQlRIX3BBVkV4MElQMlJpVU1sUTQzcjNEU2EzUW82ZlNPNUJ6NHdiYW85bjNnLUhxbWh4Z0k?oc=5",
+      "source": "MetroTVNews.com",
+      "publishedAt": "2026-10-24T00:45:31.000Z"
+    },
+    {
+      "title": "Harga Emas Dunia Anjlok ke Terendah dalam Tiga Bulan",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxblh6WGNRN1pWaWcxQW56dm8wMV9vOUZ4YW9ZQUlPX2JkbUdud0Q2YkVLTlc0c0F6YUxGajVFd1drZDFsQmE1eWNzaVdQTXc3UDhNVjZ2VzFDN2dtbThtNUp2MVlVNk1nWnpj?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-23T22:07:00.000Z"
+    },
+    {
+      "title": "Harga Emas Jebol US$ 4.000, Ambruk 4% Sepekan",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZWhFcWNybE1CZUFlTkNtaDBzSFRhLThja0p4RGM3Zng1QU80V3NLVE04TFdQbkVibl9FV200Q1VqS2dZb1Z4bWVnRzQ4LXFfblFUXzF0aWFQYkliQi0xMm12ekRDMVU3MWhDZWR4ZUJXZmZxemo2ajVra0phX2J6dg?oc=5",
+      "source": "investor.id",
+      "publishedAt": "2026-10-23T22:00:00.000Z"
+    },
+    {
+      "title": "Darma Henwa Proyeksikan Laba Rp 1,64 Triliun pada 2027",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHJHY2IxNTVxTDNhbklSemI2S1FUXzVMdk1vTjVpS01sQS1ZZnRHbm9SekNrWHFEZlVjQ1EyQVRHRXdTT2U5XzczYUdwamlsWEZrYkZFZWtxeDFvMHNlYXZTWWxlbkZYTmR6S1ZiZkotVU9fa3l0b080aXZEMzJlYw?oc=5",
+      "source": "Koridor.co.id",
+      "publishedAt": "2026-10-23T21:44:00.000Z"
+    },
+    {
+      "title": "Asing Jual Saham Rp 1,28 Triliun Saat IHSG Menguat",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qUVNVaVRkeDVjaUhESV9iNmkyTFI5WUpsU3h6V3dEaVhDYzdZdWJqMVpiNFpydGNxU0FoYnVoQnlEMjcyUG5rUWdCakdJc0Nmd2ZtSFliTmVfdVR0Qkp0aA?oc=5",
+      "source": "Koridor.co.id",
+      "publishedAt": "2026-10-23T16:46:22.000Z"
+    },
+    {
+      "title": "Pertamina Foundation Buka Daycare Bumi Patra Simprug di Jakarta",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DQ25XNFZjTlpEaWR1ejQ0OVd2eURqM3JZLWVBNkNBZjZPRVk1eEtvYXBxMUY1dkJENG92eTMyVnJFSXl6THl1M3MtWkw1NmRMSWx4Q2JhbDNyenFESG1VZWstcVlCMFRIU0xnOHBB?oc=5",
+      "source": "Koridor.co.id",
+      "publishedAt": "2026-10-23T16:45:22.000Z"
+    },
     {
       "title": "Harga Emas Antam Turun Jadi Rp2.550.000 pada 22 Oktober 2026",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdW5YWWZVdU03bVgtbE9LMWZVUlE2Qm9SeGxyOGtBYWNfUU56WHFaRUtiVjM3dUFMeERRa19OeEp3TXNrSzc5d3hPeHdKZWNydEd1S2txVy04bGdnMmZrZjJ2WWFOeU1vckI5eW5HTEtUaWhGNlBZbnJBV3NwM0Q4cFJYcFBrSmxucE9z?oc=5",
@@ -108,46 +144,10 @@
       "publishedAt": "2026-10-23T16:44:24.000Z"
     },
     {
-      "title": "BNI Nilai Pelonggaran GWM BI Buka Ruang Kredit Produktif",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLUGwtNmcwVDBoXzJFcGhqdGhmU1pWTmVJejhwa0hrX3VwYXM3ZG45OEkySnB5QWNwSU1qNG1xMXdnYnNkUzV0NUdpMXlHYmxzNkQxbVNRX0Vnald3QXJycFlLSm1zV1JBWTdrOE5R?oc=5",
-      "source": "Demokratis.co.id",
-      "publishedAt": "2026-10-23T10:24:22.000Z"
-    },
-    {
-      "title": "USD/IDR: Rupiah Pulih Tipis ke Rp18.040 meski Minyak Melonjak dan Risiko MSCI Membayangi",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSzVJN3ZzNENRSVlCRFJHTWtrbk5rRFMtWFNSZmIzLTZxUWszekZxTnZPUEFRQjZNelZaTDVHN1JNQlNnTGhwSTRGcDRFMVl0dzBNeWN6a3RqRE56dzVwY3dDUFFWODNLYndFYVNUMkdXMEwydmtRTHMyRDBUd2w0eW5LTGlFbUl2a282WmtMNGE3ZngwYTVWVU5NbzFtbEFacUJZZkJ6SHdVVjNBcTVoNExjRzhyTHNwSFBuTnVNdzI1VDRoamthU0xDYjR0elVOdkHSAdIBQVVfeXFMTks1STd2czRDUUlZQkRSR01ra25Oa0RTLVhTUmZiMy02cVFrM3pGcU52T1BBUUI2TXpWWkw1RzdSTUJTZ0xocEk0RnA0RTFZdHcwTXljemt0akROenc1cGN3Q1BRVjgzS2J3RWFTVDJHVzBMMnZrUUxzMkQwVHdsNHluS0xpRW1JdmtvNlprTDRhN2Z4MGE1VlVOTW8xbWxBWnFCWWZCekh3VVYzQXE1aDRMY0c4ckxzcEhQbk51TXcyNVQ0aGprYVNMQ2I0dHpVTnZB?oc=5",
-      "source": "FXStreet",
-      "publishedAt": "2026-10-23T09:29:31.000Z"
-    },
-    {
-      "title": "IHSG Ditutup Menguat 0,95% ke Level 5.439",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUVkYXJpWmZWUXlMTXY3SE9KYi1UTE5PQlN3U3NFb0hIT0tLM0h5NHU0TEtpV1lGMjFtZ19Fc0l1eU1BR1lra1dWMHBUemd3dWpOYWNNMTIzTzdBdE54RndIcC1aTEpieEo3bEt5ZzNWa3lablRGTXFiR1hIWTcta1gyWlFLUE0wVUgxNVlReWxlRW9YSGxOa2Q3RHYtd25ORmozcHlnZ9IBpwFBVV95cUxOTUVkYXJpWmZWUXlMTXY3SE9KYi1UTE5PQlN3U3NFb0hIT0tLM0h5NHU0TEtpV1lGMjFtZ19Fc0l1eU1BR1lra1dWMHBUemd3dWpOYWNNMTIzTzdBdE54RndIcC1aTEpieEo3bEt5ZzNWa3lablRGTXFiR1hIWTcta1gyWlFLUE0wVUgxNVlReWxlRW9YSGxOa2Q3RHYtd25ORmozcHlnZw?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-10-23T09:10:41.000Z"
-    },
-    {
-      "title": "Emas Turun di Bawah US$4.000 untuk Pertama Kali sejak Juli. Apa Selanjutnya?",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZODBWODRJckNSakFjWFNoUFRpbXlLdFh6STNESUx4ZEV2REFWWXF6MmFnZWRMQjkxYm9Qa3BUMkdaa25NWTU4YWo2QUsyamJ1eHNucGZlZGt4dVVaM0Fkd0VvQklRT1Zkb283UzdBUmJKS2V5V1BUNGQ0UQ?oc=5",
-      "source": "BeInCrypto",
-      "publishedAt": "2026-10-23T06:16:00.000Z"
-    },
-    {
-      "title": "Investor Asing Jual Saham Rp 744,43 Miliar pada Sesi I",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlS293dWwza0owcmhpLWFuOG5sU2VNNFBJOHoxZmhNSTdSbHMtaGpXZ3F2a3FadDdfcldNTGt4QWx5Tjk5d3p2WUZuTmYzTjBnSnpabVE0SnVucDVESzMtVUVyU2ducGVnYm9FcQ?oc=5",
-      "source": "SuaraGarut.ID",
-      "publishedAt": "2026-10-23T06:12:19.000Z"
-    },
-    {
-      "title": "Rekomendasi Saham Hari Ini: MYOR, EXCL, dan DSNG",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdFQ5ZzNUQVRUQ3pRdHVCbmRYSGFiMVc1ekpCdHFhTXFFeC1rLW13T3hySzh3MkJQVVp5dTdfWjRDV0hPRTN6Z1JPb2FEUjhRRUlkUjNnOTdDX0NWeTRFRjVoLVVqMDZLS2o0elJMNWxPVHJ0SVA0NExNcnlQdGJJYkVna3RwZw?oc=5",
-      "source": "Ajaib",
-      "publishedAt": "2026-10-23T05:23:05.000Z"
-    },
-    {
-      "title": "Akhiri Sesi I, IHSG Naik 1,09% ke 5.446",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWUxYl9mT0dOYy1LLXNoOFM3NWduZU90ZE5yaURuZDVaSU1mNXFCZm9DOG85N3VYQTNLQTlCT2xQMlIyV2ZteVhNMEEtTGQ2d0hrSmVXQzhJdnR4QUxWVjVpOEg1QjQ3U1hRMzFRbWtYOGk4a0hLQi0wMHBYa3dJb0l1RV9UT1NCZjR2UTRWUlVuNzZoUkkzLUVQZXI4ajR2WmZZ0gGjAUFVX3lxTE51ZTFiX2ZPR05jLUstc2g4Uzc1Z25lT3RkTnJpRG5kNVpJTWY1cUJmb0M4bzk3dVhBM0tBOUJPbFAyUjJXZm15WE0wQS1MZDZ3SGtKZVdDOEl2dHhBTFZWNWk4SDVCNDdTWFEzMVFta1g4aThrSEtCLTAwcFhrd0lvSXVFX1RPU0JmNHZRNFZSVW43NmhSSTMtRVBlcjhqNHZaZlk?oc=5",
-      "source": "CNBC Indonesia",
-      "publishedAt": "2026-10-23T04:48:07.000Z"
+      "title": "Bank Mandiri Catat Laba Rp 45,5 Triliun hingga September 2026",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZcnJNcl9HaHZkSkhma3lBclVkX1h3NDRxQWltVkhPZk1vREpXYzRsN0hzVFRWQ1RxLTdDOTVSOUVqT1N5X0JQQ0g1bWo3Q0p6RFhLX3gxdUhRbXJiekhnWnFQSWs?oc=5",
+      "source": "Koridor.co.id",
+      "publishedAt": "2026-10-23T16:30:52.000Z"
     }
   ],
   "errors": [],
