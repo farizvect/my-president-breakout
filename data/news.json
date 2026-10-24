@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:47:25.240Z",
+  "generatedAt": "2026-10-24T15:13:39.326Z",
   "headlines": [
     {
       "title": "Video: Ketua OJK Jelaskan ke Prabowo soal IHSG Anjlok Imbas MSCI",
@@ -18,6 +18,12 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQktlYzZMOUFYaVVUQlltcklxSzN1aHdWMnE5R1YzYVNiN0FucFd6N1hCX3RIak1HX0VCV1J0a1lPQTQyWHVQdHVhU1VmeTFRUUtxeE5qT3hTMHlTbmx1T0wxd0xDNnIxUDB1OXdxaHNVNWxLWlVRZ2lWUkptcG9KMG9RUmZrUVM4WlVQam1LSzhUTExFLTBBMC01aVA5Umk3WW83TURhTm9xd0NTUmZOS3J3MEsybW1nQlRJcUJNcTVBTVBDamc?oc=5",
       "source": "Investing.com Indonesia",
       "publishedAt": "2026-10-23T15:13:09.000Z"
+    },
+    {
+      "title": "Ditutup ke Level 5.439, IHSG Akhir Pekan Berhasil Menguat 0,95 Persen",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEh1bllKVkFHR0J0bVdoNzNadDB5NGJBWE5KUW5YM1Z4ajI1dThBLVRpMnZZQV8td1RZZjBUcUVzRzBVS2prc0pGNUI5SW1qZUZXd29VcXNXM3RsZ2tMczNSLVloQ3hHRVlqZlV6TEVIVWlXSFV5UFYyY3lxQldoS1VscnJLX0VlOU9FNWJDZ3VvMXJhYnFReTQzM3V3UTk1ZnBV?oc=5",
+      "source": "YB Sekuritas",
+      "publishedAt": "2026-10-23T12:45:00.000Z"
     },
     {
       "title": "IHSG Menguat Empat Hari ke 5.439, Barang Konsumen Nonprimer dan Energi Memimpin",
@@ -42,15 +48,45 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSk1yams3aTdxdVVCQVAtSlA3X1MtT2gwM2JxV2NLcHpPZTdBaWZOelo4Uk80ODJpMURWZXJOVFZESlB3YWhDa3Jra3hfQ2ZnS3ktUVJTMThGaWI2N1VUMFAzVFNxa1dySVRvTTZPaVpRLTJUOU81Y2JDVjFvT0lmck9CZ3FTMjNyZDI3MHFGVXpBWmNMbnY2WU9XWEVGZw?oc=5",
       "source": "IDNFinancials",
       "publishedAt": "2026-10-23T10:35:55.000Z"
-    },
-    {
-      "title": "Usai bertemu MSCI, Bursa Efek Indonesia coret saham HSC dari IHSG",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR09LcVNaTjVMeXN6dkMxNm04TVdZRFVZY2hRT0lmdTlKdDVPNjBPcmlzMklqRUNJODBBMjczNU9Qc0Q0VVdtWElhdFZsMWFkSER1UGJQZEZIWk5vbDNKS1lDT0VmSV96bXdOalVFWmZaS25FQ1d6WDN6eHhJQjRhYXZGOUtxT19VaHRYR0N6REN3U3ZPemhRWk5nak56MlphWGhkMnJOa3p4NzdBWmo3WVZ6YUJmQQ?oc=5",
-      "source": "IDNFinancials",
-      "publishedAt": "2026-10-23T10:34:43.000Z"
     }
   ],
   "stockNews": [
+    {
+      "title": "BEI Keluarkan 82 Saham HSC dari Perhitungan IHSG",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNWtUbl9OZE50STEyZ0J2a1JpT1JOWlVTRGpUUUdmaHkzT2owWHlXWFZUMjdwek9USFNINTk4d1F6eE5qeG1aYkd4LWZkU2RPbzd3?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "publishedAt": "2026-10-24T13:44:54.000Z"
+    },
+    {
+      "title": "BEI Keluarkan 82 Saham HSC dari Perhitungan IHSG",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uTGo2VmRBMFRKem81QlUxaEVYb2RzbkRkdG5xQkphWjhON3F5ZWw2VkFfUGdOVlZIZl9Ia1M1VkZtUlJHRU51Ni1UOHN2bFNIZll3?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "publishedAt": "2026-10-24T13:40:55.000Z"
+    },
+    {
+      "title": "BEI Akan Keluarkan 82 Saham dari IHSG 2 November 2026, Apa Dampaknya?",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSnZUNDlSaGhqM3FpVEZBNGRZNjBWSDRYSXJOMGVOZk1VcXJLLU1TZUs3UTB6MHRTbjJGcUhlbUZjRlpQb2wzZUlqRTBCUEpmU0NlLWZlSVRMNmpfVEY3UHVPVlVjX2pSUTI1NVh5d1pVV2tZeVRaTDByckE2MC1Tb2FvWTRHUWNGNFVRU1hydUR0dU1vYjlEY05ZdXk2elFDSEx5Y1QzdlhnVFU1clMwRWo2VWJSclBzTEE?oc=5",
+      "source": "Kompas.com",
+      "publishedAt": "2026-10-24T13:33:00.000Z"
+    },
+    {
+      "title": "BEI Keluarkan 82 Saham HSC dari Perhitungan IHSG",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XMkdONTc4VF9ITGMzbkZrT2oxb1JNdU1IMlhHcEdhRy1ENm5mQmJXYWFvR3hPZEZlcGwwam96RUQzRGRfYmFWaXMzRHhsNUY4aUhzVVkyLWktU2FtbHpmcWtxa2NtQTZQN2hHeV96RU52OGFlcVlSYXdEeC1oZw?oc=5",
+      "source": "Demokratis.co.id",
+      "publishedAt": "2026-10-24T13:04:19.000Z"
+    },
+    {
+      "title": "BEI Keluarkan 82 Saham HSC dari Perhitungan IHSG",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81ZXRJZldZRmVCUUVjZnMyb0ZnZ3hWRXNtbDZLcEc2VlBTa1IzMGo3ek4yWWhyWVZUc2QzMlcwX2NUaFdGZUZIbGExdk14RU54S2FJ?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "publishedAt": "2026-10-24T12:56:55.000Z"
+    },
+    {
+      "title": "BEI Akan Keluarkan 82 Saham HSC dari IHSG, Volatilitas Berpotensi Menurun?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDJpREpfaFdiYUI1cWtQU0JzV191XzlOdk9GYlIxZ0hjTGdPSk53RTlPYzJGRm1fZmNNY1BhNmVfQjlPVEdCMnJXdWpoU0lIQ2V4RDJlNWlHbzI3YkJzQXZHS3dkLVB0My1aelotQ08teTVUVWM2blBNVWFpSjhwQjh3UFdNeXkzWU9lWV9SNk00QUs0Y21HeEd5MUZuQ055OVctSXRla1FNWGMy0gGkAUFVX3lxTE8wdTR1UUdIWUhfNzMyZEhnSHcyM0ZmUXFOZmFjSUpnUkkxUFhuZmxDeUVOaDBjWHpKWlVZbGRreW5JNG8xYUtWdk0wdThab0J0LUc0QlpXUmt4aklCekZQYTQ2SXV1djZHVng5dHlKbWwtMTZXQkpqSU1DaFliWjdkTV9UcHp0N3JmQ1JxT1FaZlpNY2VUN2pubWZFY0EwaXdnQXd4?oc=5",
+      "source": "kontan.co.id",
+      "publishedAt": "2026-10-24T12:54:45.000Z"
+    },
     {
       "title": "BMRI Pimpin Daftar Penggerak IHSG pada Pekan 19–23 Oktober",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6Nk93YVluTFdFUUJGZXZnSTZNeVhFNGtRQ1FGdHNTMEpNSERrbHdnYUkzWjRIbDRHLTdKeGdjREVRVGEtb3RWUFpXNVVFNV91RWYzdUdZXzViZEhJSVVTY2dGNzNZaE90dXVGYndieHNqNmw3ckE?oc=5",
@@ -58,49 +94,19 @@
       "publishedAt": "2026-10-24T11:35:46.000Z"
     },
     {
-      "title": "Daftar 10 Saham Top Gainers Sepekan, Ada TOBA hingga BUKK",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqd1A1bEk1b0RxZkVvOFBuY01NbjVUWk1pX09lNkI1aW8zTERoTE1JWmJWdllTUTZ3V3hsYWZsV2FRVHJFam1NRlRkNHlvN2VNUExN?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "publishedAt": "2026-10-24T11:11:52.000Z"
-    },
-    {
-      "title": "IHSG Pekan Ini Menguat ke 5.439,2",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YX0lQb2IzcUhfcVpJTXZ4S3g2cFNSbW5iNjhyMzZoZk05VTliX0FKWEV6Z19RbTNYa3RaOFVlRmdPNmZFZmZ0VXR2SGtqNDBWQU1qd2djODdueDU1cmJnZU1rdFpJY1VOVVg1SXlfenJONloxMFVGV29n?oc=5",
-      "source": "Tempo.co",
-      "publishedAt": "2026-10-24T10:26:00.000Z"
-    },
-    {
-      "title": "BEI Catat Sembilan Perusahaan dalam Antrean IPO",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KS2x4b0NiaW9lSnVka240aTExYjUwZWpuOE1mM09wLUxvbHlmNWp0SnpFb2gxYzNxZ0ZycktUNk5fWnpTZ0lYb1ZnZWJVNGZXVE9pRGNXQ2o2T3NYVHZxMjlIZmljaGJTYjdFeQ?oc=5",
-      "source": "Demokratis.co.id",
-      "publishedAt": "2026-10-24T10:04:15.000Z"
-    },
-    {
-      "title": "BEI: 9 Perusahaan Antre IPO, 4 dari Kesehatan",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42Qms0b2tfTFF2cWVTMDZ2LWdfelpEZnhBbHFlcG0xWFFQZy1QT25vUG1kTUN5QjF4SGc2S3lQMFZhSTFkOEo4dEE1a1lEcVFUN3h5MzQwRnNGUXkxUWZSSFkwY3Z0anI0ZEt5M0E1QUQzNkcwTHZLeG1OQWc4Zw?oc=5",
-      "source": "feedberry.com",
-      "publishedAt": "2026-10-24T09:57:24.000Z"
-    },
-    {
-      "title": "9 Perusahaan Antre IPO, Ini Bocorannya",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmgtU1g0R05mUVNtSTZJY2w0TWVneGlDMDFmY1czV2V1aEF1VHl4WldBdHJ0X3NxTDM1eDFvbnlfUE5xTEFrUjdUX2k0SU1iRFBXWnk3cDFfdl9oeGc3b2RWUW9WLU55T2hFYkdoNGNGb0xFMWs1UUJ6VGxRM3R1cGsyRVc0ZlZaQVp4UzExcC11YmtkT09DOdIBmAFBVV95cUxPcmgtU1g0R05mUVNtSTZJY2w0TWVneGlDMDFmY1czV2V1aEF1VHl4WldBdHJ0X3NxTDM1eDFvbnlfUE5xTEFrUjdUX2k0SU1iRFBXWnk3cDFfdl9oeGc3b2RWUW9WLU55T2hFYkdoNGNGb0xFMWs1UUJ6VGxRM3R1cGsyRVc0ZlZaQVp4UzExcC11YmtkT09DOQ?oc=5",
-      "source": "detikFinance",
-      "publishedAt": "2026-10-24T09:57:24.000Z"
-    },
-    {
-      "title": "10 Saham Paling Merugi Pekan Ini, ALDO Turun 29,92 Persen",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEs1bVJDWjhwaEN2aGtJSFg4U1JnbHZ4cGVfeHE4OFJwNEVxOHU3OWNBQ0pJb2lzdnZRUUdhbC1ibnpsS0sycW5zRmNMdlZJVC1vSEdfS3Y5aVhBSDA5cTdJN1p1TGdLTmZYaHpQWG5vQldEZkdibHhjN2ZtQlNqRDZB?oc=5",
-      "source": "TOPIK.ID",
-      "publishedAt": "2026-10-24T09:52:35.000Z"
-    },
-    {
-      "title": "Danantara Mulai Beli Saham Saat IHSG Tertekan",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uYV9KTUVaRTdkMnFZSFNtUGVVRkFGTmdlbFJ5ektub3Q3cG16a05NMm5QYUxQMlhKUHZLOVN1TzFWQmFaNlRBaU1UaDl0WkZlZkJKWmhzaF81MEZiUGVkSDNHXzV1MzY5MVVz?oc=5",
-      "source": "Demokratis.co.id",
-      "publishedAt": "2026-10-24T09:44:32.000Z"
+      "title": "10 Saham Penggerak Utama Reli IHSG",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBRmpfUjVfSGt5OUtYMEpmbk5lUjNmdTVuM092STVfOGRUS25RTzBDcmxBc1VvYTNoTVdhNHZGTWR2eF9fMFZqbmJERWNobTY4OW1GT2xIdUJpX2JSQ29ZYVBBT21rUUNwUEstaTVEbFpoRVVMbFRR?oc=5",
+      "source": "investor.id",
+      "publishedAt": "2026-10-24T11:30:00.000Z"
     }
   ],
   "macroNews": [
+    {
+      "title": "Harga Perak Jatuh ke Level Terendah Tahun Ini, Emas Ikut Melemah",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanMzdGR5Ty01T29PWjdVWnV1cEhJb0d4cEJPcXAzenQwZkJaa1JZVjVINnVqZnVpMEU4Y05lMlNMTmJnOFp2Z3pwcG5yVkVsak1NMVI5X0VrV0tiUlRSR2VDSEJ3enpxRkxyQkdRUHdacW1MUWFZVFVzMU1LODZSN1JWdWk3SkJpT2lPUkdDYW42alU1Y2FJbGlLSFZHaXpVS0pBN1VTVmRPdTE0Uzd0TWVJWXpZV0s5MVE1Vjd4THg?oc=5",
+      "source": "Kompas.com",
+      "publishedAt": "2026-10-24T11:50:00.000Z"
+    },
     {
       "title": "Harga Emas Dunia Melemah akibat Tekanan Inflasi AS",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NWkRnclVuTFZFWjFjdFR0R0wyZVF2QmhuUVdnZjdZMGJBZTBwWjlrRHI1TjA1ZEtlbWNqNFBEZ1Ayc0M1YVdjSmgxMXFzeGxsdEFLejNLcThqRmpmMlRydThDZzhqOWNSbTJFMzFR?oc=5",
@@ -142,12 +148,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92ZW9aX1lkSC1JRmFLSWxJeE55cjJFLXdaSkRUcTNuQW84LWxDY0pTM2Y1NTBFMUs1cWlZblFEWkI1WTdDeG5fZVBBRHpKYk9zNW1sVmhvQjZCY2RFY25LY3V3OEc0M1dNbHZ5T2oyRkNjdC1NeWg0MVVFaw?oc=5",
       "source": "Lensa Hukum",
       "publishedAt": "2026-10-24T02:27:17.000Z"
-    },
-    {
-      "title": "Harga Emas di Bawah US$ 4.000, Bisa Bangkit atau Makin Terpuruk? - Halaman 2",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekdqeFRUeE5CVW9FT2gyV2FCV0hFZDNLZTI3U2lzS1lsdHgxZkt3NGtBUWw3NzJBTU8xRWRmdnVUQk13ZVBxLUc1UmliQ2wwY09MLUpaSmhZRVVGcnA2R0R2YnpNMWFCVHdyd19FVmpKR2lSbTNaZ1Njb1BJWlZ1OGIzMGZwNG5yQUE3RlJKRWZ2Y3NfVHROUmtFQ3o?oc=5",
-      "source": "investor.id",
-      "publishedAt": "2026-10-24T02:25:21.000Z"
     }
   ],
   "errors": [],
