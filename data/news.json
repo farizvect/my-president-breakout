@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-25T22:58:40.671Z",
+  "generatedAt": "2026-10-26T01:02:47.875Z",
   "headlines": [
+    {
+      "title": "Meski IHSG Menguat di Akhir Pekan, Asing Masih Lepas 10 Saham Ini",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWNlNHpvcmdnN213UGYzSFhKQW1FSGpHbEVOY3NlOC13bVBWalU2YklsOTMwYUdmV1FmeThJMzA0OEIzMEEtMzRoTE5DV3E2UUdnV3oxSUlCYkJKNHVzSGlxZDBzaXdNUjRYMDN2V2ZYQUc4aWt5S0NxcTYwUVdNeGtuOEhRcTBXVlA0WU5JaGE0Nm5hNDlhSDFSYWJGWTlkQWE0UU9XZnBIRVlqS2RsUm5wSUJheUZaZG9HenFQbF84c1d10gHKAUFVX3lxTE95Xy16bUM2XzVKYU1VZ1lIUWlQbF9NOWVITFJpckxEbm5KVWlZeHd3c1pQSzlIUkdmd3dZWlVYcXROZ2NfOENqcFM5T1lmcmlSMElidHkxZFhRRkRzNnFDZm1ZcE1HRzVmb254dDRkNENrRFhlb3JfcnVvalRma19IUGEzcnRMSE9nMGZoQUtUbk5Fdng0V2J3dTZFaHRPZGRQLTlXeGZyZ1hOWVFTM3VHdTBtZXI1anNBZ3Ywa0dFU0VYeldMeUZ5bnc?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-10-26T00:25:01.000Z"
+    },
+    {
+      "title": "Prediksi IHSG Minggu Ini Usai Pekan Lalu Naik Hampir 5% - Market",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFFESFdlR1lDbUYtZHZCcHNoWnhVek1zX0FqVVJUS2dLempJekpwMXFsM2N1SmhXSWo0SEQ1T1Q4ekZUSjN2QjlhSEEzWGl2MXNWQUhqb2ZPY2JtdXJIbmhPTmRLVUJKYVBwaHN5aGNXZ3FqalM5WVp6bXFSd3Rlbk9pSDBmMGZuSksyQ3lDeThudFZiS0ZSN1N5WGhuN1puenlsY1VkZkROZw?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-10-25T23:30:42.000Z"
+    },
     {
       "title": "Guncangan IHSG dan Risiko Unitlink",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DNzF0dEdsZnQwY1RzaWEwa3BWdGFobzBJR0VCVzVsRnhVdmJMQ3E2WktGZHoyY3ZWdTJQSHZnYzh0VWVyZkx0VUpVRWdrTFZfOXZ0M0dQdms1ZkZlTEtIT3BXc0VqSUVCZjhpSkR5VEZJaF9KVENV?oc=5",
@@ -36,118 +48,106 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQktlYzZMOUFYaVVUQlltcklxSzN1aHdWMnE5R1YzYVNiN0FucFd6N1hCX3RIak1HX0VCV1J0a1lPQTQyWHVQdHVhU1VmeTFRUUtxeE5qT3hTMHlTbmx1T0wxd0xDNnIxUDB1OXdxaHNVNWxLWlVRZ2lWUkptcG9KMG9RUmZrUVM4WlVQam1LSzhUTExFLTBBMC01aVA5Umk3WW83TURhTm9xd0NTUmZOS3J3MEsybW1nQlRJcUJNcTVBTVBDamc?oc=5",
       "source": "Investing.com Indonesia",
       "publishedAt": "2026-10-23T15:13:09.000Z"
-    },
-    {
-      "title": "Ditutup ke Level 5.439, IHSG Akhir Pekan Berhasil Menguat 0,95 Persen",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEh1bllKVkFHR0J0bVdoNzNadDB5NGJBWE5KUW5YM1Z4ajI1dThBLVRpMnZZQV8td1RZZjBUcUVzRzBVS2prc0pGNUI5SW1qZUZXd29VcXNXM3RsZ2tMczNSLVloQ3hHRVlqZlV6TEVIVWlXSFV5UFYyY3lxQldoS1VscnJLX0VlOU9FNWJDZ3VvMXJhYnFReTQzM3V3UTk1ZnBV?oc=5",
-      "source": "YB Sekuritas",
-      "publishedAt": "2026-10-23T12:45:00.000Z"
-    },
-    {
-      "title": "IHSG Menguat Empat Hari ke 5.439, Barang Konsumen Nonprimer dan Energi Memimpin",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMV9xaVdnU2JuSEN0Z1FVNXpvZlBVSjBlX3V0dTNfMmdRTjB2ZnB4TnZWSENmbEFDRlY0OUxoVnRqTzdPSDA0ekpvdGpuVjNYLUlIV244Y3JwVFU2ZUpLbUR4R01zT19TWEh2MS1qdk81NjJhc3gyXzh3UEk3b29SV0tyZzVqbFdLYXRxa0xobEtpd2pERHFwTUNYcUg1WHdadlJ5dmJoQzVMVDdsUjVpQmxiNWsweDgzcVFUQ1duRUPSAcYBQVVfeXFMTmJfVDlLNVVuVmZhYXpjZmZyazZjbTRmTk1MMTJISTdSYWt2aTJkdlVJVkc1SlZBS0YyZ3BjbGhGVTN1M2ZFYXM1YVJSMFA2WjZIVHVxQXZsWTM0MEhoTDA5c1FyN0o3VnY3OVBYa3FWUHQ2Z0p4aXNhclhKdkt6azNRTVZ2bFNVdzEwV04waTNLaktHUy1yLTFYSENFNmg5TGNJMzVJVnN1V3lpUHdyX291Y3liaUVKdEZmN3BWb2pFSFZmUE9n?oc=5",
-      "source": "FXStreet",
-      "publishedAt": "2026-10-23T11:00:48.000Z"
     }
   ],
   "stockNews": [
     {
-      "title": "BEI Desak 26 Bank Tingkatkan Free Float hingga 15 Persen",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OMUlHajJ0Z3RWcWhXQWczX19UUEk3MXFhUnlEMVFrSFpPbmp1S1NqZWMxcFlSLXR1U3BnZGhuX0RKaWpEb3BuS1htVjdSMGZCNlJLd1c1bHNRT3dUaExVRw?oc=5",
+      "title": "Saham HSC Keluar dari Perhitungan IHSG, Hal Ini Perlu Dicermati Investor",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96RGp4bXRWSGVjbzlzLXhwVnplWUwwZjVjYlR3ODhoZE1PVEFJNHNzbmc5Yk9WemZCdlhrU3ZBLVZvRE5vRHFKT2hHUkdJWG5uU2pj?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "publishedAt": "2026-10-26T00:34:52.000Z"
+    },
+    {
+      "title": "BEI Kembalikan Saham MKNT ke Papan Pengembangan",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Yb1pHcF9SQlY1dzZmMGdkbjVDM2FlSTIyeDh2ei0zUy1DeGdZWVEzV01vVzVTQXRkY3NTenJfWlpaeWhBR2dvcDAzT2psaGtNY0U3Z2haUWVIWVN4OEZTamNuQWpJWHNOVVlCUUxUbHVsNFE5WGRIaA?oc=5",
       "source": "Demokratis.co.id",
-      "publishedAt": "2026-10-25T22:53:00.000Z"
+      "publishedAt": "2026-10-26T00:32:41.000Z"
     },
     {
-      "title": "IHSG Bisa Menguat Uji 5.540 Hari Ini , Tiga Saham Dipimpin HRUM Layak Dilirik",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVS1vb3BwYl92empDSng4c3dpWXptWk0zQXIwMTRUYm1uR3A0UGNSWndsMmVwS2NiOUtROGh0Y3R1QTZnSHhlRUYyaHFBdFdwMVh0T1UtYXVfVEtqTFlpZXNRTEtvc1Z1UEFUazlQUjFVOGJzeDJYNThBZkpOZThyZy1SbW1hWTNFTC11TVVKQTNFSzQwQlBkYUQyQi1ES1B1Sjlfc0Z0cjZfdE1lY1AtbjRGQQ?oc=5",
-      "source": "InvestorTrust",
-      "publishedAt": "2026-10-25T22:45:00.000Z"
+      "title": "BEI Masih Kantongi 9 Calon Emiten yang Masuk Pipeline IPO",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcXJTMXBNcDVsY05aUU11dXRLeWhzNlNfQXhMVXZyV21LN0dRT0tEdXFrRTFhc3ROLWxMaUxnU00yNkNhX1o3VDhWUzB4LVRlck5ZV0JMRlZzQXhSbk52TTdfSmVXRHFpWEJhTlE4X1paNENwaUxhVFhNd2VXM0JqUWpDTTJTQ0xuN2hDdDZxSFpINmtJMWJFZU1B?oc=5",
+      "source": "Pasardana",
+      "publishedAt": "2026-10-26T00:09:00.000Z"
     },
     {
-      "title": "IHSG Pimpin Penguatan Bursa Global dan Naik 4,9 Persen",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yVGF1ZEdycUZjcFlCMWU4TFZIYWpMMXNneVctM1JNNVowSW5vM0NoTEVsZEJtWUJVZGpYY1FfVGFvdnZwOVE5RjdxejJoTVRYb04tZl93QmVmRTJBc3BremlEenRLSEVIeTBj?oc=5",
-      "source": "Demokratis.co.id",
-      "publishedAt": "2026-10-25T22:11:00.000Z"
+      "title": "Antrean IPO BEI Didominasi Sektor Kesehatan, Ini Peta Calon Emitennya",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVDJBRXJLM0ZTVUNnaHNRaTBWRGVzTnRmUVBVYUxack5BcjF3NDhzd2RwV3ppMW8xR0lzVnFkR2pMZGljT1pVSkNpWTg0WVB1bXJNYUJ2OGtSYm1ZWG0wYUowcFhpUTdwcWhYOUVIaEEzdndmby1vODZjQlBpQUktbUgzTnBoYUpWRU9GdDFhWnMxMURsUVFnc092bVVwZko3d1VWNXhBaW5IeGs?oc=5",
+      "source": "Rmol.id",
+      "publishedAt": "2026-10-26T00:07:00.000Z"
     },
     {
-      "title": "Pelita Logistik (PSSI) Siap Bagikan 172 Juta Saham Tresuri, Simak Jadwalnya",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTBLRmkydjgzWjd4SnA1Yno3R0lIT3ZBaElOLVdvVkRScU1YODgtZDEyWXRoaTBXa1lWdWdPUDJ3V2lUVmxHSHdKRU40Vm9pWkpITlZSUWh2VlN2T2lfcWoycWJHak5WQkN0ZFhNQll6TUZ2Zy1hUS02MjBRbG83cjkwcDFpZ3VpYnRaQUJ4WmpFQmd6ZW1ZNUtLVE11NWV6YzBSdnBQazZWbVZialgwLWQzTkRSd9IBtgFBVV95cUxPeTBLRmkydjgzWjd4SnA1Yno3R0lIT3ZBaElOLVdvVkRScU1YODgtZDEyWXRoaTBXa1lWdWdPUDJ3V2lUVmxHSHdKRU40Vm9pWkpITlZSUWh2VlN2T2lfcWoycWJHak5WQkN0ZFhNQll6TUZ2Zy1hUS02MjBRbG83cjkwcDFpZ3VpYnRaQUJ4WmpFQmd6ZW1ZNUtLVE11NWV6YzBSdnBQazZWbVZialgwLWQzTkRSdw?oc=5",
-      "source": "IDX Channel",
-      "publishedAt": "2026-10-25T19:00:00.000Z"
+      "title": "9 Perusahaan Antre IPO di BEI, Sektor Kesehatan Mendominasi Pipeline",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRW0wRTIzS1QxOUpXQm1OcVdpdGk5elk5N1U0U01BQTc0ZENNLTFnX0ZKUTVCQTBFdTZTLVNFOHFUUGhaMHhsRkp5ZUZobUcxb2ZDLU1wUWY1N1ZBYkVyOWY2NVRTb0FuMXl4MFJFSDZWajBpWG1wbDBoWE1GLUhTZmtQQUwyUkRSYlZUMVl0U1BCUHlSV2VETkF1RnRpNTFr0gGgAUFVX3lxTE1FbTBFMjNLVDE5SldCbU5xV2l0aTl6WTk3VTRTTUFBNzRkQ00tMWdfRkpRNUJBMEV1NlMtU0U4cVRQaFoweGxGSnllRmhtRzFvZkMtTXBRZjU3VkFiRXI5ZjY1VFNvQW4xeXgwUkVINlZqMGlYbXBsMGhYTUYtSFNma1BBTDJSRFJiVlQxWXRTUEJQeVJXZUROQXVGdGk1MWs?oc=5",
+      "source": "Medialokal.co",
+      "publishedAt": "2026-10-25T23:41:01.000Z"
     },
     {
-      "title": "Aksi BEI Membenahi Pasar Saham Selama Sepekan",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnNtZU5JbE5Fc0k4ZFhjWlRjUU5xTzhKam12SGZLZ0owdTBTcEtLdkRKNjFDN3RMVnQ3SDQ4amZlUFhhaW9XTnVyMWIzbHdEa0ZhZzVIUGRTRVhCZ3VWbFR4cldCSUk5RWl2ZzF0dUd0MXlMOTVJWk03WmxrMmM5VQ?oc=5",
-      "source": "SWA.co.id",
-      "publishedAt": "2026-10-25T14:00:00.000Z"
+      "title": "9 Perusahaan Antre IPO, 3 Calon Emiten Beraset Jumbo",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVU92WWhqeFlxNGdSQnU4VkhkTkhMYXBjTGNpdElEMXNxbll0MDU4eWJlWTRlNlR5Q3hVOVp2ZWlnN0hucjFXcENLV0RDZVg5aVQweHhlWlQwV3E0U2xONGFRTGNKQjMyTXh4MUM1cVZCS21RTjVoZElOYUFJbXVHMkNRYWFhSUFzRE85b1Q2ak5ndW4zY3BaT2Vvcjk2WjJ2dGVJWTRFVmFTV1JWNjlpZG1wZ9IBuAFBVV95cUxOcDdjbWJLT0ZROVNPYkZWUy1BNFlZSzlHWVlBWXRCQzZTSjZlTXJXbHpETjRXR3E5UDlMaXNZVzJ0bHlNc2pxTjA2VGdTVWJaZVZHaEdkQlZOVklKNHV5Vk9kcHJ1MFlCZTZiMzE0RHB3NTNLV2d0NUY1MHU0QzFJUHlGeVFJZ3RoVmlKeUk1ZFFvS0Y5ODNyc1J3S2VDS09naE9uZjZzVmY5VzZLRTVPaWVSYmE0c0w4?oc=5",
+      "source": "CNBC Indonesia",
+      "publishedAt": "2026-10-25T23:35:00.000Z"
     },
     {
-      "title": "Apa Itu ARB di Bursa Saham? Memahami Batas Penurunan Harga dan Risikonya",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0NVSnVTdm5ESzlBTU5fT3ZCcmlfVU9vT29IdFhyZE1FcmJqMXI5XzM0TWV4VkdfQ21tQi1pTTVtdmJzT3ZKMmJmblQzaTIzOWFUVlE4bGZrR3F1T1lEUHNRb0dJUGtRUkZlVkdkN05BQ3dZaEJzMVJZQXBNMXRJN1JYQUdFTTU5Rms1RzE1aU56NlpQVDBZaWVn?oc=5",
-      "source": "Beritakota",
-      "publishedAt": "2026-10-25T13:50:00.000Z"
+      "title": "BEI Kembalikan Saham MKNT ke Papan Pengembangan",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWVJN1FzOTJ3ZjZsdjlnUXBsUUU5dXpMQTZQX1doNGR5c2xOOW15QXZBT09TQkdZeks2QWZpMm41blhWbmVyaTMtMmF4YTBER3dSRk56T3B3NnZWMUFlVTFRTm4wMjRWTFlBd29wbU55dTVrVzRSd0ZXNGZNOWZnM1FiQVRyckk?oc=5",
+      "source": "Suara Independent News",
+      "publishedAt": "2026-10-25T23:35:00.000Z"
     },
     {
-      "title": "Pasar Modal Merekah! BEI Raup Rp2,16 Triliun, 9 Emiten Siap Melantai",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFV2QWVmWDZJaGxGRXZJaUFxcGFMZG1Ja1pNR3czUkVEOGlJTDFCeERuczVwTmdDRVBRbjZpMnJFdWVKVnhIbldncmVKMTQ4WkdBS2VuWmRCNFFWampYSHZJQktabkdpdHFLMUVaS0RxQ0wtbnBaemNFb1UwNkVmQ2d1d2VBR0RCSWZVS0M2ejd4Zw?oc=5",
-      "source": "Inilah.com",
-      "publishedAt": "2026-10-25T13:01:00.000Z"
-    },
-    {
-      "title": "OJK Kaji Aturan Free Float 15 Persen Saat Emiten Pilih Delisting",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aZDMyd05zOVdzcS05NUp2UGh5RU5HUGRZS1NqYXFWVDdUZU5fV0M4UnU0dHNfT0VKd2w0UGxMalNLYkVxYTE0ZndwbHkzT0xGYkFYNDd3U3E5R0NIY1dyQnNZMWZvcE4yd0hOX2JLMUhGbW96UExV?oc=5",
-      "source": "Demokratis.co.id",
-      "publishedAt": "2026-10-25T12:56:40.000Z"
+      "title": "Prediksi IHSG Minggu Ini Usai Pekan Lalu Naik Hampir 5% - Market",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFFESFdlR1lDbUYtZHZCcHNoWnhVek1zX0FqVVJUS2dLempJekpwMXFsM2N1SmhXSWo0SEQ1T1Q4ekZUSjN2QjlhSEEzWGl2MXNWQUhqb2ZPY2JtdXJIbmhPTmRLVUJKYVBwaHN5aGNXZ3FqalM5WVp6bXFSd3Rlbk9pSDBmMGZuSksyQ3lDeThudFZiS0ZSN1N5WGhuN1puenlsY1VkZkROZw?oc=5",
+      "source": "Bloomberg Technoz",
+      "publishedAt": "2026-10-25T23:30:42.000Z"
     }
   ],
   "macroNews": [
     {
-      "title": "Harga emas hari ini (26 Oktober): Emas menembus angka $4.000.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwRWFiZHpmbEV1bTVVMnZKR3BZZWZGWnlNcnRrV08wZU1iS0xWemxPQm9ZODE4OEpGSi1YX0dQcE1MSkUxbUwtaXVndGVLbC1remNGbTVmV3RWZWVhRFNsLXNHOGlwMGx0NVVWTFNlaU1TQVJLSGFMeVUwTWFqUQ?oc=5",
+      "title": "Stock Futures Menguat Jelang Rentetan Putusan Suku Bunga Bank Sentral Dunia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnQ4VUY2TW45Qk8wZllwNzZRTkE5R2hCOVkzN0YwZTJiODFKUzk0cWI5aC1TZ2Q3clRrSk5UUURMTEw4SlJRYU5YZlVpTmZKaENMWHg0UXZiUmFDeFE2MTgtWmdNU2kydWJKc25aVjFral9YVkgxZXQzZmJJU2ZsNkY0TFo2dkhQT0Izc1B5SG1kcjQzWDRnM2JrX0owWUU?oc=5",
+      "source": "StockWatch.id",
+      "publishedAt": "2026-10-26T00:31:33.000Z"
+    },
+    {
+      "title": "Diprediksi Melemah, Bahana Sekuritas Rekomendasikan ‘Beli’ ADRO, MDKA, TINS hingga ESSA!",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3pkODdnUnNqcXlIcC1XWndGOEFwSDJ2TmE3M0dRR1AyNUtFc09lYlBGR0xZTVlsbEdrVzluVnJ1eG1McUgyVTVSZkxxSzFicm13aHJTWjdoZU45NVhHd2poRjBwUmE0YlBOamY1X1IxOGpldEpKUjdPN0N6a295Z1lXUmxqeFBhSWNrczhvLTgydVUtT2NjbmQwblh5cmh1TnBsQzJfd1U?oc=5",
+      "source": "stockwatch.id",
+      "publishedAt": "2026-10-26T00:11:20.000Z"
+    },
+    {
+      "title": "Kontrak Berjangka Wall Street Menguat Jelang Keputusan The Fed",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05eFBoYWprUFdnMGZyQ1JOaThTWGpPN1ZZdHUyTzA3d25mNlMtUHVnVVpNS3k1UFpmRkpJMWt6UW5OWUc1MlFYVFdyQldmdkNVMzE0?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "publishedAt": "2026-10-25T23:48:54.000Z"
+    },
+    {
+      "title": "Emas di Bawah US$4.000, Fed Jadi Penentu Arah",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hYkM3NXZROU1CbzVFY2traHlucEthNU1tcF9VemxmalpNN2QzTDRHbkFzcGF0MW1CNXBMc0Y2dUdXYWVhd0YtWU84c3lVSXNNNFdpb2Q2T1czWFdFcko0d0xacDA5d0RfY3ZFQ05XbFdiNGNYRDBuYVlZZ3hUcm8?oc=5",
+      "source": "feedberry.com",
+      "publishedAt": "2026-10-25T23:48:09.000Z"
+    },
+    {
+      "title": "Kontrak Berjangka Wall Street Menguat Jelang Keputusan The Fed",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGVFZ2Vyc2tZaFhHbmxscWxFa3lqYmlBNmdjTVVDRVlwdXQwU29VcWRfdWJxVnlmOFAyQ1YwaTlRaUtwbFNsYjdZRG5oajBiYll6bFZEajA3V21aZTZvM08xYUF4bmJEWWVjdDR5OWlvMm0xSG5aV0htSk0yam5panJCZ1l6T1RuRmZoZmZ4NHI?oc=5",
+      "source": "Lensa Hukum",
+      "publishedAt": "2026-10-25T23:48:00.000Z"
+    },
+    {
+      "title": "Harga emas anjlok hari ini, 26 Oktober, dengan batangan emas SJC melanjutkan tren penurunan.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWhwRXBkVEd5ZWdpX0YzTDZVQ19DaGdXVldCX05OYVBObFRWNWZkdE5aaUJXQUE5MWxjak9BRTFHYVdmWGhBVmppVjg0U2pST0xLV3VBenZlZklsSDRVSGtvellNV2wyVkZLSzVVclg2ZWttTmk1VHhYbzQ5eE1meWk1eGFqekZ5TUpseA?oc=5",
       "source": "Vietnam.vn",
-      "publishedAt": "2026-10-25T22:20:26.000Z"
+      "publishedAt": "2026-10-25T23:39:30.000Z"
     },
     {
-      "title": "Harga emas anjlok hari ini, 26 Oktober 2026, dengan investor jangka panjang terus mengakumulasi emas, karena semua faktor tidak menguntungkan bagi logam mulia tersebut.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbGZMR2ZDRXJiQ1dQWVhZbmZacGF3a3VidEh1Z01pZ2o4dzBFSWpaMXBJckZQVFdFdk0zZVpSTEprd240TVVFWFdjVnBRV21EbHp6VUoxMFJ2VXl6T25nV3E0Yk9kZHh5ZnpRM0VZZ09HOU5tM3R2bUpoRFlkWDkweXRrRlVYWDZYVWpIaVFpRUNoQjBvenRIN1R3WnZmMWtlNzZRQzRwME5zUDBtekduTGVwOFBqLUl1TFVNVXdLLU5IaEZzVTBuZ2o2dWFVdzh5elZRRUhVTnk?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-25T17:07:25.000Z"
+      "title": "Pekan Panas! 7 Bank Sentral Umumkan Suku Bunga-China Gelar Rapat Akbar - Pasar Keuangan | Newsletter Berita",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnpJdjFNOFNVSkNoVGd0ZElDbUtKOWdUbFNiLWtidTF3S1oxdlA1MmJJRFFtUmdwc05iV0VNWGV0UGhBc2RkSlFJQmp2Wm8zeDVMTWY2d1dYNXlEVXpFN05kcktOaFc1cnQ5UFBIWnBnbDNLUzVSd0pYVzZRb0d4RTh0R3IwMjRrODF3MVU0RzRIZXVIZl9HeGV2X1l3UQ?oc=5",
+      "source": "Head Topics",
+      "publishedAt": "2026-10-25T23:36:43.000Z"
     },
     {
-      "title": "Harga emas hari ini, 25 Oktober: Para ahli cenderung memperkirakan tren penurunan.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazdrQ2t1bm9ZakZGdHc3b05JaEphX2ppUTNfOFMydFBQUklEX2NGUGFlWHQzTFhWamh4ckVCUENfVFgwOXZBNlhfbVdkV3hTdE0wY2Y4alhlRFNOSFpDaGZHUGxNQ29KRWhGb2pyeURMZGZkVWVlSkhfSFd5NHAtTndHV2FiUWt2MHc2ZA?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-25T12:17:52.000Z"
-    },
-    {
-      "title": "Harga Emas Dunia Anjlok 7,7 Persen, Investor Ritel Disarankan Akumulasi",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXBrWFdiNy1XN0g2Sks4NkpEeUxaN3VDcjE2WDlYWVY5QmdnYThDMlRHbTM1Mm1ZOS0tN1g4eDdfczdRQ25waXl1VkIzY0x2RVpQeklsSG4yQ3RmYVRURXNHMHBqSXYwYWlka0F5bXB0blp6ZWtObkNGQ01xNmtyN1BiY19jaGZ3dlM0dWZTWGJJOVlXcGl3UWp6bHRWWi15SUd6Mzg4akJ0MUhRMVltX2ZrMW1sVEJ3aEFNcw?oc=5",
-      "source": "Kompas.com",
-      "publishedAt": "2026-10-25T09:15:00.000Z"
-    },
-    {
-      "title": "Harga emas menghadapi risiko signifikan minggu depan.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MYkFDMlJvMEhNbWFvQXl2Q09wckxTYUw5YXZLeTFIdTdzaTNNMDdkWkwzQ1JZZERlTTFSVDNaMW1wSGxfQWFwdEtoUlU4LTk4aG9KYWl0RmNyVjJnd1ZhSEMyWW1ycGJSNTBpekxYeHNNNmNEUmc?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-25T07:08:24.000Z"
-    },
-    {
-      "title": "Rusia Jual 62 Ton Emas, China Jadi Pembeli Utama",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVUZMVnAyLUdvUjczWnYtWXpfMkEtd0RvOUgtREUxTHJwOGxDNFRaZURVNk1RSGFxaGQ2Ym5iUzNtU1dlYUtaeDlHalhZbmM2V0dNNDhoc1ZOSHpHUEJ6YVp3REdFZVhuR3U0V0Jud0FuTlctWkNVX1pKTTZ5YnpEcVRlQQ?oc=5",
-      "source": "https://feedberry.com/",
-      "publishedAt": "2026-10-25T06:58:33.000Z"
-    },
-    {
-      "title": "Harga Perak Jatuh ke Level Terendah Tahun Ini, Emas Ikut Melemah",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanMzdGR5Ty01T29PWjdVWnV1cEhJb0d4cEJPcXAzenQwZkJaa1JZVjVINnVqZnVpMEU4Y05lMlNMTmJnOFp2Z3pwcG5yVkVsak1NMVI5X0VrV0tiUlRSR2VDSEJ3enpxRkxyQkdRUHdacW1MUWFZVFVzMU1LODZSN1JWdWk3SkJpT2lPUkdDYW42alU1Y2FJbGlLSFZHaXpVS0pBN1VTVmRPdTE0Uzd0TWVJWXpZV0s5MVE1Vjd4THg?oc=5",
-      "source": "Kompas.com",
-      "publishedAt": "2026-10-24T11:50:00.000Z"
-    },
-    {
-      "title": "Wall Street Tertekan, Dow Jones Anjlok 652 Poin Saat Harga Minyak Naik",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGlrdzRqaklWQzN0dTVvRmlhSlhiT0h4VlE0UElzUGZmX3hUcnlZMEtrTEhNdlJTVzVMdFQ5YlJIbDBVWmc4ZFhoUDh1dEFrVUF3RktPM0pnR2QxTG05azBfYkd0SklwR1VZWG92dFRMZlJLT0dJcDhyMkpmUHVYaW16QWNNV3BMY3hJLWRiSXVrWVB1WDZ3dC00aWUyc2dTMHlTMjJqd2hreVcxc25mTk5KZzZ1SHN2UTJtSA?oc=5",
-      "source": "Kompas.com",
-      "publishedAt": "2026-10-24T08:16:00.000Z"
+      "title": "Harga Emas Dunia Anjlok di Bawah 4000 Dolar AS per Ons",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1teEdUcS13RGpveVh4T2dVWjh2S2k1OTNoODJ4d0NGcEU4bW5OX0Z1T1Z4R3hGOTRwOWhYdlF4dVdJOXBhNGZiYjBTTWlYbk9CUktLa1o5a29OckFtYXNIajFVZ1E4d09qV29iLTJR?oc=5",
+      "source": "CentralBatam",
+      "publishedAt": "2026-10-25T23:35:00.000Z"
     }
   ],
   "errors": [],
